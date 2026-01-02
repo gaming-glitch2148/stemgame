@@ -1,23 +1,32 @@
 import { NextResponse } from 'next/server';
 import OpenAI from 'openai';
 
-// Initialize OpenAI only if key exists
+// FORCE NEXT.JS TO ALWAYS FETCH FRESH DATA
+export const dynamic = 'force-dynamic';
+
 const apiKey = process.env.OPENAI_API_KEY;
 const openai = apiKey && apiKey !== 'your-api-key-here' ? new OpenAI({ apiKey }) : null;
 
 export async function POST(req: Request) {
   try {
     const { level } = await req.json();
-    console.log("Generating quiz for level:", level);
+    
+    // Add a random seed to force variety in AI response
+    const randomSeed = Math.random().toString(36).substring(7);
 
-    // If no OpenAI key, return mock data immediately
     if (!openai) {
-      console.log("No API key found. Returning mock question.");
+      // Mock data variety
+      const mockQuestions = [
+        { q: `Count the 🍎 for ${level}`, o: ["1", "3", "5", "2"], a: "3", e: "🍎" },
+        { q: `Which is bigger? (Level: ${level})`, o: ["🐜", "🐘", "🐭", "🐱"], a: "🐘", e: "🐘" },
+        { q: `Solve for ${level}: 2 + 3 = ?`, o: ["4", "5", "6", "7"], a: "5", e: "➕" }
+      ];
+      const randomMock = mockQuestions[Math.floor(Math.random() * mockQuestions.length)];
       return NextResponse.json({
-        question: `How many 🍎 do you see? (Level: ${level})`,
-        options: ["1", "3", "5", "2"],
-        correctAnswer: "3",
-        emoji: "🍎",
+        question: randomMock.q,
+        options: randomMock.o,
+        correctAnswer: randomMock.a,
+        emoji: randomMock.e,
         type: "math"
       });
     }
@@ -27,24 +36,23 @@ export async function POST(req: Request) {
       messages: [
         { 
           role: "system", 
-          content: "Generate a kid-friendly STEM multiple choice question in JSON format. Return ONLY the JSON object." 
+          content: `You are a STEM teacher. Generate a UNIQUE, fun, multiple-choice question for ${level}. 
+          Variety is key - use different topics like Math, Biology, Physics, or Coding. 
+          Return ONLY valid JSON format: {"question": "...", "options": ["...", "...", "...", "..."], "correctAnswer": "...", "emoji": "...", "type": "..."}` 
         },
-        { role: "user", content: `Grade level: ${level}` }
+        { role: "user", content: `Generate a new question. Random Seed: ${randomSeed}` }
       ],
       response_format: { type: "json_object" }
     });
 
     const result = JSON.parse(completion.choices[0].message.content || '{}');
-    console.log("AI Generated Result:", result);
     return NextResponse.json(result);
 
   } catch (error: any) {
-    console.error("Quiz API Error:", error.message);
-    // Return a safe fallback on error
     return NextResponse.json({
-      question: "What is 2 + 2?",
-      options: ["3", "4", "5", "6"],
-      correctAnswer: "4",
+      question: "What is 5 + 5?",
+      options: ["8", "9", "10", "11"],
+      correctAnswer: "10",
       emoji: "➕",
       type: "math"
     });
