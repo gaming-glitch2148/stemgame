@@ -9,7 +9,10 @@ const openai = apiKey && apiKey !== 'your-api-key-here' ? new OpenAI({ apiKey })
 export async function POST(req: Request) {
   try {
     const { level } = await req.json();
-    const randomSeed = Math.random().toString(36).substring(7);
+    
+    // Create a much larger and more complex random seed string
+    const randomSeed = Math.random().toString(36).substring(2, 15) + Math.random().toString(36).substring(2, 15);
+    const timestamp = new Date().getTime();
 
     if (!openai) {
       return NextResponse.json({
@@ -20,6 +23,17 @@ export async function POST(req: Request) {
         type: "math"
       });
     }
+
+    const topics = [
+      "Physics (Forces, Light, Sound, Electricity)",
+      "Chemistry (Atoms, Reactions, Periodic Table, States of Matter)",
+      "Biology (Cells, Genetics, Human Body, Plants, Animals)",
+      "Earth Science (Rocks, Weather, Space, Oceans, Volcanoes)",
+      "Computer Science (Coding, Hardware, Internet, Algorithms)",
+      "Engineering (Buildings, Bridges, Machines, Problem Solving)",
+      "Astrobiology (Life on other planets)",
+      "Environmental Science (Renewable energy, Conservation)"
+    ];
 
     const complexityPrompt = `
       - For Kindergarten to 2nd Grade: Use simple words, focus on basic counting, shapes, and easy nature facts.
@@ -33,14 +47,24 @@ export async function POST(req: Request) {
       messages: [
         { 
           role: "system", 
-          content: `You are an expert STEM educator. Generate a UNIQUE multiple-choice question for a student in ${level}.
-          CRITICAL: Adjust the complexity and vocabulary strictly for this grade level.
-          Educational Guidelines: ${complexityPrompt}
+          content: `You are an expert STEM educator. Generate a UNIQUE, creative, and highly specific multiple-choice question for a student in ${level}.
+          
+          CRITICAL RULES:
+          1. Strictly adjust complexity for the grade level: ${complexityPrompt}
+          2. Topic diversity: Choose a random topic from this list: ${topics.join(", ")}.
+          3. Avoid common/generic questions. Be specific.
+          4. Ensure all options are plausible but only one is correct.
           
           Return ONLY valid JSON: {"question": "...", "options": ["...", "...", "...", "..."], "correctAnswer": "...", "emoji": "...", "type": "..."}` 
         },
-        { role: "user", content: `Generate a new question for ${level}. Random Seed: ${randomSeed}` }
+        { 
+          role: "user", 
+          content: `Generate a new question that is DIFFERENT from previous ones. 
+          Current context: ${randomSeed} / ${timestamp}` 
+        }
       ],
+      temperature: 0.9, // INCREASED TO 0.9 FOR MORE VARIETY
+      presence_penalty: 0.6, // ENCOURAGES NEW TOPICS
       response_format: { type: "json_object" }
     });
 
