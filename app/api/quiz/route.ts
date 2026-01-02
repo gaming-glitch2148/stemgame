@@ -4,80 +4,55 @@ import OpenAI from 'openai';
 export const dynamic = 'force-dynamic';
 
 const apiKey = process.env.OPENAI_API_KEY;
+// Log to terminal to help debug if the key is missing (check your Vercel logs!)
+if (!apiKey) console.warn("WARNING: OPENAI_API_KEY is not defined!");
+
 const openai = apiKey && apiKey !== 'your-api-key-here' ? new OpenAI({ apiKey }) : null;
 
 export async function POST(req: Request) {
   try {
     const { level } = await req.json();
-    
-    // Create a much larger and more complex random seed string
-    const randomSeed = Math.random().toString(36).substring(2, 15) + Math.random().toString(36).substring(2, 15);
-    const timestamp = new Date().getTime();
+    const randomSeed = Math.random().toString(36).substring(2, 10);
 
     if (!openai) {
-      return NextResponse.json({
-        question: `How many 🍎 do you see? (Level: ${level})`,
-        options: ["1", "3", "5", "2"],
-        correctAnswer: "3",
-        emoji: "🍎",
-        type: "math"
-      });
+      // Significantly expanded mock data so fallback doesn't feel repetitive
+      const mockPool = [
+        { q: "Which planet is known as the Red Planet?", o: ["Mars", "Venus", "Jupiter", "Saturn"], a: "Mars", e: "🔴" },
+        { q: "What is 12 + 15?", o: ["25", "26", "27", "28"], a: "27", e: "➕" },
+        { q: "What part of the plant grows underground?", o: ["Leaves", "Stem", "Roots", "Flower"], a: "Roots", e: "🌱" },
+        { q: "How many legs does a spider have?", o: ["6", "8", "10", "12"], a: "8", e: "🕷️" },
+        { q: "Which gas do humans need to breathe?", o: ["Oxygen", "Nitrogen", "Carbon", "Helium"], a: "Oxygen", e: "🌬️" },
+        { q: "What is the hardest natural substance?", o: ["Gold", "Iron", "Diamond", "Glass"], a: "Diamond", e: "💎" }
+      ];
+      const randomMock = mockPool[Math.floor(Math.random() * mockPool.length)];
+      return NextResponse.json({ ...randomMock, type: "mock-fallback" });
     }
-
-    const topics = [
-      "Physics (Forces, Light, Sound, Electricity)",
-      "Chemistry (Atoms, Reactions, Periodic Table, States of Matter)",
-      "Biology (Cells, Genetics, Human Body, Plants, Animals)",
-      "Earth Science (Rocks, Weather, Space, Oceans, Volcanoes)",
-      "Computer Science (Coding, Hardware, Internet, Algorithms)",
-      "Engineering (Buildings, Bridges, Machines, Problem Solving)",
-      "Astrobiology (Life on other planets)",
-      "Environmental Science (Renewable energy, Conservation)"
-    ];
-
-    const complexityPrompt = `
-      - For Kindergarten to 2nd Grade: Use simple words, focus on basic counting, shapes, and easy nature facts.
-      - For 3rd to 5th Grade: Include multiplication, basic science cycles (water/plants), and simple anatomy.
-      - For 6th to 8th Grade: Use middle school concepts like variables, cell biology, and physical forces.
-      - For 9th to 12th Grade: Provide advanced high-school level challenges in Chemistry, Physics, advanced Math (Calculus/Trig), and Computer Science.
-    `;
 
     const completion = await openai.chat.completions.create({
       model: "gpt-3.5-turbo",
       messages: [
         { 
           role: "system", 
-          content: `You are an expert STEM educator. Generate a UNIQUE, creative, and highly specific multiple-choice question for a student in ${level}.
-          
-          CRITICAL RULES:
-          1. Strictly adjust complexity for the grade level: ${complexityPrompt}
-          2. Topic diversity: Choose a random topic from this list: ${topics.join(", ")}.
-          3. Avoid common/generic questions. Be specific.
-          4. Ensure all options are plausible but only one is correct.
-          
-          Return ONLY valid JSON: {"question": "...", "options": ["...", "...", "...", "..."], "correctAnswer": "...", "emoji": "...", "type": "..."}` 
+          content: `You are a creative STEM teacher. Generate a UNIQUE question for ${level}. 
+          IMPORTANT: Use this random seed to influence the TOPIC and make it unique: ${randomSeed}.
+          Vary between Biology, Physics, Coding, and Engineering.
+          Return valid JSON: {"question": "...", "options": ["...", "...", "...", "..."], "correctAnswer": "...", "emoji": "...", "type": "..."}` 
         },
-        { 
-          role: "user", 
-          content: `Generate a new question that is DIFFERENT from previous ones. 
-          Current context: ${randomSeed} / ${timestamp}` 
-        }
+        { role: "user", content: `New unique question for ${level}. Seed: ${randomSeed}` }
       ],
-      temperature: 0.9, // INCREASED TO 0.9 FOR MORE VARIETY
-      presence_penalty: 0.6, // ENCOURAGES NEW TOPICS
+      temperature: 1.0, // Maximum randomness
       response_format: { type: "json_object" }
     });
 
-    const result = JSON.parse(completion.choices[0].message.content || '{}');
-    return NextResponse.json(result);
+    return NextResponse.json(JSON.parse(completion.choices[0].message.content || '{}'));
 
   } catch (error: any) {
     return NextResponse.json({
-      question: "What is 10 + 10?",
-      options: ["15", "20", "25", "30"],
-      correctAnswer: "20",
+      question: "What is 2 + 2?",
+      options: ["3", "4", "5", "6"],
+      correctAnswer: "4",
       emoji: "➕",
-      type: "math"
+      type: "error-fallback"
     });
   }
 }
