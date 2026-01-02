@@ -3,56 +3,52 @@ import OpenAI from 'openai';
 
 export const dynamic = 'force-dynamic';
 
+// Initialize OpenAI with better error checking
 const apiKey = process.env.OPENAI_API_KEY;
-// Log to terminal to help debug if the key is missing (check your Vercel logs!)
-if (!apiKey) console.warn("WARNING: OPENAI_API_KEY is not defined!");
-
-const openai = apiKey && apiKey !== 'your-api-key-here' ? new OpenAI({ apiKey }) : null;
+const openai = apiKey && apiKey.startsWith('sk-') ? new OpenAI({ apiKey }) : null;
 
 export async function POST(req: Request) {
   try {
     const { level } = await req.json();
-    const randomSeed = Math.random().toString(36).substring(2, 10);
+    const randomSeed = Math.random().toString(36).substring(7);
 
+    // MOCK DATA FALLBACK
     if (!openai) {
-      // Significantly expanded mock data so fallback doesn't feel repetitive
       const mockPool = [
-        { q: "Which planet is known as the Red Planet?", o: ["Mars", "Venus", "Jupiter", "Saturn"], a: "Mars", e: "🔴" },
-        { q: "What is 12 + 15?", o: ["25", "26", "27", "28"], a: "27", e: "➕" },
-        { q: "What part of the plant grows underground?", o: ["Leaves", "Stem", "Roots", "Flower"], a: "Roots", e: "🌱" },
-        { q: "How many legs does a spider have?", o: ["6", "8", "10", "12"], a: "8", e: "🕷️" },
-        { q: "Which gas do humans need to breathe?", o: ["Oxygen", "Nitrogen", "Carbon", "Helium"], a: "Oxygen", e: "🌬️" },
-        { q: "What is the hardest natural substance?", o: ["Gold", "Iron", "Diamond", "Glass"], a: "Diamond", e: "💎" }
+        { question: "Which planet is the Red Planet?", options: ["Mars", "Venus", "Earth"], correctAnswer: "Mars", emoji: "🔴" },
+        { question: "What is 10 + 5?", options: ["12", "15", "20"], correctAnswer: "15", emoji: "➕" },
+        { question: "Which part of a plant is underground?", options: ["Stem", "Roots", "Leaves"], correctAnswer: "Roots", emoji: "🌱" }
       ];
-      const randomMock = mockPool[Math.floor(Math.random() * mockPool.length)];
-      return NextResponse.json({ ...randomMock, type: "mock-fallback" });
+      const res = mockPool[Math.floor(Math.random() * mockPool.length)];
+      return NextResponse.json(res);
     }
 
     const completion = await openai.chat.completions.create({
-      model: "gpt-3.5-turbo",
+      model: "gpt-3.5-turbo-0125", // Use specific model that supports JSON mode well
       messages: [
         { 
           role: "system", 
-          content: `You are a creative STEM teacher. Generate a UNIQUE question for ${level}. 
-          IMPORTANT: Use this random seed to influence the TOPIC and make it unique: ${randomSeed}.
-          Vary between Biology, Physics, Coding, and Engineering.
-          Return valid JSON: {"question": "...", "options": ["...", "...", "...", "..."], "correctAnswer": "...", "emoji": "...", "type": "..."}` 
+          content: "You are a STEM teacher. Generate a multiple-choice question for a student at " + level + ". Return the result in JSON format with fields: question, options (array of strings), correctAnswer (string), emoji (string)." 
         },
-        { role: "user", content: `New unique question for ${level}. Seed: ${randomSeed}` }
+        { role: "user", content: "Generate a unique question. Seed: " + randomSeed }
       ],
-      temperature: 1.0, // Maximum randomness
-      response_format: { type: "json_object" }
+      response_format: { type: "json_object" },
+      temperature: 0.8
     });
 
-    return NextResponse.json(JSON.parse(completion.choices[0].message.content || '{}'));
+    const content = completion.choices[0].message.content;
+    if (!content) throw new Error("Empty AI response");
+
+    return NextResponse.json(JSON.parse(content));
 
   } catch (error: any) {
+    console.error("Quiz API Error:", error);
+    // SAFEST FALLBACK: Return a valid question even if everything fails
     return NextResponse.json({
-      question: "What is 2 + 2?",
-      options: ["3", "4", "5", "6"],
-      correctAnswer: "4",
-      emoji: "➕",
-      type: "error-fallback"
+      question: "What is 5 + 5?",
+      options: ["10", "15", "20"],
+      correctAnswer: "10",
+      emoji: "➕"
     });
   }
 }

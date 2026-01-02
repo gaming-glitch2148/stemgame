@@ -24,14 +24,11 @@ export default function Game() {
   const [isCorrect, setIsCorrect] = useState<boolean | null>(null);
   const [showLevelDropdown, setShowLevelDropdown] = useState(false);
 
-  // Initialize Adsense ads after component mounts
   useEffect(() => {
     try {
       // @ts-ignore
       (window.adsbygoogle = window.adsbygoogle || []).push({});
-    } catch (e) {
-      console.error("Adsense error:", e);
-    }
+    } catch (e) {}
   }, [gameState, isPremium]);
 
   const fetchQuestion = async (selectedLevel = level) => {
@@ -39,16 +36,31 @@ export default function Game() {
     setSelectedAnswer(null);
     setIsCorrect(null);
     try {
-      // CACHE BUSTING: ?t=${Date.now()} ensures we always get a fresh AI question
       const res = await fetch(`/api/quiz?t=${Date.now()}`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ level: selectedLevel }),
       });
+      
+      if (!res.ok) throw new Error("Network response was not ok");
+      
       const data = await res.json();
-      setQuestion(data);
+      
+      // Safety: ensure we have a valid question object
+      if (data && data.question) {
+        setQuestion(data);
+      } else {
+        throw new Error("Invalid data format");
+      }
     } catch (e) {
       console.error("Fetch error:", e);
+      // Fallback to a hardcoded question if the API fails entirely
+      setQuestion({
+        question: "What is 2 + 2?",
+        options: ["3", "4", "5"],
+        correctAnswer: "4",
+        emoji: "➕"
+      });
     } finally {
       setLoading(false);
     }
@@ -60,7 +72,7 @@ export default function Game() {
   };
 
   const handleAnswer = (answer: string) => {
-    if (selectedAnswer) return; 
+    if (selectedAnswer || !question) return; 
     setSelectedAnswer(answer);
     
     const correct = answer === question.correctAnswer;
@@ -68,10 +80,9 @@ export default function Game() {
 
     if (correct) {
       confetti({
-        particleCount: 100,
+        particleCount: 80,
         spread: 70,
-        origin: { y: 0.6 },
-        colors: ['#FFD700', '#FF69B4', '#00CED1']
+        origin: { y: 0.6 }
       });
       setScore(s => s + 10);
       setTimeout(() => fetchQuestion(), 2000); 
@@ -79,15 +90,8 @@ export default function Game() {
       setTimeout(() => {
         setSelectedAnswer(null);
         setIsCorrect(null);
-      }, 1000);
+      }, 1500);
     }
-  };
-
-  const handlePurchase = () => {
-    alert("Redirecting to secure payment...");
-    setTimeout(() => {
-        setIsPremium(true);
-    }, 1000);
   };
 
   return (
@@ -95,44 +99,39 @@ export default function Game() {
       
       {/* HUD */}
       <div className="flex justify-between items-center p-6 pb-2">
-        <div className="flex items-center gap-2 bg-yellow-100 dark:bg-yellow-900/30 px-4 py-2 rounded-full border border-yellow-200">
-          <Trophy className="w-5 h-5 text-yellow-600 dark:text-yellow-400" />
-          <span className="font-bold text-yellow-700 dark:text-yellow-300">{score}</span>
+        <div className="flex items-center gap-2 bg-yellow-100 px-4 py-2 rounded-full">
+          <Trophy className="w-5 h-5 text-yellow-600" />
+          <span className="font-bold text-yellow-700">{score}</span>
         </div>
         <div className="flex items-center gap-2">
            {isPremium && (
-            <div className="flex items-center gap-1 text-purple-600 font-bold text-[10px] uppercase tracking-wider bg-purple-50 px-3 py-1 rounded-full border border-purple-100">
-              <Star className="w-3 h-3 fill-current" /> Premium
-            </div>
+            <div className="text-purple-600 font-bold text-[10px] bg-purple-50 px-3 py-1 rounded-full uppercase">Premium</div>
           )}
-          <button onClick={() => setGameState('onboarding')} className="p-2 hover:bg-zinc-100 rounded-full transition-colors">
-            <RefreshCw className="w-4 h-4 text-zinc-400" />
-          </button>
+          <button onClick={() => setGameState('onboarding')} className="p-2 text-zinc-400"><RefreshCw className="w-4 h-4" /></button>
         </div>
       </div>
 
-      <div className="flex-1 overflow-y-auto p-6 relative">
+      <div className="flex-1 overflow-y-auto p-6">
         <AnimatePresence mode="wait">
-          
-          {gameState === 'onboarding' && (
-            <motion.div key="onboarding" initial={{ opacity: 0, scale: 0.95 }} animate={{ opacity: 1, scale: 1 }} className="flex flex-col gap-8 text-center py-4">
+          {gameState === 'onboarding' ? (
+            <motion.div key="onboarding" initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="flex flex-col gap-8 text-center py-4">
               <div className="space-y-2">
-                <h1 className="text-4xl font-black text-zinc-900 dark:text-white">STEM BLAST!</h1>
-                <p className="text-zinc-500 font-medium">Learn. Play. Level Up.</p>
+                <h1 className="text-4xl font-black text-zinc-900">STEM BLAST!</h1>
+                <p className="text-zinc-500 font-medium italic">Powered by AI</p>
               </div>
 
               <div className="relative">
-                <button onClick={() => setShowLevelDropdown(!showLevelDropdown)} className="w-full p-5 bg-white dark:bg-zinc-800 border-2 border-zinc-100 dark:border-zinc-700 rounded-3xl flex items-center justify-between font-bold text-zinc-700 dark:text-zinc-200 shadow-sm">
+                <button onClick={() => setShowLevelDropdown(!showLevelDropdown)} className="w-full p-5 bg-zinc-50 rounded-3xl flex items-center justify-between font-bold text-zinc-700 border-2 border-zinc-100">
                   <span className="flex items-center gap-3"><Zap className="w-5 h-5 text-blue-500" />{level}</span>
                   <ChevronDown className={`w-5 h-5 transition-transform ${showLevelDropdown ? 'rotate-180' : ''}`} />
                 </button>
 
                 <AnimatePresence>
                   {showLevelDropdown && (
-                    <motion.div initial={{ opacity: 0, y: 5 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: 5 }} className="absolute z-50 w-full mt-2 bg-white dark:bg-zinc-800 border-2 border-zinc-100 rounded-[1.5rem] shadow-2xl max-h-64 overflow-y-auto">
+                    <motion.div initial={{ opacity: 0, y: 5 }} animate={{ opacity: 1, y: 0 }} className="absolute z-50 w-full mt-2 bg-white border-2 border-zinc-100 rounded-3xl shadow-2xl max-h-64 overflow-y-auto">
                       {LEVELS.map((lvl) => (
-                        <button key={lvl} onClick={() => { setLevel(lvl); setShowLevelDropdown(false); }} className={`w-full p-4 text-left font-semibold hover:bg-blue-50 dark:hover:bg-blue-900/20 flex items-center justify-between ${level === lvl ? 'text-blue-600 bg-blue-50' : 'text-zinc-600 dark:text-zinc-300'}`}>
-                          {lvl} {level === lvl && <CheckCircle2 className="w-4 h-4" />}
+                        <button key={lvl} onClick={() => { setLevel(lvl); setShowLevelDropdown(false); }} className={`w-full p-4 text-left font-semibold hover:bg-blue-50 ${level === lvl ? 'text-blue-600 bg-blue-50' : 'text-zinc-600'}`}>
+                          {lvl}
                         </button>
                       ))}
                     </motion.div>
@@ -140,39 +139,36 @@ export default function Game() {
                 </AnimatePresence>
               </div>
 
-              <motion.button whileHover={{ scale: 1.02 }} whileTap={{ scale: 0.98 }} onClick={handleStartGame} className="w-full py-5 rounded-3xl bg-blue-600 text-white font-black text-xl shadow-xl shadow-blue-500/20">
+              <button onClick={handleStartGame} className="w-full py-5 rounded-3xl bg-blue-600 text-white font-black text-xl shadow-lg shadow-blue-200">
                 PLAY NOW
-              </motion.button>
+              </button>
             </motion.div>
-          )}
-
-          {gameState === 'playing' && (
-            <motion.div key="playing" initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }} className="flex flex-col h-full">
+          ) : (
+            <motion.div key="playing" initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="flex flex-col h-full">
               {loading || !question ? (
                 <div className="flex-1 flex flex-col items-center justify-center gap-4 py-20">
-                  <RefreshCw className="w-12 h-12 text-blue-500 animate-spin opacity-40" />
-                  <p className="text-zinc-400 font-bold uppercase tracking-widest text-[10px]">Asking the AI...</p>
+                  <RefreshCw className="w-12 h-12 text-blue-500 animate-spin opacity-30" />
+                  <p className="text-zinc-400 font-bold uppercase text-[10px]">Loading Challenge...</p>
                 </div>
               ) : (
                 <div className="flex flex-col h-full">
-                  <div className="text-center mb-4"><span className="text-[10px] font-black text-blue-500 bg-blue-50 px-3 py-1 rounded-full border border-blue-100 uppercase">{level}</span></div>
-                  <div className="bg-white dark:bg-zinc-800 rounded-3xl p-8 shadow-xl mb-6 text-center border-2 border-zinc-50 dark:border-zinc-700 min-h-[220px] flex flex-col justify-center items-center">
+                  <div className="bg-white rounded-3xl p-8 shadow-sm mb-6 text-center border-2 border-zinc-50 min-h-[200px] flex flex-col justify-center items-center">
                     <span className="text-7xl mb-4">{question.emoji}</span>
-                    <h2 className="text-2xl font-bold text-zinc-800 dark:text-white leading-tight">{question.question}</h2>
+                    <h2 className="text-2xl font-bold text-zinc-800 leading-tight">{question.question}</h2>
                   </div>
                   <div className="grid grid-cols-1 gap-3">
                     {question.options.map((opt: string, i: number) => {
                       const isAnswerCorrect = opt === question.correctAnswer;
                       const isSelected = selectedAnswer === opt;
-                      let variant = "bg-white dark:bg-zinc-800 border-zinc-100 dark:border-zinc-700 text-zinc-700 dark:text-zinc-200 hover:border-blue-400";
+                      let variant = "bg-white border-zinc-100 text-zinc-700 hover:border-blue-300";
                       if (selectedAnswer) {
-                        if (isAnswerCorrect) variant = "bg-green-500 border-green-600 text-white shadow-lg shadow-green-500/20 scale-[1.01]";
+                        if (isAnswerCorrect) variant = "bg-green-500 border-green-600 text-white shadow-lg";
                         else if (isSelected) variant = "bg-red-500 border-red-600 text-white";
-                        else variant = "opacity-40 grayscale-[0.5]";
+                        else variant = "opacity-40";
                       }
                       return (
-                        <motion.button key={i} onClick={() => handleAnswer(opt)} disabled={!!selectedAnswer} className={`p-5 rounded-2xl font-bold text-lg border-2 transition-all text-left flex items-center justify-between ${variant}`}>
-                          {opt} {selectedAnswer && isAnswerCorrect && <CheckCircle2 className="w-5 h-5" />}
+                        <motion.button key={i} onClick={() => handleAnswer(opt)} disabled={!!selectedAnswer} className={`p-5 rounded-2xl font-bold text-lg border-2 transition-all text-left ${variant}`}>
+                          {opt}
                         </motion.button>
                       );
                     })}
@@ -185,16 +181,11 @@ export default function Game() {
       </div>
 
       {!isPremium && (
-        <div className="p-4 bg-zinc-50 dark:bg-zinc-950 border-t border-zinc-100 dark:border-zinc-800">
-          <div className="bg-white dark:bg-zinc-800 rounded-2xl p-4 text-center mb-4 border border-zinc-200 shadow-sm min-h-[100px] flex items-center justify-center overflow-hidden">
-             <ins className="adsbygoogle"
-                 style={{ display: 'block' }}
-                 data-ad-client="ca-pub-9141375569651908"
-                 data-ad-slot="9452334599"
-                 data-ad-format="auto"
-                 data-full-width-responsive="true"></ins>
+        <div className="p-4 bg-zinc-50 border-t border-zinc-100">
+          <div className="bg-white rounded-2xl p-4 text-center mb-4 border border-zinc-200 min-h-[100px] flex items-center justify-center">
+             <ins className="adsbygoogle" style={{ display: 'block' }} data-ad-client="ca-pub-9141375569651908" data-ad-slot="9452334599" data-ad-format="auto" data-full-width-responsive="true"></ins>
           </div>
-          <button onClick={handlePurchase} className="w-full py-4 rounded-2xl bg-zinc-900 text-white font-bold text-xs flex items-center justify-center gap-2 hover:bg-black transition-colors shadow-lg shadow-black/10">
+          <button onClick={() => setIsPremium(true)} className="w-full py-4 rounded-2xl bg-zinc-900 text-white font-bold text-xs flex items-center justify-center gap-2">
             <Lock className="w-4 h-4" /> GO AD-FREE ($0.99/mo)
           </button>
         </div>
