@@ -48,6 +48,7 @@ export default function Game() {
   
   const timerRef = useRef<NodeJS.Timeout | null>(null);
 
+  // Persistence: Load saved progress
   useEffect(() => {
     if (status === "authenticated") {
       const savedLevel = localStorage.getItem('stem_level');
@@ -78,29 +79,6 @@ export default function Game() {
     }
   }, [level, subject, difficulty, score, gameState]);
 
-  const loadGooglePay = async (amount: string) => {
-    const paymentsClient = new (window as any).google.payments.api.PaymentsClient({ 
-      environment: 'PRODUCTION',
-      merchantInfo: { merchantId: 'BCR2DN5T72R5HQTW', merchantName: 'Stem Blast Game' }
-    });
-    const request = {
-      apiVersion: 2, apiVersionMinor: 0,
-      allowedPaymentMethods: [{
-        type: 'CARD',
-        parameters: { allowedAuthMethods: ["PAN_ONLY", "CRYPTOGRAM_3DS"], allowedCardNetworks: ["MASTERCARD", "VISA"] },
-        tokenizationSpecification: { type: 'PAYMENT_GATEWAY', parameters: { 'gateway': 'stripe', 'stripe:version': '2018-10-31', 'stripe:publishableKey': process.env.NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY || '' } }
-      }],
-      transactionInfo: { totalPriceStatus: 'FINAL', totalPrice: amount, currencyCode: 'USD', countryCode: 'US' },
-      merchantInfo: { merchantId: 'BCR2DN5T72R5HQTW', merchantName: 'Stem Blast Game' }
-    };
-    try {
-      const paymentData = await paymentsClient.loadPaymentData(request);
-      setIsPremium(true);
-      setShowPaymentModal(false);
-      alert("Success! Ads removed.");
-    } catch (err) { console.error(err); }
-  };
-
   const handleCheckout = async (planType: 'monthly' | 'yearly') => {
     const priceId = planType === 'monthly' ? process.env.NEXT_PUBLIC_STRIPE_MONTHLY_PRICE_ID : process.env.NEXT_PUBLIC_STRIPE_YEARLY_PRICE_ID;
     try {
@@ -128,7 +106,7 @@ export default function Game() {
       });
       const data = await res.json();
       if (data && data.question) {
-        // CLEANUP: Remove any "Q[number]:" prefixes from CSV questions
+        // Clean Q[number]: prefixes
         data.question = data.question.replace(/^Q\d+:\s*/i, '');
         setQuestion(data);
         setHistory(prev => [...prev, data.question]);
@@ -137,9 +115,7 @@ export default function Game() {
   };
 
   const handleAnswer = (answer: string) => {
-    // SECURITY: Ensure click logic is robust
-    if (isCorrect || !question || wrongAnswers.includes(answer)) return;
-    
+    if (isCorrect || wrongAnswers.includes(answer) || !question) return;
     const cleanUser = answer.trim().toLowerCase();
     const cleanCorrect = question.correctAnswer.trim().toLowerCase();
 
@@ -158,13 +134,19 @@ export default function Game() {
   };
 
   const handleGetHint = (forced = false) => {
-    if (!question) return;
-    if (!forced && !isPremium && score < 50) { alert("Watch an ad for a hint!"); return; }
+    if (!question) return; // CRASH PROTECTION
+    if (!forced && !isPremium && score < 50) { return; }
     if (!forced && !isPremium) setScore(prev => prev - 50);
-    setHint(`Psst! The answer starts with "${question.correctAnswer.trim().substring(0, 2)}..."`);
+    
+    const correctText = question.correctAnswer.trim();
+    setHint(`Psst! It starts with "${correctText.substring(0, 2)}..."`);
   };
 
   const startAdReward = () => {
+    if (isPremium) {
+      handleGetHint(true);
+      return;
+    }
     setShowAdFullscreen(true);
     setAdTimer(40);
     if (timerRef.current) clearInterval(timerRef.current);
@@ -206,25 +188,27 @@ export default function Game() {
         <h1 className="text-4xl font-black text-zinc-900 dark:text-zinc-50 tracking-tight">STEM BLAST!</h1>
         <p className="text-zinc-500 dark:text-zinc-400 font-medium px-10">Sign in to track your score and challenge your brain.</p>
       </div>
-      <div className="flex flex-col gap-4 px-6">
-        <button onClick={() => signIn('google')} className="w-full py-5 bg-white dark:bg-zinc-800 border-2 border-zinc-100 dark:border-zinc-700 rounded-3xl flex items-center justify-center gap-4 font-bold text-zinc-700 dark:text-zinc-200 transition-all hover:bg-zinc-50"><img src="https://www.google.com/favicon.ico" className="w-5 h-5" alt="Google" /> Continue with Google</button>
-        <button onClick={() => signIn('facebook')} className="w-full py-5 bg-[#1877F2] text-white rounded-3xl flex items-center justify-center gap-4 font-bold transition-all hover:bg-[#166fe5]"><img src="https://www.facebook.com/favicon.ico" className="w-5 h-5 brightness-0 invert" alt="Facebook" /> Continue with Facebook</button>
-      </div>
+      <div className="px-6"><button onClick={() => signIn('google')} className="w-full py-5 bg-white dark:bg-zinc-800 border-2 border-zinc-100 dark:border-zinc-700 rounded-3xl flex items-center justify-center gap-4 font-bold text-zinc-700 dark:text-zinc-200 hover:bg-zinc-50 transition-all"><img src="https://www.google.com/favicon.ico" className="w-5 h-5" alt="Google" /> Continue with Google</button></div>
     </motion.div>
   );
 
   return (
     <div className="w-full max-w-md mx-auto h-full flex flex-col relative overflow-hidden bg-white/95 dark:bg-zinc-900/95 backdrop-blur-2xl rounded-[2.5rem] shadow-2xl border border-white/20 dark:border-zinc-700/50">
-      
       <AnimatePresence>
         {showAdFullscreen && (
           <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} className="absolute inset-0 z-[200] bg-black flex flex-col items-center justify-center p-8 text-center text-white">
-            <button onClick={() => setShowAdExitConfirm(true)} className="absolute top-8 right-8 p-3 bg-white/10 rounded-full text-white"><X className="w-6 h-6" /></button>
+            <button onClick={() => setShowAdExitConfirm(true)} className="absolute top-8 right-8 p-3 bg-white/10 rounded-full text-white hover:bg-white/20"><X className="w-6 h-6" /></button>
             <PlayCircle className="w-20 h-20 text-purple-500 animate-pulse mb-6" />
-            <div className="text-4xl font-black text-purple-400 mb-4">{adTimer}s</div>
+            <h2 className="text-2xl font-black uppercase mb-4 tracking-tighter">Sponsor Message</h2>
+            <div className="text-4xl font-black text-purple-400">{adTimer}s</div>
             {showAdExitConfirm && (
               <div className="absolute inset-0 z-[210] bg-black/95 flex items-center justify-center p-6">
-                <div className="bg-zinc-900 p-8 rounded-3xl border border-white/10 shadow-2xl max-w-xs"><p className="mb-6 text-zinc-300 text-sm">Exit early and lose your hint?</p><button onClick={() => setShowAdExitConfirm(false)} className="w-full py-4 bg-purple-600 text-white rounded-xl font-bold mb-3">Keep Watching</button><button onClick={confirmExitAd} className="w-full py-4 bg-zinc-800 text-zinc-400 rounded-xl">Exit</button></div>
+                <div className="bg-zinc-900 p-8 rounded-3xl border border-white/10 shadow-2xl max-w-xs text-center">
+                  <AlertCircle className="w-12 h-12 text-orange-500 mx-auto mb-4" />
+                  <p className="mb-6 text-zinc-300">Exit early and lose your hint?</p>
+                  <button onClick={() => setShowAdExitConfirm(false)} className="w-full py-4 bg-purple-600 text-white rounded-xl font-bold mb-3">Keep Watching</button>
+                  <button onClick={confirmExitAd} className="w-full py-4 bg-zinc-800 text-zinc-400 rounded-xl">Exit</button>
+                </div>
               </div>
             )}
           </motion.div>
@@ -234,7 +218,15 @@ export default function Game() {
       <AnimatePresence>
         {showResetConfirm && (
           <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} className="absolute inset-0 z-[100] bg-black/60 backdrop-blur-md flex items-center justify-center p-6">
-            <div className="bg-white dark:bg-zinc-800 rounded-[2rem] p-8 text-center border border-white/10 shadow-2xl"><AlertCircle className="w-12 h-12 text-orange-600 mx-auto mb-4" /><h3 className="text-xl font-black mb-2 text-zinc-900 dark:text-zinc-50">Change Settings?</h3><p className="text-zinc-500 dark:text-zinc-400 mb-6 text-sm">Progress will be reset.</p><div className="flex flex-col gap-3"><button onClick={confirmReset} className="w-full py-4 rounded-2xl bg-orange-600 text-white font-bold">Reset & Continue</button><button onClick={() => setShowResetConfirm(false)} className="w-full py-4 rounded-2xl bg-zinc-100 dark:bg-zinc-700 text-zinc-700">Cancel</button></div></div>
+            <div className="bg-white dark:bg-zinc-800 rounded-[2rem] p-8 text-center border border-white/10 shadow-2xl">
+              <AlertCircle className="w-12 h-12 text-orange-600 mx-auto mb-4" />
+              <h3 className="text-xl font-black mb-2 text-zinc-900 dark:text-zinc-50">Change Game Settings?</h3>
+              <p className="text-zinc-500 dark:text-zinc-400 mb-6 font-medium">This will reset your session progress.</p>
+              <div className="flex flex-col gap-3">
+                <button onClick={confirmReset} className="w-full py-4 rounded-2xl bg-orange-600 text-white font-bold hover:bg-orange-700 transition-all">Reset & Continue</button>
+                <button onClick={() => setShowResetConfirm(false)} className="w-full py-4 rounded-2xl bg-zinc-100 dark:bg-zinc-700 text-zinc-700 dark:text-zinc-300 font-bold hover:bg-zinc-200 transition-all">Cancel</button>
+              </div>
+            </div>
           </motion.div>
         )}
       </AnimatePresence>
@@ -242,13 +234,13 @@ export default function Game() {
       {gameState !== 'auth-gate' && (
         <div className="flex justify-between items-center p-6 pb-2">
           <div className="flex items-center gap-3">
-            <div className="flex items-center gap-2 bg-yellow-100 dark:bg-yellow-900/30 px-4 py-2 rounded-full border border-yellow-200 dark:border-yellow-700/50"><Trophy className="w-5 h-5 text-yellow-600 dark:text-yellow-400" /><span className="font-bold text-yellow-700 dark:text-yellow-300">{score}</span></div>
+            <div className="flex items-center gap-2 bg-yellow-100 dark:bg-yellow-900/30 px-4 py-2 rounded-full border border-yellow-200 dark:border-yellow-700/50 shadow-sm"><Trophy className="w-5 h-5 text-yellow-600 dark:text-yellow-400" /><span className="font-bold text-yellow-700 dark:text-yellow-300">{score}</span></div>
             <button onClick={handleSignOut} className="p-2 bg-zinc-100 dark:bg-zinc-800 rounded-full text-zinc-600 dark:text-zinc-400 hover:bg-red-50 dark:hover:bg-red-900/30 transition-all"><LogOut className="w-4 h-4" /></button>
           </div>
           {gameState === 'playing' && (
             <div className="flex items-center gap-2">
-              <div className={`px-3 py-1 rounded-full text-[10px] font-black border uppercase ${subject.color} border-current bg-white dark:bg-zinc-900`}>{subject.name}</div>
-              <button onClick={() => setShowResetConfirm(true)} className="p-2 text-zinc-400 dark:text-zinc-500 hover:bg-zinc-100 dark:hover:bg-zinc-800 rounded-full"><RefreshCw className="w-4 h-4" /></button>
+              <div className={`px-3 py-1 rounded-full text-[10px] font-black border uppercase ${subject.color} border-current bg-white dark:bg-zinc-900 shadow-sm`}>{subject.name}</div>
+              <button onClick={() => setShowResetConfirm(true)} className="p-2 text-zinc-400 dark:text-zinc-500 hover:bg-zinc-100 dark:hover:bg-zinc-800 rounded-full transition-all"><RefreshCw className="w-4 h-4" /></button>
             </div>
           )}
         </div>
@@ -259,31 +251,31 @@ export default function Game() {
           {gameState === 'auth-gate' && renderAuthGate()}
           {gameState === 'grade-selection' && (
             <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="flex flex-col gap-8 text-center">
-              <h1 className="text-3xl font-black text-zinc-900 dark:text-zinc-50">Choose Grade</h1>
+              <h1 className="text-3xl font-black text-zinc-900 dark:text-zinc-50 uppercase tracking-tight">Grade</h1>
               <div className="grid gap-3 max-h-[400px] overflow-y-auto pr-2 custom-scrollbar">
-                {LEVELS.map(lvl => <button key={lvl} onClick={() => { setLevel(lvl); setGameState('subject-selection'); }} className="p-5 rounded-3xl border-2 font-bold hover:border-blue-400 bg-white dark:bg-zinc-800 text-zinc-700 dark:text-zinc-200 transition-all">{lvl}</button>)}
+                {LEVELS.map(lvl => <button key={lvl} onClick={() => { setLevel(lvl); setGameState('subject-selection'); }} className="p-5 rounded-3xl border-2 font-bold hover:border-blue-400 bg-white dark:bg-zinc-800 text-zinc-700 dark:text-zinc-200 transition-all shadow-sm">{lvl}</button>)}
               </div>
             </motion.div>
           )}
           {gameState === 'subject-selection' && (
             <motion.div initial={{ x: 20 }} animate={{ x: 0 }} className="flex flex-col gap-8 text-center">
-              <h1 className="text-3xl font-black text-zinc-900 dark:text-zinc-50">Pick Subject</h1>
+              <h1 className="text-3xl font-black text-zinc-900 dark:text-zinc-50 uppercase tracking-tight">Subject</h1>
               <div className="grid grid-cols-2 gap-4">
-                {SUBJECTS.map(sub => <button key={sub.id} onClick={() => { setSubject(sub); setGameState('difficulty-selection'); }} className="p-6 rounded-3xl border-2 flex flex-col items-center gap-3 bg-white dark:bg-zinc-800 hover:border-zinc-300 transition-all"><sub.icon className={sub.color} size={32} /> <span className="font-bold text-zinc-700 dark:text-zinc-200">{sub.name}</span></button>)}
+                {SUBJECTS.map(sub => <button key={sub.id} onClick={() => { setSubject(sub); setGameState('difficulty-selection'); }} className="p-6 rounded-3xl border-2 flex flex-col items-center gap-3 bg-white dark:bg-zinc-800 hover:border-zinc-300 transition-all shadow-sm"><sub.icon className={sub.color} size={32} /> <span className="font-bold text-zinc-700 dark:text-zinc-200">{sub.name}</span></button>)}
               </div>
             </motion.div>
           )}
           {gameState === 'difficulty-selection' && (
             <motion.div initial={{ x: 20 }} animate={{ x: 0 }} className="flex flex-col gap-8 text-center">
-              <h1 className="text-3xl font-black text-zinc-900 dark:text-zinc-50">Select Level</h1>
+              <h1 className="text-3xl font-black text-zinc-900 dark:text-zinc-50 uppercase tracking-tight">Difficulty</h1>
               <div className="grid gap-4">
-                {DIFFICULTIES.map(diff => <button key={diff} onClick={() => { setDifficulty(diff); setGameState('playing'); fetchQuestion(level, subject.name, score, diff); }} className="p-6 rounded-3xl border-2 font-black text-xl bg-white dark:bg-zinc-800 hover:border-blue-400 transition-all">{diff}</button>)}
+                {DIFFICULTIES.map(diff => <button key={diff} onClick={() => { setDifficulty(diff); setGameState('playing'); fetchQuestion(level, subject.name, score, diff); }} className="p-6 rounded-3xl border-2 font-black text-xl bg-white dark:bg-zinc-800 hover:border-blue-400 transition-all shadow-sm">{diff}</button>)}
               </div>
             </motion.div>
           )}
           {gameState === 'playing' && (
             <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="flex flex-col h-full">
-              {loading || !question ? <div className="flex-1 flex flex-col items-center justify-center gap-4 py-20 animate-pulse"><RefreshCw className="animate-spin text-blue-500" size={48} /> <p className="text-sm font-bold text-zinc-400">Consulting AI...</p></div> : (
+              {loading || !question ? <div className="flex-1 flex flex-col items-center justify-center gap-4 py-20"><RefreshCw className="animate-spin text-blue-500" size={48} /> <p className="text-sm font-bold text-zinc-400 animate-pulse uppercase tracking-widest text-[10px]">Asking the AI Specialist...</p></div> : (
                 <>
                   <div className="bg-white dark:bg-zinc-800 rounded-3xl p-8 shadow-sm mb-6 text-center border-2 border-zinc-50 dark:border-zinc-700/50 min-h-[220px] flex flex-col justify-center items-center relative overflow-hidden">
                     <AnimatePresence>{feedback && <motion.div initial={{ opacity: 0, y: -20 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }} className="absolute top-4 w-full text-center font-black text-blue-500 uppercase tracking-widest text-sm z-10">{feedback}</motion.div>}</AnimatePresence>
@@ -298,12 +290,12 @@ export default function Game() {
                       let variant = "bg-white dark:bg-zinc-800 border-zinc-100 dark:border-zinc-700 text-zinc-700 dark:text-zinc-200 hover:border-blue-300 dark:hover:border-blue-500";
                       if (isFound) variant = "bg-green-500 border-green-600 text-white shadow-lg shadow-green-500/30";
                       else if (isWrong) variant = "bg-zinc-50 dark:bg-zinc-900/50 text-zinc-300 dark:text-zinc-600 opacity-60";
-                      return <button key={i} onClick={() => handleAnswer(opt)} className={`p-5 rounded-2xl font-bold text-lg border-2 transition-all text-left ${variant}`}>{opt}</button>;
+                      return <button key={i} onClick={() => handleAnswer(opt)} className={`p-5 rounded-2xl font-bold text-lg border-2 transition-all text-left shadow-sm ${variant}`}>{opt}</button>;
                     })}
                   </div>
                   <div className="mt-8 flex gap-3 pb-4">
-                    <button onClick={() => handleGetHint()} disabled={!!hint || isCorrect} className="flex-1 p-4 bg-yellow-400 text-yellow-900 rounded-2xl font-black text-xs hover:bg-yellow-500 active:scale-95 transition-all disabled:opacity-50 shadow-md">50 PTS HINT</button>
-                    {!isPremium && <button onClick={startAdReward} disabled={isCorrect} className="flex-1 p-4 bg-purple-600 text-white rounded-2xl font-black text-xs hover:bg-purple-700 active:scale-95 transition-all shadow-md">AD HINT</button>}
+                    <button onClick={() => handleGetHint()} disabled={!!hint || isCorrect} className="flex-1 p-4 bg-yellow-400 text-yellow-900 rounded-2xl font-black text-xs hover:bg-yellow-500 active:scale-95 transition-all shadow-md disabled:opacity-50">50 PTS HINT</button>
+                    {!isPremium && <button onClick={() => startAdReward()} disabled={isCorrect} className="flex-1 p-4 bg-purple-600 text-white rounded-2xl font-black text-xs hover:bg-purple-700 active:scale-95 transition-all shadow-md">AD HINT</button>}
                   </div>
                 </>
               )}
@@ -327,8 +319,8 @@ export default function Game() {
               <Star className="w-8 h-8 text-blue-600 mx-auto mb-4" />
               <h2 className="text-2xl font-black mb-2 text-zinc-900 dark:text-zinc-50 uppercase tracking-tighter">Premium</h2>
               <div className="space-y-4 my-8">
-                <button onClick={() => handleCheckout('monthly')} className="w-full p-5 rounded-2xl border-2 dark:border-zinc-700 flex items-center justify-between font-bold dark:text-zinc-200 hover:border-blue-500 transition-all text-zinc-700 dark:text-zinc-200"><p>Monthly</p> <span className="text-blue-600">$0.99</span></button>
-                <button onClick={() => handleCheckout('yearly')} className="w-full p-5 rounded-2xl border-2 border-blue-500 bg-blue-50 dark:bg-blue-900/20 flex items-center justify-between font-bold dark:text-zinc-200 hover:scale-[1.02] transition-all"><p>Yearly</p> <span className="text-blue-600 font-black">$10.00</span></button>
+                <button onClick={() => handleCheckout('monthly')} className="w-full p-5 rounded-2xl border-2 dark:border-zinc-700 flex items-center justify-between font-bold dark:text-zinc-200 hover:border-blue-500 transition-all text-zinc-700 dark:text-zinc-200 shadow-sm"><p>Monthly</p> <span className="text-blue-600">$0.99</span></button>
+                <button onClick={() => handleCheckout('yearly')} className="w-full p-5 rounded-2xl border-2 border-blue-500 bg-blue-50 dark:bg-blue-900/20 flex items-center justify-between font-bold text-zinc-700 dark:text-zinc-200 hover:scale-[1.02] transition-all shadow-sm"><p>Yearly</p> <span className="text-blue-600 font-black">$10.00</span></button>
               </div>
               <button onClick={() => setShowPaymentModal(false)} className="text-zinc-400 dark:text-zinc-500 text-sm font-bold hover:text-zinc-600 transition-colors uppercase tracking-widest">Close</button>
             </div>
