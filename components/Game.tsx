@@ -24,15 +24,16 @@ const SUBJECTS = [
 
 const DIFFICULTIES: Difficulty[] = ['Beginner', 'Intermediate', 'Expert'];
 
-// ULTRA-ROBUST Normalization: Handles all CSV weirdness
+// Aggressive matching helper: removes punctuation, multiple spaces, and case differences
 const normalize = (s: string) => {
   return (s || "")
+    .toString()
     .toLowerCase()
     .trim()
     .normalize("NFD")
     .replace(/[\u0300-\u036f]/g, "") // Remove accents
-    .replace(/[^\w\s]/g, '')        // Remove punctuation
-    .replace(/\s+/g, ' ');          // Collapse spaces
+    .replace(/[^\w\s]/g, '')        // Remove punctuation (e.g. '.', '!', '?')
+    .replace(/\s+/g, ' ');          // Collapse multiple spaces to one
 };
 
 export default function Game() {
@@ -59,16 +60,7 @@ export default function Game() {
   
   const timerRef = useRef<NodeJS.Timeout | null>(null);
 
-  // Initialize Ads on load and state changes
-  useEffect(() => {
-    if (!isPremium) {
-      try {
-        // @ts-ignore
-        (window.adsbygoogle = window.adsbygoogle || []).push({});
-      } catch (e) {}
-    }
-  }, [gameState, isPremium, showAdFullscreen]);
-
+  // Persistence: Load saved progress
   useEffect(() => {
     if (status === "authenticated") {
       const savedLevel = localStorage.getItem('stem_level');
@@ -123,7 +115,18 @@ export default function Game() {
   const handleAnswer = (answer: string) => {
     if (isCorrect || !question || wrongAnswers.includes(answer)) return;
     
-    if (normalize(answer) === normalize(question.correctAnswer)) {
+    const userChoice = normalize(answer);
+    const correctAns = normalize(question.correctAnswer);
+
+    // DEBUG LOGGING
+    console.log("--- ANSWER ATTEMPT ---");
+    console.log("Raw Clicked:", answer);
+    console.log("Raw Correct:", question.correctAnswer);
+    console.log("Clean Clicked:", userChoice);
+    console.log("Clean Correct:", correctAns);
+    console.log("Match Result:", userChoice === correctAns);
+
+    if (userChoice === correctAns) {
       setIsCorrect(true);
       setFeedback("Correct! 🌟");
       confetti({ particleCount: 100, spread: 70, origin: { y: 0.6 } });
@@ -211,18 +214,14 @@ export default function Game() {
       <AnimatePresence>
         {showAdFullscreen && (
           <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} className="absolute inset-0 z-[200] bg-black flex flex-col items-center justify-center p-8 text-center text-white">
-            <button onClick={() => setShowAdExitConfirm(true)} className="absolute top-8 right-8 p-3 bg-white/10 rounded-full text-white hover:bg-white/20"><X className="w-6 h-6" /></button>
-            <div className="space-y-6 w-full flex flex-col items-center">
-              <div className="w-full max-w-sm aspect-video bg-zinc-900 rounded-2xl flex items-center justify-center border border-zinc-800 relative overflow-hidden">
-                 <ins className="adsbygoogle"
-                      style={{ display: 'block', width: '100%', height: '100%' }}
-                      data-ad-client="ca-pub-9141375569651908"
-                      data-ad-slot="9452334599"
-                      data-ad-format="auto"
-                      data-full-width-responsive="true"></ins>
+            <button onClick={() => setShowAdExitConfirm(true)} className="absolute top-8 right-8 p-3 bg-white/10 rounded-full text-white hover:bg-white/20 transition-all"><X className="w-6 h-6" /></button>
+            <div className="space-y-8 max-w-xs">
+              <PlayCircle className="w-24 h-24 text-purple-500 mx-auto animate-pulse" />
+              <div>
+                <h2 className="text-2xl font-black uppercase tracking-tighter mb-2">Sponsor Video</h2>
+                <p className="text-zinc-400 text-sm">Reward unlocking in {adTimer} seconds...</p>
               </div>
-              <div className="text-4xl font-black text-purple-400 tabular-nums">{adTimer}s</div>
-              <p className="text-zinc-500 text-xs uppercase tracking-widest">Sponsored Message</p>
+              <div className="text-6xl font-black text-purple-400 tabular-nums">{adTimer}s</div>
             </div>
             {showAdExitConfirm && (
               <div className="absolute inset-0 z-[210] bg-black/95 flex items-center justify-center p-6 backdrop-blur-sm">
@@ -236,7 +235,7 @@ export default function Game() {
       <AnimatePresence>
         {showResetConfirm && (
           <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} className="absolute inset-0 z-[100] bg-black/60 backdrop-blur-md flex items-center justify-center p-6">
-            <div className="bg-white dark:bg-zinc-800 rounded-[2rem] p-8 text-center border border-white/10 shadow-2xl"><AlertCircle className="w-12 h-12 text-orange-600 mx-auto mb-4" /><h3 className="text-xl font-black mb-2 text-zinc-900 dark:text-zinc-50">Reset Progress?</h3><p className="text-zinc-500 dark:text-zinc-400 mb-6 text-sm">Progress will be reset.</p><div className="flex flex-col gap-3"><button onClick={confirmReset} className="w-full py-4 rounded-2xl bg-orange-600 text-white font-bold">Yes, Reset</button><button onClick={() => setShowResetConfirm(false)} className="w-full py-4 rounded-2xl bg-zinc-100 dark:bg-zinc-700 text-zinc-700 font-bold">Cancel</button></div></div>
+            <div className="bg-white dark:bg-zinc-800 rounded-[2rem] p-8 text-center border border-white/10 shadow-2xl"><AlertCircle className="w-12 h-12 text-orange-600 mx-auto mb-4" /><h3 className="text-xl font-black mb-2 text-zinc-900 dark:text-zinc-50">Reset Progress?</h3><p className="text-zinc-500 dark:text-zinc-400 mb-6 text-sm">Your current score and session will be cleared.</p><div className="flex flex-col gap-3"><button onClick={confirmReset} className="w-full py-4 rounded-2xl bg-orange-600 text-white font-bold">Yes, Reset</button><button onClick={() => setShowResetConfirm(false)} className="w-full py-4 rounded-2xl bg-zinc-100 dark:bg-zinc-700 text-zinc-700 font-bold">Cancel</button></div></div>
           </motion.div>
         )}
       </AnimatePresence>
@@ -286,7 +285,7 @@ export default function Game() {
           )}
           {gameState === 'playing' && (
             <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="flex flex-col h-full">
-              {loading || !question ? <div className="flex-1 flex flex-col items-center justify-center gap-4 py-20 animate-pulse"><RefreshCw className="animate-spin text-blue-500" size={48} /> <p className="text-sm font-bold text-zinc-400 animate-pulse uppercase tracking-widest text-[10px]">Consulting AI...</p></div> : (
+              {loading || !question ? <div className="flex-1 flex flex-col items-center justify-center gap-4 py-20 animate-pulse"><RefreshCw className="animate-spin text-blue-500" size={48} /> <p className="text-sm font-bold text-zinc-400 uppercase tracking-widest text-[10px]">Consulting AI...</p></div> : (
                 <>
                   <div className="bg-white dark:bg-zinc-800 rounded-3xl p-8 shadow-sm mb-6 text-center border-2 border-zinc-50 dark:border-zinc-700/50 min-h-[220px] flex flex-col justify-center items-center relative overflow-hidden">
                     <AnimatePresence>{feedback && <motion.div initial={{ opacity: 0, y: -20 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }} className="absolute top-4 w-full text-center font-black text-blue-500 uppercase tracking-widest text-xs z-10 pointer-events-none">{feedback}</motion.div>}</AnimatePresence>
@@ -318,7 +317,6 @@ export default function Game() {
       {!isPremium && gameState !== 'auth-gate' && (
         <div className="p-4 bg-zinc-50 dark:bg-zinc-950 border-t border-zinc-100 dark:border-zinc-800">
           <div className="bg-white dark:bg-zinc-800 rounded-2xl p-4 text-center mb-4 border border-zinc-200 dark:border-zinc-700 shadow-sm min-h-[100px] flex items-center justify-center overflow-hidden">
-             {/* Persistent Banner Ad for Free Users */}
              <ins className="adsbygoogle"
                  style={{ display: 'block' }}
                  data-ad-client="ca-pub-9141375569651908"
@@ -326,9 +324,7 @@ export default function Game() {
                  data-ad-format="auto"
                  data-full-width-responsive="true"></ins>
           </div>
-          <button onClick={() => setShowPaymentModal(true)} className="w-full py-4 rounded-2xl bg-zinc-900 dark:bg-zinc-100 text-white dark:text-zinc-900 font-bold text-xs flex items-center justify-center gap-2 transition-all hover:opacity-90 active:scale-[0.98] shadow-lg">
-            <Lock className="w-4 h-4" /> GO AD-FREE ($0.99/mo or $10/yr)
-          </button>
+          <button onClick={() => setShowPaymentModal(true)} className="w-full py-4 rounded-2xl bg-zinc-900 dark:bg-zinc-100 text-white dark:text-zinc-900 font-bold text-xs flex items-center justify-center gap-2 transition-all hover:opacity-90 active:scale-[0.98] shadow-lg"><Lock className="w-4 h-4" /> GO AD-FREE ($0.99/mo or $10/yr)</button>
         </div>
       )}
 

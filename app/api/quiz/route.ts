@@ -13,7 +13,6 @@ export async function POST(req: Request) {
     let gradeKey = level === 'Kindergarten' ? 'K' : (level.match(/\d+/) ? `G${level.match(/\d+/)[0]}` : level);
     let subjectKey = subject.replace('Mathematics', 'Maths').replace('Space & Physics', 'SpacePhysics').replace('Coding & Logic', 'CodingLogic');
     
-    // Normalize difficulty for filename
     let diffKey = 'Easy';
     if (difficulty === 'Intermediate') diffKey = 'Intermediate';
     else if (difficulty === 'Expert' || difficulty === 'Hard') diffKey = 'Hard';
@@ -21,15 +20,33 @@ export async function POST(req: Request) {
     const fileName = `${gradeKey}_${subjectKey}_${diffKey}.csv`;
     const filePath = path.join(process.cwd(), 'data', 'questions', fileName);
 
+    console.log("--- FETCH REQUEST START ---");
+    console.log("Target File:", fileName);
+
     try {
       const fileContent = await fs.readFile(filePath, 'utf8');
       const parsedData = Papa.parse(fileContent, { 
         header: true, 
         skipEmptyLines: true,
-        transform: (value) => value.trim() // Ensure all values are trimmed
+        transform: (value) => value.trim()
       });
       
       let questions = parsedData.data as any[];
+      if (questions.length > 0) {
+        console.log("Found Columns:", Object.keys(questions[0]).join(", "));
+      }
+
+      // Filter out history
+      if (history && history.length > 0) {
+        const unseen = questions.filter(q => {
+          const qText = q['Question'] || q['question'];
+          return !history.includes(qText);
+        });
+        if (unseen.length > 0) questions = unseen;
+      }
+
+      const randomQ = questions[Math.floor(Math.random() * questions.length)];
+      if (!randomQ) throw new Error("Question selection failed");
 
       // Helper to safely get value by key name (case insensitive)
       const getVal = (row: any, ...keys: string[]) => {
@@ -41,18 +58,6 @@ export async function POST(req: Request) {
         return "";
       };
 
-      // Filter out history
-      if (history && history.length > 0) {
-        const unseen = questions.filter(q => {
-          const qText = getVal(q, 'Question');
-          return !history.includes(qText);
-        });
-        if (unseen.length > 0) questions = unseen;
-      }
-
-      const randomQ = questions[Math.floor(Math.random() * questions.length)];
-      if (!randomQ) throw new Error("Question selection failed");
-
       const questionText = getVal(randomQ, 'Question');
       const optA = getVal(randomQ, 'A');
       const optB = getVal(randomQ, 'B');
@@ -61,36 +66,30 @@ export async function POST(req: Request) {
       let correct = getVal(randomQ, 'Correct Ans', 'CorrectAns', 'Answer');
 
       // Map A, B, C, D to actual text if necessary
-      const map: any = { 
-        'A': optA, 
-        'B': optB, 
-        'C': optC, 
-        'D': optD,
-        'OPTION A': optA,
-        'OPTION B': optB,
-        'OPTION C': optC,
-        'OPTION D': optD
-      };
-      
-      const cleanCorrect = correct.toUpperCase();
+      const map: any = { 'A': optA, 'B': optB, 'C': optC, 'D': optD };
+      const cleanCorrect = correct.trim().toUpperCase();
       if (map[cleanCorrect]) {
         correct = map[cleanCorrect];
       }
 
+      console.log("SERVER SELECTED QUESTION:", questionText);
+      console.log("SERVER CORRECT ANSWER:", correct);
+      console.log("--- FETCH REQUEST END ---");
+
       return NextResponse.json({
         question: questionText.replace(/^[A-Z]?\d+[:.]\s*/i, '').trim(),
         options: [optA, optB, optC, optD].filter(o => o && o.length > 0),
-        correctAnswer: correct, // Keep the exact string for matching
+        correctAnswer: correct,
         emoji: "🧠",
         type: getVal(randomQ, 'Topic') || subject
       });
 
     } catch (fileErr: any) {
-      console.error(`CSV Error (${fileName}):`, fileErr.message);
+      console.error(`SERVER FILE ERROR: ${fileName}`, fileErr.message);
       return NextResponse.json({
-        question: `We are polishing the ${difficulty} curriculum for ${level} ${subject}. Try another topic!`,
-        options: ["Change Subject", "Go Back"],
-        correctAnswer: "Change Subject",
+        question: `Curriculum check: ${fileName} not found.`,
+        options: ["Go Back"],
+        correctAnswer: "Go Back",
         emoji: "🛠️"
       });
     }
