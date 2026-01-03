@@ -32,7 +32,7 @@ export async function POST(req: Request) {
 
     if (!openai) {
       return NextResponse.json({
-        question: `(Mock) ${difficulty} level question for ${level}: What is 5 x 5?`,
+        question: "What is 5 x 5?",
         options: ["20", "25", "30"],
         correctAnswer: "25",
         emoji: "🧠"
@@ -53,7 +53,7 @@ export async function POST(req: Request) {
           2. YOU MUST generate a question about ${chosenSubject} that is NOT related to common textbook examples.
           3. Be specific, creative, and slightly unusual to ensure uniqueness.
           4. Complexity must be perfectly tuned for ${level}.
-          5. Unique Seed: ${randomSeed}.
+          5. Return ONLY the question text in the "question" field. Do not include any prefixes like "Level:", "Grade:", or "Mock:".
           
           Return JSON: {"question": "...", "options": ["...", "...", "..."], "correctAnswer": "...", "emoji": "..."}` 
         },
@@ -61,17 +61,12 @@ export async function POST(req: Request) {
       ],
       response_format: { type: "json_object" },
       temperature: 1.0,
-      presence_penalty: 0.8, // Heavily penalizes repeating themes
-      frequency_penalty: 0.5  // Prevents repeating the same word choices
+      presence_penalty: 0.8,
+      frequency_penalty: 0.5
     });
 
     const content = completion.choices[0].message.content;
     const data = JSON.parse(content || '{}');
-
-    // Final safety check: if the AI managed to repeat a question exactly, force a minor change
-    if (history && history.includes(data.question)) {
-       data.question = "(New Perspective) " + data.question;
-    }
 
     return NextResponse.json(data);
 
