@@ -79,19 +79,6 @@ export default function Game() {
     }
   }, [level, subject, difficulty, score, gameState]);
 
-  const handleCheckout = async (planType: 'monthly' | 'yearly') => {
-    const priceId = planType === 'monthly' ? process.env.NEXT_PUBLIC_STRIPE_MONTHLY_PRICE_ID : process.env.NEXT_PUBLIC_STRIPE_YEARLY_PRICE_ID;
-    try {
-      const res = await fetch('/api/checkout', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ priceId, email: session?.user?.email }),
-      });
-      const data = await res.json();
-      if (data.url) window.location.href = data.url;
-    } catch (err) { console.error(err); }
-  };
-
   const fetchQuestion = async (selectedLevel = level, currentSubject = subject.name, currentScore = score, currentDiff = difficulty) => {
     setLoading(true);
     setIsCorrect(false);
@@ -106,7 +93,6 @@ export default function Game() {
       });
       const data = await res.json();
       if (data && data.question) {
-        // Clean Q[number]: prefixes
         data.question = data.question.replace(/^Q\d+:\s*/i, '');
         setQuestion(data);
         setHistory(prev => [...prev, data.question]);
@@ -115,9 +101,12 @@ export default function Game() {
   };
 
   const handleAnswer = (answer: string) => {
-    if (isCorrect || wrongAnswers.includes(answer) || !question) return;
-    const cleanUser = answer.trim().toLowerCase();
-    const cleanCorrect = question.correctAnswer.trim().toLowerCase();
+    if (isCorrect || !question || wrongAnswers.includes(answer)) return;
+    
+    // Robust Matching Logic
+    const sanitize = (str: string) => str.trim().toLowerCase().replace(/\s+/g, ' ');
+    const cleanUser = sanitize(answer);
+    const cleanCorrect = sanitize(question.correctAnswer);
 
     if (cleanUser === cleanCorrect) {
       setIsCorrect(true);
@@ -133,20 +122,20 @@ export default function Game() {
     }
   };
 
-  const handleGetHint = (forced = false) => {
-    if (!question) return; // CRASH PROTECTION
-    if (!forced && !isPremium && score < 50) { return; }
-    if (!forced && !isPremium) setScore(prev => prev - 50);
-    
-    const correctText = question.correctAnswer.trim();
-    setHint(`Psst! It starts with "${correctText.substring(0, 2)}..."`);
+  const handleCheckout = async (planType: 'monthly' | 'yearly') => {
+    const priceId = planType === 'monthly' ? process.env.NEXT_PUBLIC_STRIPE_MONTHLY_PRICE_ID : process.env.NEXT_PUBLIC_STRIPE_YEARLY_PRICE_ID;
+    try {
+      const res = await fetch('/api/checkout', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ priceId, email: session?.user?.email }),
+      });
+      const data = await res.json();
+      if (data.url) window.location.href = data.url;
+    } catch (err) { console.error(err); }
   };
 
   const startAdReward = () => {
-    if (isPremium) {
-      handleGetHint(true);
-      return;
-    }
     setShowAdFullscreen(true);
     setAdTimer(40);
     if (timerRef.current) clearInterval(timerRef.current);
@@ -166,6 +155,13 @@ export default function Game() {
     setAdTimer(null);
     setShowAdFullscreen(false);
     setShowAdExitConfirm(false);
+  };
+
+  const handleGetHint = (forced = false) => {
+    if (!question) return;
+    if (!forced && !isPremium && score < 50) return;
+    if (!forced && !isPremium) setScore(prev => prev - 50);
+    setHint(`Psst! It starts with "${question.correctAnswer.trim().substring(0, 2)}..."`);
   };
 
   const confirmReset = () => {
@@ -194,18 +190,18 @@ export default function Game() {
 
   return (
     <div className="w-full max-w-md mx-auto h-full flex flex-col relative overflow-hidden bg-white/95 dark:bg-zinc-900/95 backdrop-blur-2xl rounded-[2.5rem] shadow-2xl border border-white/20 dark:border-zinc-700/50">
+      
+      {/* Fullscreen Ad */}
       <AnimatePresence>
         {showAdFullscreen && (
           <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} className="absolute inset-0 z-[200] bg-black flex flex-col items-center justify-center p-8 text-center text-white">
             <button onClick={() => setShowAdExitConfirm(true)} className="absolute top-8 right-8 p-3 bg-white/10 rounded-full text-white hover:bg-white/20"><X className="w-6 h-6" /></button>
             <PlayCircle className="w-20 h-20 text-purple-500 animate-pulse mb-6" />
-            <h2 className="text-2xl font-black uppercase mb-4 tracking-tighter">Sponsor Message</h2>
-            <div className="text-4xl font-black text-purple-400">{adTimer}s</div>
+            <div className="text-4xl font-black text-purple-400 mb-4">{adTimer}s</div>
             {showAdExitConfirm && (
               <div className="absolute inset-0 z-[210] bg-black/95 flex items-center justify-center p-6">
                 <div className="bg-zinc-900 p-8 rounded-3xl border border-white/10 shadow-2xl max-w-xs text-center">
-                  <AlertCircle className="w-12 h-12 text-orange-500 mx-auto mb-4" />
-                  <p className="mb-6 text-zinc-300">Exit early and lose your hint?</p>
+                  <p className="mb-6 text-zinc-300 text-sm">Exit early and lose your hint?</p>
                   <button onClick={() => setShowAdExitConfirm(false)} className="w-full py-4 bg-purple-600 text-white rounded-xl font-bold mb-3">Keep Watching</button>
                   <button onClick={confirmExitAd} className="w-full py-4 bg-zinc-800 text-zinc-400 rounded-xl">Exit</button>
                 </div>
@@ -220,17 +216,18 @@ export default function Game() {
           <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} className="absolute inset-0 z-[100] bg-black/60 backdrop-blur-md flex items-center justify-center p-6">
             <div className="bg-white dark:bg-zinc-800 rounded-[2rem] p-8 text-center border border-white/10 shadow-2xl">
               <AlertCircle className="w-12 h-12 text-orange-600 mx-auto mb-4" />
-              <h3 className="text-xl font-black mb-2 text-zinc-900 dark:text-zinc-50">Change Game Settings?</h3>
-              <p className="text-zinc-500 dark:text-zinc-400 mb-6 font-medium">This will reset your session progress.</p>
+              <h3 className="text-xl font-black mb-2 text-zinc-900 dark:text-zinc-50">Change Settings?</h3>
+              <p className="text-zinc-500 dark:text-zinc-400 mb-6 text-sm">Progress will be reset.</p>
               <div className="flex flex-col gap-3">
-                <button onClick={confirmReset} className="w-full py-4 rounded-2xl bg-orange-600 text-white font-bold hover:bg-orange-700 transition-all">Reset & Continue</button>
-                <button onClick={() => setShowResetConfirm(false)} className="w-full py-4 rounded-2xl bg-zinc-100 dark:bg-zinc-700 text-zinc-700 dark:text-zinc-300 font-bold hover:bg-zinc-200 transition-all">Cancel</button>
+                <button onClick={confirmReset} className="w-full py-4 rounded-2xl bg-orange-600 text-white font-bold">Reset & Continue</button>
+                <button onClick={() => setShowResetConfirm(false)} className="w-full py-4 rounded-2xl bg-zinc-100 dark:bg-zinc-700 text-zinc-700">Cancel</button>
               </div>
             </div>
           </motion.div>
         )}
       </AnimatePresence>
 
+      {/* HUD */}
       {gameState !== 'auth-gate' && (
         <div className="flex justify-between items-center p-6 pb-2">
           <div className="flex items-center gap-3">
@@ -239,8 +236,8 @@ export default function Game() {
           </div>
           {gameState === 'playing' && (
             <div className="flex items-center gap-2">
-              <div className={`px-3 py-1 rounded-full text-[10px] font-black border uppercase ${subject.color} border-current bg-white dark:bg-zinc-900 shadow-sm`}>{subject.name}</div>
-              <button onClick={() => setShowResetConfirm(true)} className="p-2 text-zinc-400 dark:text-zinc-500 hover:bg-zinc-100 dark:hover:bg-zinc-800 rounded-full transition-all"><RefreshCw className="w-4 h-4" /></button>
+              <div className={`px-3 py-1 rounded-full text-[10px] font-black border uppercase ${subject.color} border-current bg-white dark:bg-zinc-900`}>{subject.name}</div>
+              <button onClick={() => setShowResetConfirm(true)} className="p-2 text-zinc-400 dark:text-zinc-500 hover:bg-zinc-100 dark:hover:bg-zinc-800 rounded-full"><RefreshCw className="w-4 h-4" /></button>
             </div>
           )}
         </div>
@@ -275,7 +272,7 @@ export default function Game() {
           )}
           {gameState === 'playing' && (
             <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="flex flex-col h-full">
-              {loading || !question ? <div className="flex-1 flex flex-col items-center justify-center gap-4 py-20"><RefreshCw className="animate-spin text-blue-500" size={48} /> <p className="text-sm font-bold text-zinc-400 animate-pulse uppercase tracking-widest text-[10px]">Asking the AI Specialist...</p></div> : (
+              {loading || !question ? <div className="flex-1 flex flex-col items-center justify-center gap-4 py-20 animate-pulse"><RefreshCw className="animate-spin text-blue-500" size={48} /> <p className="text-sm font-bold text-zinc-400 animate-pulse uppercase tracking-widest text-[10px]">Asking the AI Specialist...</p></div> : (
                 <>
                   <div className="bg-white dark:bg-zinc-800 rounded-3xl p-8 shadow-sm mb-6 text-center border-2 border-zinc-50 dark:border-zinc-700/50 min-h-[220px] flex flex-col justify-center items-center relative overflow-hidden">
                     <AnimatePresence>{feedback && <motion.div initial={{ opacity: 0, y: -20 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }} className="absolute top-4 w-full text-center font-black text-blue-500 uppercase tracking-widest text-sm z-10">{feedback}</motion.div>}</AnimatePresence>
@@ -289,8 +286,9 @@ export default function Game() {
                       const isWrong = wrongAnswers.includes(opt);
                       let variant = "bg-white dark:bg-zinc-800 border-zinc-100 dark:border-zinc-700 text-zinc-700 dark:text-zinc-200 hover:border-blue-300 dark:hover:border-blue-500";
                       if (isFound) variant = "bg-green-500 border-green-600 text-white shadow-lg shadow-green-500/30";
-                      else if (isWrong) variant = "bg-zinc-50 dark:bg-zinc-900/50 text-zinc-300 dark:text-zinc-600 opacity-60";
-                      return <button key={i} onClick={() => handleAnswer(opt)} className={`p-5 rounded-2xl font-bold text-lg border-2 transition-all text-left shadow-sm ${variant}`}>{opt}</button>;
+                      else if (isWrong) variant = "bg-zinc-50 dark:bg-zinc-900/50 border-zinc-100 dark:border-zinc-800 text-zinc-300 dark:text-zinc-600 opacity-60";
+                      
+                      return <button key={i} onClick={() => handleAnswer(opt)} disabled={isCorrect} className={`p-5 rounded-2xl font-bold text-lg border-2 transition-all text-left shadow-sm ${variant}`}>{opt}</button>;
                     })}
                   </div>
                   <div className="mt-8 flex gap-3 pb-4">
