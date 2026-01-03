@@ -1,0 +1,1001 @@
+Grade,Subject,Topic,Difficulty,Question,A,B,C,D,Correct Answer
+5,Maths,Multi-step Operations,Intermediate,"What is 9,000 − 4,587?","4,313","4,413","4,513","4,613","4,413"
+5,Maths,Multiplication & Division,Intermediate,What is 360 ÷ 12?,25,28,30,32,30
+5,Maths,Fractions,Intermediate,Which is equivalent to 3/4?,6/8,9/10,4/6,3/5,6/8
+5,Maths,Decimals,Intermediate,What is 0.4 + 0.35?,0.65,0.7,0.75,0.85,0.75
+5,Maths,Multi-step Operations,Intermediate,"What is 8,432 + 3,769?","12,101","12,201","12,301","12,401","12,201"
+5,Maths,Multiplication & Division,Intermediate,What is 24 × 18?,412,432,452,472,432
+5,Maths,Fractions,Intermediate,Which fraction is larger?,5/6,4/5,Equal,Cannot tell,5/6
+5,Maths,Decimals,Intermediate,Which is greater?,0.75,0.7,Equal,0.65,0.75
+5,Maths,Decimals,Intermediate,Compute: 15 × 8,120,130,112,135,120
+5,Maths,Fractions,Intermediate,Compute: 45 ÷ 5,9,11,10,8,9
+5,Maths,Decimals,Intermediate,Compute: 109 + 180,279,299,290,289,289
+5,Maths,Multiplication & Division,Intermediate,Compute: 121 ÷ 11,13,11,12,10,11
+5,Maths,Decimals,Intermediate,Compute: 60 ÷ 5,12,11,13,14,12
+5,Maths,Decimals,Intermediate,Compute: 190 - 116,75,74,64,84,74
+5,Maths,Multiplication & Division,Intermediate,Compute: 120 ÷ 8,16,15,14,17,15
+5,Maths,Decimals,Intermediate,Compute: 194 - 112,82,83,72,92,82
+5,Maths,Decimals,Intermediate,Compute: 6 × 7,42,48,35,52,42
+5,Maths,Fractions,Intermediate,Compute: 9 × 6,48,54,64,63,54
+5,Maths,Multiplication & Division,Intermediate,Compute: 13 + 169,192,183,172,182,182
+5,Maths,Multi-step Operations,Intermediate,Compute: 33 ÷ 11,2,3,4,5,3
+5,Maths,Multiplication & Division,Intermediate,Compute: 155 - 73,92,72,83,82,82
+5,Maths,Decimals,Intermediate,Compute: 170 + 137,307,308,297,317,307
+5,Maths,Decimals,Intermediate,Compute: 9 × 10,99,80,90,100,90
+5,Maths,Multi-step Operations,Intermediate,Compute: 72 + 102,184,164,174,175,174
+5,Maths,Multi-step Operations,Intermediate,Compute: 90 + 197,297,277,288,287,287
+5,Maths,Decimals,Intermediate,Compute: 8 × 4,42,28,40,32,32
+5,Maths,Decimals,Intermediate,Compute: 3 × 9,30,37,18,27,27
+5,Maths,Decimals,Intermediate,Compute: 52 ÷ 4,14,12,15,13,13
+5,Maths,Fractions,Intermediate,Compute: 173 - 70,103,104,93,113,103
+5,Maths,Multiplication & Division,Intermediate,Compute: 174 - 53,122,111,131,121,121
+5,Maths,Decimals,Intermediate,Compute: 84 - 4,80,81,70,90,80
+5,Maths,Multi-step Operations,Intermediate,Compute: 178 - 10,158,169,168,178,168
+5,Maths,Decimals,Intermediate,Compute: 176 + 115,281,291,301,292,291
+5,Maths,Multiplication & Division,Intermediate,Compute: 130 ÷ 13,9,10,11,12,10
+5,Maths,Fractions,Intermediate,Compute: 99 + 27,127,116,126,136,126
+5,Maths,Decimals,Intermediate,Compute: 171 - 161,0,10,11,20,10
+5,Maths,Multi-step Operations,Intermediate,Compute: 190 - 66,114,124,125,134,124
+5,Maths,Fractions,Intermediate,Compute: 91 ÷ 13,9,6,7,8,7
+5,Maths,Decimals,Intermediate,Compute: 12 × 7,77,94,84,96,84
+5,Maths,Fractions,Intermediate,Compute: 180 ÷ 12,16,15,17,14,15
+5,Maths,Multi-step Operations,Intermediate,Compute: 72 ÷ 9,9,8,10,7,8
+5,Maths,Decimals,Intermediate,Compute: 113 - 56,58,57,47,67,57
+5,Maths,Decimals,Intermediate,Compute: 148 - 143,15,6,5,0,5
+5,Maths,Multi-step Operations,Intermediate,Compute: 132 - 43,79,89,90,99,89
+5,Maths,Multi-step Operations,Intermediate,Compute: 5 × 13,70,65,52,75,65
+5,Maths,Fractions,Intermediate,Compute: 26 ÷ 2,14,13,12,15,13
+5,Maths,Decimals,Intermediate,Compute: 172 - 146,16,36,26,27,26
+5,Maths,Multiplication & Division,Intermediate,Compute: 4 × 9,46,36,40,27,36
+5,Maths,Decimals,Intermediate,Compute: 190 - 155,25,35,45,36,35
+5,Maths,Multiplication & Division,Intermediate,Compute: 210 ÷ 14,16,17,14,15,15
+5,Maths,Multiplication & Division,Intermediate,Compute: 52 + 0,52,53,42,62,52
+5,Maths,Decimals,Intermediate,Compute: 70 ÷ 10,7,9,6,8,7
+5,Maths,Multi-step Operations,Intermediate,Compute: 105 ÷ 7,16,14,15,17,15
+5,Maths,Decimals,Intermediate,Compute: 32 ÷ 4,7,8,10,9,8
+5,Maths,Multiplication & Division,Intermediate,Compute: 99 - 35,65,54,74,64,64
+5,Maths,Multiplication & Division,Intermediate,Compute: 80 + 183,253,263,264,273,263
+5,Maths,Fractions,Intermediate,Compute: 72 ÷ 8,9,11,10,8,9
+5,Maths,Multi-step Operations,Intermediate,Compute: 48 ÷ 6,10,8,7,9,8
+5,Maths,Fractions,Intermediate,Compute: 45 ÷ 9,5,7,4,6,5
+5,Maths,Decimals,Intermediate,Compute: 27 + 163,180,190,191,200,190
+5,Maths,Fractions,Intermediate,Compute: 165 + 28,194,193,203,183,193
+5,Maths,Multiplication & Division,Intermediate,Compute: 98 - 74,14,34,25,24,24
+5,Maths,Fractions,Intermediate,Compute: 9 × 14,112,136,126,135,126
+5,Maths,Multi-step Operations,Intermediate,Compute: 190 - 171,20,29,9,19,19
+5,Maths,Multiplication & Division,Intermediate,Compute: 124 - 24,100,110,101,90,100
+5,Maths,Multiplication & Division,Intermediate,Compute: 184 - 31,154,163,153,143,153
+5,Maths,Multiplication & Division,Intermediate,Compute: 6 × 3,28,15,24,18,18
+5,Maths,Fractions,Intermediate,Compute: 108 + 53,171,161,162,151,161
+5,Maths,Multi-step Operations,Intermediate,Compute: 10 × 7,Option 3,80,70,63,70
+5,Maths,Decimals,Intermediate,Compute: 16 + 116,133,142,132,122,132
+5,Maths,Decimals,Intermediate,Compute: 63 ÷ 9,8,9,7,6,7
+5,Maths,Multiplication & Division,Intermediate,Compute: 167 - 101,76,66,56,67,66
+5,Maths,Decimals,Intermediate,Compute: 26 ÷ 13,3,2,1,4,2
+5,Maths,Decimals,Intermediate,Compute: 43 - 20,13,23,24,33,23
+5,Maths,Fractions,Intermediate,Compute: 20 ÷ 4,6,7,5,4,5
+5,Maths,Multi-step Operations,Intermediate,Compute: 84 ÷ 14,6,7,8,5,6
+5,Maths,Multi-step Operations,Intermediate,Compute: 80 + 98,188,179,168,178,178
+5,Maths,Decimals,Intermediate,Compute: 176 - 80,96,97,86,106,96
+5,Maths,Fractions,Intermediate,Compute: 131 - 69,52,72,62,63,62
+5,Maths,Decimals,Intermediate,Compute: 168 - 67,91,102,111,101,101
+5,Maths,Multiplication & Division,Intermediate,Compute: 6 + 61,77,68,67,57,67
+5,Maths,Multiplication & Division,Intermediate,Compute: 15 × 13,182,210,195,205,195
+5,Maths,Multi-step Operations,Intermediate,Compute: 4 × 8,42,36,32,24,32
+5,Maths,Decimals,Intermediate,Compute: 124 - 104,21,10,20,30,20
+5,Maths,Fractions,Intermediate,Compute: 48 ÷ 4,12,14,13,11,12
+5,Maths,Multiplication & Division,Intermediate,Compute: 14 × 14,206,210,182,196,196
+5,Maths,Fractions,Intermediate,Compute: 110 + 39,139,159,150,149,149
+5,Maths,Multi-step Operations,Intermediate,Compute: 194 + 200,394,404,384,395,394
+5,Maths,Multi-step Operations,Intermediate,Compute: 44 ÷ 4,12,13,10,11,11
+5,Maths,Multi-step Operations,Intermediate,Compute: 168 ÷ 14,14,12,11,13,12
+5,Maths,Fractions,Intermediate,Compute: 146 - 32,115,104,114,124,114
+5,Maths,Multi-step Operations,Intermediate,Compute: 60 ÷ 10,7,8,5,6,6
+5,Maths,Multiplication & Division,Intermediate,Compute: 120 ÷ 15,10,7,9,8,8
+5,Maths,Multi-step Operations,Intermediate,Compute: 101 + 165,266,276,256,267,266
+5,Maths,Multi-step Operations,Intermediate,Compute: 143 ÷ 13,13,10,12,11,11
+5,Maths,Decimals,Intermediate,Compute: 12 × 9,99,108,120,118,108
+5,Maths,Multiplication & Division,Intermediate,Compute: 200 + 10,220,200,211,210,210
+5,Maths,Fractions,Intermediate,Compute: 13 + 186,199,189,200,209,199
+5,Maths,Decimals,Intermediate,Compute: 72 + 29,101,102,111,91,101
+5,Maths,Decimals,Intermediate,Compute: 21 ÷ 7,4,5,2,3,3
+5,Maths,Decimals,Intermediate,Compute: 67 + 87,144,154,164,155,154
+5,Maths,Multiplication & Division,Intermediate,Compute: 75 + 187,262,263,272,252,262
+5,Maths,Multiplication & Division,Intermediate,Compute: 84 ÷ 6,13,16,15,14,14
+5,Maths,Fractions,Intermediate,Compute: 22 ÷ 11,1,2,3,4,2
+5,Maths,Multiplication & Division,Intermediate,Compute: 105 + 136,242,241,251,231,241
+5,Maths,Fractions,Intermediate,Compute: 151 + 63,214,215,224,204,214
+5,Maths,Decimals,Intermediate,Compute: 59 - 51,18,8,9,0,8
+5,Maths,Multi-step Operations,Intermediate,Compute: 15 × 7,105,120,115,98,105
+5,Maths,Multi-step Operations,Intermediate,Compute: 180 ÷ 15,14,11,13,12,12
+5,Maths,Multiplication & Division,Intermediate,Compute: 14 - 11,3,0,13,4,3
+5,Maths,Multi-step Operations,Intermediate,Compute: 8 + 36,45,34,54,44,44
+5,Maths,Decimals,Intermediate,Compute: 74 - 18,46,56,66,57,56
+5,Maths,Multiplication & Division,Intermediate,Compute: 10 × 15,160,Option 3,150,135,150
+5,Maths,Decimals,Intermediate,Compute: 21 ÷ 3,8,7,9,6,7
+5,Maths,Fractions,Intermediate,Compute: 162 + 115,267,287,277,278,277
+5,Maths,Decimals,Intermediate,Compute: 16 ÷ 2,10,7,9,8,8
+5,Maths,Multi-step Operations,Intermediate,Compute: 4 × 3,16,9,12,22,12
+5,Maths,Multiplication & Division,Intermediate,Compute: 131 - 26,106,95,115,105,105
+5,Maths,Multi-step Operations,Intermediate,Compute: 165 - 93,82,72,73,62,72
+5,Maths,Multiplication & Division,Intermediate,Compute: 76 - 65,21,12,1,11,11
+5,Maths,Fractions,Intermediate,Compute: 49 + 144,194,183,193,203,193
+5,Maths,Multi-step Operations,Intermediate,Compute: 197 + 1,198,208,188,199,198
+5,Maths,Multiplication & Division,Intermediate,Compute: 157 - 124,33,43,34,23,33
+5,Maths,Fractions,Intermediate,Compute: 11 × 12,143,132,120,142,132
+5,Maths,Multi-step Operations,Intermediate,Compute: 44 ÷ 11,4,3,6,5,4
+5,Maths,Multiplication & Division,Intermediate,Compute: 136 + 78,214,204,215,224,214
+5,Maths,Decimals,Intermediate,Compute: 8 × 8,74,56,72,64,64
+5,Maths,Fractions,Intermediate,Compute: 187 - 170,18,17,27,7,17
+5,Maths,Decimals,Intermediate,Compute: 75 ÷ 5,16,15,17,14,15
+5,Maths,Multi-step Operations,Intermediate,Compute: 158 + 100,268,259,248,258,258
+5,Maths,Decimals,Intermediate,Compute: 143 - 50,94,93,103,83,93
+5,Maths,Decimals,Intermediate,Compute: 6 × 4,20,24,34,30,24
+5,Maths,Multi-step Operations,Intermediate,Compute: 157 - 23,134,144,124,135,134
+5,Maths,Multiplication & Division,Intermediate,Compute: 58 + 83,131,142,141,151,141
+5,Maths,Multiplication & Division,Intermediate,Compute: 9 × 2,16,18,27,28,18
+5,Maths,Fractions,Intermediate,Compute: 36 + 194,220,231,230,240,230
+5,Maths,Decimals,Intermediate,Compute: 142 + 190,332,333,322,342,332
+5,Maths,Multi-step Operations,Intermediate,Compute: 105 - 95,11,20,0,10,10
+5,Maths,Multi-step Operations,Intermediate,Compute: 17 + 10,28,37,27,17,27
+5,Maths,Fractions,Intermediate,Compute: 12 × 8,96,106,108,88,96
+5,Maths,Multiplication & Division,Intermediate,Compute: 38 + 148,187,176,186,196,186
+5,Maths,Decimals,Intermediate,Compute: 88 ÷ 8,12,11,13,10,11
+5,Maths,Decimals,Intermediate,Compute: 11 × 13,154,130,153,143,143
+5,Maths,Multi-step Operations,Intermediate,Compute: 158 + 123,281,271,291,282,281
+5,Maths,Multiplication & Division,Intermediate,Compute: 38 + 62,110,101,100,90,100
+5,Maths,Decimals,Intermediate,Compute: 4 ÷ 2,1,4,2,3,2
+5,Maths,Fractions,Intermediate,Compute: 128 - 71,58,47,67,57,57
+5,Maths,Fractions,Intermediate,Compute: 2 × 5,10,20,12,5,10
+5,Maths,Decimals,Intermediate,Compute: 24 - 22,3,2,12,0,2
+5,Maths,Multiplication & Division,Intermediate,Compute: 7 × 15,115,105,90,112,105
+5,Maths,Fractions,Intermediate,Compute: 64 + 138,192,203,202,212,202
+5,Maths,Fractions,Intermediate,Compute: 169 + 171,350,330,341,340,340
+5,Maths,Multi-step Operations,Intermediate,Compute: 16 ÷ 8,2,3,4,1,2
+5,Maths,Decimals,Intermediate,Compute: 36 ÷ 6,5,8,6,7,6
+5,Maths,Decimals,Intermediate,Compute: 64 + 19,73,84,83,93,83
+5,Maths,Multi-step Operations,Intermediate,Compute: 188 + 10,199,188,208,198,198
+5,Maths,Fractions,Intermediate,Compute: 10 ÷ 2,5,6,7,4,5
+5,Maths,Fractions,Intermediate,Compute: 99 ÷ 11,11,8,9,10,9
+5,Maths,Multi-step Operations,Intermediate,Compute: 149 + 197,336,346,356,347,346
+5,Maths,Multi-step Operations,Intermediate,Compute: 48 ÷ 12,4,3,5,6,4
+5,Maths,Decimals,Intermediate,Compute: 173 - 26,148,147,137,157,147
+5,Maths,Multi-step Operations,Intermediate,Compute: 2 × 8,16,26,18,8,16
+5,Maths,Decimals,Intermediate,Compute: 116 - 103,14,3,23,13,13
+5,Maths,Multiplication & Division,Intermediate,Compute: 110 ÷ 11,10,9,12,11,10
+5,Maths,Multi-step Operations,Intermediate,Compute: 40 ÷ 8,5,6,7,4,5
+5,Maths,Fractions,Intermediate,Compute: 89 + 177,266,276,256,267,266
+5,Maths,Decimals,Intermediate,Compute: 70 ÷ 5,15,14,13,16,14
+5,Maths,Multi-step Operations,Intermediate,Compute: 158 - 56,103,92,112,102,102
+5,Maths,Multiplication & Division,Intermediate,Compute: 23 + 72,95,96,85,105,95
+5,Maths,Fractions,Intermediate,Compute: 14 × 2,42,28,38,26,28
+5,Maths,Multiplication & Division,Intermediate,Compute: 142 - 16,126,136,127,116,126
+5,Maths,Fractions,Intermediate,Compute: 10 × 10,Option 3,90,100,110,100
+5,Maths,Fractions,Intermediate,Compute: 30 ÷ 10,3,5,2,4,3
+5,Maths,Decimals,Intermediate,Compute: 42 ÷ 7,7,6,5,8,6
+5,Maths,Multi-step Operations,Intermediate,Compute: 135 ÷ 15,8,11,9,10,9
+5,Maths,Decimals,Intermediate,Compute: 80 ÷ 10,10,8,9,7,8
+5,Maths,Multiplication & Division,Intermediate,Compute: 8 × 13,91,112,114,104,104
+5,Maths,Multi-step Operations,Intermediate,Compute: 39 ÷ 3,13,15,12,14,13
+5,Maths,Decimals,Intermediate,Compute: 3 × 2,4,6,9,16,6
+5,Maths,Fractions,Intermediate,Compute: 29 + 10,39,29,40,49,39
+5,Maths,Decimals,Intermediate,Compute: 144 + 72,226,206,216,217,216
+5,Maths,Fractions,Intermediate,Compute: 45 ÷ 15,3,4,2,5,3
+5,Maths,Multi-step Operations,Intermediate,Compute: 130 + 46,176,166,177,186,176
+5,Maths,Multiplication & Division,Intermediate,Compute: 130 - 115,15,5,25,16,15
+5,Maths,Multiplication & Division,Intermediate,Compute: 192 - 157,45,35,25,36,35
+5,Maths,Fractions,Intermediate,Compute: 7 × 11,66,84,87,77,77
+5,Maths,Decimals,Intermediate,Compute: 99 - 24,76,65,75,85,75
+5,Maths,Multi-step Operations,Intermediate,Compute: 98 + 21,119,120,129,109,119
+5,Maths,Decimals,Intermediate,Compute: 108 - 81,28,17,37,27,27
+5,Maths,Fractions,Intermediate,Compute: 140 - 45,105,96,85,95,95
+5,Maths,Multiplication & Division,Intermediate,Compute: 138 + 154,292,302,282,293,292
+5,Maths,Decimals,Intermediate,Compute: 165 + 175,330,350,340,341,340
+5,Maths,Decimals,Intermediate,Compute: 12 ÷ 2,6,8,7,5,6
+5,Maths,Multiplication & Division,Intermediate,Compute: 68 - 37,21,31,41,32,31
+5,Maths,Multiplication & Division,Intermediate,Compute: 9 × 15,144,145,120,135,135
+5,Maths,Fractions,Intermediate,Compute: 111 - 16,96,105,95,85,95
+5,Maths,Decimals,Intermediate,Compute: 7 × 7,42,59,49,56,49
+5,Maths,Fractions,Intermediate,Compute: 75 + 167,243,252,232,242,242
+5,Maths,Multi-step Operations,Intermediate,Compute: 11 × 7,88,87,70,77,77
+5,Maths,Decimals,Intermediate,Compute: 3 × 11,43,22,33,36,33
+5,Maths,Multiplication & Division,Intermediate,Compute: 80 ÷ 8,11,12,9,10,10
+5,Maths,Fractions,Intermediate,Compute: 15 + 169,185,174,194,184,184
+5,Maths,Decimals,Intermediate,Compute: 104 + 108,222,212,213,202,212
+5,Maths,Multi-step Operations,Intermediate,Compute: 11 × 10,121,110,120,100,110
+5,Maths,Multi-step Operations,Intermediate,Compute: 70 - 34,36,26,46,37,36
+5,Maths,Multi-step Operations,Intermediate,Compute: 110 - 38,73,72,62,82,72
+5,Maths,Multi-step Operations,Intermediate,Compute: 8 × 11,88,77,98,96,88
+5,Maths,Multiplication & Division,Intermediate,Compute: 40 ÷ 10,5,4,3,6,4
+5,Maths,Fractions,Intermediate,Compute: 12 × 2,36,24,34,22,24
+5,Maths,Multiplication & Division,Intermediate,Compute: 106 + 102,209,198,218,208,208
+5,Maths,Multi-step Operations,Intermediate,Compute: 120 - 25,96,85,105,95,95
+5,Maths,Multiplication & Division,Intermediate,Compute: 56 + 147,193,213,203,204,203
+5,Maths,Multi-step Operations,Intermediate,Compute: 41 + 140,191,171,181,182,181
+5,Maths,Decimals,Intermediate,Compute: 60 ÷ 12,6,5,7,4,5
+5,Maths,Fractions,Intermediate,Compute: 148 - 113,45,25,36,35,35
+5,Maths,Fractions,Intermediate,Compute: 84 - 21,73,64,63,53,63
+5,Maths,Fractions,Intermediate,Compute: 185 - 62,123,133,124,113,123
+5,Maths,Decimals,Intermediate,Compute: 24 - 9,25,15,16,5,15
+5,Maths,Multiplication & Division,Intermediate,Compute: 155 - 97,59,48,58,68,58
+5,Maths,Fractions,Intermediate,Compute: 33 ÷ 3,13,10,11,12,11
+5,Maths,Fractions,Intermediate,Compute: 75 ÷ 15,5,4,6,7,5
+5,Maths,Multi-step Operations,Intermediate,Compute: 39 ÷ 13,4,5,3,2,3
+5,Maths,Multiplication & Division,Intermediate,Compute: 199 - 188,1,12,21,11,11
+5,Maths,Multi-step Operations,Intermediate,Compute: 4 × 10,30,44,40,50,40
+5,Maths,Multiplication & Division,Intermediate,Compute: 20 ÷ 10,1,4,3,2,2
+5,Maths,Decimals,Intermediate,Compute: 125 - 107,19,8,18,28,18
+5,Maths,Multi-step Operations,Intermediate,Compute: 9 + 16,35,25,26,15,25
+5,Maths,Decimals,Intermediate,Compute: 95 - 37,48,59,68,58,58
+5,Maths,Multiplication & Division,Intermediate,Compute: 5 × 3,15,20,25,12,15
+5,Maths,Multiplication & Division,Intermediate,Compute: 13 × 6,72,91,88,78,78
+5,Maths,Fractions,Intermediate,Compute: 157 + 154,301,311,321,312,311
+5,Maths,Multi-step Operations,Intermediate,Compute: 108 ÷ 9,12,13,11,14,12
+5,Maths,Fractions,Intermediate,Compute: 146 - 64,82,83,92,72,82
+5,Maths,Multiplication & Division,Intermediate,Compute: 56 ÷ 4,15,13,14,16,14
+5,Maths,Decimals,Intermediate,Compute: 87 - 13,74,84,64,75,74
+5,Maths,Multiplication & Division,Intermediate,Compute: 47 + 13,70,60,61,50,60
+5,Maths,Multiplication & Division,Intermediate,Compute: 15 × 9,135,145,126,150,135
+5,Maths,Fractions,Intermediate,Compute: 5 × 15,80,85,75,60,75
+5,Maths,Decimals,Intermediate,Compute: 166 - 64,92,112,102,103,102
+5,Maths,Multiplication & Division,Intermediate,Compute: 118 - 48,60,70,71,80,70
+5,Maths,Decimals,Intermediate,Compute: 7 × 10,80,60,70,77,70
+5,Maths,Fractions,Intermediate,Compute: 60 ÷ 6,11,10,9,12,10
+5,Maths,Multiplication & Division,Intermediate,Compute: 169 ÷ 13,12,13,14,15,13
+5,Maths,Decimals,Intermediate,Compute: 3 + 121,125,124,134,114,124
+5,Maths,Decimals,Intermediate,Compute: 15 × 3,42,45,55,60,45
+5,Maths,Decimals,Intermediate,Compute: 6 ÷ 2,4,5,3,2,3
+5,Maths,Decimals,Intermediate,Compute: 181 - 89,82,92,93,102,92
+5,Maths,Fractions,Intermediate,Compute: 120 ÷ 10,13,12,11,14,12
+5,Maths,Decimals,Intermediate,Compute: 75 + 137,213,212,222,202,212
+5,Maths,Multiplication & Division,Intermediate,Compute: 14 × 8,122,126,112,104,112
+5,Maths,Multi-step Operations,Intermediate,Compute: 134 - 55,69,80,79,89,79
+5,Maths,Multi-step Operations,Intermediate,Compute: 8 × 12,84,96,104,106,96
+5,Maths,Fractions,Intermediate,Compute: 179 - 36,143,153,133,144,143
+5,Maths,Fractions,Intermediate,Compute: 162 - 19,143,133,153,144,143
+5,Maths,Multiplication & Division,Intermediate,Compute: 12 × 10,130,132,110,120,120
+5,Maths,Multi-step Operations,Intermediate,Compute: 4 + 28,33,22,32,42,32
+5,Maths,Fractions,Intermediate,Compute: 135 - 6,129,119,139,130,129
+5,Maths,Multiplication & Division,Intermediate,Compute: 79 + 2,71,81,82,91,81
+5,Maths,Multiplication & Division,Intermediate,Compute: 127 - 4,124,123,133,113,123
+5,Maths,Multiplication & Division,Intermediate,Compute: 141 - 95,47,36,46,56,46
+5,Maths,Multi-step Operations,Intermediate,Compute: 22 + 173,205,185,196,195,195
+5,Maths,Multiplication & Division,Intermediate,Compute: 139 + 35,184,175,164,174,174
+5,Maths,Decimals,Intermediate,Compute: 94 - 44,50,60,51,40,50
+5,Maths,Multiplication & Division,Intermediate,Compute: 60 + 66,136,126,127,116,126
+5,Maths,Multiplication & Division,Intermediate,Compute: 129 + 66,205,185,196,195,195
+5,Maths,Decimals,Intermediate,Compute: 77 ÷ 11,7,8,6,9,7
+5,Maths,Multiplication & Division,Intermediate,Compute: 40 + 122,172,162,152,163,162
+5,Maths,Fractions,Intermediate,Compute: 7 - 1,6,7,16,0,6
+5,Maths,Multiplication & Division,Intermediate,Compute: 45 ÷ 3,15,17,16,14,15
+5,Maths,Fractions,Intermediate,Compute: 12 × 4,44,58,60,48,48
+5,Maths,Fractions,Intermediate,Compute: 92 - 9,84,73,83,93,83
+5,Maths,Fractions,Intermediate,Compute: 122 + 68,180,200,190,191,190
+5,Maths,Multiplication & Division,Intermediate,Compute: 32 + 4,37,36,46,26,36
+5,Maths,Multiplication & Division,Intermediate,Compute: 60 ÷ 4,16,15,17,14,15
+5,Maths,Fractions,Intermediate,Compute: 137 + 127,265,264,274,254,264
+5,Maths,Fractions,Intermediate,Compute: 80 - 18,63,52,62,72,62
+5,Maths,Fractions,Intermediate,Compute: 75 + 198,283,263,274,273,273
+5,Maths,Multi-step Operations,Intermediate,Compute: 4 × 7,38,32,28,21,28
+5,Maths,Multi-step Operations,Intermediate,Compute: 53 + 3,66,46,56,57,56
+5,Maths,Decimals,Intermediate,Compute: 6 × 9,64,54,45,60,54
+5,Maths,Multi-step Operations,Intermediate,Compute: 7 + 21,29,28,18,38,28
+5,Maths,Fractions,Intermediate,Compute: 21 + 197,208,219,228,218,218
+5,Maths,Fractions,Intermediate,Compute: 14 × 15,195,224,210,220,210
+5,Maths,Decimals,Intermediate,Compute: 30 + 4,24,44,35,34,34
+5,Maths,Fractions,Intermediate,Compute: 80 + 137,207,227,217,218,217
+5,Maths,Fractions,Intermediate,Compute: 42 ÷ 3,13,16,15,14,14
+5,Maths,Fractions,Intermediate,Compute: 141 - 86,55,56,65,45,55
+5,Maths,Multi-step Operations,Intermediate,Compute: 81 - 28,63,43,53,54,53
+5,Maths,Fractions,Intermediate,Compute: 14 × 12,178,168,182,156,168
+5,Maths,Decimals,Intermediate,Compute: 40 ÷ 4,9,11,12,10,10
+5,Maths,Multiplication & Division,Intermediate,Compute: 173 - 19,154,155,164,144,154
+5,Maths,Multiplication & Division,Intermediate,Compute: 136 - 50,86,87,96,76,86
+5,Maths,Multi-step Operations,Intermediate,Compute: 26 + 62,98,78,89,88,88
+5,Maths,Multiplication & Division,Intermediate,Compute: 129 + 148,267,287,278,277,277
+5,Maths,Fractions,Intermediate,Compute: 110 ÷ 10,13,12,11,10,11
+5,Maths,Multiplication & Division,Intermediate,Compute: 102 - 63,29,40,49,39,39
+5,Maths,Multi-step Operations,Intermediate,Compute: 55 + 109,154,165,174,164,164
+5,Maths,Multiplication & Division,Intermediate,Compute: 112 ÷ 8,15,14,16,13,14
+5,Maths,Decimals,Intermediate,Compute: 182 - 132,51,40,50,60,50
+5,Maths,Multiplication & Division,Intermediate,Compute: 182 ÷ 13,15,14,13,16,14
+5,Maths,Multiplication & Division,Intermediate,Compute: 25 ÷ 5,7,4,5,6,5
+5,Maths,Fractions,Intermediate,Compute: 11 × 5,50,66,55,65,55
+5,Maths,Multiplication & Division,Intermediate,Compute: 168 - 11,167,157,158,147,157
+5,Maths,Multiplication & Division,Intermediate,Compute: 156 ÷ 13,14,12,11,13,12
+5,Maths,Decimals,Intermediate,Compute: 72 ÷ 12,6,8,5,7,6
+5,Maths,Fractions,Intermediate,Compute: 160 + 141,311,291,302,301,301
+5,Maths,Fractions,Intermediate,Compute: 113 - 62,41,52,51,61,51
+5,Maths,Fractions,Intermediate,Compute: 36 ÷ 3,13,12,11,14,12
+5,Maths,Multi-step Operations,Intermediate,Compute: 8 ÷ 2,4,6,5,3,4
+5,Maths,Multi-step Operations,Intermediate,Compute: 162 - 70,93,92,102,82,92
+5,Maths,Multi-step Operations,Intermediate,Compute: 4 + 19,33,24,23,13,23
+5,Maths,Fractions,Intermediate,Compute: 88 ÷ 11,9,7,10,8,8
+5,Maths,Multi-step Operations,Intermediate,Compute: 130 - 60,60,70,80,71,70
+5,Maths,Multi-step Operations,Intermediate,Compute: 194 - 68,126,116,136,127,126
+5,Maths,Multi-step Operations,Intermediate,Compute: 11 × 6,66,76,77,60,66
+5,Maths,Decimals,Intermediate,Compute: 179 - 50,129,119,130,139,129
+5,Maths,Multiplication & Division,Intermediate,Compute: 45 - 13,22,32,33,42,32
+5,Maths,Multiplication & Division,Intermediate,Compute: 153 - 91,63,72,52,62,62
+5,Maths,Multiplication & Division,Intermediate,Compute: 7 × 13,98,91,78,101,91
+5,Maths,Decimals,Intermediate,Compute: 144 + 173,307,317,318,327,317
+5,Maths,Multiplication & Division,Intermediate,Compute: 118 + 180,299,298,288,308,298
+5,Maths,Multi-step Operations,Intermediate,Compute: 165 ÷ 15,10,12,11,13,11
+5,Maths,Multi-step Operations,Intermediate,Compute: 170 - 27,144,133,143,153,143
+5,Maths,Multiplication & Division,Intermediate,Compute: 193 - 142,51,61,41,52,51
+5,Maths,Multi-step Operations,Intermediate,Compute: 35 + 171,196,207,216,206,206
+5,Maths,Decimals,Intermediate,Compute: 86 - 29,67,47,58,57,57
+5,Maths,Decimals,Intermediate,Compute: 13 × 14,195,182,192,168,182
+5,Maths,Multiplication & Division,Intermediate,Compute: 18 + 21,29,39,49,40,39
+5,Maths,Multiplication & Division,Intermediate,Compute: 171 + 77,238,249,248,258,248
+5,Maths,Multiplication & Division,Intermediate,Compute: 117 ÷ 9,14,12,13,15,13
+5,Maths,Decimals,Intermediate,Compute: 10 × 9,81,90,Option 3,100,90
+5,Maths,Decimals,Intermediate,Compute: 149 - 32,107,127,117,118,117
+5,Maths,Multi-step Operations,Intermediate,Compute: 111 - 95,6,17,16,26,16
+5,Maths,Decimals,Intermediate,Compute: 10 × 8,80,90,Option 3,72,80
+5,Maths,Decimals,Intermediate,Compute: 6 × 15,90,100,75,96,90
+5,Maths,Multiplication & Division,Intermediate,Compute: 180 - 77,104,93,113,103,103
+5,Maths,Decimals,Intermediate,Compute: 200 - 51,150,149,139,159,149
+5,Maths,Fractions,Intermediate,Compute: 23 + 188,211,201,212,221,211
+5,Maths,Multiplication & Division,Intermediate,Compute: 24 ÷ 6,6,5,4,3,4
+5,Maths,Fractions,Intermediate,Compute: 132 ÷ 11,13,12,14,11,12
+5,Maths,Fractions,Intermediate,Compute: 168 ÷ 12,15,14,13,16,14
+5,Maths,Fractions,Intermediate,Compute: 4 × 12,58,36,48,52,48
+5,Maths,Multiplication & Division,Intermediate,Compute: 180 - 104,86,66,77,76,76
+5,Maths,Multi-step Operations,Intermediate,Compute: 31 + 185,226,217,216,206,216
+5,Maths,Multi-step Operations,Intermediate,Compute: 138 + 161,300,289,309,299,299
+5,Maths,Multi-step Operations,Intermediate,Compute: 90 ÷ 15,8,5,6,7,6
+5,Maths,Multiplication & Division,Intermediate,Compute: 16 + 61,87,78,77,67,77
+5,Maths,Decimals,Intermediate,Compute: 128 + 27,156,165,145,155,155
+5,Maths,Decimals,Intermediate,Compute: 7 × 5,42,30,45,35,35
+5,Maths,Fractions,Intermediate,Compute: 124 + 157,282,291,271,281,281
+5,Maths,Decimals,Intermediate,Compute: 177 + 87,274,254,264,265,264
+5,Maths,Multi-step Operations,Intermediate,Compute: 11 × 11,131,132,121,110,121
+5,Maths,Multiplication & Division,Intermediate,Compute: 110 + 121,221,231,241,232,231
+5,Maths,Multi-step Operations,Intermediate,Compute: 90 ÷ 10,8,11,10,9,9
+5,Maths,Decimals,Intermediate,Compute: 134 + 170,314,304,294,305,304
+5,Maths,Decimals,Intermediate,Compute: 29 - 7,12,32,23,22,22
+5,Maths,Fractions,Intermediate,Compute: 165 ÷ 11,17,16,14,15,15
+5,Maths,Multiplication & Division,Intermediate,Compute: 175 + 42,207,217,227,218,217
+5,Maths,Decimals,Intermediate,Compute: 5 × 12,60,48,70,65,60
+5,Maths,Multiplication & Division,Intermediate,Compute: 129 - 90,29,49,40,39,39
+5,Maths,Multi-step Operations,Intermediate,Compute: 162 + 21,184,193,183,173,183
+5,Maths,Multiplication & Division,Intermediate,Compute: 191 - 149,52,32,42,43,42
+5,Maths,Fractions,Intermediate,Compute: 9 + 149,158,159,148,168,158
+5,Maths,Decimals,Intermediate,Compute: 179 - 83,97,86,106,96,96
+5,Maths,Fractions,Intermediate,Compute: 13 × 15,208,180,205,195,195
+5,Maths,Decimals,Intermediate,Compute: 10 × 3,Option 3,27,40,30,30
+5,Maths,Multiplication & Division,Intermediate,Compute: 57 + 82,139,140,129,149,139
+5,Maths,Multiplication & Division,Intermediate,Compute: 81 ÷ 9,8,11,9,10,9
+5,Maths,Fractions,Intermediate,Compute: 24 - 7,17,7,27,18,17
+5,Maths,Multi-step Operations,Intermediate,Compute: 5 × 11,60,44,55,65,55
+5,Maths,Multiplication & Division,Intermediate,Compute: 51 + 33,74,85,94,84,84
+5,Maths,Fractions,Intermediate,Compute: 170 - 37,143,123,133,134,133
+5,Maths,Fractions,Intermediate,Compute: 83 - 74,9,19,10,0,9
+5,Maths,Multi-step Operations,Intermediate,Compute: 9 × 3,27,37,36,24,27
+5,Maths,Multiplication & Division,Intermediate,Compute: 143 - 107,36,37,46,26,36
+5,Maths,Multi-step Operations,Intermediate,Compute: 3 × 13,39,26,42,49,39
+5,Maths,Multiplication & Division,Intermediate,Compute: 14 × 7,98,112,91,108,98
+5,Maths,Fractions,Intermediate,Compute: 1 + 80,81,71,91,82,81
+5,Maths,Multi-step Operations,Intermediate,Compute: 174 - 121,54,43,63,53,53
+5,Maths,Multi-step Operations,Intermediate,Compute: 66 ÷ 11,8,5,7,6,6
+5,Maths,Multi-step Operations,Intermediate,Compute: 9 × 9,91,81,72,90,81
+5,Maths,Decimals,Intermediate,Compute: 189 - 162,17,28,27,37,27
+5,Maths,Multi-step Operations,Intermediate,Compute: 76 - 10,66,76,67,56,66
+5,Maths,Multi-step Operations,Intermediate,Compute: 13 × 3,36,52,49,39,39
+5,Maths,Decimals,Intermediate,Compute: 83 + 91,184,164,175,174,174
+5,Maths,Multiplication & Division,Intermediate,Compute: 8 × 10,90,88,80,70,80
+5,Maths,Fractions,Intermediate,Compute: 58 - 42,17,6,26,16,16
+5,Maths,Multi-step Operations,Intermediate,Compute: 210 ÷ 15,14,16,13,15,14
+5,Maths,Fractions,Intermediate,Compute: 5 × 9,45,55,36,50,45
+5,Maths,Multiplication & Division,Intermediate,Compute: 90 ÷ 9,11,9,10,12,10
+5,Maths,Decimals,Intermediate,Compute: 28 ÷ 7,6,5,3,4,4
+5,Maths,Fractions,Intermediate,Compute: 199 + 146,335,345,346,355,345
+5,Maths,Fractions,Intermediate,Compute: 9 × 13,104,126,117,127,117
+5,Maths,Multi-step Operations,Intermediate,Compute: 8 × 3,32,34,21,24,24
+5,Maths,Multiplication & Division,Intermediate,Compute: 90 ÷ 6,17,14,16,15,15
+5,Maths,Multi-step Operations,Intermediate,Compute: 59 - 10,39,49,59,50,49
+5,Maths,Multiplication & Division,Intermediate,Compute: 183 - 104,79,69,80,89,79
+5,Maths,Decimals,Intermediate,Compute: 122 - 3,109,120,129,119,119
+5,Maths,Multi-step Operations,Intermediate,Compute: 6 × 11,76,66,72,55,66
+5,Maths,Decimals,Intermediate,Compute: 70 + 151,222,221,211,231,221
+5,Maths,Fractions,Intermediate,Compute: 10 ÷ 5,2,4,3,1,2
+5,Maths,Multi-step Operations,Intermediate,Compute: 98 ÷ 14,7,8,6,9,7
+5,Maths,Decimals,Intermediate,Compute: 174 + 167,342,341,351,331,341
+5,Maths,Multi-step Operations,Intermediate,Compute: 2 × 9,9,18,20,28,18
+5,Maths,Multiplication & Division,Intermediate,Compute: 126 ÷ 9,13,16,14,15,14
+5,Maths,Multiplication & Division,Intermediate,Compute: 106 - 98,8,18,0,9,8
+5,Maths,Multi-step Operations,Intermediate,Compute: 11 × 14,140,165,164,154,154
+5,Maths,Multi-step Operations,Intermediate,Compute: 130 ÷ 10,14,15,12,13,13
+5,Maths,Decimals,Intermediate,Compute: 6 × 10,50,70,66,60,60
+5,Maths,Decimals,Intermediate,Compute: 11 × 9,110,99,90,109,99
+5,Maths,Decimals,Intermediate,Compute: 4 × 4,26,20,12,16,16
+5,Maths,Decimals,Intermediate,Compute: 130 - 6,125,124,134,114,124
+5,Maths,Decimals,Intermediate,Compute: 174 + 83,258,247,267,257,257
+5,Maths,Fractions,Intermediate,Compute: 2 × 14,30,38,28,14,28
+5,Maths,Decimals,Intermediate,Compute: 14 × 11,154,143,164,168,154
+5,Maths,Decimals,Intermediate,Compute: 150 ÷ 15,10,9,12,11,10
+5,Maths,Decimals,Intermediate,Compute: 104 + 169,274,263,273,283,273
+5,Maths,Decimals,Intermediate,Compute: 4 × 6,24,18,28,34,24
+5,Maths,Fractions,Intermediate,Compute: 10 × 4,Option 3,36,40,50,40
+5,Maths,Decimals,Intermediate,Compute: 40 - 18,12,23,22,32,22
+5,Maths,Fractions,Intermediate,Compute: 144 ÷ 12,12,13,14,11,12
+5,Maths,Multi-step Operations,Intermediate,Compute: 200 - 33,168,177,157,167,167
+5,Maths,Fractions,Intermediate,Compute: 8 × 7,49,56,64,66,56
+5,Maths,Decimals,Intermediate,Compute: 35 + 147,183,172,192,182,182
+5,Maths,Multiplication & Division,Intermediate,Compute: 130 - 107,33,23,13,24,23
+5,Maths,Fractions,Intermediate,Compute: 118 - 5,123,114,103,113,113
+5,Maths,Multiplication & Division,Intermediate,Compute: 53 + 20,73,83,74,63,73
+5,Maths,Multiplication & Division,Intermediate,Compute: 191 - 140,41,52,51,61,51
+5,Maths,Fractions,Intermediate,Compute: 128 - 44,85,94,74,84,84
+5,Maths,Multi-step Operations,Intermediate,Compute: 90 - 64,26,27,36,16,26
+5,Maths,Decimals,Intermediate,Compute: 15 ÷ 3,7,4,6,5,5
+5,Maths,Fractions,Intermediate,Compute: 12 × 5,60,70,55,72,60
+5,Maths,Multiplication & Division,Intermediate,Compute: 172 - 166,16,6,7,0,6
+5,Maths,Multi-step Operations,Intermediate,Compute: 40 + 69,109,110,99,119,109
+5,Maths,Multiplication & Division,Intermediate,Compute: 0 + 113,113,123,103,114,113
+5,Maths,Decimals,Intermediate,Compute: 159 - 17,152,142,143,132,142
+5,Maths,Decimals,Intermediate,Compute: 98 + 16,114,104,124,115,114
+5,Maths,Fractions,Intermediate,Compute: 175 + 59,234,244,235,224,234
+5,Maths,Multiplication & Division,Intermediate,Compute: 12 ÷ 6,3,2,4,1,2
+5,Maths,Multi-step Operations,Intermediate,Compute: 11 + 46,58,57,47,67,57
+5,Maths,Decimals,Intermediate,Compute: 178 - 86,82,93,102,92,92
+5,Maths,Multi-step Operations,Intermediate,Compute: 9 × 8,81,82,72,64,72
+5,Maths,Fractions,Intermediate,Compute: 2 × 3,16,8,6,3,6
+5,Maths,Multiplication & Division,Intermediate,Compute: 186 + 191,378,387,377,367,377
+5,Maths,Multiplication & Division,Intermediate,Compute: 84 ÷ 12,8,6,7,9,7
+5,Maths,Multi-step Operations,Intermediate,Compute: 10 × 2,20,30,18,Option 3,20
+5,Maths,Multiplication & Division,Intermediate,Compute: 58 - 3,56,45,55,65,55
+5,Maths,Multi-step Operations,Intermediate,Compute: 155 + 167,323,322,332,312,322
+5,Maths,Decimals,Intermediate,Compute: 111 - 48,53,63,73,64,63
+5,Maths,Decimals,Intermediate,Compute: 103 - 7,97,86,106,96,96
+5,Maths,Decimals,Intermediate,Compute: 80 + 192,262,282,273,272,272
+5,Maths,Multi-step Operations,Intermediate,Compute: 96 ÷ 12,10,7,9,8,8
+5,Maths,Fractions,Intermediate,Compute: 164 - 31,134,143,133,123,133
+5,Maths,Fractions,Intermediate,Compute: 4 × 13,56,52,39,62,52
+5,Maths,Decimals,Intermediate,Compute: 162 + 176,338,348,328,339,338
+5,Maths,Multi-step Operations,Intermediate,Compute: 139 + 185,324,334,325,314,324
+5,Maths,Decimals,Intermediate,Compute: 195 + 189,384,385,394,374,384
+5,Maths,Multiplication & Division,Intermediate,Compute: 4 × 5,15,30,24,20,20
+5,Maths,Multiplication & Division,Intermediate,Compute: 139 - 7,133,122,142,132,132
+5,Maths,Multiplication & Division,Intermediate,Compute: 24 ÷ 3,7,9,8,10,8
+5,Maths,Fractions,Intermediate,Compute: 108 + 125,223,233,234,243,233
+5,Maths,Multi-step Operations,Intermediate,Compute: 5 + 58,53,63,64,73,63
+5,Maths,Multi-step Operations,Intermediate,Compute: 56 ÷ 8,7,8,9,6,7
+5,Maths,Multi-step Operations,Intermediate,Compute: 93 + 46,140,129,149,139,139
+5,Maths,Multi-step Operations,Intermediate,Compute: 15 × 2,45,40,28,30,30
+5,Maths,Multiplication & Division,Intermediate,Compute: 171 + 18,199,190,189,179,189
+5,Maths,Multiplication & Division,Intermediate,Compute: 9 × 7,72,63,56,73,63
+5,Maths,Multiplication & Division,Intermediate,Compute: 155 + 104,269,260,249,259,259
+5,Maths,Decimals,Intermediate,Compute: 30 ÷ 3,11,10,9,12,10
+5,Maths,Decimals,Intermediate,Compute: 196 ÷ 14,16,15,13,14,14
+5,Maths,Decimals,Intermediate,Compute: 105 - 6,100,109,89,99,99
+5,Maths,Multi-step Operations,Intermediate,Compute: 72 + 11,73,84,93,83,83
+5,Maths,Fractions,Intermediate,Compute: 126 - 72,64,44,54,55,54
+5,Maths,Multiplication & Division,Intermediate,Compute: 148 - 85,53,64,63,73,63
+5,Maths,Fractions,Intermediate,Compute: 97 - 21,66,77,76,86,76
+5,Maths,Multiplication & Division,Intermediate,Compute: 72 - 36,37,46,36,26,36
+5,Maths,Multiplication & Division,Intermediate,Compute: 11 × 4,40,55,54,44,44
+5,Maths,Multi-step Operations,Intermediate,Compute: 81 + 135,217,206,226,216,216
+5,Maths,Decimals,Intermediate,Compute: 23 + 41,64,54,65,74,64
+5,Maths,Multi-step Operations,Intermediate,Compute: 154 ÷ 14,10,13,12,11,11
+5,Maths,Decimals,Intermediate,Compute: 68 - 31,47,37,38,27,37
+5,Maths,Fractions,Intermediate,Compute: 8 × 9,63,80,72,82,72
+5,Maths,Fractions,Intermediate,Compute: 135 - 63,72,73,62,82,72
+5,Maths,Multiplication & Division,Intermediate,Compute: 91 + 169,261,260,250,270,260
+5,Maths,Decimals,Intermediate,Compute: 114 + 126,241,250,230,240,240
+5,Maths,Multiplication & Division,Intermediate,Compute: 95 + 142,238,247,227,237,237
+5,Maths,Multi-step Operations,Intermediate,Compute: 182 - 79,103,104,93,113,103
+5,Maths,Multiplication & Division,Intermediate,Compute: 20 + 53,63,73,83,74,73
+5,Maths,Multiplication & Division,Intermediate,Compute: 87 - 86,11,2,0,1,1
+5,Maths,Fractions,Intermediate,Compute: 199 - 136,53,73,64,63,63
+5,Maths,Multi-step Operations,Intermediate,Compute: 40 ÷ 5,10,9,8,7,8
+5,Maths,Multiplication & Division,Intermediate,Compute: 62 - 46,16,26,6,17,16
+5,Maths,Decimals,Intermediate,Compute: 8 × 5,40,50,48,35,40
+5,Maths,Multi-step Operations,Intermediate,Compute: 2 × 2,4,2,14,6,4
+5,Maths,Decimals,Intermediate,Compute: 155 + 165,310,321,320,330,320
+5,Maths,Decimals,Intermediate,Compute: 13 × 4,48,52,65,62,52
+5,Maths,Fractions,Intermediate,Compute: 181 + 139,321,320,310,330,320
+5,Maths,Fractions,Intermediate,Compute: 96 ÷ 8,13,11,12,14,12
+5,Maths,Multi-step Operations,Intermediate,Compute: 171 + 84,255,245,265,256,255
+5,Maths,Fractions,Intermediate,Compute: 147 - 138,19,10,9,0,9
+5,Maths,Decimals,Intermediate,Compute: 150 + 145,305,285,295,296,295
+5,Maths,Multiplication & Division,Intermediate,Compute: 99 ÷ 9,10,13,11,12,11
+5,Maths,Multi-step Operations,Intermediate,Compute: 116 - 75,41,42,31,51,41
+5,Maths,Decimals,Intermediate,Compute: 165 + 121,287,276,286,296,286
+5,Maths,Multiplication & Division,Intermediate,Compute: 196 - 54,142,152,132,143,142
+5,Maths,Multi-step Operations,Intermediate,Compute: 45 + 185,240,230,231,220,230
+5,Maths,Multi-step Operations,Intermediate,Compute: 135 ÷ 9,16,15,17,14,15
+5,Maths,Fractions,Intermediate,Compute: 98 - 63,36,25,45,35,35
+5,Maths,Decimals,Intermediate,Compute: 157 - 136,21,11,22,31,21
+5,Maths,Decimals,Intermediate,Compute: 87 + 47,144,124,135,134,134
+5,Maths,Decimals,Intermediate,Compute: 143 + 60,204,213,203,193,203
+5,Maths,Multiplication & Division,Intermediate,Compute: 79 - 20,59,69,49,60,59
+5,Maths,Fractions,Intermediate,Compute: 137 + 90,237,217,228,227,227
+5,Maths,Fractions,Intermediate,Compute: 115 + 11,127,126,116,136,126
+5,Maths,Multi-step Operations,Intermediate,Compute: 50 ÷ 10,4,7,6,5,5
+5,Maths,Decimals,Intermediate,Compute: 5 × 7,28,35,40,45,35
+5,Maths,Decimals,Intermediate,Compute: 185 + 173,368,348,358,359,358
+5,Maths,Decimals,Intermediate,Compute: 186 - 72,115,124,114,104,114
+5,Maths,Multiplication & Division,Intermediate,Compute: 191 - 14,167,177,187,178,177
+5,Maths,Decimals,Intermediate,Compute: 14 × 3,52,42,39,56,42
+5,Maths,Multi-step Operations,Intermediate,Compute: 95 + 152,257,248,237,247,247
+5,Maths,Multiplication & Division,Intermediate,Compute: 163 + 26,199,179,190,189,189
+5,Maths,Decimals,Intermediate,Compute: 0 + 87,87,97,88,77,87
+5,Maths,Multi-step Operations,Intermediate,Compute: 113 + 107,210,230,221,220,220
+5,Maths,Multiplication & Division,Intermediate,Compute: 93 + 119,202,222,213,212,212
+5,Maths,Fractions,Intermediate,Compute: 197 - 166,41,31,32,21,31
+5,Maths,Multiplication & Division,Intermediate,Compute: 57 + 185,252,232,243,242,242
+5,Maths,Multiplication & Division,Intermediate,Compute: 140 ÷ 14,10,11,12,9,10
+5,Maths,Fractions,Intermediate,Compute: 152 - 26,116,127,136,126,126
+5,Maths,Fractions,Intermediate,Compute: 163 + 43,196,206,207,216,206
+5,Maths,Decimals,Intermediate,Compute: 32 ÷ 8,3,4,6,5,4
+5,Maths,Multiplication & Division,Intermediate,Compute: 4 × 14,66,42,60,56,56
+5,Maths,Decimals,Intermediate,Compute: 17 + 199,217,206,216,226,216
+5,Maths,Fractions,Intermediate,Compute: 184 - 45,140,139,129,149,139
+5,Maths,Multi-step Operations,Intermediate,Compute: 176 - 134,52,43,32,42,42
+5,Maths,Multi-step Operations,Intermediate,Compute: 88 - 30,68,59,58,48,58
+5,Maths,Decimals,Intermediate,Compute: 156 ÷ 12,14,12,15,13,13
+5,Maths,Multi-step Operations,Intermediate,Compute: 113 - 48,55,75,66,65,65
+5,Maths,Decimals,Intermediate,Compute: 132 - 49,73,84,83,93,83
+5,Maths,Multiplication & Division,Intermediate,Compute: 183 + 98,281,271,291,282,281
+5,Maths,Multiplication & Division,Intermediate,Compute: 108 + 22,131,140,120,130,130
+5,Maths,Multiplication & Division,Intermediate,Compute: 70 ÷ 14,5,6,4,7,5
+5,Maths,Fractions,Intermediate,Compute: 9 × 12,108,117,96,118,108
+5,Maths,Multi-step Operations,Intermediate,Compute: 13 × 12,169,156,166,144,156
+5,Maths,Decimals,Intermediate,Compute: 69 + 147,217,216,226,206,216
+5,Maths,Fractions,Intermediate,Compute: 8 ÷ 4,4,2,3,1,2
+5,Maths,Decimals,Intermediate,Compute: 62 - 14,58,48,49,38,48
+5,Maths,Decimals,Intermediate,Compute: 120 ÷ 12,9,12,11,10,10
+5,Maths,Multiplication & Division,Intermediate,Compute: 57 + 99,156,166,146,157,156
+5,Maths,Multi-step Operations,Intermediate,Compute: 3 × 7,14,31,21,24,21
+5,Maths,Fractions,Intermediate,Compute: 18 ÷ 3,6,8,7,5,6
+5,Maths,Decimals,Intermediate,Compute: 7 × 8,66,63,56,48,56
+5,Maths,Fractions,Intermediate,Compute: 10 + 83,103,93,94,83,93
+5,Maths,Fractions,Intermediate,Compute: 7 × 4,35,24,28,38,28
+5,Maths,Decimals,Intermediate,Compute: 164 - 1,153,173,164,163,163
+5,Maths,Multiplication & Division,Intermediate,Compute: 9 - 4,15,5,6,0,5
+5,Maths,Multi-step Operations,Intermediate,Compute: 100 - 43,57,58,47,67,57
+5,Maths,Decimals,Intermediate,Compute: 23 + 122,155,135,146,145,145
+5,Maths,Multiplication & Division,Intermediate,Compute: 127 + 151,268,288,278,279,278
+5,Maths,Multi-step Operations,Intermediate,Compute: 125 + 194,329,309,320,319,319
+5,Maths,Fractions,Intermediate,Compute: 91 - 35,56,57,46,66,56
+5,Maths,Multi-step Operations,Intermediate,Compute: 42 ÷ 14,5,3,4,2,3
+5,Maths,Multi-step Operations,Intermediate,Compute: 147 + 123,270,271,260,280,270
+5,Maths,Multi-step Operations,Intermediate,Compute: 198 + 86,285,284,274,294,284
+5,Maths,Multiplication & Division,Intermediate,Compute: 5 × 14,80,75,70,56,70
+5,Maths,Decimals,Intermediate,Compute: 5 × 5,20,25,35,30,25
+5,Maths,Decimals,Intermediate,Compute: 119 - 84,36,45,25,35,35
+5,Maths,Multiplication & Division,Intermediate,Compute: 117 - 79,28,38,48,39,38
+5,Maths,Multiplication & Division,Intermediate,Compute: 112 ÷ 14,9,10,7,8,8
+5,Maths,Multiplication & Division,Intermediate,Compute: 105 - 85,20,10,21,30,20
+5,Maths,Multi-step Operations,Intermediate,Compute: 173 - 65,108,109,98,118,108
+5,Maths,Decimals,Intermediate,Compute: 136 + 191,327,328,337,317,327
+5,Maths,Multiplication & Division,Intermediate,Compute: 89 + 57,136,146,147,156,146
+5,Maths,Multi-step Operations,Intermediate,Compute: 194 - 14,181,170,180,190,180
+5,Maths,Multi-step Operations,Intermediate,Compute: 49 + 83,133,122,142,132,132
+5,Maths,Multiplication & Division,Intermediate,Compute: 136 - 62,84,75,74,64,74
+5,Maths,Multi-step Operations,Intermediate,Compute: 32 + 119,161,151,141,152,151
+5,Maths,Fractions,Intermediate,Compute: 17 + 157,164,175,184,174,174
+5,Maths,Decimals,Intermediate,Compute: 54 + 117,172,161,181,171,171
+5,Maths,Decimals,Intermediate,Compute: 11 × 2,22,20,33,32,22
+5,Maths,Multiplication & Division,Intermediate,Compute: 7 × 12,91,72,84,94,84
+5,Maths,Fractions,Intermediate,Compute: 7 × 2,12,24,21,14,14
+5,Maths,Fractions,Intermediate,Compute: 164 + 107,271,281,272,261,271
+5,Maths,Decimals,Intermediate,Compute: 72 + 86,168,159,148,158,158
+5,Maths,Multiplication & Division,Intermediate,Compute: 127 - 81,46,47,56,36,46
+5,Maths,Decimals,Intermediate,Compute: 30 - 27,3,13,0,4,3
+5,Maths,Fractions,Intermediate,Compute: 87 + 100,177,197,188,187,187
+5,Maths,Fractions,Intermediate,Compute: 143 + 195,348,338,339,328,338
+5,Maths,Decimals,Intermediate,Compute: 189 - 14,176,175,165,185,175
+5,Maths,Decimals,Intermediate,Compute: 11 × 8,80,98,99,88,88
+5,Maths,Multiplication & Division,Intermediate,Compute: 73 + 47,130,121,110,120,120
+5,Maths,Fractions,Intermediate,Compute: 104 ÷ 13,10,7,8,9,8
+5,Maths,Multiplication & Division,Intermediate,Compute: 15 × 4,60,70,56,75,60
+5,Maths,Multi-step Operations,Intermediate,Compute: 58 - 6,62,53,52,42,52
+5,Maths,Multiplication & Division,Intermediate,Compute: 133 - 71,52,63,62,72,62
+5,Maths,Fractions,Intermediate,Compute: 80 - 28,52,42,62,53,52
+5,Maths,Fractions,Intermediate,Compute: 140 - 57,93,73,84,83,83
+5,Maths,Multiplication & Division,Intermediate,Compute: 5 + 125,140,120,131,130,130
+5,Maths,Multiplication & Division,Intermediate,Compute: 101 + 90,201,192,191,181,191
+5,Maths,Multiplication & Division,Intermediate,Compute: 191 - 90,91,101,111,102,101
+5,Maths,Multiplication & Division,Intermediate,Compute: 27 ÷ 9,4,3,2,5,3
+5,Maths,Decimals,Intermediate,Compute: 91 - 63,18,38,29,28,28
+5,Maths,Multi-step Operations,Intermediate,Compute: 2 × 12,34,12,26,24,24
+5,Maths,Decimals,Intermediate,Compute: 6 × 14,84,94,90,70,84
+5,Maths,Multiplication & Division,Intermediate,Compute: 46 + 19,75,66,65,55,65
+5,Maths,Multiplication & Division,Intermediate,Compute: 105 - 27,68,78,88,79,78
+5,Maths,Multi-step Operations,Intermediate,Compute: 31 - 15,17,26,16,6,16
+5,Maths,Multi-step Operations,Intermediate,Compute: 182 - 100,92,83,72,82,82
+5,Maths,Multi-step Operations,Intermediate,Compute: 5 + 27,22,32,42,33,32
+5,Maths,Multiplication & Division,Intermediate,Compute: 13 × 10,140,143,120,130,130
+5,Maths,Multi-step Operations,Intermediate,Compute: 80 + 190,271,270,280,260,270
+5,Maths,Fractions,Intermediate,Compute: 126 - 24,92,102,112,103,102
+5,Maths,Decimals,Intermediate,Compute: 14 × 9,117,140,126,136,126
+5,Maths,Fractions,Intermediate,Compute: 152 + 183,345,336,325,335,335
+5,Maths,Multi-step Operations,Intermediate,Compute: 85 - 38,57,48,47,37,47
+5,Maths,Decimals,Intermediate,Compute: 179 - 174,15,0,5,6,5
+5,Maths,Decimals,Intermediate,Compute: 179 + 59,228,248,238,239,238
+5,Maths,Decimals,Intermediate,Compute: 90 - 4,87,96,86,76,86
+5,Maths,Fractions,Intermediate,Compute: 122 + 91,213,203,214,223,213
+5,Maths,Fractions,Intermediate,Compute: 109 + 68,167,177,187,178,177
+5,Maths,Fractions,Intermediate,Compute: 142 - 72,71,80,70,60,70
+5,Maths,Decimals,Intermediate,Compute: 171 - 64,108,97,107,117,107
+5,Maths,Multiplication & Division,Intermediate,Compute: 129 - 21,118,109,98,108,108
+5,Maths,Multiplication & Division,Intermediate,Compute: 148 - 142,0,6,16,7,6
+5,Maths,Decimals,Intermediate,Compute: 79 + 129,218,209,198,208,208
+5,Maths,Fractions,Intermediate,Compute: 182 - 89,83,103,93,94,93
+5,Maths,Fractions,Intermediate,Compute: 127 + 19,147,156,136,146,146
+5,Maths,Decimals,Intermediate,Compute: 144 - 11,133,123,134,143,133
+5,Maths,Multiplication & Division,Intermediate,Compute: 15 × 5,90,70,85,75,75
+5,Maths,Decimals,Intermediate,Compute: 60 + 10,80,71,60,70,70
+5,Maths,Multi-step Operations,Intermediate,Compute: 2 × 11,11,32,24,22,22
+5,Maths,Multiplication & Division,Intermediate,Compute: 182 - 152,31,20,40,30,30
+5,Maths,Decimals,Intermediate,Compute: 165 + 139,305,314,304,294,304
+5,Maths,Multi-step Operations,Intermediate,Compute: 151 - 7,154,145,144,134,144
+5,Maths,Fractions,Intermediate,Compute: 8 × 15,120,130,105,128,120
+5,Maths,Multi-step Operations,Intermediate,Compute: 7 × 14,84,98,105,108,98
+5,Maths,Multiplication & Division,Intermediate,Compute: 4 × 2,12,6,8,18,8
+5,Maths,Decimals,Intermediate,Compute: 189 - 5,194,185,174,184,184
+5,Maths,Multi-step Operations,Intermediate,Compute: 52 + 21,73,83,63,74,73
+5,Maths,Multiplication & Division,Intermediate,Compute: 36 + 30,76,56,66,67,66
+5,Maths,Fractions,Intermediate,Compute: 110 + 76,186,176,196,187,186
+5,Maths,Fractions,Intermediate,Compute: 179 - 81,108,98,99,88,98
+5,Maths,Fractions,Intermediate,Compute: 106 + 170,286,276,277,266,276
+5,Maths,Multi-step Operations,Intermediate,Compute: 170 - 130,40,30,50,41,40
+5,Maths,Multiplication & Division,Intermediate,Compute: 173 - 173,0,Option 3,1,10,0
+5,Maths,Multi-step Operations,Intermediate,Compute: 3 × 8,24,34,27,16,24
+5,Maths,Fractions,Intermediate,Compute: 3 + 163,167,156,166,176,166
+5,Maths,Multi-step Operations,Intermediate,Compute: 183 - 46,127,138,137,147,137
+5,Maths,Multi-step Operations,Intermediate,Compute: 113 + 100,213,223,203,214,213
+5,Maths,Fractions,Intermediate,Compute: 18 - 6,22,2,13,12,12
+5,Maths,Multi-step Operations,Intermediate,Compute: 181 - 44,147,127,138,137,137
+5,Maths,Fractions,Intermediate,Compute: 50 - 9,42,51,41,31,41
+5,Maths,Decimals,Intermediate,Compute: 85 + 137,212,223,232,222,222
+5,Maths,Multi-step Operations,Intermediate,Compute: 36 + 156,182,193,202,192,192
+5,Maths,Multiplication & Division,Intermediate,Compute: 2 × 15,32,15,30,40,30
+5,Maths,Multiplication & Division,Intermediate,Compute: 152 - 72,70,90,80,81,80
+5,Maths,Multi-step Operations,Intermediate,Compute: 196 - 107,90,79,89,99,89
+5,Maths,Multi-step Operations,Intermediate,Compute: 120 - 76,34,44,45,54,44
+5,Maths,Fractions,Intermediate,Compute: 12 × 6,66,72,82,84,72
+5,Maths,Multiplication & Division,Intermediate,Compute: 60 - 54,16,0,7,6,6
+5,Maths,Fractions,Intermediate,Compute: 8 × 14,98,112,122,120,112
+5,Maths,Decimals,Intermediate,Compute: 78 ÷ 6,13,15,12,14,13
+5,Maths,Multiplication & Division,Intermediate,Compute: 56 ÷ 7,8,7,10,9,8
+5,Maths,Multi-step Operations,Intermediate,Compute: 189 - 87,103,112,102,92,102
+5,Maths,Fractions,Intermediate,Compute: 32 - 27,6,0,5,15,5
+5,Maths,Multiplication & Division,Intermediate,Compute: 179 - 26,163,154,153,143,153
+5,Maths,Multiplication & Division,Intermediate,Compute: 41 + 44,85,95,86,75,85
+5,Maths,Multi-step Operations,Intermediate,Compute: 121 - 64,47,58,57,67,57
+5,Maths,Multiplication & Division,Intermediate,Compute: 197 - 140,67,58,47,57,57
+5,Maths,Multiplication & Division,Intermediate,Compute: 130 - 109,31,22,21,11,21
+5,Maths,Decimals,Intermediate,Compute: 134 + 31,175,165,155,166,165
+5,Maths,Fractions,Intermediate,Compute: 90 + 169,269,259,249,260,259
+5,Maths,Fractions,Intermediate,Compute: 140 + 153,294,283,303,293,293
+5,Maths,Decimals,Intermediate,Compute: 153 - 60,83,93,94,103,93
+5,Maths,Fractions,Intermediate,Compute: 185 - 51,135,124,144,134,134
+5,Maths,Multi-step Operations,Intermediate,Compute: 65 ÷ 5,12,14,13,15,13
+5,Maths,Decimals,Intermediate,Compute: 22 + 83,95,115,106,105,105
+5,Maths,Multiplication & Division,Intermediate,Compute: 70 + 53,113,123,133,124,123
+5,Maths,Multi-step Operations,Intermediate,Compute: 86 + 29,105,125,115,116,115
+5,Maths,Multi-step Operations,Intermediate,Compute: 14 × 13,196,182,192,169,182
+5,Maths,Multiplication & Division,Intermediate,Compute: 165 - 71,84,104,95,94,94
+5,Maths,Decimals,Intermediate,Compute: 199 - 93,107,96,106,116,106
+5,Maths,Fractions,Intermediate,Compute: 153 + 173,326,316,336,327,326
+5,Maths,Multiplication & Division,Intermediate,Compute: 14 + 24,48,38,39,28,38
+5,Maths,Fractions,Intermediate,Compute: 181 - 54,128,117,137,127,127
+5,Maths,Multiplication & Division,Intermediate,Compute: 14 × 4,66,70,52,56,56
+5,Maths,Multi-step Operations,Intermediate,Compute: 30 ÷ 2,14,15,16,17,15
+5,Maths,Multi-step Operations,Intermediate,Compute: 88 + 175,273,253,264,263,263
+5,Maths,Fractions,Intermediate,Compute: 14 × 5,80,65,70,84,70
+5,Maths,Multiplication & Division,Intermediate,Compute: 24 ÷ 8,5,3,4,2,3
+5,Maths,Multi-step Operations,Intermediate,Compute: 31 - 25,0,7,6,16,6
+5,Maths,Decimals,Intermediate,Compute: 162 - 81,71,81,82,91,81
+5,Maths,Fractions,Intermediate,Compute: 125 - 54,72,61,81,71,71
+5,Maths,Decimals,Intermediate,Compute: 137 - 121,6,26,17,16,16
+5,Maths,Fractions,Intermediate,Compute: 12 ÷ 3,5,3,6,4,4
+5,Maths,Multi-step Operations,Intermediate,Compute: 119 + 130,249,250,239,259,249
+5,Maths,Multiplication & Division,Intermediate,Compute: 153 - 65,78,89,88,98,88
+5,Maths,Decimals,Intermediate,Compute: 26 + 116,142,152,132,143,142
+5,Maths,Fractions,Intermediate,Compute: 88 + 110,188,208,198,199,198
+5,Maths,Multiplication & Division,Intermediate,Compute: 150 - 37,123,114,113,103,113
+5,Maths,Decimals,Intermediate,Compute: 22 + 120,152,142,132,143,142
+5,Maths,Decimals,Intermediate,Compute: 144 - 133,1,21,12,11,11
+5,Maths,Decimals,Intermediate,Compute: 7 + 45,53,52,62,42,52
+5,Maths,Multiplication & Division,Intermediate,Compute: 50 + 94,145,154,144,134,144
+5,Maths,Fractions,Intermediate,Compute: 65 + 51,126,106,117,116,116
+5,Maths,Fractions,Intermediate,Compute: 4 × 11,44,54,33,48,44
+5,Maths,Multi-step Operations,Intermediate,Compute: 18 + 115,134,123,143,133,133
+5,Maths,Multi-step Operations,Intermediate,Compute: 115 - 69,56,36,47,46,46
+5,Maths,Multiplication & Division,Intermediate,Compute: 50 ÷ 5,9,11,10,12,10
+5,Maths,Fractions,Intermediate,Compute: 90 - 68,23,32,22,12,22
+5,Maths,Fractions,Intermediate,Compute: 108 - 65,33,43,44,53,43
+5,Maths,Multi-step Operations,Intermediate,Compute: 118 - 37,82,81,71,91,81
+5,Maths,Multiplication & Division,Intermediate,Compute: 5 - 5,10,1,0,Option 3,0
+5,Maths,Multiplication & Division,Intermediate,Compute: 98 ÷ 7,15,16,14,13,14
+5,Maths,Decimals,Intermediate,Compute: 10 × 13,140,130,Option 3,117,130
+5,Maths,Multiplication & Division,Intermediate,Compute: 96 - 9,88,97,77,87,87
+5,Maths,Fractions,Intermediate,Compute: 116 - 97,20,9,29,19,19
+5,Maths,Multi-step Operations,Intermediate,Compute: 50 + 26,66,86,76,77,76
+5,Maths,Multi-step Operations,Intermediate,Compute: 15 × 6,84,90,100,105,90
+5,Maths,Decimals,Intermediate,Compute: 95 - 3,93,92,102,82,92
+5,Maths,Multiplication & Division,Intermediate,Compute: 188 - 101,87,88,77,97,87
+5,Maths,Multi-step Operations,Intermediate,Compute: 61 - 15,56,47,36,46,46
+5,Maths,Fractions,Intermediate,Compute: 115 + 19,134,144,124,135,134
+5,Maths,Fractions,Intermediate,Compute: 20 ÷ 2,12,10,9,11,10
+5,Maths,Fractions,Intermediate,Compute: 100 - 47,54,63,43,53,53
+5,Maths,Decimals,Intermediate,Compute: 169 + 127,306,297,286,296,296
+5,Maths,Multi-step Operations,Intermediate,Compute: 167 - 148,29,19,9,20,19
+5,Maths,Multi-step Operations,Intermediate,Compute: 128 - 61,77,67,57,68,67
+5,Maths,Multi-step Operations,Intermediate,Compute: 77 + 7,94,84,74,85,84
+5,Maths,Decimals,Intermediate,Compute: 128 - 35,83,103,93,94,93
+5,Maths,Multiplication & Division,Intermediate,Compute: 40 + 136,186,166,177,176,176
+5,Maths,Multiplication & Division,Intermediate,Compute: 200 - 187,3,14,23,13,13
+5,Maths,Decimals,Intermediate,Compute: 60 ÷ 15,4,5,3,6,4
+5,Maths,Fractions,Intermediate,Compute: 154 - 17,137,127,138,147,137
+5,Maths,Fractions,Intermediate,Compute: 48 - 42,0,16,6,7,6
+5,Maths,Multi-step Operations,Intermediate,Compute: 178 + 27,205,206,215,195,205
+5,Maths,Multiplication & Division,Intermediate,Compute: 0 + 57,57,67,58,47,57
+5,Maths,Multiplication & Division,Intermediate,Compute: 190 + 2,182,202,193,192,192
+5,Maths,Multiplication & Division,Intermediate,Compute: 9 × 11,88,99,109,108,99
+5,Maths,Multi-step Operations,Intermediate,Compute: 173 - 74,109,99,100,89,99
+5,Maths,Multiplication & Division,Intermediate,Compute: 180 + 165,345,355,335,346,345
+5,Maths,Multi-step Operations,Intermediate,Compute: 67 + 111,179,178,188,168,178
+5,Maths,Fractions,Intermediate,Compute: 21 + 93,124,114,115,104,114
+5,Maths,Multiplication & Division,Intermediate,Compute: 118 + 165,284,273,293,283,283
+5,Maths,Decimals,Intermediate,Compute: 62 - 55,0,17,7,8,7
+5,Maths,Fractions,Intermediate,Compute: 65 + 117,183,192,172,182,182
+5,Maths,Multiplication & Division,Intermediate,Compute: 123 + 186,310,299,309,319,309
+5,Maths,Decimals,Intermediate,Compute: 43 + 69,102,112,122,113,112
+5,Maths,Fractions,Intermediate,Compute: 85 - 23,52,72,63,62,62
+5,Maths,Decimals,Intermediate,Compute: 159 + 118,277,287,267,278,277
+5,Maths,Decimals,Intermediate,Compute: 17 + 88,95,115,105,106,105
+5,Maths,Multiplication & Division,Intermediate,Compute: 39 + 50,90,79,99,89,89
+5,Maths,Multiplication & Division,Intermediate,Compute: 129 + 5,124,144,135,134,134
+5,Maths,Decimals,Intermediate,Compute: 115 - 77,39,28,48,38,38
+5,Maths,Multi-step Operations,Intermediate,Compute: 191 + 4,185,205,196,195,195
+5,Maths,Multiplication & Division,Intermediate,Compute: 3 × 3,12,19,6,9,9
+5,Maths,Decimals,Intermediate,Compute: 65 + 156,221,211,222,231,221
+5,Maths,Multi-step Operations,Intermediate,Compute: 5 × 10,60,50,55,40,50
+5,Maths,Multiplication & Division,Intermediate,Compute: 22 + 115,127,147,138,137,137
+5,Maths,Multi-step Operations,Intermediate,Compute: 112 - 9,103,113,104,93,103
+5,Maths,Decimals,Intermediate,Compute: 112 + 131,243,244,253,233,243
+5,Maths,Multiplication & Division,Intermediate,Compute: 81 + 192,283,263,273,274,273
+5,Maths,Multiplication & Division,Intermediate,Compute: 27 + 27,44,54,64,55,54
+5,Maths,Decimals,Intermediate,Compute: 15 × 10,165,140,150,160,150
+5,Maths,Multiplication & Division,Intermediate,Compute: 3 × 4,22,8,15,12,12
+5,Maths,Multiplication & Division,Intermediate,Compute: 174 + 144,319,318,328,308,318
+5,Maths,Multiplication & Division,Intermediate,Compute: 150 + 127,267,278,277,287,277
+5,Maths,Decimals,Intermediate,Compute: 42 + 8,50,60,40,51,50
+5,Maths,Multi-step Operations,Intermediate,Compute: 10 + 146,156,146,166,157,156
+5,Maths,Fractions,Intermediate,Compute: 41 + 162,204,203,213,193,203
+5,Maths,Multiplication & Division,Intermediate,Compute: 190 + 19,219,199,210,209,209
+5,Maths,Multiplication & Division,Intermediate,Compute: 186 + 52,239,228,248,238,238
+5,Maths,Multiplication & Division,Intermediate,Compute: 71 - 20,61,52,51,41,51
+5,Maths,Fractions,Intermediate,Compute: 140 - 138,12,2,0,3,2
+5,Maths,Fractions,Intermediate,Compute: 150 ÷ 10,17,14,15,16,15
+5,Maths,Multi-step Operations,Intermediate,Compute: 117 + 120,237,227,238,247,237
+5,Maths,Decimals,Intermediate,Compute: 199 + 34,223,233,234,243,233
+5,Maths,Fractions,Intermediate,Compute: 107 - 17,80,91,100,90,90
+5,Maths,Multi-step Operations,Intermediate,Compute: 155 + 79,224,235,244,234,234
+5,Maths,Multi-step Operations,Intermediate,Compute: 14 × 10,154,140,130,150,140
+5,Maths,Multi-step Operations,Intermediate,Compute: 172 + 178,340,360,351,350,350
+5,Maths,Multiplication & Division,Intermediate,Compute: 78 - 56,23,22,12,32,22
+5,Maths,Multiplication & Division,Intermediate,Compute: 35 ÷ 7,7,5,4,6,5
+5,Maths,Fractions,Intermediate,Compute: 48 + 42,80,100,91,90,90
+5,Maths,Multi-step Operations,Intermediate,Compute: 40 - 12,29,38,28,18,28
+5,Maths,Multiplication & Division,Intermediate,Compute: 136 - 133,4,0,13,3,3
+5,Maths,Decimals,Intermediate,Compute: 6 × 12,60,72,78,82,72
+5,Maths,Decimals,Intermediate,Compute: 123 + 140,253,263,264,273,263
+5,Maths,Decimals,Intermediate,Compute: 175 - 39,126,136,146,137,136
+5,Maths,Decimals,Intermediate,Compute: 13 × 13,179,182,156,169,169
+5,Maths,Multiplication & Division,Intermediate,Compute: 79 + 13,82,93,102,92,92
+5,Maths,Decimals,Intermediate,Compute: 151 + 109,260,250,270,261,260
+5,Maths,Multi-step Operations,Intermediate,Compute: 134 + 130,264,254,265,274,264
+5,Maths,Multi-step Operations,Intermediate,Compute: 100 + 86,186,176,196,187,186
+5,Maths,Decimals,Intermediate,Compute: 139 - 122,18,27,17,7,17
+5,Maths,Decimals,Intermediate,Compute: 27 ÷ 3,8,9,11,10,9
+5,Maths,Multi-step Operations,Intermediate,Compute: 105 - 77,29,28,38,18,28
+5,Maths,Multi-step Operations,Intermediate,Compute: 96 + 44,130,140,150,141,140
+5,Maths,Decimals,Intermediate,Compute: 154 ÷ 11,16,15,13,14,14
+5,Maths,Multi-step Operations,Intermediate,Compute: 190 - 157,43,34,33,23,33
+5,Maths,Fractions,Intermediate,Compute: 186 + 44,230,240,231,220,230
+5,Maths,Decimals,Intermediate,Compute: 178 - 175,0,3,13,4,3
+5,Maths,Multiplication & Division,Intermediate,Compute: 24 ÷ 4,8,5,7,6,6
+5,Maths,Multiplication & Division,Intermediate,Compute: 63 - 38,26,15,35,25,25
+5,Maths,Multiplication & Division,Intermediate,Compute: 148 - 6,152,132,143,142,142
+5,Maths,Multiplication & Division,Intermediate,Compute: 164 - 144,10,30,21,20,20
+5,Maths,Decimals,Intermediate,Compute: 12 × 13,168,166,143,156,156
+5,Maths,Multi-step Operations,Intermediate,Compute: 108 ÷ 12,9,8,11,10,9
+5,Maths,Fractions,Intermediate,Compute: 48 + 165,214,213,223,203,213
+5,Maths,Decimals,Intermediate,Compute: 35 + 124,149,160,159,169,159
+5,Maths,Fractions,Intermediate,Compute: 69 + 28,97,107,98,87,97
+5,Maths,Multiplication & Division,Intermediate,Compute: 12 × 14,180,178,154,168,168
+5,Maths,Fractions,Intermediate,Compute: 5 × 8,32,45,40,50,40
+5,Maths,Multi-step Operations,Intermediate,Compute: 193 - 153,41,40,30,50,40
+5,Maths,Multi-step Operations,Intermediate,Compute: 152 + 157,299,309,319,310,309
+5,Maths,Multiplication & Division,Intermediate,Compute: 193 + 52,255,246,245,235,245
+5,Maths,Multiplication & Division,Intermediate,Compute: 52 ÷ 13,4,3,5,6,4
+5,Maths,Fractions,Intermediate,Compute: 45 + 5,40,50,60,51,50
+5,Maths,Fractions,Intermediate,Compute: 141 - 49,102,92,93,82,92
+5,Maths,Fractions,Intermediate,Compute: 13 × 8,117,104,96,114,104
+5,Maths,Multi-step Operations,Intermediate,Compute: 5 + 67,62,82,73,72,72
+5,Maths,Decimals,Intermediate,Compute: 166 + 131,307,297,298,287,297
+5,Maths,Fractions,Intermediate,Compute: 1 + 68,59,70,69,79,69
+5,Maths,Multiplication & Division,Intermediate,Compute: 118 - 23,95,105,85,96,95
+5,Maths,Decimals,Intermediate,Compute: 173 - 40,143,134,123,133,133
+5,Maths,Decimals,Intermediate,Compute: 44 - 26,19,18,28,8,18
+5,Maths,Multiplication & Division,Intermediate,Compute: 184 + 105,279,299,290,289,289
+5,Maths,Multiplication & Division,Intermediate,Compute: 24 ÷ 12,1,4,3,2,2
+5,Maths,Decimals,Intermediate,Compute: 153 + 182,336,335,345,325,335
+5,Maths,Multiplication & Division,Intermediate,Compute: 129 + 158,287,288,297,277,287
+5,Maths,Fractions,Intermediate,Compute: 14 ÷ 2,9,8,6,7,7
+5,Maths,Multiplication & Division,Intermediate,Compute: 198 + 116,315,304,314,324,314
+5,Maths,Fractions,Intermediate,Compute: 27 + 159,186,176,196,187,186
+5,Maths,Fractions,Intermediate,Compute: 133 + 98,241,232,221,231,231
+5,Maths,Multiplication & Division,Intermediate,Compute: 154 + 101,245,255,265,256,255
+5,Maths,Decimals,Intermediate,Compute: 151 + 1,153,142,162,152,152
+5,Maths,Multiplication & Division,Intermediate,Compute: 9 ÷ 3,5,2,3,4,3
+5,Maths,Fractions,Intermediate,Compute: 174 - 82,82,102,93,92,92
+5,Maths,Multiplication & Division,Intermediate,Compute: 190 - 46,154,134,145,144,144
+5,Maths,Decimals,Intermediate,Compute: 199 - 91,109,118,108,98,108
+5,Maths,Multi-step Operations,Intermediate,Compute: 101 + 196,307,298,297,287,297
+5,Maths,Decimals,Intermediate,Compute: 75 - 1,64,74,75,84,74
+5,Maths,Multi-step Operations,Intermediate,Compute: 9 + 40,50,49,59,39,49
+5,Maths,Decimals,Intermediate,Compute: 166 + 170,326,336,346,337,336
+5,Maths,Decimals,Intermediate,Compute: 143 + 176,309,329,319,320,319
+5,Maths,Decimals,Intermediate,Compute: 45 + 184,229,230,239,219,229
+5,Maths,Multi-step Operations,Intermediate,Compute: 5 × 6,35,30,40,24,30
+5,Maths,Multiplication & Division,Intermediate,Compute: 149 - 57,93,82,102,92,92
+5,Maths,Decimals,Intermediate,Compute: 13 × 5,60,75,78,65,65
+5,Maths,Multiplication & Division,Intermediate,Compute: 167 + 92,269,249,259,260,259
+5,Maths,Fractions,Intermediate,Compute: 138 - 46,93,102,82,92,92
+5,Maths,Decimals,Intermediate,Compute: 77 ÷ 7,11,10,12,13,11
+5,Maths,Multi-step Operations,Intermediate,Compute: 157 - 71,76,86,96,87,86
+5,Maths,Multiplication & Division,Intermediate,Compute: 92 - 12,90,70,81,80,80
+5,Maths,Fractions,Intermediate,Compute: 185 + 155,350,341,330,340,340
+5,Maths,Multiplication & Division,Intermediate,Compute: 48 ÷ 8,6,5,7,8,6
+5,Maths,Decimals,Intermediate,Compute: 161 - 100,61,51,62,71,61
+5,Maths,Multi-step Operations,Intermediate,Compute: 6 × 13,84,65,78,88,78
+5,Maths,Decimals,Intermediate,Compute: 51 + 141,202,193,182,192,192
+5,Maths,Multiplication & Division,Intermediate,Compute: 177 - 132,35,45,55,46,45
+5,Maths,Multiplication & Division,Intermediate,Compute: 55 ÷ 11,7,6,5,4,5
+5,Maths,Multi-step Operations,Intermediate,Compute: 110 + 87,198,197,187,207,197
+5,Maths,Multiplication & Division,Intermediate,Compute: 225 ÷ 15,15,16,17,14,15
+5,Maths,Multiplication & Division,Intermediate,Compute: 93 - 29,74,54,65,64,64
+5,Maths,Fractions,Intermediate,Compute: 146 - 132,14,24,15,4,14
+5,Maths,Multiplication & Division,Intermediate,Compute: 147 - 132,5,16,15,25,15
+5,Maths,Multi-step Operations,Intermediate,Compute: 148 - 1,147,157,137,148,147
+5,Maths,Fractions,Intermediate,Compute: 64 ÷ 8,8,7,9,10,8
+5,Maths,Fractions,Intermediate,Compute: 162 - 151,11,21,12,1,11
+5,Maths,Fractions,Intermediate,Compute: 166 - 33,143,123,133,134,133
+5,Maths,Decimals,Intermediate,Compute: 134 - 75,59,60,69,49,59
+5,Maths,Decimals,Intermediate,Compute: 11 + 94,106,115,95,105,105
+5,Maths,Decimals,Intermediate,Compute: 184 - 70,104,114,115,124,114
+5,Maths,Multi-step Operations,Intermediate,Compute: 53 + 132,175,185,186,195,185
+5,Maths,Fractions,Intermediate,Compute: 4 + 48,42,62,52,53,52
+5,Maths,Fractions,Intermediate,Compute: 139 + 57,206,196,186,197,196
+5,Maths,Fractions,Intermediate,Compute: 198 + 35,223,233,243,234,233
+5,Maths,Decimals,Intermediate,Compute: 6 × 5,30,36,40,25,30
+5,Maths,Multiplication & Division,Intermediate,Compute: 199 - 161,39,38,48,28,38
+5,Maths,Fractions,Intermediate,Compute: 145 - 118,37,17,27,28,27
+5,Maths,Multiplication & Division,Intermediate,Compute: 191 - 35,157,166,146,156,156
+5,Maths,Decimals,Intermediate,Compute: 169 - 136,23,33,43,34,33
+5,Maths,Multi-step Operations,Intermediate,Compute: 63 + 148,221,211,201,212,211
+5,Maths,Decimals,Intermediate,Compute: 85 + 192,277,278,267,287,277
+5,Maths,Multiplication & Division,Intermediate,Compute: 113 - 1,112,122,102,113,112
+5,Maths,Multiplication & Division,Intermediate,Compute: 10 × 6,60,54,Option 3,70,60
+5,Maths,Multiplication & Division,Intermediate,Compute: 112 - 36,86,66,77,76,76
+5,Maths,Decimals,Intermediate,Compute: 153 - 38,125,115,116,105,115
+5,Maths,Decimals,Intermediate,Compute: 136 + 13,159,150,149,139,149
+5,Maths,Multi-step Operations,Intermediate,Compute: 175 - 28,148,157,137,147,147
+5,Maths,Multi-step Operations,Intermediate,Compute: 181 + 92,283,274,263,273,273
+5,Maths,Fractions,Intermediate,Compute: 44 + 131,175,185,165,176,175
+5,Maths,Decimals,Intermediate,Compute: 197 - 134,73,64,63,53,63
+5,Maths,Multiplication & Division,Intermediate,Compute: 6 × 6,30,42,46,36,36
+5,Maths,Decimals,Intermediate,Compute: 10 × 11,120,99,Option 3,110,110
+5,Maths,Decimals,Intermediate,Compute: 52 - 6,56,36,47,46,46
+5,Maths,Fractions,Intermediate,Compute: 47 + 75,132,122,112,123,122
+5,Maths,Multiplication & Division,Intermediate,Compute: 175 - 58,127,118,107,117,117
+5,Maths,Decimals,Intermediate,Compute: 140 - 11,139,119,130,129,129
+5,Maths,Fractions,Intermediate,Compute: 106 + 42,148,138,149,158,148
+5,Maths,Fractions,Intermediate,Compute: 130 - 120,11,10,0,20,10
+5,Maths,Multiplication & Division,Intermediate,Compute: 195 - 78,118,107,117,127,117
+5,Maths,Multiplication & Division,Intermediate,Compute: 178 - 138,50,30,41,40,40
+5,Maths,Multi-step Operations,Intermediate,Compute: 194 - 80,115,104,124,114,114
+5,Maths,Decimals,Intermediate,Compute: 68 - 6,62,72,63,52,62
+5,Maths,Multiplication & Division,Intermediate,Compute: 9 × 4,45,32,46,36,36
+5,Maths,Multiplication & Division,Intermediate,Compute: 21 + 143,165,154,164,174,164
+5,Maths,Multiplication & Division,Intermediate,Compute: 120 - 109,21,1,12,11,11
+5,Maths,Fractions,Intermediate,Compute: 158 - 143,25,16,5,15,15
+5,Maths,Multi-step Operations,Intermediate,Compute: 89 - 13,76,77,86,66,76
+5,Maths,Fractions,Intermediate,Compute: 38 + 136,174,164,175,184,174
+5,Maths,Multiplication & Division,Intermediate,Compute: 74 - 25,49,39,59,50,49
+5,Maths,Multiplication & Division,Intermediate,Compute: 125 - 13,113,102,112,122,112
+5,Maths,Multi-step Operations,Intermediate,Compute: 83 - 50,33,43,34,23,33
+5,Maths,Fractions,Intermediate,Compute: 23 + 172,196,205,195,185,195
+5,Maths,Decimals,Intermediate,Compute: 186 - 163,33,23,13,24,23
+5,Maths,Decimals,Intermediate,Compute: 110 + 31,131,142,151,141,141
+5,Maths,Multi-step Operations,Intermediate,Compute: 131 - 84,47,57,37,48,47
+5,Maths,Decimals,Intermediate,Compute: 27 + 56,93,84,73,83,83
+5,Maths,Multiplication & Division,Intermediate,Compute: 28 + 33,61,62,51,71,61
+5,Maths,Multi-step Operations,Intermediate,Compute: 37 - 24,13,23,3,14,13
+5,Maths,Multi-step Operations,Intermediate,Compute: 181 + 189,360,371,380,370,370
+5,Maths,Fractions,Intermediate,Compute: 138 + 156,294,284,304,295,294
+5,Maths,Decimals,Intermediate,Compute: 2 + 93,95,96,85,105,95
+5,Maths,Decimals,Intermediate,Compute: 61 + 172,243,223,233,234,233
+5,Maths,Fractions,Intermediate,Compute: 156 + 57,214,203,213,223,213
+5,Maths,Multi-step Operations,Intermediate,Compute: 86 + 110,186,206,197,196,196
+5,Maths,Fractions,Intermediate,Compute: 56 + 16,82,62,73,72,72
+5,Maths,Multi-step Operations,Intermediate,Compute: 73 + 125,198,208,188,199,198
+5,Maths,Multi-step Operations,Intermediate,Compute: 2 × 13,26,28,13,36,26
+5,Maths,Fractions,Intermediate,Compute: 79 - 29,50,60,40,51,50
+5,Maths,Fractions,Intermediate,Compute: 42 - 10,42,33,22,32,32
+5,Maths,Multi-step Operations,Intermediate,Compute: 71 + 195,276,256,267,266,266
+5,Maths,Multi-step Operations,Intermediate,Compute: 150 + 164,314,304,324,315,314
+5,Maths,Multiplication & Division,Intermediate,Compute: 60 - 55,0,15,5,6,5
+5,Maths,Decimals,Intermediate,Compute: 13 × 9,108,117,127,130,117
+5,Maths,Fractions,Intermediate,Compute: 185 - 150,35,36,45,25,35
+5,Maths,Multi-step Operations,Intermediate,Compute: 41 + 167,209,198,208,218,208
+5,Maths,Decimals,Intermediate,Compute: 128 - 110,18,19,8,28,18
+5,Maths,Decimals,Intermediate,Compute: 20 ÷ 5,3,6,5,4,4
+5,Maths,Multi-step Operations,Intermediate,Compute: 160 - 140,21,10,20,30,20
+5,Maths,Fractions,Intermediate,Compute: 172 + 24,186,206,197,196,196
+5,Maths,Multiplication & Division,Intermediate,Compute: 166 + 111,267,277,287,278,277
+5,Maths,Multi-step Operations,Intermediate,Compute: 13 + 144,157,158,167,147,157
+5,Maths,Fractions,Intermediate,Compute: 97 + 88,195,186,185,175,185
+5,Maths,Decimals,Intermediate,Compute: 94 + 6,100,101,110,90,100
+5,Maths,Fractions,Intermediate,Compute: 30 ÷ 5,5,7,8,6,6
+5,Maths,Multiplication & Division,Intermediate,Compute: 7 × 9,73,70,63,54,63
+5,Maths,Fractions,Intermediate,Compute: 57 + 79,136,146,137,126,136
+5,Maths,Fractions,Intermediate,Compute: 198 - 57,142,131,151,141,141
+5,Maths,Multi-step Operations,Intermediate,Compute: 56 + 157,214,223,213,203,213
+5,Maths,Fractions,Intermediate,Compute: 2 + 186,198,178,189,188,188
+5,Maths,Fractions,Intermediate,Compute: 18 ÷ 6,3,2,5,4,3
+5,Maths,Decimals,Intermediate,Compute: 12 × 15,190,192,165,180,180
+5,Maths,Multi-step Operations,Intermediate,Compute: 175 - 142,34,23,33,43,33
+5,Maths,Multiplication & Division,Intermediate,Compute: 117 + 11,128,138,129,118,128
+5,Maths,Fractions,Intermediate,Compute: 5 × 2,15,10,20,8,10
+5,Maths,Multiplication & Division,Intermediate,Compute: 182 - 147,35,36,25,45,35
+5,Maths,Fractions,Intermediate,Compute: 30 + 189,209,229,219,220,219
+5,Maths,Multi-step Operations,Intermediate,Compute: 183 + 86,270,269,259,279,269
+5,Maths,Multiplication & Division,Intermediate,Compute: 76 - 37,49,39,40,29,39
+5,Maths,Multi-step Operations,Intermediate,Compute: 150 - 51,100,99,89,109,99
+5,Maths,Multiplication & Division,Intermediate,Compute: 62 + 71,134,123,133,143,133
+5,Maths,Decimals,Intermediate,Compute: 119 - 118,0,1,2,11,1
+5,Maths,Multi-step Operations,Intermediate,Compute: 82 + 43,126,125,115,135,125
+5,Maths,Multiplication & Division,Intermediate,Compute: 145 + 126,272,271,281,261,271
+5,Maths,Fractions,Intermediate,Compute: 119 + 74,194,183,193,203,193
+5,Maths,Multi-step Operations,Intermediate,Compute: 191 - 153,39,38,48,28,38
+5,Maths,Fractions,Intermediate,Compute: 91 + 141,242,233,222,232,232
+5,Maths,Multiplication & Division,Intermediate,Compute: 187 + 64,261,241,252,251,251
+5,Maths,Multi-step Operations,Intermediate,Compute: 190 + 69,269,249,260,259,259
+5,Maths,Multiplication & Division,Intermediate,Compute: 200 - 93,97,117,108,107,107
+5,Maths,Decimals,Intermediate,Compute: 188 + 75,253,263,273,264,263
+5,Maths,Fractions,Intermediate,Compute: 91 - 75,17,16,26,6,16
+5,Maths,Multi-step Operations,Intermediate,Compute: 75 + 54,130,119,129,139,129
+5,Maths,Multi-step Operations,Intermediate,Compute: 2 × 7,7,14,24,16,14
+5,Maths,Multiplication & Division,Intermediate,Compute: 4 × 15,64,60,70,45,60
+5,Maths,Multi-step Operations,Intermediate,Compute: 34 - 9,15,25,26,35,25
+5,Maths,Fractions,Intermediate,Compute: 167 + 40,197,208,217,207,207
+5,Maths,Multiplication & Division,Intermediate,Compute: 83 + 190,274,273,283,263,273
+5,Maths,Decimals,Intermediate,Compute: 66 + 136,212,203,192,202,202
+5,Maths,Fractions,Intermediate,Compute: 111 + 36,157,148,137,147,147
+5,Maths,Multi-step Operations,Intermediate,Compute: 170 - 21,159,149,139,150,149
+5,Maths,Multiplication & Division,Intermediate,Compute: 115 - 21,95,104,94,84,94
+5,Maths,Fractions,Intermediate,Compute: 36 ÷ 12,3,4,5,2,3
+5,Maths,Decimals,Intermediate,Compute: 101 + 121,232,212,222,223,222
+5,Maths,Multi-step Operations,Intermediate,Compute: 78 ÷ 13,6,7,5,8,6
+5,Maths,Multiplication & Division,Intermediate,Compute: 194 - 132,72,62,52,63,62
+5,Maths,Multiplication & Division,Intermediate,Compute: 184 + 143,328,327,337,317,327
+5,Maths,Decimals,Intermediate,Compute: 15 × 12,195,190,180,168,180
+5,Maths,Multi-step Operations,Intermediate,Compute: 181 - 83,98,108,88,99,98
+5,Maths,Multi-step Operations,Intermediate,Compute: 16 ÷ 4,6,3,5,4,4
+5,Maths,Decimals,Intermediate,Compute: 127 - 93,34,24,44,35,34
+5,Maths,Multiplication & Division,Intermediate,Compute: 65 + 28,103,94,93,83,93
+5,Maths,Multiplication & Division,Intermediate,Compute: 149 - 103,36,46,56,47,46
+5,Maths,Multi-step Operations,Intermediate,Compute: 112 + 102,214,224,215,204,214
+5,Maths,Multiplication & Division,Intermediate,Compute: 190 - 90,90,100,110,101,100
+5,Maths,Multi-step Operations,Intermediate,Compute: 199 - 6,203,193,183,194,193
+5,Maths,Multi-step Operations,Intermediate,Compute: 16 + 197,214,203,223,213,213
+5,Maths,Decimals,Intermediate,Compute: 101 - 56,35,46,45,55,45

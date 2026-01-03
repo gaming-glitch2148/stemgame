@@ -1,0 +1,1001 @@
+Grade,Subject,Topic,Difficulty,Question,A,B,C,D,Correct Answer
+K,Maths,Counting,Easy,How many apples are there? 🍎🍎,1,2,3,4,2
+K,Maths,Shapes,Easy,Which shape has 3 sides?,Circle,Square,Triangle,Rectangle,Triangle
+K,Maths,Comparison,Easy,Which is smaller?,4,1,3,2,1
+K,Maths,Patterns,Easy,What comes next? A B A B ___,A,B,C,D,A
+K,Maths,Shapes,Easy,Which shape is round?,Square,Triangle,Circle,Rectangle,Circle
+K,Maths,Counting,Easy,What comes after 3?,2,3,4,5,4
+K,Maths,Patterns,Easy,What comes next? 1 2 1 2 ___,1,2,3,4,1
+K,Maths,Comparison,Easy,Which number is bigger?,2,5,1,0,5
+K,Maths,Patterns,Easy,"Which is the largest number? 10, 0, 4",0,8,4,10,10
+K,Maths,Shapes,Easy,"Which is the smallest number? 3, 1, 2",1,2,3,Option 3,1
+K,Maths,Comparison,Easy,"What comes next in the pattern? 3, 4, 3, 4, 3, ___",Option 3,4,3,5,4
+K,Maths,Shapes,Easy,"Which is the largest number? 6, 9, 4",9,11,4,6,9
+K,Maths,Comparison,Easy,Fill in the blank: 4 + ___ = 8,6,5,3,4,4
+K,Maths,Comparison,Easy,There are 10 cars. 6 go away. How many are left?,6,4,5,3,4
+K,Maths,Shapes,Easy,Which number is greater?,6,8,7,4,7
+K,Maths,Shapes,Easy,"Count by 10: 0, 10, 20, 30, 40, 50, 60, 70, 80, ___",80,100,90,110,90
+K,Maths,Comparison,Easy,You have 1 candies and get 4 more. How many candies do you have now?,7,6,5,4,5
+K,Maths,Counting,Easy,You have 0 marbles and get 6 more. How many marbles do you have now?,6,7,8,5,6
+K,Maths,Shapes,Easy,"Which is the smallest number? 0, 10, 1",10,-1,1,0,0
+K,Maths,Shapes,Easy,"What comes next in the pattern? 9, 10, 9, 10, 9, ___",11,10,9,Option 3,10
+K,Maths,Counting,Easy,You have 3 trees and get 5 more. How many trees do you have now?,7,10,8,9,8
+K,Maths,Comparison,Easy,"Count by 10: 10, 20, 30, 40, 50, 60, 70, 80, ___",100,80,90,110,90
+K,Maths,Shapes,Easy,"Which is the largest number? 10, 1, 2",12,1,2,10,10
+K,Maths,Patterns,Easy,How many sides does a square have?,3,6,4,5,4
+K,Maths,Patterns,Easy,"Which is the largest number? 0, 5, 6",8,6,5,0,6
+K,Maths,Shapes,Easy,You have 7 candies and get 5 more. How many candies do you have now?,13,11,14,12,12
+K,Maths,Shapes,Easy,There are 7 flowers. 0 go away. How many are left?,7,8,6,9,7
+K,Maths,Counting,Easy,"Count by 5: 0, 5, 10, 15, 20, 25, ___",40,25,30,35,30
+K,Maths,Counting,Easy,You have 2 shells and get 5 more. How many shells do you have now?,9,7,6,8,7
+K,Maths,Shapes,Easy,How many sides does a pentagon have?,5,6,7,4,5
+K,Maths,Shapes,Easy,"What comes next in the pattern? 3, 7, 3, 7, 3, ___",3,8,6,7,7
+K,Maths,Comparison,Easy,How many sides does a hexagon have?,8,5,6,7,6
+K,Maths,Shapes,Easy,You have 7 kites and get 4 more. How many kites do you have now?,12,10,13,11,11
+K,Maths,Comparison,Easy,"Which is the largest number? 4, 10, 1",10,9,1,4,10
+K,Maths,Shapes,Easy,"What comes next in the pattern? 6, 10, 6, 10, 6, ___",9,6,11,10,10
+K,Maths,Shapes,Easy,You have 2 pencils and get 6 more. How many pencils do you have now?,9,7,10,8,8
+K,Maths,Comparison,Easy,You have 9 balls and get 8 more. How many balls do you have now?,17,19,18,16,17
+K,Maths,Shapes,Easy,"Which is the largest number? 10, 10, 5",8,11,10,5,10
+K,Maths,Shapes,Easy,"What comes next in the pattern? 7, 9, 7, 9, 7, ___",10,8,9,7,9
+K,Maths,Counting,Easy,There are 6 apples. 6 go away. How many are left?,0,Option 3,1,2,0
+K,Maths,Shapes,Easy,"What comes next in the pattern? 4, 5, 4, 5, 4, ___",Option 3,5,6,4,5
+K,Maths,Comparison,Easy,"Which is the smallest number? 2, 5, 9",9,2,3,5,2
+K,Maths,Comparison,Easy,There are 8 books. 8 go away. How many are left?,2,Option 3,1,0,0
+K,Maths,Patterns,Easy,"Which is the largest number? 7, 2, 5",7,6,2,5,7
+K,Maths,Comparison,Easy,Fill in the blank: 10 + ___ = 19,10,11,9,8,9
+K,Maths,Counting,Easy,You have 10 buttons and get 2 more. How many buttons do you have now?,11,13,12,14,12
+K,Maths,Counting,Easy,You have 2 books and get 2 more. How many books do you have now?,3,4,5,6,4
+K,Maths,Patterns,Easy,You have 8 robots and get 10 more. How many robots do you have now?,18,20,19,17,18
+K,Maths,Shapes,Easy,"Count by 2: 0, 2, ___",2,6,4,8,4
+K,Maths,Patterns,Easy,Fill in the blank: 5 + ___ = 15,10,9,12,11,10
+K,Maths,Patterns,Easy,Fill in the blank: 6 + ___ = 15,9,11,10,8,9
+K,Maths,Counting,Easy,"Which is the smallest number? 4, 6, 1",4,1,6,3,1
+K,Maths,Counting,Easy,"What comes next in the pattern? 6, 9, 6, 9, 6, ___",6,10,9,8,9
+K,Maths,Comparison,Easy,"What comes next in the pattern? 6, 11, 6, 11, 6, ___",6,11,10,12,11
+K,Maths,Patterns,Easy,"Count by 2: 0, 2, 4, 6, 8, 10, ___",10,12,16,14,12
+K,Maths,Comparison,Easy,"Count by 5: 0, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, ___",65,60,55,50,55
+K,Maths,Shapes,Easy,Fill in the blank: 5 + ___ = 7,1,2,4,3,2
+K,Maths,Comparison,Easy,"Which is the largest number? 0, 8, 7",10,8,7,0,8
+K,Maths,Counting,Easy,How many sides does a triangle have?,5,3,4,2,3
+K,Maths,Comparison,Easy,"Which is the largest number? 4, 2, 1",2,3,1,4,4
+K,Maths,Counting,Easy,You have 5 balls and get 0 more. How many balls do you have now?,4,7,5,6,5
+K,Maths,Counting,Easy,You have 7 flowers and get 5 more. How many flowers do you have now?,12,13,11,14,12
+K,Maths,Counting,Easy,You have 5 cars and get 0 more. How many cars do you have now?,5,6,4,7,5
+K,Maths,Shapes,Easy,"Which is the smallest number? 0, 10, 3",3,0,10,-2,0
+K,Maths,Patterns,Easy,Fill in the blank: 9 + ___ = 17,7,10,9,8,8
+K,Maths,Counting,Easy,You have 8 bears and get 10 more. How many bears do you have now?,19,18,17,20,18
+K,Maths,Counting,Easy,"What comes next in the pattern? 4, 7, 4, 7, 4, ___",8,6,4,7,7
+K,Maths,Shapes,Easy,"What comes next in the pattern? 9, 11, 9, 11, 9, ___",12,11,10,9,11
+K,Maths,Comparison,Easy,There are 6 planes. 6 go away. How many are left?,Option 3,2,1,0,0
+K,Maths,Shapes,Easy,You have 7 apples and get 3 more. How many apples do you have now?,9,11,10,12,10
+K,Maths,Comparison,Easy,You have 2 shells and get 2 more. How many shells do you have now?,6,3,4,5,4
+K,Maths,Shapes,Easy,"Count by 2: 0, 2, 4, ___",6,8,10,4,6
+K,Maths,Patterns,Easy,There are 9 blocks. 1 go away. How many are left?,8,10,9,7,8
+K,Maths,Counting,Easy,There are 7 bears. 5 go away. How many are left?,4,3,1,2,2
+K,Maths,Shapes,Easy,You have 7 stars and get 10 more. How many stars do you have now?,19,16,17,18,17
+K,Maths,Counting,Easy,"What comes next in the pattern? 1, 3, 1, 3, 1, ___",3,2,4,1,3
+K,Maths,Patterns,Easy,"What comes next in the pattern? 7, 8, 7, 8, 7, ___",9,8,7,Option 3,8
+K,Maths,Comparison,Easy,"What comes next in the pattern? 5, 8, 5, 8, 5, ___",7,5,9,8,8
+K,Maths,Comparison,Easy,Fill in the blank: 10 + ___ = 17,6,9,7,8,7
+K,Maths,Counting,Easy,"Count by 10: 10, 20, 30, 40, 50, ___",80,60,50,70,60
+K,Maths,Shapes,Easy,Fill in the blank: 10 + ___ = 12,4,2,3,1,2
+K,Maths,Shapes,Easy,There are 8 blocks. 2 go away. How many are left?,8,7,6,5,6
+K,Maths,Comparison,Easy,Fill in the blank: 8 + ___ = 15,8,9,7,6,7
+K,Maths,Shapes,Easy,"Which is the smallest number? 6, 5, 0",5,-1,6,0,0
+K,Maths,Shapes,Easy,"What comes next in the pattern? 7, 11, 7, 11, 7, ___",10,11,7,12,11
+K,Maths,Counting,Easy,"Which is the smallest number? 8, 1, 1",0,2,1,8,1
+K,Maths,Shapes,Easy,"What comes next in the pattern? 4, 9, 4, 9, 4, ___",10,8,9,4,9
+K,Maths,Counting,Easy,You have 8 kites and get 1 more. How many kites do you have now?,10,8,9,11,9
+K,Maths,Counting,Easy,There are 5 kites. 1 go away. How many are left?,6,3,5,4,4
+K,Maths,Counting,Easy,Fill in the blank: 1 + ___ = 6,6,4,7,5,5
+K,Maths,Patterns,Easy,You have 6 candies and get 0 more. How many candies do you have now?,8,6,7,5,6
+K,Maths,Shapes,Easy,There are 0 buttons. 0 go away. How many are left?,1,Option 3,2,0,0
+K,Maths,Shapes,Easy,Fill in the blank: 2 + ___ = 6,4,3,5,6,4
+K,Maths,Patterns,Easy,There are 10 flowers. 7 go away. How many are left?,5,4,3,2,3
+K,Maths,Counting,Easy,"What comes next in the pattern? 2, 6, 2, 6, 2, ___",2,7,6,5,6
+K,Maths,Comparison,Easy,"Count by 5: 0, 5, 10, 15, 20, 25, 30, 35, ___",45,40,35,50,40
+K,Maths,Counting,Easy,You have 5 bears and get 2 more. How many bears do you have now?,8,9,6,7,7
+K,Maths,Shapes,Easy,"Count by 5: 5, 10, 15, 20, 25, 30, 35, 40, ___",55,40,50,45,45
+K,Maths,Counting,Easy,Fill in the blank: 2 + ___ = 7,5,7,6,4,5
+K,Maths,Comparison,Easy,"Which is the smallest number? 6, 10, 2",2,6,0,10,2
+K,Maths,Comparison,Easy,There are 5 shells. 0 go away. How many are left?,4,5,6,7,5
+K,Maths,Patterns,Easy,There are 4 bears. 2 go away. How many are left?,4,2,1,3,2
+K,Maths,Shapes,Easy,You have 1 cookies and get 3 more. How many cookies do you have now?,3,6,4,5,4
+K,Maths,Shapes,Easy,"Which is the smallest number? 3, 1, 0",1,3,0,2,0
+K,Maths,Comparison,Easy,Fill in the blank: 4 + ___ = 5,1,3,2,0,1
+K,Maths,Counting,Easy,There are 8 candies. 8 go away. How many are left?,2,0,Option 3,1,0
+K,Maths,Patterns,Easy,"Which is the smallest number? 8, 7, 6",4,8,6,7,6
+K,Maths,Patterns,Easy,There are 6 pencils. 1 go away. How many are left?,7,6,5,4,5
+K,Maths,Shapes,Easy,"Count by 2: 0, 2, 4, 6, 8, 10, 12, ___",14,18,12,16,14
+K,Maths,Shapes,Easy,You have 10 cats and get 10 more. How many cats do you have now?,20,21,22,19,20
+K,Maths,Counting,Easy,"What comes next in the pattern? 2, 4, 2, 4, 2, ___",5,4,3,2,4
+K,Maths,Patterns,Easy,There are 4 blocks. 3 go away. How many are left?,2,0,1,3,1
+K,Maths,Shapes,Easy,Fill in the blank: 8 + ___ = 9,3,2,0,1,1
+K,Maths,Counting,Easy,"Count by 10: 10, 20, ___",40,20,30,50,30
+K,Maths,Patterns,Easy,"Count by 10: 0, 10, 20, 30, 40, 50, ___",70,80,50,60,60
+K,Maths,Comparison,Easy,There are 1 kites. 1 go away. How many are left?,2,1,0,Option 3,0
+K,Maths,Counting,Easy,"Count by 2: 0, 2, 4, 6, 8, ___",12,14,10,8,10
+K,Maths,Shapes,Easy,"Which is the smallest number? 1, 7, 10",10,1,7,0,1
+K,Maths,Counting,Easy,"Which is the largest number? 7, 0, 3",7,0,8,3,7
+K,Maths,Comparison,Easy,There are 8 stars. 6 go away. How many are left?,3,1,2,4,2
+K,Maths,Shapes,Easy,Fill in the blank: 3 + ___ = 10,9,8,6,7,7
+K,Maths,Patterns,Easy,"Count by 5: 0, 5, ___",20,5,15,10,10
+K,Maths,Comparison,Easy,"What comes next in the pattern? 1, 5, 1, 5, 1, ___",6,4,5,1,5
+K,Maths,Patterns,Easy,Fill in the blank: 5 + ___ = 5,Option 3,2,0,1,0
+K,Maths,Shapes,Easy,"Which is the largest number? 2, 7, 9",2,7,9,Option 3,9
+K,Maths,Comparison,Easy,You have 9 balls and get 5 more. How many balls do you have now?,15,14,16,13,14
+K,Maths,Shapes,Easy,Fill in the blank: 9 + ___ = 16,7,9,8,6,7
+K,Maths,Patterns,Easy,"Which is the largest number? 9, 7, 5",7,10,9,5,9
+K,Maths,Patterns,Easy,There are 2 marbles. 2 go away. How many are left?,Option 3,2,0,1,0
+K,Maths,Counting,Easy,There are 8 blocks. 8 go away. How many are left?,2,Option 3,0,1,0
+K,Maths,Shapes,Easy,"Count by 5: 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, ___",65,55,60,50,55
+K,Maths,Patterns,Easy,Fill in the blank: 0 + ___ = 9,10,11,9,8,9
+K,Maths,Shapes,Easy,Fill in the blank: 10 + ___ = 15,4,7,6,5,5
+K,Maths,Shapes,Easy,You have 5 blocks and get 8 more. How many blocks do you have now?,15,13,12,14,13
+K,Maths,Shapes,Easy,You have 0 books and get 7 more. How many books do you have now?,6,8,7,9,7
+K,Maths,Counting,Easy,You have 7 balls and get 7 more. How many balls do you have now?,16,14,13,15,14
+K,Maths,Patterns,Easy,There are 3 buttons. 3 go away. How many are left?,Option 3,2,1,0,0
+K,Maths,Shapes,Easy,Fill in the blank: 3 + ___ = 4,3,1,0,2,1
+K,Maths,Shapes,Easy,There are 3 bears. 0 go away. How many are left?,3,2,5,4,3
+K,Maths,Shapes,Easy,Fill in the blank: 8 + ___ = 11,4,5,3,2,3
+K,Maths,Shapes,Easy,"What comes next in the pattern? 8, 10, 8, 10, 8, ___",8,11,9,10,10
+K,Maths,Patterns,Easy,There are 1 balls. 1 go away. How many are left?,0,1,2,Option 3,0
+K,Maths,Comparison,Easy,There are 7 blocks. 6 go away. How many are left?,3,1,2,0,1
+K,Maths,Counting,Easy,"What comes next in the pattern? 5, 6, 5, 6, 5, ___",Option 3,5,7,6,6
+K,Maths,Comparison,Easy,"Which is the smallest number? 5, 1, 2",1,5,Option 3,2,1
+K,Maths,Shapes,Easy,You have 6 apples and get 8 more. How many apples do you have now?,15,14,13,16,14
+K,Maths,Comparison,Easy,Fill in the blank: 2 + ___ = 2,1,0,Option 3,2,0
+K,Maths,Patterns,Easy,You have 8 cats and get 1 more. How many cats do you have now?,9,8,10,11,9
+K,Maths,Comparison,Easy,Fill in the blank: 9 + ___ = 14,6,7,4,5,5
+K,Maths,Shapes,Easy,"Which is the smallest number? 8, 2, 7",1,2,8,7,2
+K,Maths,Shapes,Easy,Fill in the blank: 1 + ___ = 7,7,8,6,5,6
+K,Maths,Comparison,Easy,"Count by 2: 2, 4, 6, ___",12,8,6,10,8
+K,Maths,Shapes,Easy,There are 4 robots. 4 go away. How many are left?,1,2,Option 3,0,0
+K,Maths,Comparison,Easy,There are 5 bears. 3 go away. How many are left?,4,3,1,2,2
+K,Maths,Shapes,Easy,"Count by 10: 0, 10, ___",40,20,30,10,20
+K,Maths,Patterns,Easy,Fill in the blank: 0 + ___ = 4,3,6,5,4,4
+K,Maths,Patterns,Easy,"Which is the smallest number? 1, 4, 2",0,2,1,4,1
+K,Maths,Comparison,Easy,You have 0 robots and get 5 more. How many robots do you have now?,5,4,7,6,5
+K,Maths,Counting,Easy,Fill in the blank: 3 + ___ = 7,4,3,6,5,4
+K,Maths,Counting,Easy,There are 6 shells. 6 go away. How many are left?,1,Option 3,2,0,0
+K,Maths,Patterns,Easy,Fill in the blank: 3 + ___ = 13,9,10,12,11,10
+K,Maths,Counting,Easy,"Which is the smallest number? 8, 8, 4",4,Option 3,3,8,4
+K,Maths,Counting,Easy,There are 1 books. 0 go away. How many are left?,3,2,0,1,1
+K,Maths,Shapes,Easy,"Which is the largest number? 1, 3, 4",Option 3,4,3,1,4
+K,Maths,Patterns,Easy,There are 3 books. 3 go away. How many are left?,0,2,Option 3,1,0
+K,Maths,Patterns,Easy,Fill in the blank: 8 + ___ = 14,7,6,5,8,6
+K,Maths,Comparison,Easy,"Which is the largest number? 6, 3, 5",5,6,3,7,6
+K,Maths,Patterns,Easy,"Which is the smallest number? 5, 7, 7",5,Option 3,Option 2,7,5
+K,Maths,Shapes,Easy,"Which is the smallest number? 6, 1, 4",6,2,1,4,1
+K,Maths,Patterns,Easy,Fill in the blank: 0 + ___ = 5,6,4,7,5,5
+K,Maths,Comparison,Easy,You have 0 blocks and get 4 more. How many blocks do you have now?,6,5,3,4,4
+K,Maths,Shapes,Easy,"Which is the smallest number? 7, 2, 8",2,7,3,8,2
+K,Maths,Shapes,Easy,"Which is the smallest number? 9, 3, 8",3,8,9,5,3
+K,Maths,Counting,Easy,"Which is the largest number? 9, 8, 3",9,11,3,8,9
+K,Maths,Comparison,Easy,"Which is the smallest number? 8, 10, 7",Option 3,10,8,7,7
+K,Maths,Patterns,Easy,"Count by 10: 0, 10, 20, 30, 40, 50, 60, 70, ___",70,90,100,80,80
+K,Maths,Counting,Easy,Fill in the blank: 3 + ___ = 3,1,Option 3,0,2,0
+K,Maths,Shapes,Easy,"Count by 10: 10, 20, 30, ___",40,60,50,30,40
+K,Maths,Counting,Easy,You have 3 balls and get 0 more. How many balls do you have now?,3,4,5,2,3
+K,Maths,Shapes,Easy,You have 10 stars and get 3 more. How many stars do you have now?,13,14,12,15,13
+K,Maths,Comparison,Easy,There are 5 dogs. 0 go away. How many are left?,5,4,7,6,5
+K,Maths,Patterns,Easy,"What comes next in the pattern? 1, 2, 1, 2, 1, ___",Option 3,3,1,2,2
+K,Maths,Comparison,Easy,You have 4 cars and get 9 more. How many cars do you have now?,15,13,14,12,13
+K,Maths,Shapes,Easy,You have 2 robots and get 3 more. How many robots do you have now?,7,5,4,6,5
+K,Maths,Comparison,Easy,"Which is the smallest number? 3, 4, 9",3,4,9,5,3
+K,Maths,Patterns,Easy,"Which is the largest number? 8, 0, 8",9,0,8,7,8
+K,Maths,Comparison,Easy,Fill in the blank: 0 + ___ = 6,7,5,6,8,6
+K,Maths,Patterns,Easy,There are 1 candies. 1 go away. How many are left?,1,0,2,Option 3,0
+K,Maths,Counting,Easy,Fill in the blank: 5 + ___ = 9,6,4,5,3,4
+K,Maths,Patterns,Easy,"Count by 5: 0, 5, 10, 15, 20, 25, 30, 35, 40, ___",40,50,45,55,45
+K,Maths,Patterns,Easy,There are 4 shells. 3 go away. How many are left?,0,1,3,2,1
+K,Maths,Comparison,Easy,Fill in the blank: 5 + ___ = 6,2,0,1,3,1
+K,Maths,Comparison,Easy,There are 9 cats. 5 go away. How many are left?,4,5,3,6,4
+K,Maths,Patterns,Easy,"Which is the largest number? 0, 0, 6",Option 3,0,6,5,6
+K,Maths,Shapes,Easy,There are 7 cats. 6 go away. How many are left?,3,0,1,2,1
+K,Maths,Patterns,Easy,There are 6 blocks. 3 go away. How many are left?,5,3,2,4,3
+K,Maths,Shapes,Easy,There are 2 balls. 1 go away. How many are left?,0,1,3,2,1
+K,Maths,Counting,Easy,There are 8 pencils. 0 go away. How many are left?,7,8,10,9,8
+K,Maths,Comparison,Easy,"Which is the largest number? 1, 7, 8",10,7,8,1,8
+K,Maths,Counting,Easy,"Count by 5: 0, 5, 10, ___",25,15,20,10,15
+K,Maths,Comparison,Easy,"Which is the largest number? 4, 6, 10",6,8,4,10,10
+K,Maths,Comparison,Easy,There are 4 books. 4 go away. How many are left?,Option 3,0,1,2,0
+K,Maths,Counting,Easy,"Which is the largest number? 2, 5, 9",11,9,5,2,9
+K,Maths,Comparison,Easy,"Which is the smallest number? 1, 1, 10",Option 3,1,2,10,1
+K,Maths,Counting,Easy,"Count by 2: 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, ___",28,22,24,26,24
+K,Maths,Comparison,Easy,"What comes next in the pattern? 7, 12, 7, 12, 7, ___",12,11,7,13,12
+K,Maths,Comparison,Easy,"Which is the smallest number? 9, 1, 4",9,1,4,3,1
+K,Maths,Shapes,Easy,"Which is the smallest number? 6, 7, 6",6,8,7,5,6
+K,Maths,Shapes,Easy,There are 7 cookies. 3 go away. How many are left?,5,4,6,3,4
+K,Maths,Counting,Easy,"Which is the largest number? 6, 1, 9",8,9,1,6,9
+K,Maths,Comparison,Easy,You have 6 dogs and get 0 more. How many dogs do you have now?,8,5,6,7,6
+K,Maths,Comparison,Easy,You have 4 books and get 9 more. How many books do you have now?,12,15,14,13,13
+K,Maths,Shapes,Easy,"Count by 5: 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, ___",65,60,55,70,60
+K,Maths,Patterns,Easy,There are 7 balls. 7 go away. How many are left?,1,2,Option 3,0,0
+K,Maths,Shapes,Easy,Fill in the blank: 8 + ___ = 16,8,7,10,9,8
+K,Maths,Comparison,Easy,There are 7 bears. 7 go away. How many are left?,1,Option 3,2,0,0
+K,Maths,Shapes,Easy,"Which is the smallest number? 7, 5, 7",Option 3,7,5,Option 2,5
+K,Maths,Shapes,Easy,Fill in the blank: 10 + ___ = 16,8,5,6,7,6
+K,Maths,Shapes,Easy,There are 10 stars. 8 go away. How many are left?,3,4,2,1,2
+K,Maths,Patterns,Easy,"What comes next in the pattern? 8, 12, 8, 12, 8, ___",11,8,13,12,12
+K,Maths,Patterns,Easy,Fill in the blank: 1 + ___ = 8,7,6,9,8,7
+K,Maths,Counting,Easy,"Which is the smallest number? 7, 0, 4",-1,4,0,7,0
+K,Maths,Shapes,Easy,"Which is the smallest number? 4, 9, 4",9,5,4,6,4
+K,Maths,Patterns,Easy,"Count by 10: 0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100, ___",130,100,110,120,110
+K,Maths,Shapes,Easy,You have 4 dogs and get 3 more. How many dogs do you have now?,9,6,7,8,7
+K,Maths,Shapes,Easy,"Count by 2: 2, 4, 6, 8, 10, 12, 14, 16, 18, ___",24,22,20,18,20
+K,Maths,Comparison,Easy,There are 0 candies. 0 go away. How many are left?,0,1,2,Option 3,0
+K,Maths,Patterns,Easy,"What comes next in the pattern? 1, 6, 1, 6, 1, ___",6,7,1,5,6
+K,Maths,Shapes,Easy,There are 6 buttons. 1 go away. How many are left?,5,7,4,6,5
+K,Maths,Shapes,Easy,"Which is the smallest number? 10, 9, 2",4,10,2,9,2
+K,Maths,Patterns,Easy,"Count by 5: 5, 10, 15, 20, 25, 30, 35, ___",40,45,50,35,40
+K,Maths,Patterns,Easy,"Which is the largest number? 2, 0, 7",2,6,7,0,7
+K,Maths,Counting,Easy,"Count by 2: 2, 4, 6, 8, 10, ___",12,10,14,16,12
+K,Maths,Shapes,Easy,Fill in the blank: 1 + ___ = 4,5,3,4,2,3
+K,Maths,Patterns,Easy,"What comes next in the pattern? 2, 5, 2, 5, 2, ___",4,5,6,2,5
+K,Maths,Shapes,Easy,There are 0 cats. 0 go away. How many are left?,0,Option 3,2,1,0
+K,Maths,Shapes,Easy,"Count by 10: 0, 10, 20, ___",20,30,50,40,30
+K,Maths,Patterns,Easy,Fill in the blank: 7 + ___ = 16,11,10,8,9,9
+K,Maths,Comparison,Easy,There are 7 dogs. 4 go away. How many are left?,3,5,4,2,3
+K,Maths,Counting,Easy,There are 6 trees. 1 go away. How many are left?,4,5,7,6,5
+K,Maths,Patterns,Easy,"Which is the smallest number? 2, 0, 5",2,0,5,Option 3,0
+K,Maths,Patterns,Easy,"What comes next in the pattern? 4, 8, 4, 8, 4, ___",7,9,4,8,8
+K,Maths,Counting,Easy,Fill in the blank: 2 + ___ = 3,3,2,0,1,1
+K,Maths,Comparison,Easy,There are 5 robots. 2 go away. How many are left?,4,3,2,5,3
+K,Maths,Comparison,Easy,Fill in the blank: 2 + ___ = 8,7,5,8,6,6
+K,Maths,Counting,Easy,You have 3 pencils and get 1 more. How many pencils do you have now?,6,3,4,5,4
+K,Maths,Patterns,Easy,"What comes next in the pattern? 3, 5, 3, 5, 3, ___",6,3,5,4,5
+K,Maths,Patterns,Easy,There are 0 robots. 0 go away. How many are left?,0,Option 3,2,1,0
+K,Maths,Patterns,Easy,There are 6 stars. 0 go away. How many are left?,8,5,7,6,6
+K,Maths,Patterns,Easy,You have 1 shells and get 0 more. How many shells do you have now?,2,0,3,1,1
+K,Maths,Comparison,Easy,There are 1 bears. 1 go away. How many are left?,1,0,Option 3,2,0
+K,Maths,Patterns,Easy,"Which is the smallest number? 3, 10, 10",3,Option 3,10,1,3
+K,Maths,Comparison,Easy,"Count by 2: 0, 2, 4, 6, 8, 10, 12, 14, ___",20,16,14,18,16
+K,Maths,Comparison,Easy,"What comes next in the pattern? 6, 7, 6, 7, 6, ___",8,6,Option 3,7,7
+K,Maths,Patterns,Easy,Fill in the blank: 2 + ___ = 12,11,9,12,10,10
+K,Maths,Comparison,Easy,"Which is the smallest number? 6, 10, 7",7,6,10,4,6
+K,Maths,Comparison,Easy,You have 9 cats and get 3 more. How many cats do you have now?,12,11,14,13,12
+K,Maths,Patterns,Easy,Fill in the blank: 7 + ___ = 7,Option 3,2,0,1,0
+K,Maths,Shapes,Easy,There are 2 kites. 0 go away. How many are left?,3,2,4,1,2
+K,Maths,Shapes,Easy,There are 3 cars. 1 go away. How many are left?,1,4,2,3,2
+K,Maths,Comparison,Easy,"Count by 2: 0, 2, 4, 6, 8, 10, 12, 14, 16, 18, ___",24,20,22,18,20
+K,Maths,Comparison,Easy,You have 10 buttons and get 9 more. How many buttons do you have now?,18,20,19,21,19
+K,Maths,Patterns,Easy,"Which is the largest number? 8, 10, 9",8,10,11,9,10
+K,Maths,Comparison,Easy,"What comes next in the pattern? 6, 8, 6, 8, 6, ___",6,9,8,7,8
+K,Maths,Patterns,Easy,"Which is the largest number? 5, 10, 1",12,10,1,5,10
+K,Maths,Comparison,Easy,"What comes next in the pattern? 8, 13, 8, 13, 8, ___",14,12,8,13,13
+K,Maths,Comparison,Easy,You have 0 pencils and get 4 more. How many pencils do you have now?,3,4,6,5,4
+K,Maths,Comparison,Easy,You have 10 candies and get 0 more. How many candies do you have now?,11,12,9,10,10
+K,Maths,Patterns,Easy,Fill in the blank: 0 + ___ = 2,1,2,3,4,2
+K,Maths,Patterns,Easy,You have 6 stars and get 0 more. How many stars do you have now?,8,6,7,5,6
+K,Maths,Comparison,Easy,"Count by 2: 2, 4, 6, 8, ___",14,8,12,10,10
+K,Maths,Comparison,Easy,There are 2 books. 0 go away. How many are left?,4,2,1,3,2
+K,Maths,Shapes,Easy,Fill in the blank: 1 + ___ = 10,10,11,8,9,9
+K,Maths,Shapes,Easy,You have 2 flowers and get 5 more. How many flowers do you have now?,9,8,7,6,7
+K,Maths,Comparison,Easy,There are 4 cats. 4 go away. How many are left?,2,Option 3,0,1,0
+K,Maths,Shapes,Easy,You have 8 candies and get 2 more. How many candies do you have now?,11,12,10,9,10
+K,Maths,Comparison,Easy,There are 5 kites. 2 go away. How many are left?,2,5,3,4,3
+K,Maths,Comparison,Easy,You have 3 robots and get 8 more. How many robots do you have now?,11,13,12,10,11
+K,Maths,Patterns,Easy,Fill in the blank: 8 + ___ = 17,8,10,9,11,9
+K,Maths,Shapes,Easy,There are 10 cookies. 2 go away. How many are left?,10,7,8,9,8
+K,Maths,Comparison,Easy,"Which is the smallest number? 8, 8, 6",8,4,Option 3,6,6
+K,Maths,Comparison,Easy,"Which is the smallest number? 1, 2, 8",-1,2,1,8,1
+K,Maths,Counting,Easy,"Which is the smallest number? 0, 6, 1",0,Option 3,6,1,0
+K,Maths,Patterns,Easy,"Which is the largest number? 9, 7, 2",2,9,7,8,9
+K,Maths,Counting,Easy,"Which is the largest number? 9, 3, 1",1,10,3,9,9
+K,Maths,Patterns,Easy,"Count by 2: 0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, ___",20,22,26,24,22
+K,Maths,Comparison,Easy,Fill in the blank: 6 + ___ = 13,9,6,8,7,7
+K,Maths,Patterns,Easy,Fill in the blank: 8 + ___ = 10,1,3,4,2,2
+K,Maths,Comparison,Easy,"What comes next in the pattern? 5, 9, 5, 9, 5, ___",8,5,9,10,9
+K,Maths,Shapes,Easy,"Count by 10: 10, 20, 30, 40, ___",60,70,50,40,50
+K,Maths,Comparison,Easy,Fill in the blank: 7 + ___ = 17,11,9,10,12,10
+K,Maths,Counting,Easy,"Which is the smallest number? 7, 5, 10",10,7,5,6,5
+K,Maths,Counting,Easy,There are 1 buttons. 1 go away. How many are left?,1,2,Option 3,0,0
+K,Maths,Counting,Easy,You have 4 apples and get 3 more. How many apples do you have now?,8,7,9,6,7
+K,Maths,Comparison,Easy,"Count by 2: 2, 4, 6, 8, 10, 12, ___",16,18,12,14,14
+K,Maths,Patterns,Easy,"Count by 5: 5, 10, ___",15,10,20,25,15
+K,Maths,Comparison,Easy,Fill in the blank: 8 + ___ = 8,Option 3,1,2,0,0
+K,Maths,Shapes,Easy,"Count by 5: 5, 10, 15, 20, ___",30,25,35,20,25
+K,Maths,Patterns,Easy,You have 2 pencils and get 0 more. How many pencils do you have now?,4,3,2,1,2
+K,Maths,Patterns,Easy,"Which is the smallest number? 6, 1, 9",6,9,3,1,1
+K,Maths,Patterns,Easy,Fill in the blank: 0 + ___ = 10,12,11,9,10,10
+K,Maths,Shapes,Easy,There are 10 dogs. 10 go away. How many are left?,Option 3,1,2,0,0
+K,Maths,Comparison,Easy,You have 4 planes and get 1 more. How many planes do you have now?,5,7,4,6,5
+K,Maths,Comparison,Easy,There are 0 trees. 0 go away. How many are left?,1,Option 3,2,0,0
+K,Maths,Comparison,Easy,There are 9 dogs. 1 go away. How many are left?,7,9,10,8,8
+K,Maths,Comparison,Easy,Fill in the blank: 3 + ___ = 12,9,10,8,11,9
+K,Maths,Patterns,Easy,Fill in the blank: 9 + ___ = 15,7,8,5,6,6
+K,Maths,Patterns,Easy,Fill in the blank: 1 + ___ = 3,3,4,2,1,2
+K,Maths,Counting,Easy,Fill in the blank: 2 + ___ = 9,9,6,7,8,7
+K,Maths,Counting,Easy,"Count by 10: 0, 10, 20, 30, 40, 50, 60, ___",60,90,70,80,70
+K,Maths,Comparison,Easy,There are 7 trees. 2 go away. How many are left?,7,5,6,4,5
+K,Maths,Shapes,Easy,You have 6 books and get 8 more. How many books do you have now?,13,15,14,16,14
+K,Maths,Counting,Easy,"Which is the largest number? 3, 5, 4",7,5,4,3,5
+K,Maths,Counting,Easy,"What comes next in the pattern? 8, 11, 8, 11, 8, ___",11,10,12,8,11
+K,Maths,Patterns,Easy,"Which is the smallest number? 2, 1, 9",2,9,0,1,1
+K,Maths,Counting,Easy,"What comes next in the pattern? 3, 8, 3, 8, 3, ___",7,3,8,9,8
+K,Maths,Shapes,Easy,You have 10 planes and get 7 more. How many planes do you have now?,16,17,18,19,17
+K,Maths,Counting,Easy,"Which is the largest number? 9, 0, 1",9,1,10,0,9
+K,Maths,Counting,Easy,There are 3 buttons. 0 go away. How many are left?,2,3,4,5,3
+K,Maths,Patterns,Easy,You have 9 dogs and get 5 more. How many dogs do you have now?,13,14,16,15,14
+K,Maths,Comparison,Easy,There are 2 shells. 1 go away. How many are left?,0,3,1,2,1
+K,Maths,Counting,Easy,"Count by 10: 0, 10, 20, 30, 40, ___",70,40,50,60,50
+K,Maths,Comparison,Easy,"Which is the smallest number? 6, 2, 6",3,Option 3,2,6,2
+K,Maths,Shapes,Easy,You have 1 cookies and get 9 more. How many cookies do you have now?,12,10,11,9,10
+K,Maths,Counting,Easy,"Count by 10: 0, 10, 20, 30, 40, 50, 60, 70, 80, 90, ___",90,100,110,120,100
+K,Maths,Counting,Easy,You have 4 marbles and get 10 more. How many marbles do you have now?,14,16,13,15,14
+K,Maths,Patterns,Easy,There are 9 kites. 2 go away. How many are left?,8,7,9,6,7
+K,Maths,Comparison,Easy,There are 5 stars. 4 go away. How many are left?,0,2,1,3,1
+K,Maths,Patterns,Easy,"Which is the largest number? 9, 5, 2",2,5,9,10,9
+K,Maths,Comparison,Easy,"What comes next in the pattern? 9, 13, 9, 13, 9, ___",9,14,12,13,13
+K,Maths,Counting,Easy,"Which is the smallest number? 10, 3, 2",3,10,2,Option 3,2
+K,Maths,Counting,Easy,"What comes next in the pattern? 9, 12, 9, 12, 9, ___",11,9,12,13,12
+K,Maths,Counting,Easy,You have 10 cookies and get 3 more. How many cookies do you have now?,12,15,13,14,13
+K,Maths,Comparison,Easy,Fill in the blank: 7 + ___ = 13,8,7,6,5,6
+K,Maths,Patterns,Easy,"Which is the largest number? 6, 7, 3",Option 3,3,7,6,7
+K,Maths,Patterns,Easy,There are 3 balls. 0 go away. How many are left?,3,2,5,4,3
+K,Maths,Patterns,Easy,There are 3 balls. 2 go away. How many are left?,2,1,3,0,1
+K,Maths,Shapes,Easy,You have 9 candies and get 3 more. How many candies do you have now?,13,12,14,11,12
+K,Maths,Counting,Easy,"Which is the largest number? 10, 8, 0",10,Option 3,8,0,10
+K,Maths,Counting,Easy,There are 1 cats. 0 go away. How many are left?,0,3,2,1,1
+K,Maths,Comparison,Easy,"Which is the smallest number? 0, 6, 5",0,6,5,-1,0
+K,Maths,Comparison,Easy,"What comes next in the pattern? 2, 3, 2, 3, 2, ___",2,Option 3,3,4,3
+K,Maths,Patterns,Easy,"Which is the smallest number? 6, 9, 5",5,6,4,9,5
+K,Maths,Comparison,Easy,Fill in the blank: 10 + ___ = 14,5,6,4,3,4
+K,Maths,Shapes,Easy,"What comes next in the pattern? 2, 7, 2, 7, 2, ___",7,6,8,2,7
+K,Maths,Counting,Easy,There are 8 dogs. 1 go away. How many are left?,7,8,9,6,7
+K,Maths,Comparison,Easy,"Which is the largest number? 2, 10, 1",10,8,2,1,10
+K,Maths,Comparison,Easy,"Count by 10: 0, 10, 20, 30, ___",60,40,30,50,40
+K,Maths,Counting,Easy,"Which is the largest number? 0, 0, 8",8,0,10,Option 3,8
+K,Maths,Comparison,Easy,"Which is the smallest number? 4, 8, 4",4,5,8,6,4
+K,Maths,Comparison,Easy,You have 3 pencils and get 8 more. How many pencils do you have now?,12,13,11,10,11
+K,Maths,Comparison,Easy,There are 8 cats. 6 go away. How many are left?,4,2,3,1,2
+K,Maths,Comparison,Easy,You have 10 bears and get 6 more. How many bears do you have now?,18,15,17,16,16
+K,Maths,Counting,Easy,You have 1 trees and get 2 more. How many trees do you have now?,3,4,5,2,3
+K,Maths,Shapes,Easy,There are 6 dogs. 4 go away. How many are left?,1,2,4,3,2
+K,Maths,Patterns,Easy,There are 10 trees. 6 go away. How many are left?,3,4,6,5,4
+K,Maths,Shapes,Easy,There are 9 cats. 7 go away. How many are left?,4,3,2,1,2
+K,Maths,Counting,Easy,"Which is the largest number? 1, 9, 3",8,3,9,1,9
+K,Maths,Counting,Easy,You have 3 kites and get 5 more. How many kites do you have now?,8,7,10,9,8
+K,Maths,Patterns,Easy,There are 8 candies. 1 go away. How many are left?,9,7,8,6,7
+K,Maths,Patterns,Easy,"What comes next in the pattern? 9, 14, 9, 14, 9, ___",13,14,9,15,14
+K,Maths,Patterns,Easy,There are 3 kites. 0 go away. How many are left?,4,3,5,2,3
+K,Maths,Counting,Easy,You have 6 balls and get 3 more. How many balls do you have now?,10,11,9,8,9
+K,Maths,Counting,Easy,You have 3 flowers and get 7 more. How many flowers do you have now?,12,11,9,10,10
+K,Maths,Patterns,Easy,You have 10 blocks and get 9 more. How many blocks do you have now?,21,18,20,19,19
+K,Maths,Patterns,Easy,Fill in the blank: 10 + ___ = 10,Option 3,0,2,1,0
+K,Maths,Comparison,Easy,Fill in the blank: 8 + ___ = 12,4,5,6,3,4
+K,Maths,Patterns,Easy,"Count by 10: 10, 20, 30, 40, 50, 60, ___",90,70,80,60,70
+K,Maths,Counting,Easy,There are 1 buttons. 0 go away. How many are left?,2,3,0,1,1
+K,Maths,Patterns,Easy,There are 5 blocks. 3 go away. How many are left?,3,1,4,2,2
+K,Maths,Comparison,Easy,Fill in the blank: 9 + ___ = 13,6,4,5,3,4
+K,Maths,Counting,Easy,There are 2 shells. 2 go away. How many are left?,0,Option 3,1,2,0
+K,Maths,Patterns,Easy,You have 10 kites and get 6 more. How many kites do you have now?,18,16,17,15,16
+K,Maths,Comparison,Easy,You have 1 shells and get 1 more. How many shells do you have now?,1,2,4,3,2
+K,Maths,Patterns,Easy,"Which is the largest number? 3, 8, 1",3,9,1,8,8
+K,Maths,Counting,Easy,"Count by 10: 10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, ___",140,120,130,110,120
+K,Maths,Shapes,Easy,You have 6 dogs and get 9 more. How many dogs do you have now?,15,16,14,17,15
+K,Maths,Patterns,Easy,There are 9 kites. 0 go away. How many are left?,8,9,11,10,9
+K,Maths,Comparison,Easy,You have 10 cats and get 0 more. How many cats do you have now?,10,11,9,12,10
+K,Maths,Counting,Easy,You have 6 pencils and get 0 more. How many pencils do you have now?,6,8,5,7,6
+K,Maths,Patterns,Easy,Fill in the blank: 5 + ___ = 8,5,3,2,4,3
+K,Maths,Patterns,Easy,There are 2 buttons. 0 go away. How many are left?,3,2,1,4,2
+K,Maths,Comparison,Easy,"Count by 2: 0, 2, 4, 6, ___",10,8,12,6,8
+K,Maths,Counting,Easy,You have 0 flowers and get 5 more. How many flowers do you have now?,7,6,5,4,5
+K,Maths,Patterns,Easy,You have 8 marbles and get 4 more. How many marbles do you have now?,12,11,13,14,12
+K,Maths,Shapes,Easy,"What comes next in the pattern? 1, 4, 1, 4, 1, ___",5,3,1,4,4
+K,Maths,Patterns,Easy,"Which is the largest number? 5, 10, 7",5,12,7,10,10
+K,Maths,Shapes,Easy,You have 5 flowers and get 0 more. How many flowers do you have now?,5,4,6,7,5
+K,Maths,Patterns,Easy,There are 10 marbles. 4 go away. How many are left?,5,8,6,7,6
+K,Maths,Comparison,Easy,"Count by 2: 0, 2, 4, 6, 8, 10, 12, 14, 16, ___",18,22,20,16,18
+K,Maths,Comparison,Easy,"Which is the largest number? 6, 0, 8",10,6,0,8,8
+K,Maths,Comparison,Easy,You have 2 trees and get 7 more. How many trees do you have now?,10,11,9,8,9
+K,Maths,Patterns,Easy,"Count by 5: 5, 10, 15, ___",25,30,20,15,20
+K,Maths,Counting,Easy,"Which is the smallest number? 10, 7, 1",3,7,10,1,1
+K,Maths,Counting,Easy,You have 4 trees and get 2 more. How many trees do you have now?,6,8,5,7,6
+K,Maths,Shapes,Easy,You have 3 cookies and get 9 more. How many cookies do you have now?,11,14,12,13,12
+K,Maths,Patterns,Easy,You have 6 pencils and get 1 more. How many pencils do you have now?,6,9,8,7,7
+K,Maths,Comparison,Easy,"Which is the smallest number? 10, 0, 4",0,10,2,4,0
+K,Maths,Counting,Easy,"Which is the smallest number? 7, 8, 6",6,8,7,Option 3,6
+K,Maths,Patterns,Easy,You have 8 trees and get 3 more. How many trees do you have now?,10,13,12,11,11
+K,Maths,Patterns,Easy,There are 0 apples. 0 go away. How many are left?,0,2,Option 3,1,0
+K,Maths,Patterns,Easy,You have 7 candies and get 10 more. How many candies do you have now?,16,19,17,18,17
+K,Maths,Comparison,Easy,"What comes next in the pattern? 8, 9, 8, 9, 8, ___",9,10,8,Option 3,9
+K,Maths,Comparison,Easy,"What comes next in the pattern? 3, 6, 3, 6, 3, ___",6,7,5,3,6
+K,Maths,Shapes,Easy,"Which is the smallest number? 3, 6, 3",3,6,4,5,3
+K,Maths,Shapes,Easy,You have 10 cars and get 0 more. How many cars do you have now?,12,10,9,11,10
+K,Maths,Comparison,Easy,"What comes next in the pattern? 4, 6, 4, 6, 4, ___",5,6,7,4,6
+K,Maths,Shapes,Easy,There are 3 shells. 1 go away. How many are left?,3,2,4,1,2
+K,Maths,Patterns,Easy,Fill in the blank: 10 + ___ = 11,2,1,3,0,1
+K,Maths,Counting,Easy,"Which is the smallest number? 10, 3, 6",10,5,3,6,3
+K,Maths,Counting,Easy,"Which is the largest number? 9, 8, 10",8,9,10,Option 3,10
+K,Maths,Counting,Easy,"Which is the smallest number? 5, 10, 9",5,6,9,10,5
+K,Maths,Comparison,Easy,You have 8 marbles and get 8 more. How many marbles do you have now?,17,16,15,18,16
+K,Maths,Counting,Easy,There are 4 cookies. 2 go away. How many are left?,4,2,3,1,2
+K,Maths,Comparison,Easy,"Which is the largest number? 0, 2, 10",10,9,2,0,10
+K,Maths,Comparison,Easy,"Which is the smallest number? 1, 10, 4",1,10,3,4,1
+K,Maths,Counting,Easy,Fill in the blank: 1 + ___ = 2,2,1,0,3,1
+K,Maths,Patterns,Easy,There are 4 shells. 0 go away. How many are left?,5,6,4,3,4
+K,Maths,Shapes,Easy,You have 4 buttons and get 3 more. How many buttons do you have now?,7,9,8,6,7
+K,Maths,Comparison,Easy,"Which is the largest number? 2, 1, 5",1,5,4,2,5
+K,Maths,Shapes,Easy,"Which is the smallest number? 8, 1, 10",10,8,1,-1,1
+K,Maths,Shapes,Easy,"Which is the smallest number? 8, 10, 9",9,Option 3,10,8,8
+K,Maths,Comparison,Easy,"Count by 10: 10, 20, 30, 40, 50, 60, 70, 80, 90, 100, ___",100,120,110,130,110
+K,Maths,Counting,Easy,You have 7 buttons and get 9 more. How many buttons do you have now?,17,16,18,15,16
+K,Maths,Comparison,Easy,There are 4 cookies. 4 go away. How many are left?,0,1,2,Option 3,0
+K,Maths,Counting,Easy,"Which is the smallest number? 5, 6, 0",0,2,6,5,0
+K,Maths,Counting,Easy,You have 8 cookies and get 3 more. How many cookies do you have now?,12,11,13,10,11
+K,Maths,Counting,Easy,There are 8 books. 2 go away. How many are left?,5,8,7,6,6
+K,Maths,Patterns,Easy,"Count by 5: 5, 10, 15, 20, 25, 30, 35, 40, 45, ___",55,60,45,50,50
+K,Maths,Patterns,Easy,There are 2 planes. 2 go away. How many are left?,2,1,0,Option 3,0
+K,Maths,Shapes,Easy,You have 0 shells and get 4 more. How many shells do you have now?,3,5,6,4,4
+K,Maths,Patterns,Easy,There are 6 cats. 4 go away. How many are left?,4,1,2,3,2
+K,Maths,Comparison,Easy,"Which is the largest number? 1, 9, 7",1,10,7,9,9
+K,Maths,Patterns,Easy,"Which is the smallest number? 10, 3, 0",10,3,-1,0,0
+K,Maths,Shapes,Easy,There are 9 robots. 2 go away. How many are left?,7,8,9,6,7
+K,Maths,Counting,Easy,"Which is the smallest number? 2, 4, 6",6,Option 3,4,2,2
+K,Maths,Shapes,Easy,You have 10 books and get 6 more. How many books do you have now?,15,17,16,18,16
+K,Maths,Comparison,Easy,There are 0 marbles. 0 go away. How many are left?,2,0,1,Option 3,0
+K,Maths,Patterns,Easy,"Which is the smallest number? 3, 6, 6",2,6,3,Option 3,3
+K,Maths,Counting,Easy,"Count by 2: 2, 4, 6, 8, 10, 12, 14, ___",20,16,18,14,16
+K,Maths,Comparison,Easy,You have 7 buttons and get 7 more. How many buttons do you have now?,15,16,14,13,14
+K,Maths,Counting,Easy,"Which is the largest number? 3, 5, 2",2,7,5,3,5
+K,Maths,Patterns,Easy,There are 0 cookies. 0 go away. How many are left?,2,1,Option 3,0,0
+K,Maths,Counting,Easy,There are 1 kites. 0 go away. How many are left?,2,1,3,0,1
+K,Maths,Comparison,Easy,There are 2 kites. 1 go away. How many are left?,3,0,2,1,1
+K,Maths,Comparison,Easy,"Which is the largest number? 5, 1, 5",5,6,7,1,5
+K,Maths,Patterns,Easy,"Which is the largest number? 6, 1, 2",1,2,6,5,6
+K,Maths,Counting,Easy,You have 1 robots and get 0 more. How many robots do you have now?,1,3,0,2,1
+K,Maths,Counting,Easy,"What comes next in the pattern? 5, 10, 5, 10, 5, ___",5,10,9,11,10
+K,Maths,Shapes,Easy,"Which is the largest number? 0, 2, 8",7,2,8,0,8
+K,Maths,Counting,Easy,Fill in the blank: 3 + ___ = 9,6,8,7,5,6
+K,Maths,Comparison,Easy,"Which is the smallest number? 8, 4, 10",10,8,6,4,4
+K,Maths,Comparison,Easy,There are 4 apples. 0 go away. How many are left?,4,5,6,3,4
+K,Maths,Shapes,Easy,"Which is the largest number? 10, 3, 8",3,10,8,9,10
+K,Maths,Shapes,Easy,"Count by 10: 10, 20, 30, 40, 50, 60, 70, 80, 90, ___",100,90,120,110,100
+K,Maths,Comparison,Easy,There are 7 trees. 7 go away. How many are left?,2,0,1,Option 3,0
+K,Maths,Patterns,Easy,"Which is the largest number? 0, 5, 0",0,Option 3,4,5,5
+K,Maths,Shapes,Easy,"Which is the smallest number? 4, 5, 10",5,4,10,Option 3,4
+K,Maths,Shapes,Easy,"Count by 5: 5, 10, 15, 20, 25, ___",40,35,30,25,30
+K,Maths,Comparison,Easy,"Which is the smallest number? 3, 4, 0",2,0,4,3,0
+K,Maths,Shapes,Easy,Fill in the blank: 7 + ___ = 14,9,8,6,7,7
+K,Maths,Patterns,Easy,You have 7 bears and get 6 more. How many bears do you have now?,15,14,13,12,13
+K,Maths,Shapes,Easy,You have 9 trees and get 3 more. How many trees do you have now?,13,12,11,14,12
+K,Maths,Patterns,Easy,You have 6 robots and get 3 more. How many robots do you have now?,11,10,9,8,9
+K,Maths,Shapes,Easy,You have 5 robots and get 1 more. How many robots do you have now?,6,7,5,8,6
+K,Maths,Counting,Easy,There are 6 books. 2 go away. How many are left?,4,6,3,5,4
+K,Maths,Shapes,Easy,There are 10 buttons. 4 go away. How many are left?,6,8,7,5,6
+K,Maths,Counting,Easy,"Which is the smallest number? 0, 10, 8",8,10,-1,0,0
+K,Maths,Counting,Easy,You have 8 shells and get 9 more. How many shells do you have now?,17,19,18,16,17
+K,Maths,Patterns,Easy,"Which is the smallest number? 7, 8, 2",7,8,0,2,2
+K,Maths,Comparison,Easy,"Which is the largest number? 3, 9, 6",11,9,3,6,9
+K,Maths,Counting,Easy,There are 0 books. 0 go away. How many are left?,2,Option 3,1,0,0
+K,Maths,Counting,Easy,"Which is the largest number? 6, 4, 7",6,4,8,7,7
+K,Maths,Counting,Easy,There are 5 shells. 3 go away. How many are left?,1,3,4,2,2
+K,Maths,Comparison,Easy,Fill in the blank: 5 + ___ = 12,6,8,9,7,7
+K,Maths,Shapes,Easy,There are 0 planes. 0 go away. How many are left?,2,0,Option 3,1,0
+K,Maths,Shapes,Easy,"Which is the smallest number? 2, 5, 7",2,5,7,4,2
+K,Maths,Comparison,Easy,You have 7 books and get 0 more. How many books do you have now?,8,9,7,6,7
+K,Maths,Counting,Easy,"Which is the smallest number? 0, 10, 2",0,10,2,1,0
+K,Maths,Patterns,Easy,You have 9 trees and get 8 more. How many trees do you have now?,16,17,19,18,17
+K,Maths,Counting,Easy,You have 1 flowers and get 3 more. How many flowers do you have now?,6,3,4,5,4
+K,Maths,Shapes,Easy,There are 5 trees. 2 go away. How many are left?,5,2,4,3,3
+K,Maths,Patterns,Easy,You have 2 pencils and get 7 more. How many pencils do you have now?,10,8,11,9,9
+K,Maths,Shapes,Easy,"Which is the smallest number? 0, 3, 10",-1,10,3,0,0
+K,Maths,Counting,Easy,There are 2 cats. 2 go away. How many are left?,2,0,Option 3,1,0
+K,Maths,Counting,Easy,"What comes next in the pattern? 7, 10, 7, 10, 7, ___",10,9,11,7,10
+K,Maths,Patterns,Easy,"Which is the smallest number? 10, 7, 3",1,3,7,10,3
+K,Maths,Shapes,Easy,"Count by 10: 10, 20, 30, 40, 50, 60, 70, ___",100,70,80,90,80
+K,Maths,Counting,Easy,"What comes next in the pattern? 5, 7, 5, 7, 5, ___",5,7,6,8,7
+K,Maths,Shapes,Easy,There are 5 balls. 4 go away. How many are left?,3,0,1,2,1
+K,Maths,Counting,Easy,Fill in the blank: 4 + ___ = 9,7,4,6,5,5
+K,Maths,Patterns,Easy,"Which is the largest number? 10, 9, 2",9,2,10,8,10
+K,Maths,Shapes,Easy,You have 8 apples and get 2 more. How many apples do you have now?,12,10,11,9,10
+K,Maths,Patterns,Easy,"Which is the largest number? 3, 9, 2",2,3,7,9,9
+K,Maths,Comparison,Easy,You have 5 planes and get 7 more. How many planes do you have now?,11,13,12,14,12
+K,Maths,Counting,Easy,"Which is the largest number? 7, 1, 4",1,5,7,4,7
+K,Maths,Patterns,Easy,"Which is the smallest number? 6, 0, 7",2,6,0,7,0
+K,Maths,Patterns,Easy,Fill in the blank: 0 + ___ = 7,8,7,6,9,7
+K,Maths,Shapes,Easy,You have 1 blocks and get 7 more. How many blocks do you have now?,8,10,9,7,8
+K,Maths,Comparison,Easy,You have 7 trees and get 8 more. How many trees do you have now?,17,14,15,16,15
+K,Maths,Shapes,Easy,There are 5 balls. 5 go away. How many are left?,1,0,2,Option 3,0
+K,Maths,Counting,Easy,You have 7 blocks and get 10 more. How many blocks do you have now?,18,17,16,19,17
+K,Maths,Counting,Easy,"Which is the largest number? 9, 0, 9",0,8,10,9,9
+K,Maths,Comparison,Easy,"Which is the largest number? 9, 10, 3",3,10,9,12,10
+K,Maths,Comparison,Easy,"Which is the largest number? 2, 5, 10",5,2,10,9,10
+K,Maths,Shapes,Easy,"Count by 2: 2, 4, 6, 8, 10, 12, 14, 16, ___",20,18,16,22,18
+K,Maths,Comparison,Easy,"Which is the smallest number? 1, 9, 8",1,8,9,2,1
+K,Maths,Patterns,Easy,You have 3 marbles and get 3 more. How many marbles do you have now?,5,8,7,6,6
+K,Maths,Patterns,Easy,There are 5 buttons. 1 go away. How many are left?,6,5,4,3,4
+K,Maths,Patterns,Easy,There are 2 pencils. 1 go away. How many are left?,1,2,0,3,1
+K,Maths,Comparison,Easy,"Which is the largest number? 10, 1, 6",6,12,10,1,10
+K,Maths,Comparison,Easy,Fill in the blank: 1 + ___ = 11,9,11,10,12,10
+K,Maths,Counting,Easy,You have 2 buttons and get 1 more. How many buttons do you have now?,2,4,5,3,3
+K,Maths,Shapes,Easy,Fill in the blank: 1 + ___ = 1,2,0,Option 3,1,0
+K,Maths,Counting,Easy,"Which is the largest number? 3, 0, 8",0,8,6,3,8
+K,Maths,Counting,Easy,"Which is the smallest number? 0, 7, 2",7,0,-2,2,0
+K,Maths,Counting,Easy,You have 1 pencils and get 7 more. How many pencils do you have now?,9,10,7,8,8
+K,Maths,Shapes,Easy,"Which is the smallest number? 9, 3, 9",Option 3,9,1,3,3
+K,Maths,Patterns,Easy,"Which is the smallest number? 8, 5, 3",Option 3,5,3,8,3
+K,Maths,Comparison,Easy,"Which is the largest number? 3, 0, 1",2,1,3,0,3
+K,Maths,Counting,Easy,There are 4 kites. 1 go away. How many are left?,5,4,3,2,3
+K,Maths,Patterns,Easy,"Count by 5: 0, 5, 10, 15, ___",15,25,20,30,20
+K,Maths,Shapes,Easy,You have 6 blocks and get 8 more. How many blocks do you have now?,13,16,14,15,14
+K,Maths,Shapes,Easy,"Which is the smallest number? 9, 3, 0",-1,0,9,3,0
+K,Maths,Comparison,Easy,"Which is the largest number? 5, 8, 6",8,5,6,Option 3,8
+K,Maths,Patterns,Easy,"Which is the largest number? 4, 6, 4",4,6,Option 3,8,6
+K,Maths,Comparison,Easy,Fill in the blank: 2 + ___ = 11,10,11,8,9,9
+K,Maths,Patterns,Easy,You have 6 apples and get 2 more. How many apples do you have now?,7,10,8,9,8
+K,Maths,Comparison,Easy,You have 2 planes and get 1 more. How many planes do you have now?,3,5,4,2,3
+K,Maths,Comparison,Easy,You have 10 shells and get 2 more. How many shells do you have now?,12,13,11,14,12
+K,Maths,Counting,Easy,"Which is the largest number? 8, 5, 4",5,8,6,4,8
+K,Maths,Comparison,Easy,"Which is the smallest number? 0, 4, 10",0,4,-1,10,0
+K,Maths,Counting,Easy,You have 0 cookies and get 0 more. How many cookies do you have now?,2,0,Option 3,1,0
+K,Maths,Comparison,Easy,"Which is the largest number? 6, 3, 2",2,5,3,6,6
+K,Maths,Shapes,Easy,Fill in the blank: 2 + ___ = 5,4,3,5,2,3
+K,Maths,Patterns,Easy,There are 5 pencils. 1 go away. How many are left?,3,4,5,6,4
+K,Maths,Patterns,Easy,"Which is the largest number? 10, 7, 3",10,7,3,9,10
+K,Maths,Shapes,Easy,"Which is the smallest number? 10, 7, 2",0,10,7,2,2
+K,Maths,Counting,Easy,There are 0 pencils. 0 go away. How many are left?,Option 3,0,2,1,0
+K,Maths,Patterns,Easy,"Which is the smallest number? 10, 5, 7",10,4,5,7,5
+K,Maths,Counting,Easy,Fill in the blank: 6 + ___ = 14,10,7,8,9,8
+K,Maths,Counting,Easy,"Which is the smallest number? 9, 10, 0",9,0,-1,10,0
+K,Maths,Comparison,Easy,"Which is the smallest number? 8, 2, 5",5,8,2,0,2
+K,Maths,Counting,Easy,There are 9 planes. 9 go away. How many are left?,0,2,Option 3,1,0
+K,Maths,Patterns,Easy,You have 9 robots and get 7 more. How many robots do you have now?,16,18,17,15,16
+K,Maths,Comparison,Easy,"Which is the largest number? 1, 5, 6",6,1,7,5,6
+K,Maths,Patterns,Easy,"Which is the smallest number? 8, 0, 0",8,-1,0,1,0
+K,Maths,Shapes,Easy,There are 4 balls. 0 go away. How many are left?,5,3,4,6,4
+K,Maths,Counting,Easy,You have 4 books and get 3 more. How many books do you have now?,7,6,9,8,7
+K,Maths,Patterns,Easy,You have 2 trees and get 5 more. How many trees do you have now?,6,8,7,9,7
+K,Maths,Shapes,Easy,There are 8 cats. 1 go away. How many are left?,7,8,6,9,7
+K,Maths,Patterns,Easy,"Which is the largest number? 6, 4, 6",7,Option 3,4,6,6
+K,Maths,Patterns,Easy,You have 1 marbles and get 2 more. How many marbles do you have now?,5,3,4,2,3
+K,Maths,Shapes,Easy,You have 10 stars and get 10 more. How many stars do you have now?,19,20,21,22,20
+K,Maths,Patterns,Easy,You have 9 books and get 7 more. How many books do you have now?,16,15,17,18,16
+K,Maths,Shapes,Easy,There are 2 bears. 1 go away. How many are left?,1,2,3,0,1
+K,Maths,Patterns,Easy,You have 10 candies and get 2 more. How many candies do you have now?,11,13,12,14,12
+K,Maths,Patterns,Easy,There are 2 flowers. 2 go away. How many are left?,Option 3,0,1,2,0
+K,Maths,Patterns,Easy,"Which is the largest number? 7, 4, 6",Option 3,6,4,7,7
+K,Maths,Counting,Easy,There are 8 cookies. 2 go away. How many are left?,5,6,8,7,6
+K,Maths,Patterns,Easy,You have 5 dogs and get 4 more. How many dogs do you have now?,10,9,8,11,9
+K,Maths,Shapes,Easy,"Which is the smallest number? 3, 9, 6",5,9,3,6,3
+K,Maths,Counting,Easy,"Which is the largest number? 3, 2, 3",3,Option 3,2,1,3
+K,Maths,Shapes,Easy,"Which is the smallest number? 1, 8, 8",3,8,Option 3,1,1
+K,Maths,Comparison,Easy,"Which is the smallest number? 8, 9, 9",Option 3,8,9,6,8
+K,Maths,Patterns,Easy,There are 4 pencils. 1 go away. How many are left?,2,3,5,4,3
+K,Maths,Shapes,Easy,There are 5 candies. 2 go away. How many are left?,5,3,2,4,3
+K,Maths,Counting,Easy,You have 8 shells and get 6 more. How many shells do you have now?,16,14,15,13,14
+K,Maths,Patterns,Easy,"Which is the smallest number? 1, 4, 0",0,1,4,Option 3,0
+K,Maths,Comparison,Easy,"Which is the largest number? 4, 10, 2",10,9,2,4,10
+K,Maths,Comparison,Easy,"Which is the smallest number? 7, 6, 2",0,7,2,6,2
+K,Maths,Counting,Easy,There are 9 flowers. 2 go away. How many are left?,7,9,6,8,7
+K,Maths,Comparison,Easy,"Count by 5: 0, 5, 10, 15, 20, ___",25,20,30,35,25
+K,Maths,Comparison,Easy,"Which is the largest number? 0, 10, 2",0,11,2,10,10
+K,Maths,Counting,Easy,"Which is the largest number? 7, 1, 5",7,5,1,Option 3,7
+K,Maths,Comparison,Easy,"Which is the largest number? 0, 1, 3",1,3,0,4,3
+K,Maths,Counting,Easy,"Which is the smallest number? 7, 3, 10",7,5,3,10,3
+K,Maths,Patterns,Easy,You have 10 planes and get 10 more. How many planes do you have now?,22,20,21,19,20
+K,Maths,Counting,Easy,"Which is the smallest number? 6, 1, 8",8,6,1,0,1
+K,Maths,Comparison,Easy,"Which is the smallest number? 3, 8, 0",8,3,-1,0,0
+K,Maths,Patterns,Easy,You have 4 kites and get 0 more. How many kites do you have now?,6,4,5,3,4
+K,Maths,Comparison,Easy,There are 5 apples. 2 go away. How many are left?,2,5,4,3,3
+K,Maths,Counting,Easy,"Which is the smallest number? 4, 7, 3",3,7,Option 3,4,3
+K,Maths,Patterns,Easy,You have 2 candies and get 10 more. How many candies do you have now?,14,13,12,11,12
+K,Maths,Patterns,Easy,There are 9 marbles. 7 go away. How many are left?,3,2,4,1,2
+K,Maths,Counting,Easy,There are 4 buttons. 2 go away. How many are left?,3,2,4,1,2
+K,Maths,Comparison,Easy,Fill in the blank: 4 + ___ = 6,2,3,1,4,2
+K,Maths,Comparison,Easy,"Which is the largest number? 5, 10, 0",5,0,10,12,10
+K,Maths,Patterns,Easy,There are 1 cookies. 1 go away. How many are left?,Option 3,0,2,1,0
+K,Maths,Counting,Easy,You have 4 blocks and get 3 more. How many blocks do you have now?,7,6,8,9,7
+K,Maths,Comparison,Easy,"Which is the largest number? 1, 5, 1",Option 3,5,6,1,5
+K,Maths,Counting,Easy,"Which is the largest number? 6, 1, 5",Option 3,6,5,1,6
+K,Maths,Patterns,Easy,There are 10 apples. 6 go away. How many are left?,5,6,4,3,4
+K,Maths,Shapes,Easy,You have 3 shells and get 1 more. How many shells do you have now?,4,6,3,5,4
+K,Maths,Shapes,Easy,Fill in the blank: 4 + ___ = 7,3,4,2,5,3
+K,Maths,Counting,Easy,You have 7 shells and get 8 more. How many shells do you have now?,16,14,17,15,15
+K,Maths,Shapes,Easy,"Which is the smallest number? 0, 0, 5",1,-1,5,0,0
+K,Maths,Shapes,Easy,There are 7 cookies. 7 go away. How many are left?,Option 3,0,2,1,0
+K,Maths,Patterns,Easy,You have 0 planes and get 8 more. How many planes do you have now?,7,10,8,9,8
+K,Maths,Shapes,Easy,There are 5 buttons. 4 go away. How many are left?,2,0,1,3,1
+K,Maths,Comparison,Easy,There are 9 robots. 4 go away. How many are left?,7,6,4,5,5
+K,Maths,Patterns,Easy,You have 8 planes and get 8 more. How many planes do you have now?,15,18,16,17,16
+K,Maths,Patterns,Easy,"Which is the smallest number? 1, 8, 10",1,8,10,-1,1
+K,Maths,Shapes,Easy,There are 7 dogs. 2 go away. How many are left?,7,4,6,5,5
+K,Maths,Patterns,Easy,There are 9 bears. 1 go away. How many are left?,8,10,7,9,8
+K,Maths,Comparison,Easy,You have 2 robots and get 4 more. How many robots do you have now?,8,7,6,5,6
+K,Maths,Shapes,Easy,Fill in the blank: 6 + ___ = 7,1,3,0,2,1
+K,Maths,Counting,Easy,There are 1 planes. 0 go away. How many are left?,3,1,0,2,1
+K,Maths,Comparison,Easy,There are 4 trees. 2 go away. How many are left?,1,4,2,3,2
+K,Maths,Shapes,Easy,There are 10 robots. 5 go away. How many are left?,6,7,5,4,5
+K,Maths,Comparison,Easy,"Which is the smallest number? 4, 10, 10",Option 3,10,3,4,4
+K,Maths,Counting,Easy,"Which is the smallest number? 9, 7, 8",Option 3,9,8,7,7
+K,Maths,Comparison,Easy,There are 3 robots. 0 go away. How many are left?,2,5,3,4,3
+K,Maths,Comparison,Easy,"Which is the smallest number? 4, 3, 4",3,4,Option 2,Option 3,3
+K,Maths,Shapes,Easy,There are 6 pencils. 0 go away. How many are left?,5,6,8,7,6
+K,Maths,Counting,Easy,There are 9 cookies. 7 go away. How many are left?,1,3,2,4,2
+K,Maths,Shapes,Easy,You have 1 planes and get 10 more. How many planes do you have now?,13,12,10,11,11
+K,Maths,Patterns,Easy,You have 2 cats and get 9 more. How many cats do you have now?,10,12,13,11,11
+K,Maths,Counting,Easy,You have 4 cookies and get 4 more. How many cookies do you have now?,10,8,9,7,8
+K,Maths,Counting,Easy,You have 6 apples and get 0 more. How many apples do you have now?,5,8,7,6,6
+K,Maths,Comparison,Easy,There are 9 blocks. 4 go away. How many are left?,5,4,7,6,5
+K,Maths,Counting,Easy,There are 3 dogs. 1 go away. How many are left?,3,1,4,2,2
+K,Maths,Shapes,Easy,You have 9 balls and get 3 more. How many balls do you have now?,11,13,12,14,12
+K,Maths,Counting,Easy,There are 7 cookies. 5 go away. How many are left?,4,1,3,2,2
+K,Maths,Comparison,Easy,You have 7 pencils and get 10 more. How many pencils do you have now?,17,16,18,19,17
+K,Maths,Shapes,Easy,There are 8 planes. 1 go away. How many are left?,9,7,8,6,7
+K,Maths,Comparison,Easy,"Which is the largest number? 4, 7, 6",4,6,7,5,7
+K,Maths,Patterns,Easy,You have 5 shells and get 0 more. How many shells do you have now?,4,6,7,5,5
+K,Maths,Counting,Easy,You have 2 kites and get 6 more. How many kites do you have now?,7,9,10,8,8
+K,Maths,Patterns,Easy,You have 2 buttons and get 6 more. How many buttons do you have now?,9,8,7,10,8
+K,Maths,Comparison,Easy,Fill in the blank: 5 + ___ = 10,5,7,6,4,5
+K,Maths,Comparison,Easy,You have 1 kites and get 6 more. How many kites do you have now?,8,6,7,9,7
+K,Maths,Comparison,Easy,Fill in the blank: 10 + ___ = 13,4,2,5,3,3
+K,Maths,Comparison,Easy,"Which is the smallest number? 3, 10, 4",Option 3,4,10,3,3
+K,Maths,Shapes,Easy,Fill in the blank: 4 + ___ = 13,8,11,9,10,9
+K,Maths,Counting,Easy,"Which is the smallest number? 7, 6, 3",7,6,2,3,3
+K,Maths,Shapes,Easy,"Which is the smallest number? 9, 4, 9",3,4,9,Option 3,4
+K,Maths,Comparison,Easy,There are 5 flowers. 5 go away. How many are left?,Option 3,0,2,1,0
+K,Maths,Counting,Easy,"Count by 5: 0, 5, 10, 15, 20, 25, 30, 35, 40, 45, ___",50,45,60,55,50
+K,Maths,Comparison,Easy,"Which is the smallest number? 10, 1, 7",1,7,10,0,1
+K,Maths,Patterns,Easy,Fill in the blank: 3 + ___ = 6,3,5,2,4,3
+K,Maths,Shapes,Easy,"Count by 5: 0, 5, 10, 15, 20, 25, 30, ___",35,40,45,30,35
+K,Maths,Shapes,Easy,"Count by 5: 5, 10, 15, 20, 25, 30, ___",30,40,45,35,35
+K,Maths,Patterns,Easy,"Which is the largest number? 0, 9, 9",0,11,8,9,9
+K,Maths,Comparison,Easy,"Count by 2: 2, 4, ___",4,8,6,10,6
+K,Maths,Counting,Easy,"Which is the smallest number? 10, 7, 5",7,5,Option 3,10,5
+K,Maths,Patterns,Easy,You have 10 cars and get 3 more. How many cars do you have now?,12,13,15,14,13
+K,Maths,Shapes,Easy,Fill in the blank: 6 + ___ = 10,5,6,4,3,4
+K,Maths,Shapes,Easy,You have 2 candies and get 6 more. How many candies do you have now?,9,7,10,8,8
+K,Maths,Patterns,Easy,You have 6 shells and get 9 more. How many shells do you have now?,17,15,16,14,15
+K,Maths,Comparison,Easy,"Which is the largest number? 8, 6, 3",6,8,Option 3,3,8
+K,Maths,Patterns,Easy,You have 1 buttons and get 10 more. How many buttons do you have now?,13,12,10,11,11
+K,Maths,Counting,Easy,"Which is the smallest number? 3, 2, 9",1,2,3,9,2
+K,Maths,Patterns,Easy,You have 1 blocks and get 8 more. How many blocks do you have now?,11,8,9,10,9
+K,Maths,Comparison,Easy,"Count by 2: 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, ___",24,26,22,20,22
+K,Maths,Comparison,Easy,"Which is the smallest number? 4, 7, 4",4,7,6,3,4
+K,Maths,Shapes,Easy,There are 8 blocks. 7 go away. How many are left?,1,3,2,0,1
+K,Maths,Counting,Easy,There are 6 trees. 3 go away. How many are left?,4,5,3,2,3
+K,Maths,Comparison,Easy,Fill in the blank: 9 + ___ = 9,Option 3,2,1,0,0
+K,Maths,Shapes,Easy,You have 4 dogs and get 0 more. How many dogs do you have now?,5,6,4,3,4
+K,Maths,Counting,Easy,"Which is the largest number? 0, 0, 7",7,9,0,Option 3,7
+K,Maths,Shapes,Easy,You have 6 cars and get 7 more. How many cars do you have now?,15,14,12,13,13
+K,Maths,Counting,Easy,"Which is the smallest number? 1, 6, 2",6,2,0,1,1
+K,Maths,Patterns,Easy,There are 10 dogs. 5 go away. How many are left?,7,5,6,4,5
+K,Maths,Counting,Easy,Fill in the blank: 4 + ___ = 4,1,Option 3,2,0,0
+K,Maths,Counting,Easy,You have 7 planes and get 4 more. How many planes do you have now?,13,12,11,10,11
+K,Maths,Comparison,Easy,You have 1 bears and get 3 more. How many bears do you have now?,5,4,6,3,4
+K,Maths,Patterns,Easy,"Which is the smallest number? 3, 6, 5",5,Option 3,3,6,3
+K,Maths,Counting,Easy,There are 10 shells. 2 go away. How many are left?,10,8,7,9,8
+K,Maths,Comparison,Easy,There are 6 buttons. 5 go away. How many are left?,3,2,0,1,1
+K,Maths,Comparison,Easy,"Which is the largest number? 8, 10, 3",10,9,3,8,10
+K,Maths,Counting,Easy,You have 3 kites and get 10 more. How many kites do you have now?,13,12,15,14,13
+K,Maths,Patterns,Easy,You have 1 cars and get 8 more. How many cars do you have now?,8,9,10,11,9
+K,Maths,Patterns,Easy,There are 3 shells. 3 go away. How many are left?,2,0,Option 3,1,0
+K,Maths,Comparison,Easy,"Which is the largest number? 4, 6, 3",7,4,3,6,6
+K,Maths,Shapes,Easy,"Which is the smallest number? 10, 8, 9",7,10,8,9,8
+K,Maths,Shapes,Easy,"Which is the largest number? 8, 6, 0",8,Option 3,0,6,8
+K,Maths,Comparison,Easy,"Which is the smallest number? 10, 2, 10",Option 3,4,10,2,2
+K,Maths,Counting,Easy,There are 1 pencils. 0 go away. How many are left?,2,3,0,1,1
+K,Maths,Comparison,Easy,You have 3 cars and get 2 more. How many cars do you have now?,6,5,7,4,5
+K,Maths,Comparison,Easy,There are 7 flowers. 3 go away. How many are left?,4,5,6,3,4
+K,Maths,Patterns,Easy,There are 6 balls. 3 go away. How many are left?,2,5,4,3,3
+K,Maths,Comparison,Easy,"Which is the smallest number? 10, 0, 0",0,2,10,-2,0
+K,Maths,Comparison,Easy,There are 10 marbles. 6 go away. How many are left?,4,6,3,5,4
+K,Maths,Patterns,Easy,You have 10 shells and get 4 more. How many shells do you have now?,14,13,16,15,14
+K,Maths,Shapes,Easy,"Which is the smallest number? 0, 8, 8",0,8,Option 3,1,0
+K,Maths,Shapes,Easy,You have 5 cookies and get 10 more. How many cookies do you have now?,17,15,16,14,15
+K,Maths,Comparison,Easy,"Which is the smallest number? 7, 0, 6",0,6,7,-2,0
+K,Maths,Comparison,Easy,You have 9 stars and get 10 more. How many stars do you have now?,18,20,21,19,19
+K,Maths,Shapes,Easy,You have 4 trees and get 7 more. How many trees do you have now?,12,10,11,13,11
+K,Maths,Shapes,Easy,"Which is the smallest number? 2, 9, 5",9,5,2,3,2
+K,Maths,Shapes,Easy,"Which is the smallest number? 7, 7, 10",9,7,6,10,7
+K,Maths,Comparison,Easy,You have 1 cats and get 7 more. How many cats do you have now?,9,8,7,10,8
+K,Maths,Patterns,Easy,There are 10 books. 5 go away. How many are left?,5,4,7,6,5
+K,Maths,Shapes,Easy,You have 3 flowers and get 6 more. How many flowers do you have now?,9,11,10,8,9
+K,Maths,Comparison,Easy,"Which is the largest number? 10, 6, 5",6,12,10,5,10
+K,Maths,Shapes,Easy,"Which is the smallest number? 9, 9, 4",4,2,Option 3,9,4
+K,Maths,Counting,Easy,There are 9 cookies. 8 go away. How many are left?,1,3,0,2,1
+K,Maths,Patterns,Easy,Fill in the blank: 4 + ___ = 11,8,9,7,6,7
+K,Maths,Counting,Easy,There are 9 kites. 5 go away. How many are left?,5,3,4,6,4
+K,Maths,Shapes,Easy,"Which is the largest number? 2, 7, 7",5,7,2,8,7
+K,Maths,Comparison,Easy,You have 10 apples and get 8 more. How many apples do you have now?,20,18,17,19,18
+K,Maths,Counting,Easy,You have 0 kites and get 9 more. How many kites do you have now?,11,8,10,9,9
+K,Maths,Counting,Easy,You have 7 dogs and get 1 more. How many dogs do you have now?,9,8,10,7,8
+K,Maths,Comparison,Easy,"Which is the largest number? 5, 8, 5",Option 3,8,7,5,8
+K,Maths,Patterns,Easy,You have 6 robots and get 4 more. How many robots do you have now?,9,12,11,10,10
+K,Maths,Counting,Easy,"Which is the largest number? 1, 3, 7",7,1,3,8,7
+K,Maths,Patterns,Easy,You have 8 planes and get 3 more. How many planes do you have now?,11,10,12,13,11
+K,Maths,Comparison,Easy,"Which is the largest number? 3, 2, 5",3,4,5,2,5
+K,Maths,Shapes,Easy,"Which is the smallest number? 3, 0, 9",0,9,3,-1,0
+K,Maths,Shapes,Easy,You have 5 buttons and get 3 more. How many buttons do you have now?,10,9,8,7,8
+K,Maths,Patterns,Easy,You have 9 bears and get 1 more. How many bears do you have now?,12,10,11,9,10
+K,Maths,Patterns,Easy,There are 6 books. 0 go away. How many are left?,5,6,7,8,6
+K,Maths,Counting,Easy,You have 1 marbles and get 7 more. How many marbles do you have now?,7,9,8,10,8
+K,Maths,Shapes,Easy,You have 0 bears and get 10 more. How many bears do you have now?,12,10,9,11,10
+K,Maths,Counting,Easy,You have 5 apples and get 7 more. How many apples do you have now?,11,13,12,14,12
+K,Maths,Shapes,Easy,Fill in the blank: 9 + ___ = 19,12,9,10,11,10
+K,Maths,Comparison,Easy,"Which is the smallest number? 6, 10, 8",8,10,4,6,6
+K,Maths,Comparison,Easy,There are 5 flowers. 4 go away. How many are left?,3,1,2,0,1
+K,Maths,Counting,Easy,There are 10 bears. 6 go away. How many are left?,3,5,6,4,4
+K,Maths,Comparison,Easy,You have 0 dogs and get 7 more. How many dogs do you have now?,6,8,7,9,7
+K,Maths,Patterns,Easy,"Which is the smallest number? 6, 4, 0",0,4,-2,6,0
+K,Maths,Comparison,Easy,There are 6 cars. 5 go away. How many are left?,2,3,0,1,1
+K,Maths,Counting,Easy,There are 7 cats. 3 go away. How many are left?,5,6,4,3,4
+K,Maths,Shapes,Easy,Fill in the blank: 8 + ___ = 13,7,5,4,6,5
+K,Maths,Shapes,Easy,There are 4 kites. 4 go away. How many are left?,0,Option 3,2,1,0
+K,Maths,Patterns,Easy,"Which is the largest number? 1, 2, 7",1,7,2,8,7
+K,Maths,Shapes,Easy,You have 4 cats and get 8 more. How many cats do you have now?,14,11,12,13,12
+K,Maths,Comparison,Easy,Fill in the blank: 7 + ___ = 9,4,1,2,3,2
+K,Maths,Shapes,Easy,"Which is the smallest number? 8, 7, 4",7,8,2,4,4
+K,Maths,Comparison,Easy,"Which is the largest number? 9, 10, 2",2,12,9,10,10
+K,Maths,Counting,Easy,Fill in the blank: 6 + ___ = 11,7,4,6,5,5
+K,Maths,Shapes,Easy,"Which is the largest number? 4, 10, 3",4,3,8,10,10
+K,Maths,Comparison,Easy,There are 5 robots. 1 go away. How many are left?,3,4,5,6,4
+K,Maths,Patterns,Easy,You have 1 cars and get 4 more. How many cars do you have now?,7,6,4,5,5
+K,Maths,Patterns,Easy,You have 1 apples and get 5 more. How many apples do you have now?,8,6,5,7,6
+K,Maths,Shapes,Easy,You have 7 cats and get 8 more. How many cats do you have now?,14,17,15,16,15
+K,Maths,Comparison,Easy,There are 9 kites. 6 go away. How many are left?,2,5,4,3,3
+K,Maths,Comparison,Easy,"Which is the smallest number? 3, 7, 5",3,7,1,5,3
+K,Maths,Shapes,Easy,Fill in the blank: 3 + ___ = 11,7,8,9,10,8
+K,Maths,Shapes,Easy,"Which is the largest number? 1, 8, 1",1,Option 3,6,8,8
+K,Maths,Shapes,Easy,"Which is the largest number? 9, 4, 9",Option 3,9,11,4,9
+K,Maths,Counting,Easy,You have 8 pencils and get 5 more. How many pencils do you have now?,13,15,14,12,13
+K,Maths,Shapes,Easy,You have 4 blocks and get 7 more. How many blocks do you have now?,10,13,12,11,11
+K,Maths,Patterns,Easy,You have 8 balls and get 0 more. How many balls do you have now?,9,7,8,10,8
+K,Maths,Comparison,Easy,You have 7 cookies and get 5 more. How many cookies do you have now?,13,14,12,11,12
+K,Maths,Comparison,Easy,"Which is the smallest number? 3, 8, 9",2,9,3,8,3
+K,Maths,Patterns,Easy,"Which is the largest number? 10, 5, 8",5,10,8,9,10
+K,Maths,Patterns,Easy,You have 4 balls and get 10 more. How many balls do you have now?,13,16,14,15,14
+K,Maths,Comparison,Easy,You have 8 cars and get 6 more. How many cars do you have now?,13,15,14,16,14
+K,Maths,Counting,Easy,You have 6 robots and get 6 more. How many robots do you have now?,11,13,12,14,12
+K,Maths,Patterns,Easy,"Which is the smallest number? 5, 5, 2",Option 3,2,0,5,2
+K,Maths,Patterns,Easy,You have 5 apples and get 0 more. How many apples do you have now?,7,6,4,5,5
+K,Maths,Shapes,Easy,"Which is the largest number? 4, 2, 2",Option 2,Option 3,2,4,4
+K,Maths,Patterns,Easy,You have 9 trees and get 2 more. How many trees do you have now?,11,10,13,12,11
+K,Maths,Counting,Easy,There are 4 shells. 1 go away. How many are left?,5,4,3,2,3
+K,Maths,Shapes,Easy,You have 10 marbles and get 1 more. How many marbles do you have now?,11,12,10,13,11
+K,Maths,Counting,Easy,There are 7 trees. 6 go away. How many are left?,1,2,0,3,1
+K,Maths,Patterns,Easy,Fill in the blank: 10 + ___ = 18,8,10,9,7,8
+K,Maths,Comparison,Easy,"Which is the largest number? 8, 0, 6",Option 3,8,0,6,8
+K,Maths,Shapes,Easy,"Which is the smallest number? 7, 2, 9",2,1,9,7,2
+K,Maths,Patterns,Easy,There are 4 blocks. 1 go away. How many are left?,2,5,4,3,3
+K,Maths,Counting,Easy,Fill in the blank: 4 + ___ = 10,6,8,7,5,6
+K,Maths,Patterns,Easy,You have 4 robots and get 2 more. How many robots do you have now?,8,6,5,7,6
+K,Maths,Comparison,Easy,You have 0 pencils and get 9 more. How many pencils do you have now?,9,11,10,8,9
+K,Maths,Comparison,Easy,Fill in the blank: 9 + ___ = 10,1,3,0,2,1
+K,Maths,Shapes,Easy,"Which is the largest number? 9, 2, 0",9,10,2,0,9
+K,Maths,Counting,Easy,You have 6 trees and get 0 more. How many trees do you have now?,6,7,8,5,6
+K,Maths,Counting,Easy,"Which is the largest number? 3, 2, 0",2,3,0,Option 3,3
+K,Maths,Shapes,Easy,"Which is the smallest number? 7, 7, 4",4,3,7,Option 3,4
+K,Maths,Comparison,Easy,There are 6 apples. 4 go away. How many are left?,2,3,1,4,2
+K,Maths,Shapes,Easy,You have 9 robots and get 3 more. How many robots do you have now?,14,12,13,11,12
+K,Maths,Patterns,Easy,"Which is the smallest number? 3, 7, 3",3,2,4,7,3
+K,Maths,Counting,Easy,You have 3 cats and get 1 more. How many cats do you have now?,3,5,4,6,4
+K,Maths,Comparison,Easy,Fill in the blank: 6 + ___ = 6,1,0,2,Option 3,0
+K,Maths,Counting,Easy,You have 4 planes and get 10 more. How many planes do you have now?,14,15,16,13,14
+K,Maths,Counting,Easy,There are 7 trees. 5 go away. How many are left?,1,3,2,4,2
+K,Maths,Counting,Easy,You have 4 candies and get 8 more. How many candies do you have now?,13,11,12,14,12
+K,Maths,Shapes,Easy,"Which is the smallest number? 7, 4, 2",2,4,3,7,2
+K,Maths,Counting,Easy,There are 2 robots. 2 go away. How many are left?,0,Option 3,1,2,0
+K,Maths,Shapes,Easy,"Which is the smallest number? 4, 4, 3",4,3,5,Option 3,3
+K,Maths,Counting,Easy,You have 1 dogs and get 6 more. How many dogs do you have now?,6,9,7,8,7
+K,Maths,Patterns,Easy,"Which is the largest number? 6, 10, 1",1,6,10,12,10
+K,Maths,Shapes,Easy,You have 1 dogs and get 4 more. How many dogs do you have now?,4,7,5,6,5
+K,Maths,Comparison,Easy,"Which is the largest number? 5, 2, 2",2,5,Option 3,3,5
+K,Maths,Patterns,Easy,There are 5 pencils. 4 go away. How many are left?,2,3,1,0,1
+K,Maths,Shapes,Easy,You have 2 apples and get 8 more. How many apples do you have now?,12,11,9,10,10
+K,Maths,Counting,Easy,You have 9 apples and get 1 more. How many apples do you have now?,9,10,12,11,10
+K,Maths,Patterns,Easy,You have 3 apples and get 10 more. How many apples do you have now?,13,15,12,14,13
+K,Maths,Comparison,Easy,You have 9 cats and get 10 more. How many cats do you have now?,18,21,19,20,19
+K,Maths,Patterns,Easy,There are 10 dogs. 4 go away. How many are left?,6,8,7,5,6
+K,Maths,Counting,Easy,"Which is the smallest number? 9, 5, 5",5,3,7,9,5
+K,Maths,Shapes,Easy,There are 8 stars. 5 go away. How many are left?,4,3,5,2,3
+K,Maths,Shapes,Easy,"Which is the largest number? 8, 1, 8",8,6,1,9,8
+K,Maths,Counting,Easy,You have 8 marbles and get 10 more. How many marbles do you have now?,17,18,19,20,18
+K,Maths,Shapes,Easy,There are 4 pencils. 2 go away. How many are left?,4,3,1,2,2
+K,Maths,Counting,Easy,There are 5 kites. 0 go away. How many are left?,4,6,7,5,5
+K,Maths,Comparison,Easy,"Which is the smallest number? 3, 5, 7",4,7,5,3,3
+K,Maths,Comparison,Easy,You have 2 bears and get 10 more. How many bears do you have now?,13,14,11,12,12
+K,Maths,Counting,Easy,"Which is the smallest number? 10, 6, 7",7,6,10,8,6
+K,Maths,Patterns,Easy,You have 10 cars and get 4 more. How many cars do you have now?,13,15,14,16,14
+K,Maths,Patterns,Easy,There are 7 planes. 1 go away. How many are left?,5,8,6,7,6
+K,Maths,Patterns,Easy,"Which is the largest number? 0, 7, 2",0,9,2,7,7
+K,Maths,Comparison,Easy,"Which is the largest number? 1, 4, 9",1,4,9,7,9
+K,Maths,Comparison,Easy,There are 7 shells. 5 go away. How many are left?,4,3,1,2,2
+K,Maths,Comparison,Easy,There are 4 cats. 3 go away. How many are left?,2,0,3,1,1
+K,Maths,Patterns,Easy,"Which is the largest number? 6, 7, 4",7,9,4,6,7
+K,Maths,Counting,Easy,You have 0 bears and get 5 more. How many bears do you have now?,5,6,4,7,5
+K,Maths,Counting,Easy,You have 8 planes and get 7 more. How many planes do you have now?,14,17,15,16,15
+K,Maths,Counting,Easy,You have 2 pencils and get 8 more. How many pencils do you have now?,9,10,12,11,10
+K,Maths,Patterns,Easy,"Which is the largest number? 6, 7, 9",7,9,11,6,9
+K,Maths,Counting,Easy,There are 0 bears. 0 go away. How many are left?,2,0,1,Option 3,0
+K,Maths,Counting,Easy,You have 1 balls and get 2 more. How many balls do you have now?,4,5,2,3,3
+K,Maths,Counting,Easy,There are 7 dogs. 7 go away. How many are left?,2,0,Option 3,1,0
+K,Maths,Comparison,Easy,There are 9 balls. 5 go away. How many are left?,3,6,5,4,4
+K,Maths,Patterns,Easy,"Which is the smallest number? 9, 0, 6",9,1,6,0,0
+K,Maths,Shapes,Easy,Fill in the blank: 6 + ___ = 12,6,7,5,8,6
+K,Maths,Comparison,Easy,There are 7 planes. 0 go away. How many are left?,8,7,6,9,7
+K,Maths,Shapes,Easy,You have 1 robots and get 5 more. How many robots do you have now?,8,5,6,7,6
+K,Maths,Comparison,Easy,You have 7 apples and get 8 more. How many apples do you have now?,14,16,17,15,15
+K,Maths,Counting,Easy,You have 4 dogs and get 2 more. How many dogs do you have now?,5,8,7,6,6
+K,Maths,Shapes,Easy,Fill in the blank: 8 + ___ = 18,12,10,9,11,10
+K,Maths,Comparison,Easy,"Which is the smallest number? 5, 1, 8",0,8,1,5,1
+K,Maths,Counting,Easy,There are 10 books. 2 go away. How many are left?,9,7,8,10,8
+K,Maths,Comparison,Easy,There are 0 shells. 0 go away. How many are left?,1,Option 3,2,0,0
+K,Maths,Shapes,Easy,You have 7 balls and get 0 more. How many balls do you have now?,6,8,9,7,7
+K,Maths,Comparison,Easy,There are 7 books. 3 go away. How many are left?,3,4,5,6,4
+K,Maths,Counting,Easy,You have 6 trees and get 8 more. How many trees do you have now?,14,13,16,15,14
+K,Maths,Comparison,Easy,You have 6 planes and get 1 more. How many planes do you have now?,8,9,7,6,7
+K,Maths,Shapes,Easy,Fill in the blank: 2 + ___ = 4,3,1,4,2,2
+K,Maths,Shapes,Easy,You have 10 robots and get 3 more. How many robots do you have now?,12,15,14,13,13
+K,Maths,Patterns,Easy,There are 2 stars. 2 go away. How many are left?,1,2,Option 3,0,0
+K,Maths,Counting,Easy,"Which is the smallest number? 0, 5, 5",1,0,Option 3,5,0
+K,Maths,Counting,Easy,You have 9 kites and get 1 more. How many kites do you have now?,11,10,9,12,10
+K,Maths,Shapes,Easy,There are 4 dogs. 1 go away. How many are left?,4,2,5,3,3
+K,Maths,Comparison,Easy,There are 5 robots. 0 go away. How many are left?,7,4,5,6,5
+K,Maths,Comparison,Easy,There are 7 marbles. 5 go away. How many are left?,3,1,4,2,2
+K,Maths,Shapes,Easy,Fill in the blank: 9 + ___ = 11,3,1,2,4,2
+K,Maths,Comparison,Easy,There are 7 stars. 6 go away. How many are left?,0,2,1,3,1
+K,Maths,Comparison,Easy,"Which is the largest number? 1, 0, 9",9,1,0,7,9
+K,Maths,Shapes,Easy,There are 10 dogs. 6 go away. How many are left?,6,5,3,4,4
+K,Maths,Patterns,Easy,There are 3 marbles. 0 go away. How many are left?,5,2,3,4,3
+K,Maths,Comparison,Easy,"Which is the largest number? 4, 4, 9",7,4,Option 3,9,9
+K,Maths,Comparison,Easy,You have 5 blocks and get 1 more. How many blocks do you have now?,8,7,6,5,6
+K,Maths,Counting,Easy,"Which is the smallest number? 0, 10, 0",1,2,10,0,0
+K,Maths,Comparison,Easy,You have 2 stars and get 0 more. How many stars do you have now?,1,3,4,2,2
+K,Maths,Patterns,Easy,Fill in the blank: 0 + ___ = 8,7,9,8,10,8
+K,Maths,Patterns,Easy,"Which is the smallest number? 4, 1, 0",1,-1,0,4,0
+K,Maths,Counting,Easy,"Which is the smallest number? 6, 4, 8",8,6,5,4,4
+K,Maths,Shapes,Easy,"Which is the largest number? 9, 7, 7",8,Option 3,9,7,9
+K,Maths,Patterns,Easy,There are 0 flowers. 0 go away. How many are left?,1,0,2,Option 3,0
+K,Maths,Comparison,Easy,"Which is the largest number? 6, 2, 4",2,4,Option 3,6,6
+K,Maths,Counting,Easy,Fill in the blank: 4 + ___ = 12,8,10,7,9,8
+K,Maths,Counting,Easy,"Which is the smallest number? 2, 10, 6",2,6,1,10,2
+K,Maths,Counting,Easy,"Which is the smallest number? 7, 10, 1",1,7,10,0,1
+K,Maths,Shapes,Easy,"Which is the smallest number? 7, 8, 4",5,7,8,4,4
+K,Maths,Shapes,Easy,There are 5 blocks. 4 go away. How many are left?,1,3,2,0,1
+K,Maths,Patterns,Easy,"Which is the smallest number? 1, 2, 1",0,1,3,2,1
+K,Maths,Counting,Easy,You have 7 flowers and get 4 more. How many flowers do you have now?,10,11,12,13,11
+K,Maths,Comparison,Easy,"Which is the largest number? 6, 0, 9",9,6,0,11,9
+K,Maths,Shapes,Easy,"Which is the largest number? 7, 3, 3",Option 3,7,3,5,7
+K,Maths,Shapes,Easy,You have 2 candies and get 1 more. How many candies do you have now?,3,4,5,2,3
+K,Maths,Patterns,Easy,Fill in the blank: 7 + ___ = 10,5,3,4,2,3
+K,Maths,Comparison,Easy,You have 7 cars and get 1 more. How many cars do you have now?,10,7,8,9,8
+K,Maths,Shapes,Easy,"Which is the largest number? 0, 2, 0",3,0,Option 3,2,2
+K,Maths,Comparison,Easy,"Which is the smallest number? 3, 10, 0",1,3,0,10,0
+K,Maths,Counting,Easy,Fill in the blank: 2 + ___ = 10,10,9,8,7,8
+K,Maths,Comparison,Easy,You have 5 pencils and get 9 more. How many pencils do you have now?,15,13,14,16,14
+K,Maths,Shapes,Easy,You have 7 stars and get 9 more. How many stars do you have now?,15,17,16,18,16
+K,Maths,Counting,Easy,You have 0 bears and get 7 more. How many bears do you have now?,7,6,8,9,7
+K,Maths,Patterns,Easy,There are 3 flowers. 2 go away. How many are left?,0,3,2,1,1
+K,Maths,Comparison,Easy,You have 8 marbles and get 1 more. How many marbles do you have now?,8,9,11,10,9
+K,Maths,Comparison,Easy,You have 1 balls and get 8 more. How many balls do you have now?,9,11,8,10,9
+K,Maths,Counting,Easy,There are 6 flowers. 4 go away. How many are left?,3,4,2,1,2
+K,Maths,Patterns,Easy,"Which is the smallest number? 2, 9, 0",0,9,Option 3,2,0
+K,Maths,Patterns,Easy,You have 2 marbles and get 0 more. How many marbles do you have now?,4,3,1,2,2
+K,Maths,Counting,Easy,You have 0 apples and get 2 more. How many apples do you have now?,2,3,4,1,2
+K,Maths,Patterns,Easy,"Which is the smallest number? 2, 2, 6",0,6,2,1,2
+K,Maths,Patterns,Easy,There are 4 flowers. 1 go away. How many are left?,2,4,5,3,3
+K,Maths,Comparison,Easy,You have 2 cats and get 4 more. How many cats do you have now?,5,6,7,8,6
+K,Maths,Patterns,Easy,You have 7 trees and get 1 more. How many trees do you have now?,8,9,10,7,8
+K,Maths,Shapes,Easy,You have 6 bears and get 4 more. How many bears do you have now?,9,12,11,10,10
+K,Maths,Shapes,Easy,There are 6 kites. 4 go away. How many are left?,4,2,3,1,2
+K,Maths,Counting,Easy,"Which is the smallest number? 6, 3, 5",6,Option 3,3,5,3
+K,Maths,Shapes,Easy,"Which is the largest number? 0, 7, 1",1,7,9,0,7
+K,Maths,Comparison,Easy,You have 1 flowers and get 9 more. How many flowers do you have now?,10,11,12,9,10
+K,Maths,Counting,Easy,"Which is the largest number? 10, 6, 7",7,6,10,9,10
+K,Maths,Patterns,Easy,There are 6 stars. 3 go away. How many are left?,4,2,5,3,3
+K,Maths,Patterns,Easy,"Which is the smallest number? 10, 5, 8",8,3,5,10,5
+K,Maths,Counting,Easy,You have 1 shells and get 9 more. How many shells do you have now?,10,12,9,11,10
+K,Maths,Counting,Easy,There are 8 marbles. 7 go away. How many are left?,1,0,2,3,1
+K,Maths,Patterns,Easy,You have 5 dogs and get 5 more. How many dogs do you have now?,11,12,9,10,10
+K,Maths,Shapes,Easy,You have 3 bears and get 7 more. How many bears do you have now?,12,10,9,11,10
+K,Maths,Shapes,Easy,There are 6 trees. 5 go away. How many are left?,0,3,1,2,1
+K,Maths,Comparison,Easy,There are 4 buttons. 1 go away. How many are left?,3,5,4,2,3
+K,Maths,Counting,Easy,You have 9 dogs and get 10 more. How many dogs do you have now?,19,18,20,21,19
+K,Maths,Patterns,Easy,You have 1 shells and get 2 more. How many shells do you have now?,3,2,5,4,3
+K,Maths,Counting,Easy,There are 9 dogs. 8 go away. How many are left?,0,3,2,1,1
+K,Maths,Shapes,Easy,"Which is the smallest number? 2, 10, 1",10,2,1,0,1
+K,Maths,Shapes,Easy,"Which is the smallest number? 1, 5, 6",0,6,1,5,1
+K,Maths,Shapes,Easy,You have 10 cookies and get 5 more. How many cookies do you have now?,15,16,14,17,15
+K,Maths,Counting,Easy,There are 0 cars. 0 go away. How many are left?,1,2,0,Option 3,0
+K,Maths,Comparison,Easy,You have 7 flowers and get 9 more. How many flowers do you have now?,18,17,15,16,16
+K,Maths,Counting,Easy,There are 5 blocks. 1 go away. How many are left?,5,6,3,4,4
+K,Maths,Comparison,Easy,You have 10 books and get 2 more. How many books do you have now?,11,12,13,14,12
+K,Maths,Comparison,Easy,"Which is the smallest number? 0, 4, 5",4,0,2,5,0
+K,Maths,Patterns,Easy,You have 4 blocks and get 5 more. How many blocks do you have now?,10,11,8,9,9
+K,Maths,Patterns,Easy,"Which is the smallest number? 9, 2, 5",1,9,5,2,2
+K,Maths,Comparison,Easy,You have 10 balls and get 9 more. How many balls do you have now?,19,18,20,21,19
+K,Maths,Counting,Easy,"Which is the smallest number? 9, 1, 9",-1,Option 3,9,1,1
+K,Maths,Shapes,Easy,"Which is the smallest number? 6, 3, 10",10,6,1,3,3
+K,Maths,Counting,Easy,"Which is the smallest number? 9, 4, 1",9,1,4,2,1
+K,Maths,Counting,Easy,"Which is the smallest number? 6, 1, 10",6,3,10,1,1
+K,Maths,Comparison,Easy,You have 10 cats and get 1 more. How many cats do you have now?,13,11,12,10,11
+K,Maths,Counting,Easy,You have 5 cookies and get 4 more. How many cookies do you have now?,8,11,10,9,9
+K,Maths,Patterns,Easy,There are 4 dogs. 2 go away. How many are left?,1,3,4,2,2
+K,Maths,Comparison,Easy,"Which is the largest number? 2, 0, 9",2,0,8,9,9
+K,Maths,Shapes,Easy,"Which is the smallest number? 2, 10, 7",7,10,0,2,2
+K,Maths,Shapes,Easy,You have 10 blocks and get 0 more. How many blocks do you have now?,12,9,11,10,10
+K,Maths,Patterns,Easy,You have 7 candies and get 7 more. How many candies do you have now?,14,15,13,16,14
+K,Maths,Patterns,Easy,"Which is the smallest number? 1, 5, 7",5,7,2,1,1
+K,Maths,Comparison,Easy,"Which is the largest number? 6, 7, 6",Option 2,6,7,Option 3,7
+K,Maths,Patterns,Easy,"Which is the largest number? 6, 2, 10",12,10,6,2,10
+K,Maths,Shapes,Easy,"Which is the smallest number? 4, 0, 6",0,-2,4,6,0
+K,Maths,Counting,Easy,You have 4 candies and get 0 more. How many candies do you have now?,3,4,6,5,4
+K,Maths,Counting,Easy,There are 10 cars. 0 go away. How many are left?,9,11,10,12,10
+K,Maths,Shapes,Easy,There are 8 trees. 1 go away. How many are left?,9,7,8,6,7
+K,Maths,Counting,Easy,"Which is the largest number? 8, 7, 7",Option 3,7,10,8,8
+K,Maths,Patterns,Easy,"Which is the smallest number? 9, 1, 1",9,0,-1,1,1
+K,Maths,Comparison,Easy,"Which is the smallest number? 1, 3, 3",Option 3,0,3,1,1
+K,Maths,Patterns,Easy,"Which is the largest number? 2, 0, 4",2,4,0,Option 3,4
+K,Maths,Comparison,Easy,There are 10 candies. 7 go away. How many are left?,5,4,2,3,3
+K,Maths,Patterns,Easy,You have 7 dogs and get 7 more. How many dogs do you have now?,15,16,14,13,14
+K,Maths,Comparison,Easy,"Which is the largest number? 9, 7, 1",7,9,1,10,9
+K,Maths,Counting,Easy,There are 3 dogs. 2 go away. How many are left?,0,3,1,2,1
+K,Maths,Counting,Easy,You have 3 blocks and get 0 more. How many blocks do you have now?,3,5,4,2,3
+K,Maths,Comparison,Easy,"Which is the smallest number? 2, 5, 10",4,5,2,10,2
+K,Maths,Comparison,Easy,There are 10 stars. 10 go away. How many are left?,0,2,Option 3,1,0
+K,Maths,Patterns,Easy,Fill in the blank: 6 + ___ = 16,10,12,9,11,10
+K,Maths,Shapes,Easy,"Which is the largest number? 1, 1, 0",1,0,2,-1,1
+K,Maths,Comparison,Easy,"Which is the largest number? 8, 4, 8",7,4,6,8,8
+K,Maths,Patterns,Easy,There are 8 balls. 4 go away. How many are left?,6,5,4,3,4
+K,Maths,Comparison,Easy,Fill in the blank: 1 + ___ = 9,7,8,9,10,8
+K,Maths,Patterns,Easy,You have 10 apples and get 9 more. How many apples do you have now?,20,21,18,19,19
+K,Maths,Shapes,Easy,"Which is the largest number? 10, 2, 10",2,9,10,8,10
+K,Maths,Shapes,Easy,You have 6 buttons and get 10 more. How many buttons do you have now?,17,16,18,15,16
+K,Maths,Comparison,Easy,"Which is the largest number? 5, 7, 3",7,8,5,3,7
+K,Maths,Comparison,Easy,"Which is the largest number? 1, 0, 7",1,7,0,8,7
+K,Maths,Shapes,Easy,"Which is the largest number? 1, 10, 3",1,3,10,12,10
+K,Maths,Patterns,Easy,"Which is the smallest number? 5, 2, 8",5,2,8,1,2
+K,Maths,Shapes,Easy,You have 2 shells and get 9 more. How many shells do you have now?,10,11,13,12,11
+K,Maths,Counting,Easy,There are 5 shells. 4 go away. How many are left?,0,3,1,2,1
+K,Maths,Comparison,Easy,You have 8 books and get 5 more. How many books do you have now?,15,13,12,14,13
+K,Maths,Counting,Easy,There are 9 stars. 1 go away. How many are left?,7,8,10,9,8
+K,Maths,Comparison,Easy,You have 7 blocks and get 9 more. How many blocks do you have now?,15,17,16,18,16
+K,Maths,Comparison,Easy,You have 10 flowers and get 9 more. How many flowers do you have now?,21,19,18,20,19
+K,Maths,Patterns,Easy,There are 7 buttons. 7 go away. How many are left?,1,2,Option 3,0,0
+K,Maths,Patterns,Easy,Fill in the blank: 1 + ___ = 5,4,3,5,6,4
+K,Maths,Shapes,Easy,There are 5 planes. 5 go away. How many are left?,2,0,Option 3,1,0
+K,Maths,Counting,Easy,"Which is the largest number? 2, 5, 4",4,2,5,6,5
+K,Maths,Comparison,Easy,There are 5 marbles. 1 go away. How many are left?,6,5,4,3,4
+K,Maths,Counting,Easy,There are 9 balls. 2 go away. How many are left?,9,8,7,6,7
+K,Maths,Comparison,Easy,"Which is the smallest number? 9, 8, 1",3,1,8,9,1
+K,Maths,Counting,Easy,You have 0 cookies and get 4 more. How many cookies do you have now?,4,6,3,5,4
+K,Maths,Patterns,Easy,You have 7 stars and get 6 more. How many stars do you have now?,12,15,14,13,13
+K,Maths,Patterns,Easy,"Which is the largest number? 8, 8, 8",10,9,8,Option 3,8
+K,Maths,Shapes,Easy,"Which is the largest number? 5, 5, 4",4,5,3,Option 3,5
+K,Maths,Shapes,Easy,There are 4 dogs. 0 go away. How many are left?,3,6,4,5,4
+K,Maths,Shapes,Easy,"Which is the largest number? 5, 1, 4",5,1,4,Option 3,5
+K,Maths,Patterns,Easy,You have 5 candies and get 9 more. How many candies do you have now?,15,14,16,13,14
+K,Maths,Counting,Easy,You have 9 trees and get 0 more. How many trees do you have now?,11,10,9,8,9
+K,Maths,Comparison,Easy,There are 2 pencils. 0 go away. How many are left?,4,1,2,3,2
+K,Maths,Counting,Easy,There are 6 cats. 6 go away. How many are left?,0,2,1,Option 3,0
+K,Maths,Counting,Easy,There are 6 candies. 3 go away. How many are left?,4,2,3,5,3
+K,Maths,Patterns,Easy,"Which is the smallest number? 10, 6, 6",4,5,10,6,6
+K,Maths,Shapes,Easy,"Which is the smallest number? 4, 1, 5",0,4,1,5,1
+K,Maths,Counting,Easy,"Which is the smallest number? 9, 2, 4",2,9,4,Option 3,2
+K,Maths,Patterns,Easy,There are 8 flowers. 4 go away. How many are left?,6,4,5,3,4
+K,Maths,Counting,Easy,There are 9 pencils. 1 go away. How many are left?,8,9,7,10,8
+K,Maths,Comparison,Easy,Fill in the blank: 3 + ___ = 8,6,7,5,4,5
+K,Maths,Comparison,Easy,There are 1 apples. 1 go away. How many are left?,0,1,Option 3,2,0
+K,Maths,Counting,Easy,You have 3 cars and get 1 more. How many cars do you have now?,6,4,3,5,4
+K,Maths,Comparison,Easy,There are 10 kites. 4 go away. How many are left?,7,6,5,8,6
+K,Maths,Comparison,Easy,"Which is the largest number? 10, 9, 5",8,9,5,10,10
+K,Maths,Patterns,Easy,"Which is the largest number? 10, 1, 9",1,8,10,9,10
+K,Maths,Comparison,Easy,There are 6 stars. 4 go away. How many are left?,1,4,3,2,2
+K,Maths,Counting,Easy,You have 3 books and get 5 more. How many books do you have now?,7,10,9,8,8
+K,Maths,Patterns,Easy,There are 0 kites. 0 go away. How many are left?,1,2,0,Option 3,0
+K,Maths,Patterns,Easy,There are 6 kites. 3 go away. How many are left?,3,2,5,4,3
+K,Maths,Comparison,Easy,There are 7 stars. 7 go away. How many are left?,Option 3,2,1,0,0
+K,Maths,Comparison,Easy,"Which is the smallest number? 8, 4, 7",8,5,7,4,4
+K,Maths,Counting,Easy,There are 4 blocks. 2 go away. How many are left?,2,4,3,1,2
+K,Maths,Comparison,Easy,There are 1 candies. 0 go away. How many are left?,2,1,3,0,1
+K,Maths,Shapes,Easy,"Which is the largest number? 10, 3, 7",10,3,9,7,10
+K,Maths,Patterns,Easy,"Which is the smallest number? 6, 1, 6",Option 3,6,3,1,1
+K,Maths,Comparison,Easy,You have 4 robots and get 1 more. How many robots do you have now?,6,4,5,7,5
+K,Maths,Patterns,Easy,You have 1 blocks and get 4 more. How many blocks do you have now?,4,7,6,5,5
+K,Maths,Patterns,Easy,You have 6 balls and get 2 more. How many balls do you have now?,9,10,8,7,8
+K,Maths,Shapes,Easy,You have 8 robots and get 0 more. How many robots do you have now?,9,10,8,7,8
+K,Maths,Counting,Easy,There are 5 bears. 4 go away. How many are left?,3,0,2,1,1

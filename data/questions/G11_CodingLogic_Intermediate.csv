@@ -1,0 +1,1001 @@
+Grade,Subject,Topic,Difficulty,Question,A,B,C,D,Correct Answer
+11,Coding & Logic,Control Flow,Intermediate,What is the purpose of a return statement?,Stop loop,Send value back from function,Print output,Declare variable,Send value back from function
+11,Coding & Logic,Logic,Intermediate,"If x=8, which condition is true? (x>5 AND x<10)",True,False,Depends,Undefined,True
+11,Coding & Logic,Loops,Intermediate,How many iterations for for(i=1;i<=5;i+=2)?,2,3,4,5,3
+11,Coding & Logic,Debugging,Intermediate,What is a logic error?,Syntax issue,Incorrect output,Crash,Hardware failure,Incorrect output
+11,Coding & Logic,Control Flow,Intermediate,When are nested loops useful?,Single iteration,Handling multi-dimensional data,Stopping execution,Debugging only,Handling multi-dimensional data
+11,Coding & Logic,Debugging,Intermediate,Why use breakpoints?,Speed code,Inspect variables,Delete loops,Hide errors,Inspect variables
+11,Coding & Logic,Logic,Intermediate,What does XOR return when both inputs are true?,True,False,Error,Null,False
+11,Coding & Logic,Loops,Intermediate,Which loop checks condition before execution?,Do-while,While,For-each,Switch,While
+11,Coding & Logic,Control Flow,Intermediate,What is debugging?,Deleting variables,Writing only comments,Finding and fixing errors in a program,Adding more features,Finding and fixing errors in a program
+11,Coding & Logic,Logic,Intermediate,"If x = -3, is (x > -6) AND (x < 12) true?",False,Depends,True,Undefined,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=2; i<8; i+=1),7,5,6,8,6
+11,Coding & Logic,Logic,Intermediate,"If x = -1, is (x > -1) AND (x < 18) true?",Undefined,Depends,True,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = -10, is (x > -10) AND (x < 8) true?",True,Depends,False,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 7, is (x > -3) AND (x < 12) true?",Depends,True,Undefined,False,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=3; i<10; i+=2),5,6,4,3,4
+11,Coding & Logic,Logic,Intermediate,"If x = -5, is (x > 0) AND (x < 16) true?",True,False,Depends,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 10, is (x > -10) AND (x < -1) true?",Depends,True,False,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = -6, is (x > 5) AND (x < 17) true?",False,Depends,Undefined,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 6, is (x > -5) AND (x < 13) true?",True,False,Depends,Undefined,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=0; i<6; i+=3),4,3,1,2,2
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=5; i<20; i+=1),15,16,17,14,15
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=2; i<14; i+=1),14,11,12,13,12
+11,Coding & Logic,Logic,Intermediate,"If x = 7, is (x > 1) AND (x < 12) true?",Undefined,False,Depends,True,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=1; i<5; i+=1),3,6,4,5,4
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=2; i<7; i+=1),4,5,7,6,5
+11,Coding & Logic,Logic,Intermediate,"If x = 2, is (x > 1) AND (x < 6) true?",Depends,Undefined,True,False,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=3; i<9; i+=1),7,5,6,8,6
+11,Coding & Logic,Logic,Intermediate,"If x = 3, is (x > 8) AND (x < 19) true?",Depends,Undefined,True,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = -3, is (x > -3) AND (x < 10) true?",True,Depends,False,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 7, is (x > -5) AND (x < 9) true?",False,Depends,Undefined,True,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=5; i<16; i+=2),8,5,6,7,6
+11,Coding & Logic,Logic,Intermediate,"If x = 20, is (x > 0) AND (x < 12) true?",True,Undefined,False,Depends,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=4; i<7; i+=2),1,2,4,3,2
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=1; i<5; i+=2),2,3,1,4,2
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=5; i<12; i+=3),2,3,4,5,3
+11,Coding & Logic,Logic,Intermediate,"If x = 6, is (x > 0) AND (x < 7) true?",True,Depends,Undefined,False,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=1; i<13; i+=2),5,7,6,8,6
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=0; i<6; i+=2),4,2,5,3,3
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=0; i<4; i+=1),5,4,6,3,4
+11,Coding & Logic,Logic,Intermediate,"If x = 19, is (x > -5) AND (x < 8) true?",False,Depends,True,Undefined,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=5; i<9; i+=3),4,3,1,2,2
+11,Coding & Logic,Logic,Intermediate,"If x = 13, is (x > 8) AND (x < 27) true?",False,Depends,Undefined,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = -8, is (x > 6) AND (x < 21) true?",Depends,False,True,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 0, is (x > -2) AND (x < 15) true?",Depends,True,Undefined,False,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=5; i<15; i+=1),11,10,9,12,10
+11,Coding & Logic,Logic,Intermediate,"If x = -2, is (x > -7) AND (x < 1) true?",Undefined,False,Depends,True,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=4; i<16; i+=3),6,3,4,5,4
+11,Coding & Logic,Logic,Intermediate,"If x = -1, is (x > 2) AND (x < 21) true?",Undefined,True,False,Depends,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=2; i<13; i+=1),10,13,11,12,11
+11,Coding & Logic,Logic,Intermediate,"If x = 14, is (x > -4) AND (x < 2) true?",False,Depends,True,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = -1, is (x > -7) AND (x < 2) true?",Undefined,Depends,True,False,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=0; i<14; i+=1),13,14,15,16,14
+11,Coding & Logic,Logic,Intermediate,"If x = 5, is (x > -8) AND (x < 2) true?",Undefined,False,Depends,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 10, is (x > -6) AND (x < 1) true?",True,False,Undefined,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 18, is (x > -3) AND (x < 7) true?",False,Undefined,True,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 5, is (x > -9) AND (x < 8) true?",Depends,True,Undefined,False,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=1; i<13; i+=1),12,11,13,14,12
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=4; i<11; i+=3),2,3,5,4,3
+11,Coding & Logic,Logic,Intermediate,"If x = 15, is (x > -3) AND (x < 10) true?",True,False,Undefined,Depends,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=0; i<10; i+=2),4,6,5,7,5
+11,Coding & Logic,Logic,Intermediate,"If x = 10, is (x > 8) AND (x < 22) true?",Depends,True,False,Undefined,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=0; i<6; i+=1),8,7,5,6,6
+11,Coding & Logic,Logic,Intermediate,"If x = -9, is (x > 6) AND (x < 14) true?",False,True,Depends,Undefined,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=3; i<6; i+=2),1,4,3,2,2
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=1; i<9; i+=2),4,3,5,6,4
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=1; i<10; i+=3),2,5,3,4,3
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=3; i<17; i+=1),15,16,13,14,14
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=4; i<16; i+=2),7,5,8,6,6
+11,Coding & Logic,Logic,Intermediate,"If x = -1, is (x > 10) AND (x < 20) true?",Depends,True,Undefined,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 14, is (x > 7) AND (x < 26) true?",True,Depends,Undefined,False,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=3; i<14; i+=3),3,6,5,4,4
+11,Coding & Logic,Logic,Intermediate,"If x = -3, is (x > -10) AND (x < 5) true?",Undefined,False,Depends,True,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=5; i<13; i+=2),3,5,6,4,4
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=1; i<6; i+=2),5,3,2,4,3
+11,Coding & Logic,Logic,Intermediate,"If x = 15, is (x > -5) AND (x < 11) true?",False,Undefined,True,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 16, is (x > -9) AND (x < -3) true?",False,Undefined,True,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 11, is (x > -4) AND (x < 4) true?",Depends,False,Undefined,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 7, is (x > -8) AND (x < -1) true?",True,Undefined,False,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 12, is (x > -10) AND (x < -3) true?",Depends,False,Undefined,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 8, is (x > -5) AND (x < 5) true?",Undefined,False,True,Depends,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=1; i<16; i+=3),6,7,4,5,5
+11,Coding & Logic,Logic,Intermediate,"If x = 17, is (x > 2) AND (x < 11) true?",Depends,Undefined,True,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 15, is (x > -8) AND (x < 7) true?",Undefined,True,Depends,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = -5, is (x > -6) AND (x < 9) true?",Undefined,False,Depends,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = -5, is (x > 3) AND (x < 18) true?",False,True,Depends,Undefined,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=1; i<11; i+=1),11,9,12,10,10
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=0; i<15; i+=3),4,6,7,5,5
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=4; i<7; i+=1),4,5,2,3,3
+11,Coding & Logic,Logic,Intermediate,"If x = 5, is (x > 0) AND (x < 6) true?",Undefined,False,Depends,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = -1, is (x > -8) AND (x < 8) true?",Depends,Undefined,False,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = -3, is (x > 9) AND (x < 16) true?",Undefined,True,Depends,False,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=3; i<15; i+=3),5,4,6,3,4
+11,Coding & Logic,Logic,Intermediate,"If x = 10, is (x > 5) AND (x < 15) true?",False,True,Undefined,Depends,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=2; i<9; i+=2),3,4,6,5,4
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=3; i<9; i+=2),2,4,5,3,3
+11,Coding & Logic,Logic,Intermediate,"If x = -7, is (x > -3) AND (x < 13) true?",False,Depends,True,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 14, is (x > -6) AND (x < 6) true?",Undefined,Depends,True,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 16, is (x > 7) AND (x < 16) true?",Undefined,False,Depends,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 6, is (x > 8) AND (x < 19) true?",True,Undefined,Depends,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 7, is (x > 7) AND (x < 17) true?",True,Depends,False,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = -5, is (x > 7) AND (x < 21) true?",Undefined,True,Depends,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 17, is (x > -7) AND (x < 3) true?",False,Undefined,Depends,True,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=0; i<3; i+=3),2,3,1,0,1
+11,Coding & Logic,Logic,Intermediate,"If x = 8, is (x > 10) AND (x < 19) true?",Depends,False,Undefined,True,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=1; i<15; i+=2),6,8,9,7,7
+11,Coding & Logic,Logic,Intermediate,"If x = 0, is (x > 9) AND (x < 16) true?",Undefined,False,Depends,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 6, is (x > 0) AND (x < 12) true?",True,False,Undefined,Depends,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=5; i<18; i+=3),4,5,7,6,5
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=3; i<15; i+=2),5,8,6,7,6
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=5; i<15; i+=3),4,5,6,3,4
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=2; i<10; i+=1),10,9,7,8,8
+11,Coding & Logic,Logic,Intermediate,"If x = -1, is (x > -4) AND (x < 8) true?",Undefined,True,Depends,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = 13, is (x > -7) AND (x < 1) true?",True,Undefined,Depends,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = -5, is (x > -1) AND (x < 12) true?",Depends,True,Undefined,False,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=1; i<9; i+=1),9,7,8,10,8
+11,Coding & Logic,Logic,Intermediate,"If x = -3, is (x > 2) AND (x < 7) true?",True,Depends,False,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = -5, is (x > 8) AND (x < 15) true?",Depends,Undefined,True,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 2, is (x > 3) AND (x < 17) true?",Depends,False,Undefined,True,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=0; i<3; i+=2),2,4,3,1,2
+11,Coding & Logic,Logic,Intermediate,"If x = 5, is (x > -6) AND (x < 11) true?",True,Depends,False,Undefined,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=4; i<12; i+=2),5,6,4,3,4
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=3; i<8; i+=1),5,6,7,4,5
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=2; i<5; i+=2),1,4,3,2,2
+11,Coding & Logic,Logic,Intermediate,"If x = -9, is (x > 3) AND (x < 21) true?",True,Depends,Undefined,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 4, is (x > -4) AND (x < 3) true?",Undefined,True,Depends,False,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=0; i<11; i+=2),8,7,5,6,6
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=2; i<16; i+=3),6,5,7,4,5
+11,Coding & Logic,Logic,Intermediate,"If x = 17, is (x > 7) AND (x < 21) true?",False,True,Depends,Undefined,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=1; i<15; i+=3),4,5,7,6,5
+11,Coding & Logic,Logic,Intermediate,"If x = -7, is (x > -10) AND (x < 4) true?",Depends,Undefined,True,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = -8, is (x > 3) AND (x < 18) true?",Undefined,Depends,True,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = -3, is (x > -5) AND (x < 15) true?",Depends,True,Undefined,False,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=5; i<18; i+=2),7,6,9,8,7
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=2; i<8; i+=2),5,3,4,2,3
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=1; i<7; i+=1),5,7,8,6,6
+11,Coding & Logic,Logic,Intermediate,"If x = -8, is (x > -5) AND (x < 10) true?",Undefined,False,True,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = -5, is (x > -6) AND (x < 3) true?",True,False,Depends,Undefined,True
+11,Coding & Logic,Logic,Intermediate,"If x = 0, is (x > -3) AND (x < 2) true?",True,False,Depends,Undefined,True
+11,Coding & Logic,Logic,Intermediate,"If x = -5, is (x > -7) AND (x < 8) true?",True,Depends,Undefined,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = 19, is (x > 5) AND (x < 18) true?",True,Depends,False,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 4, is (x > -5) AND (x < 6) true?",Depends,Undefined,False,True,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=3; i<14; i+=2),8,7,5,6,6
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=1; i<8; i+=3),5,4,2,3,3
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=4; i<9; i+=1),7,5,4,6,5
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=1; i<11; i+=2),6,5,4,7,5
+11,Coding & Logic,Logic,Intermediate,"If x = -2, is (x > -4) AND (x < 12) true?",True,Depends,Undefined,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = -9, is (x > -10) AND (x < -1) true?",Depends,True,False,Undefined,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=5; i<13; i+=3),2,5,4,3,3
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=2; i<11; i+=3),5,3,4,2,3
+11,Coding & Logic,Logic,Intermediate,"If x = -3, is (x > -6) AND (x < 6) true?",False,Depends,Undefined,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = 17, is (x > -3) AND (x < 5) true?",Depends,False,Undefined,True,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=0; i<12; i+=2),7,6,8,5,6
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=0; i<5; i+=3),1,4,2,3,2
+11,Coding & Logic,Logic,Intermediate,"If x = 1, is (x > 3) AND (x < 12) true?",Depends,True,False,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 20, is (x > -4) AND (x < 3) true?",Depends,Undefined,False,True,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=3; i<18; i+=2),10,7,9,8,8
+11,Coding & Logic,Logic,Intermediate,"If x = -6, is (x > 4) AND (x < 12) true?",Depends,False,True,Undefined,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=2; i<6; i+=2),3,1,2,4,2
+11,Coding & Logic,Logic,Intermediate,"If x = 3, is (x > -7) AND (x < 8) true?",True,Depends,Undefined,False,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=0; i<9; i+=1),10,8,11,9,9
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=4; i<16; i+=1),11,12,13,14,12
+11,Coding & Logic,Logic,Intermediate,"If x = 10, is (x > -6) AND (x < 14) true?",Undefined,Depends,False,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = 17, is (x > 0) AND (x < 18) true?",True,Depends,Undefined,False,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=2; i<16; i+=1),15,14,13,16,14
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=5; i<8; i+=2),1,3,4,2,2
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=2; i<15; i+=2),8,9,6,7,7
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=2; i<5; i+=3),2,1,3,0,1
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=2; i<7; i+=2),2,3,4,5,3
+11,Coding & Logic,Logic,Intermediate,"If x = 14, is (x > 3) AND (x < 10) true?",True,False,Undefined,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 13, is (x > 8) AND (x < 15) true?",True,Undefined,False,Depends,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=1; i<6; i+=1),5,6,7,4,5
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=0; i<13; i+=2),6,9,8,7,7
+11,Coding & Logic,Logic,Intermediate,"If x = 11, is (x > -5) AND (x < 1) true?",False,Depends,Undefined,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 4, is (x > 10) AND (x < 20) true?",Depends,Undefined,True,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = -1, is (x > -1) AND (x < 5) true?",Undefined,True,Depends,False,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=5; i<18; i+=1),14,12,15,13,13
+11,Coding & Logic,Logic,Intermediate,"If x = 16, is (x > 10) AND (x < 15) true?",Undefined,False,True,Depends,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=2; i<9; i+=3),4,5,3,2,3
+11,Coding & Logic,Logic,Intermediate,"If x = 13, is (x > 3) AND (x < 11) true?",Depends,True,Undefined,False,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=5; i<16; i+=1),12,10,11,13,11
+11,Coding & Logic,Logic,Intermediate,"If x = -6, is (x > 6) AND (x < 20) true?",True,Depends,False,Undefined,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=3; i<8; i+=2),2,5,3,4,3
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=2; i<14; i+=3),6,3,4,5,4
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=5; i<20; i+=3),6,5,7,4,5
+11,Coding & Logic,Logic,Intermediate,"If x = -6, is (x > 10) AND (x < 30) true?",False,True,Depends,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = -9, is (x > -9) AND (x < 10) true?",True,Undefined,Depends,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 14, is (x > -4) AND (x < 6) true?",True,Undefined,Depends,False,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=3; i<16; i+=1),15,14,13,12,13
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=2; i<11; i+=2),7,4,5,6,5
+11,Coding & Logic,Logic,Intermediate,"If x = 10, is (x > 6) AND (x < 14) true?",Depends,False,Undefined,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = -1, is (x > 6) AND (x < 17) true?",Depends,Undefined,False,True,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=4; i<15; i+=2),7,5,8,6,6
+11,Coding & Logic,Logic,Intermediate,"If x = -5, is (x > 8) AND (x < 16) true?",False,Undefined,True,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 4, is (x > -6) AND (x < 2) true?",True,Depends,Undefined,False,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=5; i<19; i+=2),8,9,6,7,7
+11,Coding & Logic,Logic,Intermediate,"If x = 8, is (x > 1) AND (x < 8) true?",Undefined,Depends,True,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 9, is (x > 1) AND (x < 20) true?",Undefined,Depends,True,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = -5, is (x > 0) AND (x < 20) true?",True,Undefined,Depends,False,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=4; i<15; i+=1),12,11,10,13,11
+11,Coding & Logic,Logic,Intermediate,"If x = 17, is (x > 4) AND (x < 23) true?",Depends,True,Undefined,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = 4, is (x > -6) AND (x < 9) true?",Depends,True,Undefined,False,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=0; i<9; i+=2),5,4,6,7,5
+11,Coding & Logic,Logic,Intermediate,"If x = -3, is (x > 6) AND (x < 25) true?",True,Undefined,Depends,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = -4, is (x > 1) AND (x < 9) true?",Undefined,Depends,True,False,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=2; i<17; i+=3),7,6,5,4,5
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=2; i<17; i+=1),15,14,16,17,15
+11,Coding & Logic,Logic,Intermediate,"If x = 9, is (x > 9) AND (x < 18) true?",True,Depends,Undefined,False,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=2; i<9; i+=1),7,8,6,9,7
+11,Coding & Logic,Logic,Intermediate,"If x = -8, is (x > 4) AND (x < 9) true?",Depends,Undefined,True,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = -8, is (x > 3) AND (x < 13) true?",True,Depends,Undefined,False,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=5; i<14; i+=3),3,5,2,4,3
+11,Coding & Logic,Logic,Intermediate,"If x = -7, is (x > 1) AND (x < 15) true?",False,Undefined,Depends,True,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=0; i<5; i+=2),2,5,3,4,3
+11,Coding & Logic,Logic,Intermediate,"If x = 6, is (x > 10) AND (x < 23) true?",Undefined,Depends,False,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 8, is (x > -9) AND (x < 0) true?",Undefined,Depends,False,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 10, is (x > -2) AND (x < 17) true?",Undefined,Depends,True,False,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=4; i<8; i+=3),4,3,2,1,2
+11,Coding & Logic,Logic,Intermediate,"If x = -9, is (x > 2) AND (x < 16) true?",Depends,False,True,Undefined,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=3; i<16; i+=3),7,4,5,6,5
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=4; i<13; i+=2),5,4,6,7,5
+11,Coding & Logic,Logic,Intermediate,"If x = 12, is (x > 2) AND (x < 20) true?",Depends,Undefined,False,True,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=5; i<12; i+=2),6,5,3,4,4
+11,Coding & Logic,Logic,Intermediate,"If x = 18, is (x > -2) AND (x < 15) true?",True,False,Undefined,Depends,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=0; i<4; i+=3),2,1,4,3,2
+11,Coding & Logic,Logic,Intermediate,"If x = 13, is (x > 7) AND (x < 22) true?",True,Undefined,False,Depends,True
+11,Coding & Logic,Logic,Intermediate,"If x = 2, is (x > 0) AND (x < 18) true?",Depends,True,Undefined,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = -3, is (x > 0) AND (x < 18) true?",Depends,Undefined,False,True,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=0; i<8; i+=2),6,5,4,3,4
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=5; i<17; i+=3),4,3,6,5,4
+11,Coding & Logic,Logic,Intermediate,"If x = -4, is (x > -3) AND (x < 13) true?",True,False,Depends,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = -6, is (x > 10) AND (x < 22) true?",Depends,False,Undefined,True,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=4; i<17; i+=1),14,12,13,15,13
+11,Coding & Logic,Logic,Intermediate,"If x = 4, is (x > 5) AND (x < 11) true?",False,Depends,Undefined,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 9, is (x > 0) AND (x < 5) true?",False,Depends,Undefined,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 8, is (x > 3) AND (x < 9) true?",Undefined,True,Depends,False,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=5; i<19; i+=3),6,7,4,5,5
+11,Coding & Logic,Logic,Intermediate,"If x = 5, is (x > 7) AND (x < 12) true?",Undefined,True,False,Depends,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=3; i<12; i+=3),2,4,3,5,3
+11,Coding & Logic,Logic,Intermediate,"If x = -4, is (x > -1) AND (x < 4) true?",Depends,True,Undefined,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 14, is (x > -8) AND (x < 11) true?",True,Undefined,Depends,False,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=5; i<10; i+=1),6,4,7,5,5
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=2; i<8; i+=3),4,1,3,2,2
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=5; i<8; i+=1),3,2,4,5,3
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=1; i<11; i+=3),4,3,6,5,4
+11,Coding & Logic,Logic,Intermediate,"If x = 3, is (x > 2) AND (x < 18) true?",Undefined,Depends,True,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = -8, is (x > -6) AND (x < 9) true?",Undefined,True,False,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 0, is (x > 0) AND (x < 20) true?",True,Depends,False,Undefined,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=0; i<10; i+=3),3,6,4,5,4
+11,Coding & Logic,Logic,Intermediate,"If x = 19, is (x > 6) AND (x < 21) true?",Undefined,Depends,True,False,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=4; i<18; i+=3),5,6,7,4,5
+11,Coding & Logic,Logic,Intermediate,"If x = 14, is (x > 1) AND (x < 7) true?",Depends,True,Undefined,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 11, is (x > -1) AND (x < 6) true?",True,False,Undefined,Depends,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=1; i<10; i+=2),5,6,7,4,5
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=1; i<13; i+=3),5,4,3,6,4
+11,Coding & Logic,Logic,Intermediate,"If x = 12, is (x > -7) AND (x < 4) true?",Undefined,False,True,Depends,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=5; i<9; i+=1),3,4,5,6,4
+11,Coding & Logic,Logic,Intermediate,"If x = -6, is (x > 0) AND (x < 7) true?",Undefined,False,Depends,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 4, is (x > 0) AND (x < 18) true?",True,Depends,False,Undefined,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=0; i<7; i+=2),4,6,3,5,4
+11,Coding & Logic,Logic,Intermediate,"If x = 15, is (x > 7) AND (x < 18) true?",True,Undefined,Depends,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = 10, is (x > 9) AND (x < 15) true?",Depends,True,False,Undefined,True
+11,Coding & Logic,Logic,Intermediate,"If x = 1, is (x > -10) AND (x < 6) true?",Undefined,False,True,Depends,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=4; i<10; i+=1),7,6,8,5,6
+11,Coding & Logic,Logic,Intermediate,"If x = 3, is (x > 5) AND (x < 19) true?",True,Depends,Undefined,False,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=0; i<11; i+=1),13,12,11,10,11
+11,Coding & Logic,Logic,Intermediate,"If x = 12, is (x > 5) AND (x < 16) true?",True,False,Depends,Undefined,True
+11,Coding & Logic,Logic,Intermediate,"If x = 2, is (x > 8) AND (x < 14) true?",True,Depends,False,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = -5, is (x > -7) AND (x < 11) true?",Depends,True,False,Undefined,True
+11,Coding & Logic,Logic,Intermediate,"If x = 8, is (x > -2) AND (x < 13) true?",Undefined,True,False,Depends,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=4; i<13; i+=3),5,4,2,3,3
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=3; i<7; i+=3),1,2,3,4,2
+11,Coding & Logic,Logic,Intermediate,"If x = 3, is (x > -2) AND (x < 17) true?",Depends,True,False,Undefined,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=0; i<10; i+=1),9,10,11,12,10
+11,Coding & Logic,Logic,Intermediate,"If x = 19, is (x > -8) AND (x < -3) true?",True,Undefined,Depends,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 11, is (x > 0) AND (x < 9) true?",False,Depends,True,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 18, is (x > 9) AND (x < 24) true?",True,Undefined,Depends,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = 9, is (x > -4) AND (x < 7) true?",Undefined,True,False,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 18, is (x > 7) AND (x < 25) true?",True,Undefined,Depends,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = 8, is (x > 10) AND (x < 18) true?",Undefined,True,Depends,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = -10, is (x > 6) AND (x < 20) true?",False,Depends,Undefined,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = -9, is (x > 5) AND (x < 18) true?",Undefined,Depends,True,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 15, is (x > -4) AND (x < 9) true?",Undefined,True,False,Depends,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=5; i<8; i+=3),2,3,1,0,1
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=0; i<9; i+=3),3,5,4,2,3
+11,Coding & Logic,Logic,Intermediate,"If x = 11, is (x > 9) AND (x < 23) true?",Undefined,True,Depends,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = -6, is (x > 4) AND (x < 10) true?",True,False,Undefined,Depends,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=3; i<18; i+=3),5,6,7,4,5
+11,Coding & Logic,Logic,Intermediate,"If x = 5, is (x > 3) AND (x < 13) true?",False,Undefined,True,Depends,True
+11,Coding & Logic,Logic,Intermediate,"If x = 14, is (x > -3) AND (x < 17) true?",Depends,Undefined,True,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = 19, is (x > -3) AND (x < 2) true?",True,Depends,Undefined,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = -10, is (x > 3) AND (x < 14) true?",Depends,Undefined,True,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = -6, is (x > 5) AND (x < 16) true?",Depends,Undefined,True,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = -5, is (x > -5) AND (x < 0) true?",False,Depends,True,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 13, is (x > 7) AND (x < 21) true?",Depends,False,True,Undefined,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=1; i<4; i+=3),1,2,0,3,1
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=4; i<10; i+=3),4,2,3,1,2
+11,Coding & Logic,Logic,Intermediate,"If x = 4, is (x > 6) AND (x < 11) true?",Depends,True,Undefined,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 9, is (x > -2) AND (x < 12) true?",Undefined,False,Depends,True,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=2; i<10; i+=3),5,4,2,3,3
+11,Coding & Logic,Logic,Intermediate,"If x = -3, is (x > -1) AND (x < 12) true?",Undefined,Depends,True,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = -7, is (x > 10) AND (x < 29) true?",True,Undefined,False,Depends,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=0; i<13; i+=1),14,15,12,13,13
+11,Coding & Logic,Logic,Intermediate,"If x = 13, is (x > 10) AND (x < 26) true?",True,Depends,False,Undefined,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=4; i<8; i+=2),3,4,1,2,2
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=0; i<12; i+=1),12,14,11,13,12
+11,Coding & Logic,Logic,Intermediate,"If x = 16, is (x > -1) AND (x < 17) true?",Depends,Undefined,True,False,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=4; i<12; i+=3),4,2,5,3,3
+11,Coding & Logic,Logic,Intermediate,"If x = 1, is (x > -9) AND (x < 9) true?",False,Undefined,True,Depends,True
+11,Coding & Logic,Logic,Intermediate,"If x = 4, is (x > 10) AND (x < 17) true?",Undefined,False,Depends,True,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=4; i<10; i+=2),5,2,3,4,3
+11,Coding & Logic,Logic,Intermediate,"If x = 15, is (x > 9) AND (x < 18) true?",False,Undefined,True,Depends,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=4; i<17; i+=3),4,5,6,7,5
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=0; i<4; i+=2),2,4,3,1,2
+11,Coding & Logic,Logic,Intermediate,"If x = 17, is (x > -9) AND (x < 7) true?",False,Depends,Undefined,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 12, is (x > 5) AND (x < 10) true?",False,True,Undefined,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 18, is (x > 10) AND (x < 19) true?",True,Undefined,Depends,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = -9, is (x > 3) AND (x < 20) true?",Depends,False,True,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 18, is (x > -1) AND (x < 10) true?",False,True,Depends,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 9, is (x > 5) AND (x < 16) true?",True,Undefined,False,Depends,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=4; i<9; i+=3),4,2,1,3,2
+11,Coding & Logic,Logic,Intermediate,"If x = 8, is (x > -10) AND (x < 1) true?",False,True,Depends,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 4, is (x > 0) AND (x < 6) true?",Undefined,False,True,Depends,True
+11,Coding & Logic,Logic,Intermediate,"If x = -8, is (x > 6) AND (x < 23) true?",False,True,Undefined,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 15, is (x > -2) AND (x < 6) true?",Depends,True,False,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 15, is (x > 9) AND (x < 26) true?",Depends,True,Undefined,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = 16, is (x > -4) AND (x < 5) true?",False,Depends,True,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 16, is (x > -5) AND (x < 9) true?",True,False,Depends,Undefined,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=5; i<11; i+=3),2,1,4,3,2
+11,Coding & Logic,Logic,Intermediate,"If x = 19, is (x > 6) AND (x < 26) true?",Undefined,Depends,False,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = 0, is (x > 10) AND (x < 19) true?",False,Depends,True,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 2, is (x > -10) AND (x < 0) true?",True,Depends,Undefined,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 16, is (x > 7) AND (x < 18) true?",Undefined,Depends,True,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = -6, is (x > -9) AND (x < 11) true?",Depends,False,Undefined,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = 7, is (x > 7) AND (x < 24) true?",Depends,True,Undefined,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 17, is (x > 8) AND (x < 13) true?",False,Depends,Undefined,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 8, is (x > -2) AND (x < 10) true?",False,Undefined,Depends,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = 11, is (x > 6) AND (x < 18) true?",True,Undefined,Depends,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = 11, is (x > 0) AND (x < 14) true?",False,True,Depends,Undefined,True
+11,Coding & Logic,Logic,Intermediate,"If x = 12, is (x > 10) AND (x < 27) true?",False,True,Depends,Undefined,True
+11,Coding & Logic,Logic,Intermediate,"If x = -2, is (x > -5) AND (x < 2) true?",False,Undefined,True,Depends,True
+11,Coding & Logic,Logic,Intermediate,"If x = -1, is (x > 0) AND (x < 10) true?",Undefined,False,Depends,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 19, is (x > -10) AND (x < -2) true?",Depends,False,True,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 19, is (x > -10) AND (x < -5) true?",Depends,Undefined,True,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 1, is (x > -1) AND (x < 15) true?",Undefined,False,True,Depends,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=5; i<17; i+=2),8,6,5,7,6
+11,Coding & Logic,Logic,Intermediate,"If x = 1, is (x > -3) AND (x < 17) true?",Depends,Undefined,True,False,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=3; i<8; i+=3),1,3,2,4,2
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=4; i<9; i+=2),5,2,3,4,3
+11,Coding & Logic,Logic,Intermediate,"If x = -9, is (x > -7) AND (x < 10) true?",Depends,True,Undefined,False,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=4; i<7; i+=3),0,1,3,2,1
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=1; i<12; i+=3),6,5,4,3,4
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=0; i<7; i+=1),6,7,8,9,7
+11,Coding & Logic,Logic,Intermediate,"If x = 20, is (x > -8) AND (x < -2) true?",True,Undefined,Depends,False,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=1; i<14; i+=3),5,6,7,4,5
+11,Coding & Logic,Logic,Intermediate,"If x = 3, is (x > 2) AND (x < 19) true?",True,Undefined,Depends,False,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=1; i<9; i+=3),2,5,4,3,3
+11,Coding & Logic,Logic,Intermediate,"If x = -9, is (x > -5) AND (x < 6) true?",Depends,True,False,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 13, is (x > -10) AND (x < 3) true?",Undefined,Depends,True,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 2, is (x > -3) AND (x < 5) true?",Undefined,Depends,True,False,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=5; i<19; i+=1),16,14,13,15,14
+11,Coding & Logic,Logic,Intermediate,"If x = 3, is (x > 2) AND (x < 12) true?",False,True,Undefined,Depends,True
+11,Coding & Logic,Logic,Intermediate,"If x = 9, is (x > 9) AND (x < 17) true?",True,Undefined,False,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = -6, is (x > -6) AND (x < 4) true?",False,Depends,Undefined,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 17, is (x > -8) AND (x < 4) true?",False,Depends,Undefined,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 12, is (x > 7) AND (x < 21) true?",True,False,Depends,Undefined,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=5; i<11; i+=2),2,5,3,4,3
+11,Coding & Logic,Logic,Intermediate,"If x = 11, is (x > 7) AND (x < 15) true?",True,False,Depends,Undefined,True
+11,Coding & Logic,Logic,Intermediate,"If x = -2, is (x > -1) AND (x < 18) true?",False,True,Depends,Undefined,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=1; i<7; i+=3),2,3,4,1,2
+11,Coding & Logic,Logic,Intermediate,"If x = -1, is (x > -10) AND (x < -4) true?",True,Depends,False,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 4, is (x > -10) AND (x < 6) true?",Undefined,Depends,False,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = -9, is (x > 8) AND (x < 14) true?",Undefined,Depends,False,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 6, is (x > 7) AND (x < 14) true?",True,Undefined,False,Depends,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=2; i<12; i+=2),5,7,4,6,5
+11,Coding & Logic,Logic,Intermediate,"If x = 18, is (x > 10) AND (x < 21) true?",Depends,Undefined,False,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = 20, is (x > 1) AND (x < 9) true?",True,False,Undefined,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = -2, is (x > -7) AND (x < 2) true?",False,True,Depends,Undefined,True
+11,Coding & Logic,Logic,Intermediate,"If x = 14, is (x > 9) AND (x < 29) true?",Depends,True,Undefined,False,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=2; i<13; i+=2),7,8,5,6,6
+11,Coding & Logic,Logic,Intermediate,"If x = 18, is (x > 0) AND (x < 10) true?",Undefined,Depends,False,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = -10, is (x > -4) AND (x < 15) true?",Undefined,False,True,Depends,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=2; i<16; i+=2),6,7,9,8,7
+11,Coding & Logic,Logic,Intermediate,"If x = 19, is (x > 2) AND (x < 14) true?",False,True,Undefined,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = -4, is (x > -10) AND (x < 5) true?",Depends,Undefined,True,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = 7, is (x > 10) AND (x < 18) true?",False,Undefined,True,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 5, is (x > 3) AND (x < 19) true?",False,True,Undefined,Depends,True
+11,Coding & Logic,Logic,Intermediate,"If x = -3, is (x > 2) AND (x < 17) true?",False,True,Undefined,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 12, is (x > 4) AND (x < 12) true?",Depends,False,True,Undefined,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=3; i<15; i+=1),12,13,14,11,12
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=2; i<10; i+=2),6,5,4,3,4
+11,Coding & Logic,Logic,Intermediate,"If x = -9, is (x > -5) AND (x < 14) true?",Undefined,False,True,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = -7, is (x > 1) AND (x < 6) true?",Depends,True,False,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 8, is (x > 5) AND (x < 24) true?",False,True,Undefined,Depends,True
+11,Coding & Logic,Logic,Intermediate,"If x = -2, is (x > 1) AND (x < 17) true?",False,Undefined,True,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = -5, is (x > -10) AND (x < 5) true?",False,Undefined,Depends,True,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=1; i<7; i+=2),5,2,4,3,3
+11,Coding & Logic,Logic,Intermediate,"If x = 1, is (x > 4) AND (x < 20) true?",True,Depends,Undefined,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = -4, is (x > -9) AND (x < 0) true?",Undefined,Depends,True,False,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=4; i<11; i+=1),9,8,7,6,7
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=4; i<14; i+=3),6,3,4,5,4
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=0; i<12; i+=3),6,5,3,4,4
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=5; i<13; i+=1),10,8,7,9,8
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=3; i<18; i+=1),15,17,16,14,15
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=0; i<14; i+=2),6,9,8,7,7
+11,Coding & Logic,Logic,Intermediate,"If x = 8, is (x > 4) AND (x < 11) true?",Undefined,True,False,Depends,True
+11,Coding & Logic,Logic,Intermediate,"If x = -6, is (x > -3) AND (x < 17) true?",True,False,Undefined,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 2, is (x > 6) AND (x < 12) true?",False,Depends,True,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 15, is (x > 6) AND (x < 21) true?",Depends,Undefined,False,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = 2, is (x > -1) AND (x < 7) true?",True,Depends,Undefined,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = 8, is (x > 10) AND (x < 30) true?",Depends,True,False,Undefined,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=1; i<6; i+=3),3,4,2,1,2
+11,Coding & Logic,Logic,Intermediate,"If x = 10, is (x > 5) AND (x < 22) true?",Undefined,Depends,True,False,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=0; i<15; i+=1),14,15,17,16,15
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=4; i<14; i+=2),6,7,4,5,5
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=1; i<8; i+=2),5,3,4,6,4
+11,Coding & Logic,Logic,Intermediate,"If x = 16, is (x > -10) AND (x < 0) true?",Undefined,Depends,False,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 14, is (x > -2) AND (x < 3) true?",Depends,False,True,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 12, is (x > -9) AND (x < 7) true?",True,Depends,False,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = -2, is (x > 10) AND (x < 22) true?",Depends,Undefined,True,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = -10, is (x > -4) AND (x < 16) true?",False,Undefined,True,Depends,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=3; i<12; i+=2),7,5,6,4,5
+11,Coding & Logic,Logic,Intermediate,"If x = 2, is (x > 4) AND (x < 20) true?",Depends,True,False,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 10, is (x > 3) AND (x < 21) true?",True,Undefined,Depends,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = -4, is (x > 0) AND (x < 12) true?",True,Undefined,False,Depends,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=2; i<6; i+=3),2,4,3,1,2
+11,Coding & Logic,Logic,Intermediate,"If x = -5, is (x > 10) AND (x < 28) true?",Undefined,True,False,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = -4, is (x > 3) AND (x < 10) true?",Depends,False,True,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = -1, is (x > 7) AND (x < 13) true?",False,Undefined,Depends,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = -7, is (x > -3) AND (x < 5) true?",True,Undefined,False,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 17, is (x > 9) AND (x < 14) true?",Undefined,False,True,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = -3, is (x > 1) AND (x < 19) true?",Depends,True,False,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = -10, is (x > 0) AND (x < 9) true?",Depends,Undefined,False,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 19, is (x > -6) AND (x < 11) true?",False,Depends,True,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = -6, is (x > 10) AND (x < 21) true?",Depends,True,False,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = -8, is (x > -3) AND (x < 10) true?",False,True,Depends,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 20, is (x > -5) AND (x < 6) true?",False,Undefined,Depends,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 8, is (x > -1) AND (x < 9) true?",False,True,Undefined,Depends,True
+11,Coding & Logic,Logic,Intermediate,"If x = -8, is (x > -1) AND (x < 15) true?",Depends,False,True,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = -5, is (x > -9) AND (x < 8) true?",Depends,True,False,Undefined,True
+11,Coding & Logic,Logic,Intermediate,"If x = 20, is (x > 9) AND (x < 29) true?",True,False,Depends,Undefined,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=2; i<11; i+=1),8,11,9,10,9
+11,Coding & Logic,Logic,Intermediate,"If x = 16, is (x > -4) AND (x < 9) true?",False,Undefined,Depends,True,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=5; i<10; i+=2),5,3,4,2,3
+11,Coding & Logic,Logic,Intermediate,"If x = -6, is (x > -9) AND (x < 8) true?",Undefined,True,Depends,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = 16, is (x > 0) AND (x < 12) true?",Undefined,True,Depends,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 8, is (x > -5) AND (x < 4) true?",Depends,False,True,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = -9, is (x > -7) AND (x < 13) true?",True,Undefined,False,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 0, is (x > 9) AND (x < 17) true?",True,Depends,False,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 11, is (x > -4) AND (x < 14) true?",True,False,Depends,Undefined,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=4; i<13; i+=1),8,10,11,9,9
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=5; i<10; i+=3),4,2,1,3,2
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=2; i<12; i+=3),4,5,6,3,4
+11,Coding & Logic,Logic,Intermediate,"If x = 14, is (x > 7) AND (x < 12) true?",Depends,Undefined,True,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 3, is (x > 4) AND (x < 24) true?",False,Depends,True,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 14, is (x > 0) AND (x < 13) true?",True,Undefined,False,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 16, is (x > -6) AND (x < 9) true?",Undefined,False,Depends,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 17, is (x > 2) AND (x < 8) true?",False,Depends,Undefined,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 7, is (x > 10) AND (x < 17) true?",True,Undefined,Depends,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 19, is (x > 9) AND (x < 21) true?",Undefined,Depends,False,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = -5, is (x > 5) AND (x < 14) true?",True,Depends,False,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = -10, is (x > -9) AND (x < 9) true?",False,True,Undefined,Depends,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=1; i<16; i+=1),15,16,14,17,15
+11,Coding & Logic,Logic,Intermediate,"If x = -4, is (x > 0) AND (x < 5) true?",Undefined,Depends,False,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = -5, is (x > 3) AND (x < 20) true?",True,False,Depends,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 20, is (x > 1) AND (x < 19) true?",True,False,Depends,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = -4, is (x > 3) AND (x < 14) true?",False,Undefined,True,Depends,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=3; i<16; i+=2),9,7,6,8,7
+11,Coding & Logic,Logic,Intermediate,"If x = 1, is (x > 9) AND (x < 26) true?",True,False,Undefined,Depends,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=3; i<10; i+=1),6,9,8,7,7
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=2; i<15; i+=3),6,4,5,7,5
+11,Coding & Logic,Logic,Intermediate,"If x = -2, is (x > -8) AND (x < -3) true?",Undefined,True,Depends,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 11, is (x > -7) AND (x < 0) true?",Undefined,Depends,True,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 17, is (x > -10) AND (x < 6) true?",False,Undefined,Depends,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = -5, is (x > -4) AND (x < 4) true?",False,Depends,Undefined,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = -7, is (x > -4) AND (x < 1) true?",Depends,False,Undefined,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = -1, is (x > -6) AND (x < 9) true?",Undefined,True,False,Depends,True
+11,Coding & Logic,Logic,Intermediate,"If x = 3, is (x > -9) AND (x < 0) true?",Depends,Undefined,False,True,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=1; i<4; i+=2),1,2,4,3,2
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=0; i<3; i+=1),5,2,3,4,3
+11,Coding & Logic,Logic,Intermediate,"If x = 3, is (x > 9) AND (x < 16) true?",Undefined,Depends,False,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = -6, is (x > 0) AND (x < 18) true?",Depends,Undefined,False,True,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=3; i<14; i+=1),11,10,13,12,11
+11,Coding & Logic,Logic,Intermediate,"If x = -5, is (x > 0) AND (x < 12) true?",Undefined,True,Depends,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 17, is (x > -10) AND (x < 9) true?",True,Depends,Undefined,False,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=0; i<13; i+=3),6,7,4,5,5
+11,Coding & Logic,Logic,Intermediate,"If x = 2, is (x > 8) AND (x < 21) true?",Depends,Undefined,True,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 1, is (x > 4) AND (x < 16) true?",False,Depends,Undefined,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = -3, is (x > -4) AND (x < 2) true?",Undefined,Depends,False,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = 5, is (x > 5) AND (x < 17) true?",Depends,False,Undefined,True,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=1; i<14; i+=2),9,7,6,8,7
+11,Coding & Logic,Logic,Intermediate,"If x = -2, is (x > 0) AND (x < 17) true?",Undefined,Depends,True,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 4, is (x > -8) AND (x < 0) true?",Undefined,False,True,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 13, is (x > 2) AND (x < 18) true?",True,Depends,False,Undefined,True
+11,Coding & Logic,Logic,Intermediate,"If x = 11, is (x > 0) AND (x < 7) true?",True,False,Depends,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 10, is (x > -4) AND (x < 2) true?",True,Depends,Undefined,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 6, is (x > -9) AND (x < 11) true?",True,False,Undefined,Depends,True
+11,Coding & Logic,Logic,Intermediate,"If x = 6, is (x > 10) AND (x < 21) true?",Undefined,Depends,False,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 11, is (x > 3) AND (x < 22) true?",Depends,Undefined,False,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = 1, is (x > 7) AND (x < 13) true?",Undefined,Depends,True,False,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=0; i<5; i+=1),5,7,6,4,5
+11,Coding & Logic,Logic,Intermediate,"If x = 14, is (x > -1) AND (x < 9) true?",True,Undefined,False,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 1, is (x > -9) AND (x < 4) true?",Depends,True,Undefined,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = 16, is (x > -9) AND (x < 6) true?",Depends,True,False,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 9, is (x > 3) AND (x < 15) true?",False,True,Undefined,Depends,True
+11,Coding & Logic,Logic,Intermediate,"If x = -6, is (x > -9) AND (x < 7) true?",False,Depends,Undefined,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = 12, is (x > -1) AND (x < 13) true?",True,Undefined,False,Depends,True
+11,Coding & Logic,Logic,Intermediate,"If x = 20, is (x > 4) AND (x < 19) true?",Depends,Undefined,False,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 1, is (x > -4) AND (x < 2) true?",True,Undefined,Depends,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = 3, is (x > 6) AND (x < 25) true?",Undefined,Depends,True,False,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=3; i<6; i+=1),2,3,4,5,3
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=4; i<19; i+=3),7,4,5,6,5
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=3; i<6; i+=3),2,3,1,0,1
+11,Coding & Logic,Logic,Intermediate,"If x = 5, is (x > -3) AND (x < 14) true?",False,Undefined,Depends,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = 7, is (x > -8) AND (x < 10) true?",False,Undefined,Depends,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = -6, is (x > -7) AND (x < 1) true?",Undefined,True,Depends,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = 15, is (x > 3) AND (x < 14) true?",Undefined,True,False,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 4, is (x > -10) AND (x < -3) true?",False,True,Depends,Undefined,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=5; i<15; i+=2),5,6,4,7,5
+11,Coding & Logic,Logic,Intermediate,"If x = 6, is (x > -4) AND (x < 7) true?",Depends,Undefined,False,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = 0, is (x > -1) AND (x < 10) true?",Undefined,Depends,True,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = 0, is (x > -4) AND (x < 14) true?",True,Depends,Undefined,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = -2, is (x > -4) AND (x < 2) true?",False,Depends,True,Undefined,True
+11,Coding & Logic,Logic,Intermediate,"If x = 12, is (x > -7) AND (x < -2) true?",Depends,Undefined,False,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = -5, is (x > 4) AND (x < 10) true?",True,False,Depends,Undefined,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=2; i<15; i+=1),12,13,15,14,13
+11,Coding & Logic,Logic,Intermediate,"If x = 15, is (x > -4) AND (x < 6) true?",True,Undefined,False,Depends,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=3; i<13; i+=3),6,4,5,3,4
+11,Coding & Logic,Logic,Intermediate,"If x = 9, is (x > 10) AND (x < 17) true?",Undefined,Depends,True,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = -1, is (x > -2) AND (x < 4) true?",Depends,False,True,Undefined,True
+11,Coding & Logic,Logic,Intermediate,"If x = 2, is (x > -2) AND (x < 10) true?",Depends,Undefined,False,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = -2, is (x > -9) AND (x < -1) true?",False,Depends,True,Undefined,True
+11,Coding & Logic,Logic,Intermediate,"If x = 13, is (x > 10) AND (x < 27) true?",Depends,False,True,Undefined,True
+11,Coding & Logic,Logic,Intermediate,"If x = 19, is (x > 0) AND (x < 14) true?",Depends,False,Undefined,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = -2, is (x > 8) AND (x < 13) true?",False,True,Depends,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = -5, is (x > 2) AND (x < 9) true?",Undefined,Depends,False,True,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=1; i<5; i+=3),2,1,3,4,2
+11,Coding & Logic,Logic,Intermediate,"If x = 20, is (x > 9) AND (x < 21) true?",Undefined,True,Depends,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = 17, is (x > 0) AND (x < 16) true?",Depends,Undefined,False,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 1, is (x > 2) AND (x < 16) true?",Undefined,False,Depends,True,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=2; i<17; i+=2),9,7,8,10,8
+11,Coding & Logic,Logic,Intermediate,"If x = -1, is (x > -9) AND (x < 0) true?",Depends,False,Undefined,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = 20, is (x > 0) AND (x < 10) true?",False,Depends,Undefined,True,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=4; i<18; i+=2),7,8,9,6,7
+11,Coding & Logic,Logic,Intermediate,"If x = -1, is (x > -9) AND (x < 8) true?",False,Undefined,True,Depends,True
+11,Coding & Logic,Logic,Intermediate,"If x = 8, is (x > 5) AND (x < 17) true?",Undefined,True,False,Depends,True
+11,Coding & Logic,Logic,Intermediate,"If x = -1, is (x > 6) AND (x < 24) true?",False,True,Depends,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = -1, is (x > -3) AND (x < 7) true?",Depends,True,Undefined,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = -8, is (x > 3) AND (x < 10) true?",Depends,Undefined,True,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 20, is (x > 9) AND (x < 15) true?",False,Depends,Undefined,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = -1, is (x > 1) AND (x < 15) true?",False,True,Depends,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 9, is (x > -7) AND (x < 3) true?",True,Undefined,False,Depends,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=4; i<19; i+=1),15,16,17,14,15
+11,Coding & Logic,Logic,Intermediate,"If x = -6, is (x > 9) AND (x < 25) true?",False,Undefined,Depends,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 5, is (x > -4) AND (x < 4) true?",True,False,Undefined,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 2, is (x > -9) AND (x < 1) true?",Undefined,True,False,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 16, is (x > 8) AND (x < 27) true?",Undefined,Depends,True,False,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=1; i<4; i+=1),5,2,3,4,3
+11,Coding & Logic,Logic,Intermediate,"If x = -7, is (x > -2) AND (x < 8) true?",Undefined,Depends,False,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 5, is (x > -3) AND (x < 5) true?",Depends,True,False,Undefined,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=4; i<8; i+=1),6,4,5,3,4
+11,Coding & Logic,Logic,Intermediate,"If x = -4, is (x > 9) AND (x < 27) true?",Undefined,True,False,Depends,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=1; i<12; i+=2),5,8,7,6,6
+11,Coding & Logic,Logic,Intermediate,"If x = 9, is (x > 1) AND (x < 19) true?",False,Undefined,Depends,True,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=3; i<11; i+=3),4,3,2,5,3
+11,Coding & Logic,Logic,Intermediate,"If x = 10, is (x > 8) AND (x < 28) true?",False,True,Undefined,Depends,True
+11,Coding & Logic,Logic,Intermediate,"If x = -2, is (x > -10) AND (x < 3) true?",False,Depends,True,Undefined,True
+11,Coding & Logic,Logic,Intermediate,"If x = -5, is (x > -6) AND (x < 11) true?",False,Undefined,Depends,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = 11, is (x > 4) AND (x < 20) true?",True,Undefined,Depends,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = -1, is (x > 0) AND (x < 13) true?",True,False,Undefined,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 3, is (x > -10) AND (x < 9) true?",Undefined,True,Depends,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = 8, is (x > -9) AND (x < 10) true?",False,Depends,True,Undefined,True
+11,Coding & Logic,Logic,Intermediate,"If x = 6, is (x > -6) AND (x < 3) true?",Undefined,Depends,False,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 11, is (x > -7) AND (x < 7) true?",Depends,True,False,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 18, is (x > 4) AND (x < 18) true?",False,True,Undefined,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 3, is (x > -1) AND (x < 4) true?",Undefined,True,Depends,False,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=4; i<11; i+=2),6,3,5,4,4
+11,Coding & Logic,Logic,Intermediate,"If x = -1, is (x > 0) AND (x < 11) true?",True,Undefined,Depends,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 19, is (x > 2) AND (x < 22) true?",True,Depends,False,Undefined,True
+11,Coding & Logic,Logic,Intermediate,"If x = 7, is (x > -9) AND (x < 0) true?",True,Undefined,Depends,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = -7, is (x > -10) AND (x < -1) true?",True,False,Depends,Undefined,True
+11,Coding & Logic,Logic,Intermediate,"If x = 3, is (x > -1) AND (x < 17) true?",Depends,Undefined,True,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = -8, is (x > 4) AND (x < 17) true?",Undefined,Depends,False,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 0, is (x > 2) AND (x < 17) true?",Undefined,True,Depends,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 13, is (x > -3) AND (x < 8) true?",False,Undefined,Depends,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = -1, is (x > 7) AND (x < 16) true?",False,True,Undefined,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 14, is (x > 9) AND (x < 27) true?",Undefined,Depends,False,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = 14, is (x > -8) AND (x < 1) true?",Depends,Undefined,False,True,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=3; i<7; i+=2),1,3,2,4,2
+11,Coding & Logic,Logic,Intermediate,"If x = -3, is (x > -7) AND (x < 7) true?",Undefined,Depends,False,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = 6, is (x > -3) AND (x < 4) true?",Depends,Undefined,True,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 20, is (x > -8) AND (x < -1) true?",Depends,Undefined,True,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 15, is (x > -8) AND (x < 6) true?",False,Undefined,Depends,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 15, is (x > 3) AND (x < 15) true?",Undefined,True,Depends,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 7, is (x > 5) AND (x < 20) true?",Undefined,True,Depends,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = 20, is (x > 6) AND (x < 23) true?",Undefined,False,Depends,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = 1, is (x > 2) AND (x < 13) true?",True,False,Undefined,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 2, is (x > 1) AND (x < 13) true?",False,Depends,True,Undefined,True
+11,Coding & Logic,Logic,Intermediate,"If x = 9, is (x > -9) AND (x < 7) true?",Depends,Undefined,False,True,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=5; i<16; i+=3),5,3,6,4,4
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=5; i<14; i+=1),11,9,8,10,9
+11,Coding & Logic,Logic,Intermediate,"If x = 5, is (x > 9) AND (x < 24) true?",True,False,Undefined,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 2, is (x > 8) AND (x < 20) true?",Depends,Undefined,False,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 12, is (x > -4) AND (x < 1) true?",True,Undefined,False,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = -4, is (x > -1) AND (x < 12) true?",True,Undefined,Depends,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 13, is (x > 9) AND (x < 24) true?",Undefined,False,True,Depends,True
+11,Coding & Logic,Logic,Intermediate,"If x = 9, is (x > 3) AND (x < 19) true?",False,True,Depends,Undefined,True
+11,Coding & Logic,Logic,Intermediate,"If x = 20, is (x > -8) AND (x < 7) true?",True,False,Depends,Undefined,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=3; i<17; i+=2),9,6,7,8,7
+11,Coding & Logic,Logic,Intermediate,"If x = 5, is (x > 8) AND (x < 17) true?",Depends,True,False,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 17, is (x > -2) AND (x < 11) true?",Depends,False,True,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 18, is (x > 9) AND (x < 25) true?",Undefined,False,True,Depends,True
+11,Coding & Logic,Logic,Intermediate,"If x = 5, is (x > -5) AND (x < 3) true?",Undefined,False,True,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 19, is (x > -2) AND (x < 17) true?",True,False,Undefined,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 0, is (x > 4) AND (x < 21) true?",True,Undefined,Depends,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 16, is (x > 4) AND (x < 24) true?",Undefined,False,Depends,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = 13, is (x > -1) AND (x < 19) true?",Depends,False,True,Undefined,True
+11,Coding & Logic,Logic,Intermediate,"If x = 5, is (x > 7) AND (x < 20) true?",Undefined,True,False,Depends,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=1; i<15; i+=1),15,16,13,14,14
+11,Coding & Logic,Logic,Intermediate,"If x = -7, is (x > 3) AND (x < 16) true?",Depends,True,False,Undefined,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=3; i<13; i+=2),5,4,7,6,5
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=2; i<7; i+=3),4,3,2,1,2
+11,Coding & Logic,Logic,Intermediate,"If x = 17, is (x > -6) AND (x < 14) true?",False,True,Depends,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 11, is (x > -4) AND (x < 8) true?",True,Depends,Undefined,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 19, is (x > 2) AND (x < 19) true?",Depends,True,False,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 17, is (x > 4) AND (x < 16) true?",Undefined,Depends,True,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = -5, is (x > 0) AND (x < 18) true?",Undefined,True,Depends,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = -1, is (x > -6) AND (x < 8) true?",Undefined,True,False,Depends,True
+11,Coding & Logic,Logic,Intermediate,"If x = -8, is (x > -1) AND (x < 19) true?",Undefined,True,False,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 6, is (x > -9) AND (x < 4) true?",True,Depends,False,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 6, is (x > 2) AND (x < 10) true?",Undefined,Depends,True,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = 0, is (x > 1) AND (x < 17) true?",Undefined,False,Depends,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 10, is (x > -1) AND (x < 11) true?",False,True,Depends,Undefined,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=3; i<9; i+=3),4,1,3,2,2
+11,Coding & Logic,Logic,Intermediate,"If x = -1, is (x > -5) AND (x < 2) true?",True,Depends,Undefined,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = 16, is (x > -10) AND (x < 3) true?",False,Depends,Undefined,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = -10, is (x > -2) AND (x < 4) true?",True,False,Undefined,Depends,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=0; i<11; i+=3),5,4,3,6,4
+11,Coding & Logic,Logic,Intermediate,"If x = -4, is (x > -7) AND (x < 0) true?",False,Depends,Undefined,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = 5, is (x > 4) AND (x < 13) true?",Undefined,True,False,Depends,True
+11,Coding & Logic,Logic,Intermediate,"If x = 14, is (x > 0) AND (x < 15) true?",False,Undefined,True,Depends,True
+11,Coding & Logic,Logic,Intermediate,"If x = 10, is (x > 3) AND (x < 9) true?",False,Undefined,Depends,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 14, is (x > -5) AND (x < 13) true?",True,Undefined,False,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = -10, is (x > -4) AND (x < 5) true?",True,Depends,Undefined,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 16, is (x > -2) AND (x < 7) true?",Undefined,False,True,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 5, is (x > -6) AND (x < 12) true?",True,Depends,False,Undefined,True
+11,Coding & Logic,Logic,Intermediate,"If x = -6, is (x > -1) AND (x < 5) true?",Depends,True,False,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = -5, is (x > -2) AND (x < 15) true?",Undefined,Depends,False,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 13, is (x > 8) AND (x < 18) true?",Undefined,True,Depends,False,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=2; i<13; i+=3),4,6,5,3,4
+11,Coding & Logic,Logic,Intermediate,"If x = 0, is (x > 2) AND (x < 9) true?",True,Undefined,False,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 11, is (x > -5) AND (x < 4) true?",True,False,Depends,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 11, is (x > -9) AND (x < 9) true?",Depends,True,Undefined,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 1, is (x > 3) AND (x < 11) true?",Undefined,False,Depends,True,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=3; i<12; i+=1),8,9,10,11,9
+11,Coding & Logic,Logic,Intermediate,"If x = -4, is (x > -6) AND (x < 10) true?",Depends,Undefined,True,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = 8, is (x > 8) AND (x < 28) true?",Undefined,Depends,True,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 19, is (x > 1) AND (x < 7) true?",False,Undefined,True,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 17, is (x > -4) AND (x < 2) true?",False,Undefined,True,Depends,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=5; i<12; i+=1),6,8,9,7,7
+11,Coding & Logic,Logic,Intermediate,"If x = 7, is (x > -1) AND (x < 7) true?",Depends,Undefined,True,False,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=1; i<8; i+=1),6,8,7,9,7
+11,Coding & Logic,Logic,Intermediate,"If x = 11, is (x > -9) AND (x < 8) true?",False,True,Undefined,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 7, is (x > 2) AND (x < 19) true?",Undefined,Depends,False,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = -5, is (x > 1) AND (x < 9) true?",True,Undefined,False,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 3, is (x > 9) AND (x < 27) true?",Depends,False,True,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = -7, is (x > 6) AND (x < 23) true?",True,Undefined,Depends,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 6, is (x > 2) AND (x < 12) true?",True,False,Undefined,Depends,True
+11,Coding & Logic,Logic,Intermediate,"If x = 13, is (x > 1) AND (x < 17) true?",Depends,False,Undefined,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = 0, is (x > 2) AND (x < 16) true?",False,Undefined,Depends,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 1, is (x > 5) AND (x < 17) true?",Depends,Undefined,False,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 3, is (x > 6) AND (x < 17) true?",True,False,Undefined,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = -6, is (x > -4) AND (x < 11) true?",Depends,False,True,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 12, is (x > 3) AND (x < 14) true?",Undefined,True,False,Depends,True
+11,Coding & Logic,Logic,Intermediate,"If x = -6, is (x > -6) AND (x < -1) true?",Depends,Undefined,True,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 7, is (x > 0) AND (x < 18) true?",False,True,Undefined,Depends,True
+11,Coding & Logic,Logic,Intermediate,"If x = 7, is (x > 2) AND (x < 12) true?",Depends,True,Undefined,False,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=2; i<6; i+=1),6,3,5,4,4
+11,Coding & Logic,Logic,Intermediate,"If x = 13, is (x > 3) AND (x < 16) true?",True,Depends,Undefined,False,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=3; i<7; i+=1),4,5,3,6,4
+11,Coding & Logic,Logic,Intermediate,"If x = -2, is (x > -1) AND (x < 9) true?",Depends,False,True,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = -3, is (x > 0) AND (x < 11) true?",Depends,Undefined,True,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 0, is (x > 1) AND (x < 6) true?",True,Undefined,False,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 17, is (x > 3) AND (x < 20) true?",Depends,False,Undefined,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = 16, is (x > -4) AND (x < 11) true?",True,False,Depends,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 13, is (x > -7) AND (x < 4) true?",Undefined,False,Depends,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 1, is (x > 2) AND (x < 11) true?",Undefined,Depends,False,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = -1, is (x > -8) AND (x < 7) true?",False,True,Undefined,Depends,True
+11,Coding & Logic,Logic,Intermediate,"If x = -2, is (x > -3) AND (x < 9) true?",True,Undefined,Depends,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = -8, is (x > -4) AND (x < 1) true?",Undefined,True,Depends,False,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=5; i<20; i+=2),10,9,7,8,8
+11,Coding & Logic,Logic,Intermediate,"If x = 15, is (x > 2) AND (x < 15) true?",True,Undefined,False,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = -6, is (x > -8) AND (x < 3) true?",False,True,Undefined,Depends,True
+11,Coding & Logic,Logic,Intermediate,"If x = 14, is (x > -7) AND (x < -2) true?",False,Undefined,Depends,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 18, is (x > 5) AND (x < 24) true?",Depends,True,Undefined,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = 10, is (x > 9) AND (x < 24) true?",Undefined,True,Depends,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = 13, is (x > 4) AND (x < 13) true?",False,Undefined,True,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 14, is (x > -10) AND (x < 6) true?",True,Depends,Undefined,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 1, is (x > -4) AND (x < 4) true?",True,Depends,Undefined,False,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=2; i<14; i+=2),8,5,7,6,6
+11,Coding & Logic,Logic,Intermediate,"If x = -9, is (x > -3) AND (x < 10) true?",Undefined,True,False,Depends,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=0; i<7; i+=3),2,5,4,3,3
+11,Coding & Logic,Logic,Intermediate,"If x = -8, is (x > -6) AND (x < 3) true?",Depends,False,Undefined,True,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=4; i<19; i+=2),7,8,9,10,8
+11,Coding & Logic,Logic,Intermediate,"If x = 18, is (x > 4) AND (x < 21) true?",Depends,True,Undefined,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = -5, is (x > -9) AND (x < 0) true?",False,Depends,True,Undefined,True
+11,Coding & Logic,Logic,Intermediate,"If x = 16, is (x > 9) AND (x < 28) true?",Undefined,False,Depends,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = 15, is (x > 3) AND (x < 18) true?",Undefined,False,True,Depends,True
+11,Coding & Logic,Logic,Intermediate,"If x = -1, is (x > -4) AND (x < 5) true?",False,Depends,True,Undefined,True
+11,Coding & Logic,Logic,Intermediate,"If x = -4, is (x > 4) AND (x < 19) true?",Depends,Undefined,False,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = -1, is (x > -3) AND (x < 16) true?",False,Depends,True,Undefined,True
+11,Coding & Logic,Logic,Intermediate,"If x = -2, is (x > -2) AND (x < 13) true?",Depends,True,Undefined,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = -4, is (x > 6) AND (x < 25) true?",False,Depends,True,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 12, is (x > -3) AND (x < 6) true?",False,Undefined,Depends,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = -3, is (x > -7) AND (x < 10) true?",True,Depends,False,Undefined,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=0; i<8; i+=1),8,10,9,7,8
+11,Coding & Logic,Logic,Intermediate,"If x = 16, is (x > 5) AND (x < 22) true?",Depends,Undefined,True,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = 2, is (x > 8) AND (x < 15) true?",True,Undefined,Depends,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 13, is (x > 0) AND (x < 9) true?",Depends,False,True,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 15, is (x > 0) AND (x < 14) true?",True,False,Depends,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 15, is (x > 0) AND (x < 10) true?",Undefined,True,Depends,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 4, is (x > -2) AND (x < 6) true?",Undefined,Depends,False,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = 17, is (x > -4) AND (x < 15) true?",False,Depends,Undefined,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = -10, is (x > 4) AND (x < 18) true?",True,Undefined,False,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 10, is (x > 8) AND (x < 13) true?",Depends,True,Undefined,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = -3, is (x > -6) AND (x < 13) true?",Depends,Undefined,False,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = 17, is (x > -1) AND (x < 17) true?",Undefined,Depends,True,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 8, is (x > 0) AND (x < 12) true?",Depends,Undefined,False,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = 2, is (x > -2) AND (x < 5) true?",Depends,Undefined,False,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = -8, is (x > -9) AND (x < 11) true?",True,Undefined,Depends,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = -6, is (x > -1) AND (x < 11) true?",Undefined,False,Depends,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 10, is (x > 8) AND (x < 21) true?",True,Undefined,Depends,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = 5, is (x > 1) AND (x < 9) true?",Undefined,False,Depends,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = 11, is (x > 5) AND (x < 25) true?",Undefined,False,Depends,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = -6, is (x > -9) AND (x < 0) true?",True,False,Depends,Undefined,True
+11,Coding & Logic,Logic,Intermediate,"If x = -1, is (x > -1) AND (x < 10) true?",False,Depends,True,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = -8, is (x > -10) AND (x < 2) true?",False,Depends,True,Undefined,True
+11,Coding & Logic,Logic,Intermediate,"If x = 19, is (x > -3) AND (x < 15) true?",True,Undefined,False,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = -4, is (x > 5) AND (x < 12) true?",False,Undefined,Depends,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 10, is (x > -9) AND (x < 9) true?",Depends,False,Undefined,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 4, is (x > 1) AND (x < 19) true?",Depends,True,False,Undefined,True
+11,Coding & Logic,Logic,Intermediate,"If x = 19, is (x > 2) AND (x < 15) true?",Depends,Undefined,True,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = -8, is (x > -3) AND (x < 2) true?",Depends,False,Undefined,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 9, is (x > -4) AND (x < 4) true?",False,True,Depends,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 2, is (x > -4) AND (x < 9) true?",True,Depends,Undefined,False,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=4; i<15; i+=3),3,6,5,4,4
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=1; i<12; i+=1),10,13,11,12,11
+11,Coding & Logic,Logic,Intermediate,"If x = -9, is (x > -3) AND (x < 16) true?",False,Undefined,Depends,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 12, is (x > -3) AND (x < 10) true?",Depends,Undefined,False,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 3, is (x > -2) AND (x < 12) true?",True,False,Undefined,Depends,True
+11,Coding & Logic,Logic,Intermediate,"If x = -10, is (x > -3) AND (x < 3) true?",Undefined,False,Depends,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = -10, is (x > -2) AND (x < 6) true?",Depends,True,Undefined,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 0, is (x > 8) AND (x < 22) true?",Depends,False,True,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = -9, is (x > 7) AND (x < 17) true?",False,True,Undefined,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 20, is (x > 8) AND (x < 22) true?",False,True,Depends,Undefined,True
+11,Coding & Logic,Logic,Intermediate,"If x = 6, is (x > 1) AND (x < 17) true?",Depends,True,False,Undefined,True
+11,Coding & Logic,Logic,Intermediate,"If x = 1, is (x > -1) AND (x < 8) true?",False,True,Undefined,Depends,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=5; i<14; i+=2),4,6,7,5,5
+11,Coding & Logic,Logic,Intermediate,"If x = 9, is (x > 5) AND (x < 20) true?",False,True,Depends,Undefined,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=4; i<14; i+=1),12,10,11,9,10
+11,Coding & Logic,Logic,Intermediate,"If x = -2, is (x > -7) AND (x < 11) true?",True,False,Depends,Undefined,True
+11,Coding & Logic,Logic,Intermediate,"If x = 11, is (x > 8) AND (x < 27) true?",Undefined,Depends,True,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = 18, is (x > -3) AND (x < 2) true?",False,Undefined,True,Depends,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=5; i<11; i+=1),6,7,5,8,6
+11,Coding & Logic,Logic,Intermediate,"If x = 1, is (x > -10) AND (x < -5) true?",Depends,Undefined,False,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 13, is (x > -9) AND (x < -1) true?",Depends,False,True,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = -5, is (x > -10) AND (x < -4) true?",Depends,True,Undefined,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = 1, is (x > 7) AND (x < 12) true?",True,False,Depends,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 18, is (x > -3) AND (x < 14) true?",Depends,Undefined,False,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 4, is (x > 9) AND (x < 26) true?",Depends,True,False,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 6, is (x > 3) AND (x < 8) true?",Depends,True,Undefined,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = 10, is (x > -3) AND (x < 13) true?",Undefined,False,True,Depends,True
+11,Coding & Logic,Logic,Intermediate,"If x = 17, is (x > 8) AND (x < 21) true?",True,Depends,Undefined,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = -8, is (x > -5) AND (x < 14) true?",False,True,Depends,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = -4, is (x > 1) AND (x < 14) true?",Undefined,True,Depends,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = -3, is (x > 4) AND (x < 10) true?",Undefined,True,False,Depends,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=2; i<12; i+=1),12,10,11,9,10
+11,Coding & Logic,Logic,Intermediate,"If x = -3, is (x > 2) AND (x < 14) true?",Undefined,Depends,False,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 4, is (x > -5) AND (x < 1) true?",Undefined,False,True,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = -4, is (x > -9) AND (x < 6) true?",Undefined,Depends,True,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = -7, is (x > 4) AND (x < 9) true?",True,Undefined,Depends,False,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=1; i<16; i+=2),7,10,9,8,8
+11,Coding & Logic,Logic,Intermediate,"If x = 9, is (x > 10) AND (x < 15) true?",Undefined,False,True,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = -10, is (x > 4) AND (x < 23) true?",True,False,Undefined,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 0, is (x > 0) AND (x < 15) true?",False,Undefined,True,Depends,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=5; i<17; i+=1),14,12,11,13,12
+11,Coding & Logic,Logic,Intermediate,"If x = -2, is (x > 9) AND (x < 18) true?",Undefined,Depends,True,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 12, is (x > 9) AND (x < 21) true?",Undefined,False,Depends,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = -1, is (x > 4) AND (x < 17) true?",True,Undefined,False,Depends,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=3; i<10; i+=3),4,3,2,5,3
+11,Coding & Logic,Logic,Intermediate,"If x = 5, is (x > -6) AND (x < 7) true?",True,Undefined,Depends,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = 0, is (x > -10) AND (x < 8) true?",True,Undefined,False,Depends,True
+11,Coding & Logic,Logic,Intermediate,"If x = 11, is (x > 6) AND (x < 17) true?",Undefined,False,Depends,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = 11, is (x > 4) AND (x < 22) true?",Depends,False,Undefined,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = 20, is (x > 3) AND (x < 23) true?",False,Depends,True,Undefined,True
+11,Coding & Logic,Logic,Intermediate,"If x = -7, is (x > 9) AND (x < 22) true?",Depends,False,Undefined,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 8, is (x > 5) AND (x < 20) true?",True,Undefined,Depends,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = 17, is (x > -8) AND (x < 0) true?",True,Depends,False,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 0, is (x > -9) AND (x < -2) true?",Undefined,Depends,False,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 19, is (x > 4) AND (x < 12) true?",False,Depends,Undefined,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 15, is (x > 6) AND (x < 25) true?",False,Undefined,True,Depends,True
+11,Coding & Logic,Logic,Intermediate,"If x = 16, is (x > 3) AND (x < 20) true?",True,False,Undefined,Depends,True
+11,Coding & Logic,Logic,Intermediate,"If x = 5, is (x > 1) AND (x < 13) true?",Depends,Undefined,True,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = 12, is (x > 6) AND (x < 13) true?",True,False,Undefined,Depends,True
+11,Coding & Logic,Logic,Intermediate,"If x = 9, is (x > -7) AND (x < 9) true?",False,Undefined,True,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 0, is (x > 7) AND (x < 22) true?",False,Undefined,Depends,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 2, is (x > 2) AND (x < 13) true?",False,True,Undefined,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 16, is (x > -4) AND (x < 7) true?",True,Depends,Undefined,False,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=5; i<9; i+=2),2,4,3,1,2
+11,Coding & Logic,Logic,Intermediate,"If x = -9, is (x > -9) AND (x < 1) true?",Undefined,False,Depends,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = -10, is (x > 5) AND (x < 17) true?",Undefined,Depends,False,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 18, is (x > 6) AND (x < 17) true?",Undefined,Depends,False,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 6, is (x > -5) AND (x < 6) true?",False,Undefined,True,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 0, is (x > -4) AND (x < 6) true?",False,Depends,Undefined,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = 12, is (x > -8) AND (x < -1) true?",Undefined,True,False,Depends,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=2; i<5; i+=1),5,2,3,4,3
+11,Coding & Logic,Logic,Intermediate,"If x = -6, is (x > -9) AND (x < 9) true?",Undefined,False,True,Depends,True
+11,Coding & Logic,Logic,Intermediate,"If x = 14, is (x > -1) AND (x < 15) true?",Depends,True,False,Undefined,True
+11,Coding & Logic,Logic,Intermediate,"If x = 15, is (x > 4) AND (x < 23) true?",Undefined,Depends,False,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = -5, is (x > -4) AND (x < 10) true?",False,Undefined,True,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 5, is (x > -9) AND (x < 2) true?",False,True,Depends,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 9, is (x > 3) AND (x < 20) true?",Undefined,Depends,False,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = -5, is (x > -7) AND (x < 6) true?",Depends,False,Undefined,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = -3, is (x > -2) AND (x < 12) true?",True,False,Depends,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 3, is (x > 9) AND (x < 20) true?",False,True,Depends,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 10, is (x > 8) AND (x < 18) true?",True,False,Undefined,Depends,True
+11,Coding & Logic,Logic,Intermediate,"If x = -1, is (x > 0) AND (x < 19) true?",Undefined,True,False,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = -2, is (x > 10) AND (x < 29) true?",Undefined,Depends,True,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 9, is (x > 0) AND (x < 18) true?",True,False,Depends,Undefined,True
+11,Coding & Logic,Logic,Intermediate,"If x = 10, is (x > 6) AND (x < 17) true?",True,Depends,False,Undefined,True
+11,Coding & Logic,Logic,Intermediate,"If x = 13, is (x > 2) AND (x < 17) true?",True,Depends,Undefined,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = -2, is (x > -3) AND (x < 12) true?",Depends,False,True,Undefined,True
+11,Coding & Logic,Logic,Intermediate,"If x = -10, is (x > -10) AND (x < -5) true?",Depends,Undefined,True,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = -6, is (x > 4) AND (x < 21) true?",Undefined,False,True,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 9, is (x > -6) AND (x < -1) true?",Depends,True,False,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = -5, is (x > -8) AND (x < 11) true?",Undefined,False,Depends,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = -10, is (x > 0) AND (x < 12) true?",Depends,Undefined,True,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = -9, is (x > -2) AND (x < 17) true?",Undefined,True,Depends,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = -4, is (x > 3) AND (x < 21) true?",Depends,True,Undefined,False,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=0; i<8; i+=3),4,5,2,3,3
+11,Coding & Logic,Logic,Intermediate,"If x = -2, is (x > -10) AND (x < 2) true?",False,True,Undefined,Depends,True
+11,Coding & Logic,Logic,Intermediate,"If x = -4, is (x > 8) AND (x < 23) true?",True,Undefined,False,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = -6, is (x > 2) AND (x < 7) true?",True,Undefined,False,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 10, is (x > -7) AND (x < 1) true?",Depends,False,Undefined,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 17, is (x > -4) AND (x < 9) true?",Depends,True,False,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 15, is (x > 9) AND (x < 28) true?",False,Undefined,True,Depends,True
+11,Coding & Logic,Logic,Intermediate,"If x = 15, is (x > 9) AND (x < 20) true?",True,Undefined,Depends,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = -4, is (x > -8) AND (x < 2) true?",Undefined,False,Depends,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = 16, is (x > 7) AND (x < 25) true?",Depends,Undefined,True,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = 17, is (x > -7) AND (x < 6) true?",False,Depends,True,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 16, is (x > -6) AND (x < 7) true?",False,Depends,Undefined,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 8, is (x > -7) AND (x < -1) true?",False,True,Depends,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = -7, is (x > 6) AND (x < 25) true?",Depends,True,False,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = -5, is (x > 9) AND (x < 17) true?",Depends,True,Undefined,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = -9, is (x > 1) AND (x < 13) true?",Depends,False,True,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = -1, is (x > -3) AND (x < 15) true?",Depends,False,Undefined,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = -8, is (x > -10) AND (x < -4) true?",True,Depends,False,Undefined,True
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=3; i<11; i+=1),9,10,7,8,8
+11,Coding & Logic,Logic,Intermediate,"If x = 14, is (x > 7) AND (x < 18) true?",False,Undefined,Depends,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = -8, is (x > 0) AND (x < 15) true?",Depends,Undefined,False,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 1, is (x > 8) AND (x < 28) true?",False,Depends,True,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 6, is (x > 7) AND (x < 16) true?",Undefined,Depends,False,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = -9, is (x > -7) AND (x < 1) true?",False,True,Undefined,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 5, is (x > -8) AND (x < 0) true?",Undefined,Depends,False,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 11, is (x > 3) AND (x < 23) true?",Depends,Undefined,True,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = 1, is (x > 6) AND (x < 17) true?",True,False,Undefined,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 0, is (x > 10) AND (x < 20) true?",True,Depends,False,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 18, is (x > -4) AND (x < 12) true?",False,True,Depends,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 13, is (x > 9) AND (x < 22) true?",Depends,Undefined,False,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = -9, is (x > -8) AND (x < 5) true?",True,False,Depends,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 11, is (x > 7) AND (x < 13) true?",True,False,Depends,Undefined,True
+11,Coding & Logic,Logic,Intermediate,"If x = -2, is (x > -10) AND (x < -5) true?",False,Undefined,True,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 8, is (x > 2) AND (x < 9) true?",True,Undefined,False,Depends,True
+11,Coding & Logic,Logic,Intermediate,"If x = 18, is (x > -6) AND (x < 14) true?",Depends,False,Undefined,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 3, is (x > 3) AND (x < 14) true?",False,Undefined,Depends,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 6, is (x > -2) AND (x < 7) true?",Depends,False,True,Undefined,True
+11,Coding & Logic,Logic,Intermediate,"If x = 18, is (x > 2) AND (x < 9) true?",False,Undefined,Depends,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = -2, is (x > 7) AND (x < 12) true?",Depends,True,Undefined,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 16, is (x > 7) AND (x < 17) true?",Undefined,True,False,Depends,True
+11,Coding & Logic,Logic,Intermediate,"If x = 16, is (x > -10) AND (x < 10) true?",True,Depends,Undefined,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 20, is (x > -10) AND (x < 3) true?",Depends,Undefined,True,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = -4, is (x > -5) AND (x < 4) true?",False,Depends,Undefined,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = -5, is (x > 7) AND (x < 22) true?",Depends,True,Undefined,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 15, is (x > 8) AND (x < 15) true?",Undefined,True,False,Depends,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=0; i<14; i+=3),4,6,5,7,5
+11,Coding & Logic,Logic,Intermediate,"If x = 17, is (x > 6) AND (x < 26) true?",Depends,True,False,Undefined,True
+11,Coding & Logic,Logic,Intermediate,"If x = 19, is (x > 5) AND (x < 20) true?",False,Depends,Undefined,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = 6, is (x > -5) AND (x < 1) true?",False,True,Undefined,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 5, is (x > -10) AND (x < 4) true?",False,True,Depends,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = -10, is (x > -7) AND (x < 0) true?",Undefined,True,False,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = -8, is (x > 10) AND (x < 21) true?",True,Depends,Undefined,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = -1, is (x > -5) AND (x < 9) true?",Depends,False,Undefined,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = -6, is (x > -8) AND (x < 5) true?",Depends,Undefined,False,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = 16, is (x > 10) AND (x < 27) true?",False,Depends,Undefined,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = 5, is (x > -4) AND (x < 5) true?",True,False,Undefined,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 9, is (x > 8) AND (x < 14) true?",False,True,Depends,Undefined,True
+11,Coding & Logic,Logic,Intermediate,"If x = 9, is (x > 3) AND (x < 13) true?",Undefined,Depends,True,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = 7, is (x > 9) AND (x < 24) true?",True,Undefined,Depends,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 18, is (x > -7) AND (x < 6) true?",False,True,Depends,Undefined,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=3; i<13; i+=1),9,11,10,12,10
+11,Coding & Logic,Logic,Intermediate,"If x = -6, is (x > 0) AND (x < 5) true?",Undefined,Depends,False,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = -7, is (x > 1) AND (x < 13) true?",True,Depends,Undefined,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 6, is (x > -5) AND (x < 14) true?",False,Undefined,Depends,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = -3, is (x > -10) AND (x < 3) true?",True,False,Depends,Undefined,True
+11,Coding & Logic,Logic,Intermediate,"If x = 15, is (x > 9) AND (x < 16) true?",True,Undefined,False,Depends,True
+11,Coding & Logic,Logic,Intermediate,"If x = 9, is (x > -8) AND (x < 11) true?",False,True,Depends,Undefined,True
+11,Coding & Logic,Logic,Intermediate,"If x = 7, is (x > 9) AND (x < 14) true?",False,Undefined,True,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 15, is (x > -3) AND (x < 6) true?",Undefined,False,Depends,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = -10, is (x > -7) AND (x < 1) true?",True,False,Depends,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 4, is (x > -5) AND (x < 10) true?",Undefined,True,Depends,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = 20, is (x > -8) AND (x < 5) true?",True,Depends,False,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = -5, is (x > -1) AND (x < 7) true?",Depends,True,Undefined,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 14, is (x > -8) AND (x < 3) true?",True,Depends,Undefined,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 16, is (x > -10) AND (x < -3) true?",True,Depends,False,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 10, is (x > 10) AND (x < 30) true?",True,Undefined,Depends,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = -5, is (x > -1) AND (x < 10) true?",Undefined,False,Depends,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 10, is (x > 8) AND (x < 17) true?",True,Undefined,Depends,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = -6, is (x > 9) AND (x < 24) true?",True,Undefined,False,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = -8, is (x > 1) AND (x < 13) true?",Depends,Undefined,False,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 3, is (x > -2) AND (x < 11) true?",True,Undefined,Depends,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = 20, is (x > -3) AND (x < 15) true?",False,True,Depends,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 10, is (x > 7) AND (x < 25) true?",Depends,Undefined,False,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = 4, is (x > 4) AND (x < 17) true?",Undefined,Depends,True,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 12, is (x > -1) AND (x < 4) true?",False,Depends,True,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 13, is (x > -9) AND (x < 2) true?",False,Undefined,True,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 3, is (x > -6) AND (x < 12) true?",True,False,Depends,Undefined,True
+11,Coding & Logic,Logic,Intermediate,"If x = 7, is (x > -10) AND (x < 10) true?",Undefined,Depends,False,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = -2, is (x > -8) AND (x < 6) true?",Undefined,True,False,Depends,True
+11,Coding & Logic,Logic,Intermediate,"If x = 3, is (x > 6) AND (x < 12) true?",Undefined,True,Depends,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = -9, is (x > 9) AND (x < 28) true?",Depends,False,True,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 5, is (x > 6) AND (x < 15) true?",Depends,False,True,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 20, is (x > 9) AND (x < 28) true?",False,Undefined,Depends,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = 16, is (x > -10) AND (x < -4) true?",True,Undefined,False,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 12, is (x > -10) AND (x < 9) true?",Depends,True,Undefined,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 7, is (x > -9) AND (x < -1) true?",True,False,Undefined,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 8, is (x > -2) AND (x < 18) true?",Undefined,False,True,Depends,True
+11,Coding & Logic,Logic,Intermediate,"If x = -4, is (x > 6) AND (x < 20) true?",Undefined,True,False,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = -1, is (x > 5) AND (x < 23) true?",False,Depends,Undefined,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 1, is (x > 0) AND (x < 16) true?",True,Undefined,Depends,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = 7, is (x > 10) AND (x < 27) true?",Depends,True,Undefined,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = -8, is (x > -5) AND (x < 3) true?",Undefined,False,Depends,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 19, is (x > -7) AND (x < 6) true?",False,True,Depends,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 5, is (x > -4) AND (x < 8) true?",False,Undefined,True,Depends,True
+11,Coding & Logic,Logic,Intermediate,"If x = 0, is (x > 7) AND (x < 21) true?",Undefined,Depends,False,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = -5, is (x > -9) AND (x < 3) true?",Undefined,True,Depends,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = -5, is (x > 9) AND (x < 19) true?",True,Undefined,False,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 16, is (x > -5) AND (x < 4) true?",True,False,Undefined,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = -10, is (x > 3) AND (x < 22) true?",Depends,True,Undefined,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 4, is (x > -6) AND (x < 14) true?",True,False,Depends,Undefined,True
+11,Coding & Logic,Logic,Intermediate,"If x = 19, is (x > -4) AND (x < 9) true?",False,Depends,True,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = -2, is (x > 1) AND (x < 15) true?",Undefined,True,False,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 18, is (x > 9) AND (x < 20) true?",True,Undefined,Depends,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = 15, is (x > 5) AND (x < 10) true?",Depends,Undefined,False,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = -3, is (x > 5) AND (x < 12) true?",True,Depends,Undefined,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 9, is (x > -4) AND (x < 11) true?",True,Depends,Undefined,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = 9, is (x > 6) AND (x < 26) true?",Depends,Undefined,True,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = -3, is (x > 1) AND (x < 16) true?",Undefined,Depends,False,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = -2, is (x > -7) AND (x < 0) true?",Undefined,False,True,Depends,True
+11,Coding & Logic,Logic,Intermediate,"If x = 12, is (x > 10) AND (x < 18) true?",Undefined,False,Depends,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = -6, is (x > 4) AND (x < 14) true?",Undefined,Depends,False,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 17, is (x > -9) AND (x < -4) true?",Undefined,Depends,False,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 8, is (x > 10) AND (x < 17) true?",True,False,Depends,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 14, is (x > 10) AND (x < 29) true?",False,Depends,True,Undefined,True
+11,Coding & Logic,Logic,Intermediate,"If x = 10, is (x > -10) AND (x < -3) true?",Undefined,Depends,True,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 15, is (x > 0) AND (x < 9) true?",False,Undefined,True,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 4, is (x > -1) AND (x < 12) true?",True,Depends,False,Undefined,True
+11,Coding & Logic,Logic,Intermediate,"If x = -6, is (x > -9) AND (x < 1) true?",True,Depends,Undefined,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = 1, is (x > -6) AND (x < 5) true?",True,Depends,Undefined,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = 9, is (x > 5) AND (x < 15) true?",False,Undefined,True,Depends,True
+11,Coding & Logic,Logic,Intermediate,"If x = 5, is (x > 9) AND (x < 17) true?",False,Undefined,True,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 0, is (x > 9) AND (x < 15) true?",True,Depends,Undefined,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 10, is (x > -1) AND (x < 14) true?",Undefined,True,Depends,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = 10, is (x > -8) AND (x < 0) true?",True,Undefined,Depends,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 13, is (x > -2) AND (x < 18) true?",True,Depends,Undefined,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = 6, is (x > 8) AND (x < 28) true?",True,False,Depends,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 15, is (x > 10) AND (x < 30) true?",False,Undefined,True,Depends,True
+11,Coding & Logic,Logic,Intermediate,"If x = -3, is (x > -3) AND (x < 12) true?",Depends,False,True,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 0, is (x > 3) AND (x < 20) true?",False,Undefined,True,Depends,False
+11,Coding & Logic,Loops,Intermediate,How many iterations does this loop run? for (i=4; i<18; i+=1),16,14,15,13,14
+11,Coding & Logic,Logic,Intermediate,"If x = 16, is (x > -2) AND (x < 3) true?",Depends,True,Undefined,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 12, is (x > -6) AND (x < 7) true?",Depends,Undefined,False,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 6, is (x > 9) AND (x < 15) true?",Depends,True,False,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 12, is (x > 10) AND (x < 25) true?",Depends,False,Undefined,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = 3, is (x > 6) AND (x < 14) true?",True,Undefined,Depends,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = -8, is (x > 4) AND (x < 13) true?",Depends,Undefined,True,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 11, is (x > -7) AND (x < 8) true?",Depends,True,False,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 7, is (x > 6) AND (x < 14) true?",Depends,False,Undefined,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = 0, is (x > -8) AND (x < 3) true?",True,Undefined,Depends,False,True
+11,Coding & Logic,Logic,Intermediate,"If x = -5, is (x > -1) AND (x < 4) true?",Depends,True,False,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 8, is (x > -7) AND (x < 1) true?",False,Depends,Undefined,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 18, is (x > 4) AND (x < 15) true?",False,Undefined,True,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 3, is (x > -1) AND (x < 16) true?",False,Undefined,Depends,True,True
+11,Coding & Logic,Logic,Intermediate,"If x = -9, is (x > -4) AND (x < 9) true?",Depends,True,False,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 13, is (x > -3) AND (x < 2) true?",Undefined,True,Depends,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = -6, is (x > -6) AND (x < 0) true?",Depends,False,Undefined,True,False
+11,Coding & Logic,Logic,Intermediate,"If x = 17, is (x > -9) AND (x < 8) true?",False,True,Depends,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 8, is (x > -5) AND (x < 8) true?",Undefined,True,Depends,False,False
+11,Coding & Logic,Logic,Intermediate,"If x = 16, is (x > -7) AND (x < 13) true?",False,Depends,True,Undefined,False
+11,Coding & Logic,Logic,Intermediate,"If x = 1, is (x > 2) AND (x < 20) true?",False,Undefined,True,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 17, is (x > 4) AND (x < 11) true?",True,Undefined,False,Depends,False
+11,Coding & Logic,Logic,Intermediate,"If x = 13, is (x > -10) AND (x < 0) true?",False,True,Depends,Undefined,False

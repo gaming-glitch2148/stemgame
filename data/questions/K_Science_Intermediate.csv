@@ -1,0 +1,1001 @@
+Grade,Subject,Topic,Difficulty,Question,A,B,C,D,Correct Answer
+K,Science,Animals,Intermediate,Which animal can fly?,Bird,Dog,Cat,Cow,Bird
+K,Science,Plants,Intermediate,What do plants need to grow?,Sunlight,Toys,TV,Candy,Sunlight
+K,Science,Weather,Intermediate,What comes after rain sometimes?,Rainbow,Snowman,Moon,Star,Rainbow
+K,Science,Senses,Intermediate,Which sense helps you hear?,Sight,Smell,Hearing,Taste,Hearing
+K,Science,Weather,Intermediate,What makes leaves move?,Wind,Sand,Fire,Ice,Wind
+K,Science,Senses,Intermediate,Which sense helps you see colors?,Touch,Taste,Sight,Smell,Sight
+K,Science,Animals,Intermediate,Which animal lives in water?,Fish,Horse,Cat,Lion,Fish
+K,Science,Plants,Intermediate,What part of plant is under the ground?,Leaf,Flower,Root,Fruit,Root
+K,Science,Plants,Intermediate,Which statement best describes conservation of energy?,Energy changes form but is not created or destroyed,Energy stays only as heat,Energy is always destroyed,Energy is created in every reaction,Energy changes form but is not created or destroyed
+K,Science,Weather,Intermediate,An object of mass 9 kg accelerates at 3 m/s². What net force acts on it?,81 N,27 N,36 N,18 N,27 N
+K,Science,Animals,Intermediate,An object of mass 3 kg accelerates at 6 m/s². What net force acts on it?,108 N,15 N,21 N,18 N,18 N
+K,Science,Senses,Intermediate,An object of mass 11 kg accelerates at 6 m/s². What net force acts on it?,66 N,396 N,77 N,55 N,66 N
+K,Science,Senses,Intermediate,An object of mass 9 kg accelerates at 6 m/s². What net force acts on it?,45 N,54 N,63 N,324 N,54 N
+K,Science,Senses,Intermediate,An object travels 188 m in 27 s. What is its average speed?,5076 m/s,13.925925925925926 m/s,6.962962962962963 m/s,3.4814814814814814 m/s,6.962962962962963 m/s
+K,Science,Weather,Intermediate,An object of mass 10 kg accelerates at 9 m/s². What net force acts on it?,810 N,80 N,100 N,90 N,90 N
+K,Science,Weather,Intermediate,An object travels 128 m in 6 s. What is its average speed?,42.666666666666664 m/s,10.666666666666666 m/s,21.333333333333332 m/s,768 m/s,21.333333333333332 m/s
+K,Science,Plants,Intermediate,An object of mass 11 kg accelerates at 7 m/s². What net force acts on it?,77 N,88 N,539 N,66 N,77 N
+K,Science,Weather,Intermediate,An object travels 425 m in 45 s. What is its average speed?,19125 m/s,9.444444444444445 m/s,18.88888888888889 m/s,4.722222222222222 m/s,9.444444444444445 m/s
+K,Science,Animals,Intermediate,An object of mass 6 kg accelerates at 9 m/s². What net force acts on it?,54 N,48 N,60 N,486 N,54 N
+K,Science,Animals,Intermediate,An object of mass 18 kg accelerates at 1 m/s². What net force acts on it?,Option 3,0 N,18 N,36 N,18 N
+K,Science,Animals,Intermediate,An object of mass 8 kg accelerates at 4 m/s². What net force acts on it?,128 N,32 N,24 N,40 N,32 N
+K,Science,Plants,Intermediate,An object of mass 1 kg accelerates at 6 m/s². What net force acts on it?,7 N,36 N,6 N,5 N,6 N
+K,Science,Senses,Intermediate,An object travels 423 m in 18 s. What is its average speed?,23.5 m/s,11.75 m/s,47.0 m/s,7614 m/s,23.5 m/s
+K,Science,Senses,Intermediate,An object of mass 20 kg accelerates at 9 m/s². What net force acts on it?,160 N,200 N,180 N,1620 N,180 N
+K,Science,Weather,Intermediate,An object travels 217 m in 11 s. What is its average speed?,9.863636363636363 m/s,39.45454545454545 m/s,2387 m/s,19.727272727272727 m/s,19.727272727272727 m/s
+K,Science,Animals,Intermediate,An object travels 24 m in 37 s. What is its average speed?,0.32432432432432434 m/s,1.2972972972972974 m/s,0.6486486486486487 m/s,888 m/s,0.6486486486486487 m/s
+K,Science,Plants,Intermediate,An object of mass 7 kg accelerates at 10 m/s². What net force acts on it?,63 N,700 N,77 N,70 N,70 N
+K,Science,Weather,Intermediate,An object travels 372 m in 44 s. What is its average speed?,16368 m/s,8.454545454545455 m/s,4.2272727272727275 m/s,16.90909090909091 m/s,8.454545454545455 m/s
+K,Science,Weather,Intermediate,An object of mass 5 kg accelerates at 4 m/s². What net force acts on it?,80 N,20 N,15 N,25 N,20 N
+K,Science,Senses,Intermediate,An object travels 423 m in 31 s. What is its average speed?,27.29032258064516 m/s,13113 m/s,13.64516129032258 m/s,6.82258064516129 m/s,13.64516129032258 m/s
+K,Science,Plants,Intermediate,An object travels 260 m in 37 s. What is its average speed?,14.054054054054054 m/s,3.5135135135135136 m/s,9620 m/s,7.027027027027027 m/s,7.027027027027027 m/s
+K,Science,Senses,Intermediate,An object of mass 10 kg accelerates at 7 m/s². What net force acts on it?,60 N,490 N,70 N,80 N,70 N
+K,Science,Weather,Intermediate,An object of mass 3 kg accelerates at 3 m/s². What net force acts on it?,6 N,9 N,12 N,27 N,9 N
+K,Science,Weather,Intermediate,An object of mass 16 kg accelerates at 7 m/s². What net force acts on it?,128 N,112 N,96 N,784 N,112 N
+K,Science,Weather,Intermediate,An object of mass 17 kg accelerates at 9 m/s². What net force acts on it?,170 N,136 N,153 N,1377 N,153 N
+K,Science,Animals,Intermediate,An object travels 130 m in 19 s. What is its average speed?,6.842105263157895 m/s,2470 m/s,13.68421052631579 m/s,3.4210526315789473 m/s,6.842105263157895 m/s
+K,Science,Plants,Intermediate,An object travels 388 m in 50 s. What is its average speed?,3.88 m/s,19400 m/s,15.52 m/s,7.76 m/s,7.76 m/s
+K,Science,Plants,Intermediate,An object travels 251 m in 46 s. What is its average speed?,2.7282608695652173 m/s,11546 m/s,5.456521739130435 m/s,10.91304347826087 m/s,5.456521739130435 m/s
+K,Science,Weather,Intermediate,An object of mass 10 kg accelerates at 1 m/s². What net force acts on it?,0 N,20 N,Option 3,10 N,10 N
+K,Science,Weather,Intermediate,An object travels 283 m in 3 s. What is its average speed?,94.33333333333333 m/s,47.166666666666664 m/s,188.66666666666666 m/s,849 m/s,94.33333333333333 m/s
+K,Science,Weather,Intermediate,An object of mass 8 kg accelerates at 10 m/s². What net force acts on it?,80 N,72 N,800 N,88 N,80 N
+K,Science,Weather,Intermediate,An object of mass 5 kg accelerates at 9 m/s². What net force acts on it?,45 N,405 N,40 N,50 N,45 N
+K,Science,Animals,Intermediate,An object of mass 20 kg accelerates at 10 m/s². What net force acts on it?,200 N,180 N,2000 N,220 N,200 N
+K,Science,Plants,Intermediate,An object travels 350 m in 38 s. What is its average speed?,13300 m/s,18.42105263157895 m/s,9.210526315789474 m/s,4.605263157894737 m/s,9.210526315789474 m/s
+K,Science,Weather,Intermediate,An object travels 31 m in 32 s. What is its average speed?,1.9375 m/s,992 m/s,0.484375 m/s,0.96875 m/s,0.96875 m/s
+K,Science,Animals,Intermediate,An object of mass 1 kg accelerates at 8 m/s². What net force acts on it?,7 N,8 N,9 N,64 N,8 N
+K,Science,Weather,Intermediate,An object travels 156 m in 44 s. What is its average speed?,6864 m/s,1.7727272727272727 m/s,7.090909090909091 m/s,3.5454545454545454 m/s,3.5454545454545454 m/s
+K,Science,Senses,Intermediate,An object of mass 17 kg accelerates at 2 m/s². What net force acts on it?,68 N,17 N,34 N,51 N,34 N
+K,Science,Weather,Intermediate,An object travels 256 m in 41 s. What is its average speed?,6.2439024390243905 m/s,3.1219512195121952 m/s,12.487804878048781 m/s,10496 m/s,6.2439024390243905 m/s
+K,Science,Plants,Intermediate,An object travels 118 m in 40 s. What is its average speed?,5.9 m/s,1.475 m/s,2.95 m/s,4720 m/s,2.95 m/s
+K,Science,Senses,Intermediate,An object travels 418 m in 9 s. What is its average speed?,92.88888888888889 m/s,46.44444444444444 m/s,23.22222222222222 m/s,3762 m/s,46.44444444444444 m/s
+K,Science,Animals,Intermediate,An object of mass 15 kg accelerates at 3 m/s². What net force acts on it?,60 N,135 N,30 N,45 N,45 N
+K,Science,Animals,Intermediate,An object of mass 11 kg accelerates at 5 m/s². What net force acts on it?,275 N,66 N,55 N,44 N,55 N
+K,Science,Senses,Intermediate,An object travels 49 m in 3 s. What is its average speed?,32.666666666666664 m/s,8.166666666666666 m/s,16.333333333333332 m/s,147 m/s,16.333333333333332 m/s
+K,Science,Plants,Intermediate,An object travels 225 m in 42 s. What is its average speed?,10.714285714285714 m/s,5.357142857142857 m/s,2.6785714285714284 m/s,9450 m/s,5.357142857142857 m/s
+K,Science,Weather,Intermediate,An object of mass 2 kg accelerates at 5 m/s². What net force acts on it?,10 N,12 N,8 N,50 N,10 N
+K,Science,Animals,Intermediate,An object of mass 17 kg accelerates at 10 m/s². What net force acts on it?,153 N,1700 N,170 N,187 N,170 N
+K,Science,Weather,Intermediate,An object travels 33 m in 12 s. What is its average speed?,396 m/s,2.75 m/s,5.5 m/s,1.375 m/s,2.75 m/s
+K,Science,Senses,Intermediate,An object of mass 14 kg accelerates at 4 m/s². What net force acts on it?,56 N,224 N,70 N,42 N,56 N
+K,Science,Senses,Intermediate,An object of mass 3 kg accelerates at 10 m/s². What net force acts on it?,300 N,27 N,33 N,30 N,30 N
+K,Science,Senses,Intermediate,An object of mass 19 kg accelerates at 10 m/s². What net force acts on it?,209 N,171 N,1900 N,190 N,190 N
+K,Science,Animals,Intermediate,An object of mass 6 kg accelerates at 7 m/s². What net force acts on it?,36 N,48 N,294 N,42 N,42 N
+K,Science,Senses,Intermediate,An object travels 215 m in 45 s. What is its average speed?,9675 m/s,4.777777777777778 m/s,9.555555555555555 m/s,2.388888888888889 m/s,4.777777777777778 m/s
+K,Science,Animals,Intermediate,An object of mass 19 kg accelerates at 6 m/s². What net force acts on it?,133 N,95 N,684 N,114 N,114 N
+K,Science,Plants,Intermediate,An object travels 461 m in 44 s. What is its average speed?,5.238636363636363 m/s,10.477272727272727 m/s,20284 m/s,20.954545454545453 m/s,10.477272727272727 m/s
+K,Science,Animals,Intermediate,An object travels 48 m in 43 s. What is its average speed?,2064 m/s,1.1162790697674418 m/s,0.5581395348837209 m/s,2.2325581395348837 m/s,1.1162790697674418 m/s
+K,Science,Plants,Intermediate,An object travels 10 m in 32 s. What is its average speed?,320 m/s,0.3125 m/s,0.625 m/s,0.15625 m/s,0.3125 m/s
+K,Science,Senses,Intermediate,An object travels 349 m in 7 s. What is its average speed?,24.928571428571427 m/s,2443 m/s,49.857142857142854 m/s,99.71428571428571 m/s,49.857142857142854 m/s
+K,Science,Weather,Intermediate,An object of mass 18 kg accelerates at 9 m/s². What net force acts on it?,162 N,1458 N,180 N,144 N,162 N
+K,Science,Weather,Intermediate,An object travels 171 m in 21 s. What is its average speed?,3591 m/s,4.071428571428571 m/s,8.142857142857142 m/s,16.285714285714285 m/s,8.142857142857142 m/s
+K,Science,Weather,Intermediate,An object travels 352 m in 35 s. What is its average speed?,12320 m/s,20.114285714285714 m/s,5.0285714285714285 m/s,10.057142857142857 m/s,10.057142857142857 m/s
+K,Science,Plants,Intermediate,An object of mass 13 kg accelerates at 7 m/s². What net force acts on it?,637 N,91 N,78 N,104 N,91 N
+K,Science,Weather,Intermediate,An object of mass 7 kg accelerates at 1 m/s². What net force acts on it?,14 N,7 N,Option 3,0 N,7 N
+K,Science,Senses,Intermediate,An object of mass 11 kg accelerates at 10 m/s². What net force acts on it?,1100 N,121 N,99 N,110 N,110 N
+K,Science,Senses,Intermediate,An object of mass 4 kg accelerates at 10 m/s². What net force acts on it?,36 N,400 N,40 N,44 N,40 N
+K,Science,Senses,Intermediate,An object travels 190 m in 21 s. What is its average speed?,18.095238095238095 m/s,3990 m/s,4.523809523809524 m/s,9.047619047619047 m/s,9.047619047619047 m/s
+K,Science,Animals,Intermediate,An object of mass 5 kg accelerates at 3 m/s². What net force acts on it?,15 N,20 N,10 N,45 N,15 N
+K,Science,Weather,Intermediate,An object of mass 19 kg accelerates at 3 m/s². What net force acts on it?,76 N,38 N,57 N,171 N,57 N
+K,Science,Weather,Intermediate,An object travels 167 m in 18 s. What is its average speed?,18.555555555555557 m/s,4.638888888888889 m/s,3006 m/s,9.277777777777779 m/s,9.277777777777779 m/s
+K,Science,Animals,Intermediate,An object travels 196 m in 39 s. What is its average speed?,5.0256410256410255 m/s,2.5128205128205128 m/s,7644 m/s,10.051282051282051 m/s,5.0256410256410255 m/s
+K,Science,Plants,Intermediate,An object travels 77 m in 9 s. What is its average speed?,693 m/s,8.555555555555555 m/s,4.277777777777778 m/s,17.11111111111111 m/s,8.555555555555555 m/s
+K,Science,Plants,Intermediate,An object travels 439 m in 20 s. What is its average speed?,43.9 m/s,21.95 m/s,8780 m/s,10.975 m/s,21.95 m/s
+K,Science,Senses,Intermediate,An object travels 307 m in 2 s. What is its average speed?,153.5 m/s,76.75 m/s,614 m/s,307.0 m/s,153.5 m/s
+K,Science,Senses,Intermediate,An object of mass 20 kg accelerates at 4 m/s². What net force acts on it?,60 N,80 N,100 N,320 N,80 N
+K,Science,Plants,Intermediate,An object of mass 1 kg accelerates at 1 m/s². What net force acts on it?,0 N,Option 3,1 N,2 N,1 N
+K,Science,Plants,Intermediate,An object travels 66 m in 36 s. What is its average speed?,0.9166666666666666 m/s,2376 m/s,3.6666666666666665 m/s,1.8333333333333333 m/s,1.8333333333333333 m/s
+K,Science,Plants,Intermediate,An object travels 492 m in 17 s. What is its average speed?,8364 m/s,14.470588235294118 m/s,57.88235294117647 m/s,28.941176470588236 m/s,28.941176470588236 m/s
+K,Science,Animals,Intermediate,An object travels 416 m in 44 s. What is its average speed?,4.7272727272727275 m/s,18304 m/s,18.90909090909091 m/s,9.454545454545455 m/s,9.454545454545455 m/s
+K,Science,Plants,Intermediate,An object travels 477 m in 23 s. What is its average speed?,10971 m/s,41.47826086956522 m/s,10.369565217391305 m/s,20.73913043478261 m/s,20.73913043478261 m/s
+K,Science,Plants,Intermediate,An object of mass 17 kg accelerates at 4 m/s². What net force acts on it?,68 N,85 N,51 N,272 N,68 N
+K,Science,Senses,Intermediate,An object travels 233 m in 33 s. What is its average speed?,14.121212121212121 m/s,3.5303030303030303 m/s,7689 m/s,7.0606060606060606 m/s,7.0606060606060606 m/s
+K,Science,Animals,Intermediate,An object of mass 20 kg accelerates at 8 m/s². What net force acts on it?,140 N,1280 N,180 N,160 N,160 N
+K,Science,Senses,Intermediate,An object of mass 10 kg accelerates at 5 m/s². What net force acts on it?,50 N,250 N,60 N,40 N,50 N
+K,Science,Plants,Intermediate,An object travels 204 m in 43 s. What is its average speed?,2.372093023255814 m/s,4.744186046511628 m/s,9.488372093023257 m/s,8772 m/s,4.744186046511628 m/s
+K,Science,Weather,Intermediate,An object travels 198 m in 9 s. What is its average speed?,44.0 m/s,11.0 m/s,1782 m/s,22.0 m/s,22.0 m/s
+K,Science,Weather,Intermediate,An object of mass 6 kg accelerates at 3 m/s². What net force acts on it?,18 N,24 N,12 N,54 N,18 N
+K,Science,Plants,Intermediate,An object travels 455 m in 38 s. What is its average speed?,5.9868421052631575 m/s,11.973684210526315 m/s,23.94736842105263 m/s,17290 m/s,11.973684210526315 m/s
+K,Science,Animals,Intermediate,An object travels 245 m in 5 s. What is its average speed?,1225 m/s,24.5 m/s,49.0 m/s,98.0 m/s,49.0 m/s
+K,Science,Senses,Intermediate,An object travels 144 m in 4 s. What is its average speed?,36.0 m/s,72.0 m/s,576 m/s,18.0 m/s,36.0 m/s
+K,Science,Animals,Intermediate,An object of mass 20 kg accelerates at 2 m/s². What net force acts on it?,20 N,40 N,60 N,80 N,40 N
+K,Science,Senses,Intermediate,An object travels 322 m in 43 s. What is its average speed?,7.488372093023256 m/s,3.744186046511628 m/s,13846 m/s,14.976744186046512 m/s,7.488372093023256 m/s
+K,Science,Plants,Intermediate,An object of mass 15 kg accelerates at 1 m/s². What net force acts on it?,15 N,Option 3,30 N,0 N,15 N
+K,Science,Senses,Intermediate,An object travels 217 m in 47 s. What is its average speed?,9.23404255319149 m/s,10199 m/s,2.3085106382978724 m/s,4.617021276595745 m/s,4.617021276595745 m/s
+K,Science,Senses,Intermediate,An object of mass 7 kg accelerates at 9 m/s². What net force acts on it?,63 N,56 N,70 N,567 N,63 N
+K,Science,Animals,Intermediate,An object of mass 19 kg accelerates at 9 m/s². What net force acts on it?,171 N,1539 N,190 N,152 N,171 N
+K,Science,Plants,Intermediate,An object of mass 17 kg accelerates at 1 m/s². What net force acts on it?,17 N,Option 3,34 N,0 N,17 N
+K,Science,Senses,Intermediate,An object travels 453 m in 19 s. What is its average speed?,47.68421052631579 m/s,8607 m/s,23.842105263157894 m/s,11.921052631578947 m/s,23.842105263157894 m/s
+K,Science,Weather,Intermediate,An object travels 188 m in 40 s. What is its average speed?,4.7 m/s,7520 m/s,2.35 m/s,9.4 m/s,4.7 m/s
+K,Science,Senses,Intermediate,An object travels 384 m in 34 s. What is its average speed?,13056 m/s,11.294117647058824 m/s,22.58823529411765 m/s,5.647058823529412 m/s,11.294117647058824 m/s
+K,Science,Senses,Intermediate,An object of mass 16 kg accelerates at 2 m/s². What net force acts on it?,48 N,64 N,32 N,16 N,32 N
+K,Science,Senses,Intermediate,An object travels 495 m in 46 s. What is its average speed?,10.76086956521739 m/s,22770 m/s,21.52173913043478 m/s,5.380434782608695 m/s,10.76086956521739 m/s
+K,Science,Animals,Intermediate,An object of mass 2 kg accelerates at 7 m/s². What net force acts on it?,98 N,14 N,12 N,16 N,14 N
+K,Science,Senses,Intermediate,An object travels 283 m in 41 s. What is its average speed?,11603 m/s,3.451219512195122 m/s,6.902439024390244 m/s,13.804878048780488 m/s,6.902439024390244 m/s
+K,Science,Weather,Intermediate,An object of mass 4 kg accelerates at 7 m/s². What net force acts on it?,28 N,24 N,196 N,32 N,28 N
+K,Science,Animals,Intermediate,An object of mass 16 kg accelerates at 5 m/s². What net force acts on it?,80 N,96 N,400 N,64 N,80 N
+K,Science,Plants,Intermediate,An object of mass 12 kg accelerates at 8 m/s². What net force acts on it?,96 N,84 N,768 N,108 N,96 N
+K,Science,Plants,Intermediate,An object of mass 6 kg accelerates at 5 m/s². What net force acts on it?,150 N,36 N,30 N,24 N,30 N
+K,Science,Plants,Intermediate,An object of mass 4 kg accelerates at 9 m/s². What net force acts on it?,36 N,32 N,324 N,40 N,36 N
+K,Science,Weather,Intermediate,An object of mass 14 kg accelerates at 2 m/s². What net force acts on it?,42 N,28 N,14 N,56 N,28 N
+K,Science,Plants,Intermediate,An object of mass 15 kg accelerates at 8 m/s². What net force acts on it?,960 N,105 N,120 N,135 N,120 N
+K,Science,Plants,Intermediate,An object travels 360 m in 50 s. What is its average speed?,3.6 m/s,14.4 m/s,7.2 m/s,18000 m/s,7.2 m/s
+K,Science,Plants,Intermediate,An object travels 317 m in 13 s. What is its average speed?,48.76923076923077 m/s,4121 m/s,24.384615384615383 m/s,12.192307692307692 m/s,24.384615384615383 m/s
+K,Science,Plants,Intermediate,An object travels 281 m in 42 s. What is its average speed?,6.690476190476191 m/s,11802 m/s,13.380952380952381 m/s,3.3452380952380953 m/s,6.690476190476191 m/s
+K,Science,Plants,Intermediate,An object travels 218 m in 2 s. What is its average speed?,109.0 m/s,54.5 m/s,436 m/s,218.0 m/s,109.0 m/s
+K,Science,Plants,Intermediate,An object travels 281 m in 38 s. What is its average speed?,14.789473684210526 m/s,7.394736842105263 m/s,10678 m/s,3.6973684210526314 m/s,7.394736842105263 m/s
+K,Science,Plants,Intermediate,An object of mass 15 kg accelerates at 6 m/s². What net force acts on it?,75 N,540 N,90 N,105 N,90 N
+K,Science,Plants,Intermediate,An object travels 71 m in 30 s. What is its average speed?,2.3666666666666667 m/s,2130 m/s,1.1833333333333333 m/s,4.733333333333333 m/s,2.3666666666666667 m/s
+K,Science,Senses,Intermediate,An object of mass 15 kg accelerates at 10 m/s². What net force acts on it?,165 N,150 N,135 N,1500 N,150 N
+K,Science,Weather,Intermediate,An object of mass 7 kg accelerates at 4 m/s². What net force acts on it?,21 N,112 N,35 N,28 N,28 N
+K,Science,Plants,Intermediate,An object of mass 15 kg accelerates at 7 m/s². What net force acts on it?,735 N,90 N,120 N,105 N,105 N
+K,Science,Animals,Intermediate,An object of mass 11 kg accelerates at 3 m/s². What net force acts on it?,99 N,33 N,44 N,22 N,33 N
+K,Science,Animals,Intermediate,An object travels 318 m in 31 s. What is its average speed?,5.129032258064516 m/s,9858 m/s,20.516129032258064 m/s,10.258064516129032 m/s,10.258064516129032 m/s
+K,Science,Senses,Intermediate,An object travels 268 m in 11 s. What is its average speed?,2948 m/s,48.72727272727273 m/s,24.363636363636363 m/s,12.181818181818182 m/s,24.363636363636363 m/s
+K,Science,Plants,Intermediate,An object travels 94 m in 23 s. What is its average speed?,8.173913043478262 m/s,4.086956521739131 m/s,2162 m/s,2.0434782608695654 m/s,4.086956521739131 m/s
+K,Science,Plants,Intermediate,An object travels 94 m in 16 s. What is its average speed?,1504 m/s,2.9375 m/s,5.875 m/s,11.75 m/s,5.875 m/s
+K,Science,Senses,Intermediate,An object travels 23 m in 44 s. What is its average speed?,1.0454545454545454 m/s,0.26136363636363635 m/s,1012 m/s,0.5227272727272727 m/s,0.5227272727272727 m/s
+K,Science,Plants,Intermediate,An object of mass 8 kg accelerates at 3 m/s². What net force acts on it?,72 N,24 N,16 N,32 N,24 N
+K,Science,Animals,Intermediate,An object of mass 19 kg accelerates at 7 m/s². What net force acts on it?,152 N,114 N,133 N,931 N,133 N
+K,Science,Animals,Intermediate,An object travels 118 m in 49 s. What is its average speed?,2.4081632653061225 m/s,1.2040816326530612 m/s,4.816326530612245 m/s,5782 m/s,2.4081632653061225 m/s
+K,Science,Weather,Intermediate,An object of mass 12 kg accelerates at 9 m/s². What net force acts on it?,972 N,120 N,108 N,96 N,108 N
+K,Science,Senses,Intermediate,An object of mass 20 kg accelerates at 3 m/s². What net force acts on it?,60 N,80 N,40 N,180 N,60 N
+K,Science,Plants,Intermediate,An object travels 109 m in 17 s. What is its average speed?,1853 m/s,3.2058823529411766 m/s,12.823529411764707 m/s,6.411764705882353 m/s,6.411764705882353 m/s
+K,Science,Weather,Intermediate,An object travels 24 m in 10 s. What is its average speed?,2.4 m/s,240 m/s,4.8 m/s,1.2 m/s,2.4 m/s
+K,Science,Weather,Intermediate,An object travels 403 m in 48 s. What is its average speed?,16.791666666666668 m/s,8.395833333333334 m/s,4.197916666666667 m/s,19344 m/s,8.395833333333334 m/s
+K,Science,Plants,Intermediate,An object travels 394 m in 48 s. What is its average speed?,18912 m/s,4.104166666666667 m/s,8.208333333333334 m/s,16.416666666666668 m/s,8.208333333333334 m/s
+K,Science,Senses,Intermediate,An object travels 29 m in 47 s. What is its average speed?,0.6170212765957447 m/s,0.30851063829787234 m/s,1.2340425531914894 m/s,1363 m/s,0.6170212765957447 m/s
+K,Science,Plants,Intermediate,An object travels 309 m in 13 s. What is its average speed?,23.76923076923077 m/s,11.884615384615385 m/s,4017 m/s,47.53846153846154 m/s,23.76923076923077 m/s
+K,Science,Senses,Intermediate,An object travels 317 m in 19 s. What is its average speed?,33.36842105263158 m/s,16.68421052631579 m/s,8.342105263157896 m/s,6023 m/s,16.68421052631579 m/s
+K,Science,Weather,Intermediate,An object of mass 2 kg accelerates at 1 m/s². What net force acts on it?,Option 3,2 N,4 N,0 N,2 N
+K,Science,Senses,Intermediate,An object travels 209 m in 20 s. What is its average speed?,4180 m/s,10.45 m/s,5.225 m/s,20.9 m/s,10.45 m/s
+K,Science,Animals,Intermediate,An object of mass 10 kg accelerates at 4 m/s². What net force acts on it?,30 N,50 N,160 N,40 N,40 N
+K,Science,Animals,Intermediate,An object of mass 3 kg accelerates at 5 m/s². What net force acts on it?,12 N,18 N,75 N,15 N,15 N
+K,Science,Weather,Intermediate,An object travels 166 m in 33 s. What is its average speed?,5.03030303030303 m/s,5478 m/s,2.515151515151515 m/s,10.06060606060606 m/s,5.03030303030303 m/s
+K,Science,Plants,Intermediate,An object travels 29 m in 45 s. What is its average speed?,0.6444444444444445 m/s,0.32222222222222224 m/s,1.288888888888889 m/s,1305 m/s,0.6444444444444445 m/s
+K,Science,Weather,Intermediate,An object of mass 12 kg accelerates at 7 m/s². What net force acts on it?,72 N,84 N,588 N,96 N,84 N
+K,Science,Animals,Intermediate,An object of mass 7 kg accelerates at 6 m/s². What net force acts on it?,35 N,49 N,252 N,42 N,42 N
+K,Science,Animals,Intermediate,An object travels 499 m in 50 s. What is its average speed?,24950 m/s,19.96 m/s,9.98 m/s,4.99 m/s,9.98 m/s
+K,Science,Plants,Intermediate,An object of mass 7 kg accelerates at 3 m/s². What net force acts on it?,28 N,14 N,21 N,63 N,21 N
+K,Science,Animals,Intermediate,An object of mass 10 kg accelerates at 2 m/s². What net force acts on it?,40 N,10 N,20 N,30 N,20 N
+K,Science,Plants,Intermediate,An object travels 158 m in 13 s. What is its average speed?,12.153846153846153 m/s,2054 m/s,6.076923076923077 m/s,24.307692307692307 m/s,12.153846153846153 m/s
+K,Science,Senses,Intermediate,An object travels 17 m in 15 s. What is its average speed?,0.5666666666666667 m/s,2.2666666666666666 m/s,1.1333333333333333 m/s,255 m/s,1.1333333333333333 m/s
+K,Science,Senses,Intermediate,An object travels 275 m in 22 s. What is its average speed?,12.5 m/s,6050 m/s,25.0 m/s,6.25 m/s,12.5 m/s
+K,Science,Animals,Intermediate,An object travels 206 m in 16 s. What is its average speed?,3296 m/s,25.75 m/s,12.875 m/s,6.4375 m/s,12.875 m/s
+K,Science,Weather,Intermediate,An object travels 171 m in 44 s. What is its average speed?,1.9431818181818181 m/s,7.7727272727272725 m/s,3.8863636363636362 m/s,7524 m/s,3.8863636363636362 m/s
+K,Science,Plants,Intermediate,An object of mass 3 kg accelerates at 2 m/s². What net force acts on it?,9 N,6 N,12 N,3 N,6 N
+K,Science,Animals,Intermediate,An object travels 126 m in 6 s. What is its average speed?,10.5 m/s,756 m/s,21.0 m/s,42.0 m/s,21.0 m/s
+K,Science,Senses,Intermediate,An object travels 27 m in 24 s. What is its average speed?,648 m/s,1.125 m/s,0.5625 m/s,2.25 m/s,1.125 m/s
+K,Science,Senses,Intermediate,An object travels 318 m in 3 s. What is its average speed?,106.0 m/s,212.0 m/s,954 m/s,53.0 m/s,106.0 m/s
+K,Science,Plants,Intermediate,An object of mass 4 kg accelerates at 5 m/s². What net force acts on it?,100 N,24 N,20 N,16 N,20 N
+K,Science,Weather,Intermediate,An object travels 22 m in 41 s. What is its average speed?,1.0731707317073171 m/s,902 m/s,0.2682926829268293 m/s,0.5365853658536586 m/s,0.5365853658536586 m/s
+K,Science,Weather,Intermediate,An object of mass 7 kg accelerates at 5 m/s². What net force acts on it?,28 N,35 N,42 N,175 N,35 N
+K,Science,Senses,Intermediate,An object travels 25 m in 50 s. What is its average speed?,1250 m/s,0.25 m/s,1.0 m/s,0.5 m/s,0.5 m/s
+K,Science,Plants,Intermediate,An object of mass 8 kg accelerates at 8 m/s². What net force acts on it?,72 N,56 N,512 N,64 N,64 N
+K,Science,Animals,Intermediate,An object travels 256 m in 33 s. What is its average speed?,8448 m/s,7.757575757575758 m/s,3.878787878787879 m/s,15.515151515151516 m/s,7.757575757575758 m/s
+K,Science,Senses,Intermediate,An object travels 42 m in 35 s. What is its average speed?,0.6 m/s,2.4 m/s,1470 m/s,1.2 m/s,1.2 m/s
+K,Science,Weather,Intermediate,An object of mass 3 kg accelerates at 7 m/s². What net force acts on it?,147 N,24 N,18 N,21 N,21 N
+K,Science,Plants,Intermediate,An object travels 221 m in 29 s. What is its average speed?,7.620689655172414 m/s,3.810344827586207 m/s,15.241379310344827 m/s,6409 m/s,7.620689655172414 m/s
+K,Science,Senses,Intermediate,An object of mass 7 kg accelerates at 8 m/s². What net force acts on it?,49 N,63 N,56 N,448 N,56 N
+K,Science,Weather,Intermediate,An object travels 284 m in 43 s. What is its average speed?,13.209302325581396 m/s,6.604651162790698 m/s,3.302325581395349 m/s,12212 m/s,6.604651162790698 m/s
+K,Science,Weather,Intermediate,An object travels 465 m in 17 s. What is its average speed?,7905 m/s,13.676470588235293 m/s,27.352941176470587 m/s,54.705882352941174 m/s,27.352941176470587 m/s
+K,Science,Animals,Intermediate,An object travels 491 m in 22 s. What is its average speed?,44.63636363636363 m/s,11.159090909090908 m/s,10802 m/s,22.318181818181817 m/s,22.318181818181817 m/s
+K,Science,Animals,Intermediate,An object travels 10 m in 7 s. What is its average speed?,70 m/s,0.7142857142857143 m/s,2.857142857142857 m/s,1.4285714285714286 m/s,1.4285714285714286 m/s
+K,Science,Plants,Intermediate,An object of mass 17 kg accelerates at 7 m/s². What net force acts on it?,136 N,833 N,119 N,102 N,119 N
+K,Science,Animals,Intermediate,An object of mass 9 kg accelerates at 1 m/s². What net force acts on it?,9 N,18 N,Option 3,0 N,9 N
+K,Science,Senses,Intermediate,An object of mass 16 kg accelerates at 3 m/s². What net force acts on it?,144 N,32 N,64 N,48 N,48 N
+K,Science,Plants,Intermediate,An object of mass 13 kg accelerates at 10 m/s². What net force acts on it?,1300 N,117 N,130 N,143 N,130 N
+K,Science,Plants,Intermediate,An object travels 264 m in 32 s. What is its average speed?,4.125 m/s,8.25 m/s,8448 m/s,16.5 m/s,8.25 m/s
+K,Science,Weather,Intermediate,An object travels 111 m in 22 s. What is its average speed?,10.090909090909092 m/s,2.522727272727273 m/s,2442 m/s,5.045454545454546 m/s,5.045454545454546 m/s
+K,Science,Senses,Intermediate,An object travels 409 m in 4 s. What is its average speed?,51.125 m/s,1636 m/s,204.5 m/s,102.25 m/s,102.25 m/s
+K,Science,Animals,Intermediate,An object of mass 19 kg accelerates at 4 m/s². What net force acts on it?,304 N,95 N,76 N,57 N,76 N
+K,Science,Weather,Intermediate,An object travels 120 m in 24 s. What is its average speed?,2.5 m/s,2880 m/s,5.0 m/s,10.0 m/s,5.0 m/s
+K,Science,Weather,Intermediate,An object of mass 16 kg accelerates at 1 m/s². What net force acts on it?,16 N,0 N,Option 3,32 N,16 N
+K,Science,Weather,Intermediate,An object of mass 16 kg accelerates at 10 m/s². What net force acts on it?,160 N,144 N,176 N,1600 N,160 N
+K,Science,Animals,Intermediate,An object travels 171 m in 17 s. What is its average speed?,20.11764705882353 m/s,5.029411764705882 m/s,10.058823529411764 m/s,2907 m/s,10.058823529411764 m/s
+K,Science,Senses,Intermediate,An object travels 403 m in 6 s. What is its average speed?,33.583333333333336 m/s,2418 m/s,67.16666666666667 m/s,134.33333333333334 m/s,67.16666666666667 m/s
+K,Science,Plants,Intermediate,An object of mass 15 kg accelerates at 4 m/s². What net force acts on it?,240 N,45 N,75 N,60 N,60 N
+K,Science,Weather,Intermediate,An object of mass 20 kg accelerates at 5 m/s². What net force acts on it?,80 N,120 N,500 N,100 N,100 N
+K,Science,Plants,Intermediate,An object travels 276 m in 40 s. What is its average speed?,11040 m/s,13.8 m/s,3.45 m/s,6.9 m/s,6.9 m/s
+K,Science,Weather,Intermediate,An object travels 439 m in 5 s. What is its average speed?,2195 m/s,175.6 m/s,87.8 m/s,43.9 m/s,87.8 m/s
+K,Science,Senses,Intermediate,An object of mass 19 kg accelerates at 8 m/s². What net force acts on it?,152 N,171 N,133 N,1216 N,152 N
+K,Science,Weather,Intermediate,An object travels 497 m in 13 s. What is its average speed?,38.23076923076923 m/s,19.115384615384617 m/s,6461 m/s,76.46153846153847 m/s,38.23076923076923 m/s
+K,Science,Plants,Intermediate,An object travels 321 m in 11 s. What is its average speed?,29.181818181818183 m/s,3531 m/s,58.36363636363637 m/s,14.590909090909092 m/s,29.181818181818183 m/s
+K,Science,Animals,Intermediate,An object of mass 4 kg accelerates at 4 m/s². What net force acts on it?,12 N,64 N,16 N,20 N,16 N
+K,Science,Animals,Intermediate,An object of mass 6 kg accelerates at 4 m/s². What net force acts on it?,96 N,18 N,24 N,30 N,24 N
+K,Science,Animals,Intermediate,An object travels 270 m in 19 s. What is its average speed?,28.42105263157895 m/s,5130 m/s,7.105263157894737 m/s,14.210526315789474 m/s,14.210526315789474 m/s
+K,Science,Senses,Intermediate,An object travels 22 m in 43 s. What is its average speed?,1.0232558139534884 m/s,946 m/s,0.2558139534883721 m/s,0.5116279069767442 m/s,0.5116279069767442 m/s
+K,Science,Plants,Intermediate,An object travels 72 m in 1 s. What is its average speed?,72 m/s,144.0 m/s,36.0 m/s,72.0 m/s,72.0 m/s
+K,Science,Weather,Intermediate,An object of mass 19 kg accelerates at 1 m/s². What net force acts on it?,38 N,19 N,0 N,Option 3,19 N
+K,Science,Plants,Intermediate,An object travels 228 m in 39 s. What is its average speed?,2.923076923076923 m/s,11.692307692307692 m/s,8892 m/s,5.846153846153846 m/s,5.846153846153846 m/s
+K,Science,Weather,Intermediate,An object travels 279 m in 46 s. What is its average speed?,12.130434782608695 m/s,3.032608695652174 m/s,6.065217391304348 m/s,12834 m/s,6.065217391304348 m/s
+K,Science,Animals,Intermediate,An object of mass 20 kg accelerates at 7 m/s². What net force acts on it?,160 N,120 N,980 N,140 N,140 N
+K,Science,Senses,Intermediate,An object travels 401 m in 27 s. What is its average speed?,7.425925925925926 m/s,14.851851851851851 m/s,10827 m/s,29.703703703703702 m/s,14.851851851851851 m/s
+K,Science,Senses,Intermediate,An object travels 206 m in 35 s. What is its average speed?,5.885714285714286 m/s,7210 m/s,2.942857142857143 m/s,11.771428571428572 m/s,5.885714285714286 m/s
+K,Science,Plants,Intermediate,An object travels 303 m in 31 s. What is its average speed?,9393 m/s,19.548387096774192 m/s,9.774193548387096 m/s,4.887096774193548 m/s,9.774193548387096 m/s
+K,Science,Animals,Intermediate,An object travels 308 m in 49 s. What is its average speed?,6.285714285714286 m/s,12.571428571428571 m/s,3.142857142857143 m/s,15092 m/s,6.285714285714286 m/s
+K,Science,Senses,Intermediate,An object travels 21 m in 25 s. What is its average speed?,1.68 m/s,0.42 m/s,0.84 m/s,525 m/s,0.84 m/s
+K,Science,Senses,Intermediate,An object travels 227 m in 43 s. What is its average speed?,5.27906976744186 m/s,10.55813953488372 m/s,9761 m/s,2.63953488372093 m/s,5.27906976744186 m/s
+K,Science,Animals,Intermediate,An object of mass 20 kg accelerates at 1 m/s². What net force acts on it?,0 N,Option 3,20 N,40 N,20 N
+K,Science,Weather,Intermediate,An object of mass 14 kg accelerates at 5 m/s². What net force acts on it?,70 N,84 N,350 N,56 N,70 N
+K,Science,Plants,Intermediate,An object travels 280 m in 39 s. What is its average speed?,3.58974358974359 m/s,14.35897435897436 m/s,7.17948717948718 m/s,10920 m/s,7.17948717948718 m/s
+K,Science,Plants,Intermediate,An object travels 468 m in 40 s. What is its average speed?,11.7 m/s,23.4 m/s,5.85 m/s,18720 m/s,11.7 m/s
+K,Science,Senses,Intermediate,An object of mass 18 kg accelerates at 7 m/s². What net force acts on it?,144 N,108 N,126 N,882 N,126 N
+K,Science,Plants,Intermediate,An object travels 114 m in 28 s. What is its average speed?,4.071428571428571 m/s,3192 m/s,8.142857142857142 m/s,2.0357142857142856 m/s,4.071428571428571 m/s
+K,Science,Senses,Intermediate,An object travels 420 m in 49 s. What is its average speed?,20580 m/s,4.285714285714286 m/s,17.142857142857142 m/s,8.571428571428571 m/s,8.571428571428571 m/s
+K,Science,Plants,Intermediate,An object travels 204 m in 2 s. What is its average speed?,408 m/s,51.0 m/s,204.0 m/s,102.0 m/s,102.0 m/s
+K,Science,Senses,Intermediate,An object travels 243 m in 39 s. What is its average speed?,3.1153846153846154 m/s,12.461538461538462 m/s,6.230769230769231 m/s,9477 m/s,6.230769230769231 m/s
+K,Science,Senses,Intermediate,An object of mass 6 kg accelerates at 6 m/s². What net force acts on it?,216 N,42 N,36 N,30 N,36 N
+K,Science,Senses,Intermediate,An object of mass 18 kg accelerates at 10 m/s². What net force acts on it?,1800 N,162 N,180 N,198 N,180 N
+K,Science,Senses,Intermediate,An object travels 211 m in 35 s. What is its average speed?,3.0142857142857142 m/s,12.057142857142857 m/s,6.0285714285714285 m/s,7385 m/s,6.0285714285714285 m/s
+K,Science,Animals,Intermediate,An object travels 78 m in 47 s. What is its average speed?,0.8297872340425532 m/s,3.3191489361702127 m/s,3666 m/s,1.6595744680851063 m/s,1.6595744680851063 m/s
+K,Science,Weather,Intermediate,An object of mass 12 kg accelerates at 2 m/s². What net force acts on it?,12 N,48 N,24 N,36 N,24 N
+K,Science,Weather,Intermediate,An object travels 287 m in 13 s. What is its average speed?,22.076923076923077 m/s,3731 m/s,44.15384615384615 m/s,11.038461538461538 m/s,22.076923076923077 m/s
+K,Science,Senses,Intermediate,An object travels 427 m in 27 s. What is its average speed?,31.62962962962963 m/s,11529 m/s,7.907407407407407 m/s,15.814814814814815 m/s,15.814814814814815 m/s
+K,Science,Senses,Intermediate,An object travels 67 m in 12 s. What is its average speed?,5.583333333333333 m/s,11.166666666666666 m/s,804 m/s,2.7916666666666665 m/s,5.583333333333333 m/s
+K,Science,Weather,Intermediate,An object of mass 5 kg accelerates at 1 m/s². What net force acts on it?,Option 3,10 N,5 N,0 N,5 N
+K,Science,Animals,Intermediate,An object travels 469 m in 21 s. What is its average speed?,11.166666666666666 m/s,9849 m/s,44.666666666666664 m/s,22.333333333333332 m/s,22.333333333333332 m/s
+K,Science,Weather,Intermediate,An object travels 176 m in 48 s. What is its average speed?,3.6666666666666665 m/s,8448 m/s,1.8333333333333333 m/s,7.333333333333333 m/s,3.6666666666666665 m/s
+K,Science,Senses,Intermediate,An object travels 383 m in 34 s. What is its average speed?,22.529411764705884 m/s,11.264705882352942 m/s,13022 m/s,5.632352941176471 m/s,11.264705882352942 m/s
+K,Science,Senses,Intermediate,An object travels 465 m in 48 s. What is its average speed?,22320 m/s,9.6875 m/s,19.375 m/s,4.84375 m/s,9.6875 m/s
+K,Science,Senses,Intermediate,An object travels 157 m in 11 s. What is its average speed?,28.545454545454547 m/s,1727 m/s,14.272727272727273 m/s,7.136363636363637 m/s,14.272727272727273 m/s
+K,Science,Weather,Intermediate,An object travels 406 m in 35 s. What is its average speed?,5.8 m/s,23.2 m/s,11.6 m/s,14210 m/s,11.6 m/s
+K,Science,Senses,Intermediate,An object travels 476 m in 35 s. What is its average speed?,27.2 m/s,6.8 m/s,13.6 m/s,16660 m/s,13.6 m/s
+K,Science,Weather,Intermediate,An object travels 189 m in 41 s. What is its average speed?,2.3048780487804876 m/s,9.21951219512195 m/s,4.609756097560975 m/s,7749 m/s,4.609756097560975 m/s
+K,Science,Weather,Intermediate,An object of mass 19 kg accelerates at 5 m/s². What net force acts on it?,475 N,95 N,114 N,76 N,95 N
+K,Science,Animals,Intermediate,An object travels 67 m in 22 s. What is its average speed?,6.090909090909091 m/s,1474 m/s,1.5227272727272727 m/s,3.0454545454545454 m/s,3.0454545454545454 m/s
+K,Science,Senses,Intermediate,An object travels 34 m in 35 s. What is its average speed?,0.4857142857142857 m/s,1190 m/s,0.9714285714285714 m/s,1.9428571428571428 m/s,0.9714285714285714 m/s
+K,Science,Plants,Intermediate,An object of mass 13 kg accelerates at 8 m/s². What net force acts on it?,91 N,117 N,832 N,104 N,104 N
+K,Science,Animals,Intermediate,An object travels 319 m in 3 s. What is its average speed?,106.33333333333333 m/s,957 m/s,212.66666666666666 m/s,53.166666666666664 m/s,106.33333333333333 m/s
+K,Science,Weather,Intermediate,An object travels 125 m in 4 s. What is its average speed?,62.5 m/s,31.25 m/s,15.625 m/s,500 m/s,31.25 m/s
+K,Science,Animals,Intermediate,An object of mass 9 kg accelerates at 5 m/s². What net force acts on it?,54 N,225 N,36 N,45 N,45 N
+K,Science,Animals,Intermediate,An object of mass 17 kg accelerates at 6 m/s². What net force acts on it?,85 N,612 N,119 N,102 N,102 N
+K,Science,Weather,Intermediate,An object travels 68 m in 38 s. What is its average speed?,0.8947368421052632 m/s,1.7894736842105263 m/s,2584 m/s,3.5789473684210527 m/s,1.7894736842105263 m/s
+K,Science,Plants,Intermediate,An object travels 322 m in 29 s. What is its average speed?,22.20689655172414 m/s,5.551724137931035 m/s,9338 m/s,11.10344827586207 m/s,11.10344827586207 m/s
+K,Science,Plants,Intermediate,An object travels 429 m in 36 s. What is its average speed?,23.833333333333332 m/s,5.958333333333333 m/s,15444 m/s,11.916666666666666 m/s,11.916666666666666 m/s
+K,Science,Weather,Intermediate,An object travels 393 m in 41 s. What is its average speed?,16113 m/s,9.585365853658537 m/s,4.7926829268292686 m/s,19.170731707317074 m/s,9.585365853658537 m/s
+K,Science,Weather,Intermediate,An object travels 119 m in 20 s. What is its average speed?,11.9 m/s,2380 m/s,5.95 m/s,2.975 m/s,5.95 m/s
+K,Science,Senses,Intermediate,An object of mass 8 kg accelerates at 7 m/s². What net force acts on it?,392 N,64 N,48 N,56 N,56 N
+K,Science,Senses,Intermediate,An object travels 48 m in 41 s. What is its average speed?,2.341463414634146 m/s,1.170731707317073 m/s,1968 m/s,0.5853658536585366 m/s,1.170731707317073 m/s
+K,Science,Weather,Intermediate,An object travels 329 m in 50 s. What is its average speed?,3.29 m/s,13.16 m/s,6.58 m/s,16450 m/s,6.58 m/s
+K,Science,Plants,Intermediate,An object of mass 10 kg accelerates at 6 m/s². What net force acts on it?,70 N,360 N,50 N,60 N,60 N
+K,Science,Weather,Intermediate,An object travels 411 m in 30 s. What is its average speed?,12330 m/s,27.4 m/s,6.85 m/s,13.7 m/s,13.7 m/s
+K,Science,Plants,Intermediate,An object travels 323 m in 34 s. What is its average speed?,9.5 m/s,4.75 m/s,10982 m/s,19.0 m/s,9.5 m/s
+K,Science,Senses,Intermediate,An object travels 151 m in 35 s. What is its average speed?,4.314285714285714 m/s,5285 m/s,8.628571428571428 m/s,2.157142857142857 m/s,4.314285714285714 m/s
+K,Science,Animals,Intermediate,An object travels 145 m in 10 s. What is its average speed?,7.25 m/s,14.5 m/s,1450 m/s,29.0 m/s,14.5 m/s
+K,Science,Plants,Intermediate,An object travels 157 m in 38 s. What is its average speed?,5966 m/s,4.131578947368421 m/s,8.263157894736842 m/s,2.0657894736842106 m/s,4.131578947368421 m/s
+K,Science,Senses,Intermediate,An object of mass 2 kg accelerates at 9 m/s². What net force acts on it?,162 N,16 N,18 N,20 N,18 N
+K,Science,Animals,Intermediate,An object travels 216 m in 29 s. What is its average speed?,3.7241379310344827 m/s,14.89655172413793 m/s,7.448275862068965 m/s,6264 m/s,7.448275862068965 m/s
+K,Science,Weather,Intermediate,An object travels 47 m in 33 s. What is its average speed?,1551 m/s,0.7121212121212122 m/s,2.8484848484848486 m/s,1.4242424242424243 m/s,1.4242424242424243 m/s
+K,Science,Weather,Intermediate,An object of mass 14 kg accelerates at 7 m/s². What net force acts on it?,686 N,112 N,84 N,98 N,98 N
+K,Science,Weather,Intermediate,An object travels 12 m in 44 s. What is its average speed?,0.13636363636363635 m/s,0.2727272727272727 m/s,528 m/s,0.5454545454545454 m/s,0.2727272727272727 m/s
+K,Science,Animals,Intermediate,An object travels 244 m in 33 s. What is its average speed?,3.696969696969697 m/s,8052 m/s,7.393939393939394 m/s,14.787878787878787 m/s,7.393939393939394 m/s
+K,Science,Weather,Intermediate,An object travels 212 m in 48 s. What is its average speed?,10176 m/s,8.833333333333334 m/s,2.2083333333333335 m/s,4.416666666666667 m/s,4.416666666666667 m/s
+K,Science,Plants,Intermediate,An object of mass 15 kg accelerates at 9 m/s². What net force acts on it?,1215 N,150 N,135 N,120 N,135 N
+K,Science,Weather,Intermediate,An object of mass 13 kg accelerates at 3 m/s². What net force acts on it?,52 N,26 N,39 N,117 N,39 N
+K,Science,Plants,Intermediate,An object travels 15 m in 20 s. What is its average speed?,0.75 m/s,0.375 m/s,300 m/s,1.5 m/s,0.75 m/s
+K,Science,Animals,Intermediate,An object travels 59 m in 17 s. What is its average speed?,1003 m/s,3.4705882352941178 m/s,6.9411764705882355 m/s,1.7352941176470589 m/s,3.4705882352941178 m/s
+K,Science,Animals,Intermediate,An object travels 457 m in 5 s. What is its average speed?,182.8 m/s,45.7 m/s,2285 m/s,91.4 m/s,91.4 m/s
+K,Science,Weather,Intermediate,An object travels 385 m in 29 s. What is its average speed?,6.637931034482759 m/s,11165 m/s,13.275862068965518 m/s,26.551724137931036 m/s,13.275862068965518 m/s
+K,Science,Plants,Intermediate,An object travels 236 m in 5 s. What is its average speed?,23.6 m/s,94.4 m/s,1180 m/s,47.2 m/s,47.2 m/s
+K,Science,Senses,Intermediate,An object travels 104 m in 17 s. What is its average speed?,1768 m/s,3.0588235294117645 m/s,12.235294117647058 m/s,6.117647058823529 m/s,6.117647058823529 m/s
+K,Science,Weather,Intermediate,An object travels 338 m in 48 s. What is its average speed?,16224 m/s,7.041666666666667 m/s,14.083333333333334 m/s,3.5208333333333335 m/s,7.041666666666667 m/s
+K,Science,Plants,Intermediate,An object travels 110 m in 24 s. What is its average speed?,9.166666666666666 m/s,4.583333333333333 m/s,2640 m/s,2.2916666666666665 m/s,4.583333333333333 m/s
+K,Science,Weather,Intermediate,An object travels 186 m in 16 s. What is its average speed?,2976 m/s,23.25 m/s,11.625 m/s,5.8125 m/s,11.625 m/s
+K,Science,Plants,Intermediate,An object travels 469 m in 19 s. What is its average speed?,8911 m/s,24.68421052631579 m/s,12.342105263157896 m/s,49.36842105263158 m/s,24.68421052631579 m/s
+K,Science,Weather,Intermediate,An object of mass 2 kg accelerates at 10 m/s². What net force acts on it?,200 N,20 N,22 N,18 N,20 N
+K,Science,Senses,Intermediate,An object travels 155 m in 6 s. What is its average speed?,51.666666666666664 m/s,930 m/s,25.833333333333332 m/s,12.916666666666666 m/s,25.833333333333332 m/s
+K,Science,Plants,Intermediate,An object travels 52 m in 3 s. What is its average speed?,8.666666666666666 m/s,156 m/s,34.666666666666664 m/s,17.333333333333332 m/s,17.333333333333332 m/s
+K,Science,Weather,Intermediate,An object of mass 1 kg accelerates at 3 m/s². What net force acts on it?,9 N,3 N,2 N,4 N,3 N
+K,Science,Senses,Intermediate,An object of mass 18 kg accelerates at 2 m/s². What net force acts on it?,18 N,54 N,36 N,72 N,36 N
+K,Science,Senses,Intermediate,An object travels 245 m in 28 s. What is its average speed?,8.75 m/s,17.5 m/s,6860 m/s,4.375 m/s,8.75 m/s
+K,Science,Animals,Intermediate,An object travels 339 m in 47 s. What is its average speed?,7.212765957446808 m/s,3.606382978723404 m/s,15933 m/s,14.425531914893616 m/s,7.212765957446808 m/s
+K,Science,Plants,Intermediate,An object travels 419 m in 3 s. What is its average speed?,1257 m/s,279.3333333333333 m/s,69.83333333333333 m/s,139.66666666666666 m/s,139.66666666666666 m/s
+K,Science,Weather,Intermediate,An object of mass 16 kg accelerates at 9 m/s². What net force acts on it?,160 N,128 N,1296 N,144 N,144 N
+K,Science,Plants,Intermediate,An object travels 134 m in 35 s. What is its average speed?,7.6571428571428575 m/s,4690 m/s,1.9142857142857144 m/s,3.8285714285714287 m/s,3.8285714285714287 m/s
+K,Science,Plants,Intermediate,An object of mass 18 kg accelerates at 6 m/s². What net force acts on it?,126 N,108 N,90 N,648 N,108 N
+K,Science,Plants,Intermediate,An object travels 436 m in 47 s. What is its average speed?,20492 m/s,9.27659574468085 m/s,4.638297872340425 m/s,18.5531914893617 m/s,9.27659574468085 m/s
+K,Science,Senses,Intermediate,An object travels 37 m in 6 s. What is its average speed?,6.166666666666667 m/s,3.0833333333333335 m/s,222 m/s,12.333333333333334 m/s,6.166666666666667 m/s
+K,Science,Plants,Intermediate,An object of mass 11 kg accelerates at 8 m/s². What net force acts on it?,704 N,77 N,99 N,88 N,88 N
+K,Science,Animals,Intermediate,An object travels 130 m in 24 s. What is its average speed?,2.7083333333333335 m/s,5.416666666666667 m/s,3120 m/s,10.833333333333334 m/s,5.416666666666667 m/s
+K,Science,Senses,Intermediate,An object travels 122 m in 24 s. What is its average speed?,5.083333333333333 m/s,2.5416666666666665 m/s,2928 m/s,10.166666666666666 m/s,5.083333333333333 m/s
+K,Science,Senses,Intermediate,An object travels 394 m in 19 s. What is its average speed?,7486 m/s,20.736842105263158 m/s,41.473684210526315 m/s,10.368421052631579 m/s,20.736842105263158 m/s
+K,Science,Weather,Intermediate,An object travels 180 m in 39 s. What is its average speed?,2.3076923076923075 m/s,4.615384615384615 m/s,7020 m/s,9.23076923076923 m/s,4.615384615384615 m/s
+K,Science,Plants,Intermediate,An object travels 313 m in 13 s. What is its average speed?,48.15384615384615 m/s,24.076923076923077 m/s,12.038461538461538 m/s,4069 m/s,24.076923076923077 m/s
+K,Science,Weather,Intermediate,An object of mass 4 kg accelerates at 2 m/s². What net force acts on it?,12 N,4 N,8 N,16 N,8 N
+K,Science,Animals,Intermediate,An object travels 48 m in 15 s. What is its average speed?,6.4 m/s,3.2 m/s,1.6 m/s,720 m/s,3.2 m/s
+K,Science,Weather,Intermediate,An object travels 188 m in 46 s. What is its average speed?,4.086956521739131 m/s,8648 m/s,2.0434782608695654 m/s,8.173913043478262 m/s,4.086956521739131 m/s
+K,Science,Animals,Intermediate,An object travels 67 m in 7 s. What is its average speed?,469 m/s,19.142857142857142 m/s,9.571428571428571 m/s,4.785714285714286 m/s,9.571428571428571 m/s
+K,Science,Plants,Intermediate,An object of mass 14 kg accelerates at 8 m/s². What net force acts on it?,126 N,112 N,896 N,98 N,112 N
+K,Science,Senses,Intermediate,An object travels 171 m in 46 s. What is its average speed?,7.434782608695652 m/s,7866 m/s,3.717391304347826 m/s,1.858695652173913 m/s,3.717391304347826 m/s
+K,Science,Animals,Intermediate,An object travels 319 m in 38 s. What is its average speed?,8.394736842105264 m/s,12122 m/s,4.197368421052632 m/s,16.789473684210527 m/s,8.394736842105264 m/s
+K,Science,Senses,Intermediate,An object travels 439 m in 9 s. What is its average speed?,3951 m/s,97.55555555555556 m/s,48.77777777777778 m/s,24.38888888888889 m/s,48.77777777777778 m/s
+K,Science,Plants,Intermediate,An object travels 183 m in 3 s. What is its average speed?,30.5 m/s,549 m/s,122.0 m/s,61.0 m/s,61.0 m/s
+K,Science,Senses,Intermediate,An object travels 139 m in 30 s. What is its average speed?,4.633333333333334 m/s,9.266666666666667 m/s,4170 m/s,2.316666666666667 m/s,4.633333333333334 m/s
+K,Science,Plants,Intermediate,An object travels 485 m in 12 s. What is its average speed?,40.416666666666664 m/s,20.208333333333332 m/s,5820 m/s,80.83333333333333 m/s,40.416666666666664 m/s
+K,Science,Animals,Intermediate,An object of mass 7 kg accelerates at 7 m/s². What net force acts on it?,56 N,343 N,49 N,42 N,49 N
+K,Science,Senses,Intermediate,An object of mass 2 kg accelerates at 3 m/s². What net force acts on it?,8 N,18 N,6 N,4 N,6 N
+K,Science,Senses,Intermediate,An object travels 275 m in 46 s. What is its average speed?,12650 m/s,5.978260869565218 m/s,11.956521739130435 m/s,2.989130434782609 m/s,5.978260869565218 m/s
+K,Science,Senses,Intermediate,An object of mass 3 kg accelerates at 1 m/s². What net force acts on it?,Option 3,6 N,0 N,3 N,3 N
+K,Science,Senses,Intermediate,An object travels 67 m in 28 s. What is its average speed?,1876 m/s,1.1964285714285714 m/s,4.785714285714286 m/s,2.392857142857143 m/s,2.392857142857143 m/s
+K,Science,Senses,Intermediate,An object travels 200 m in 18 s. What is its average speed?,22.22222222222222 m/s,11.11111111111111 m/s,5.555555555555555 m/s,3600 m/s,11.11111111111111 m/s
+K,Science,Weather,Intermediate,An object travels 284 m in 50 s. What is its average speed?,2.84 m/s,11.36 m/s,14200 m/s,5.68 m/s,5.68 m/s
+K,Science,Animals,Intermediate,An object of mass 5 kg accelerates at 5 m/s². What net force acts on it?,30 N,25 N,20 N,125 N,25 N
+K,Science,Weather,Intermediate,An object of mass 9 kg accelerates at 7 m/s². What net force acts on it?,54 N,63 N,441 N,72 N,63 N
+K,Science,Animals,Intermediate,An object travels 40 m in 37 s. What is its average speed?,1480 m/s,1.0810810810810811 m/s,2.1621621621621623 m/s,0.5405405405405406 m/s,1.0810810810810811 m/s
+K,Science,Senses,Intermediate,An object of mass 4 kg accelerates at 8 m/s². What net force acts on it?,36 N,28 N,32 N,256 N,32 N
+K,Science,Senses,Intermediate,An object of mass 1 kg accelerates at 2 m/s². What net force acts on it?,3 N,2 N,1 N,4 N,2 N
+K,Science,Weather,Intermediate,An object travels 493 m in 15 s. What is its average speed?,16.433333333333334 m/s,65.73333333333333 m/s,7395 m/s,32.86666666666667 m/s,32.86666666666667 m/s
+K,Science,Animals,Intermediate,An object of mass 13 kg accelerates at 4 m/s². What net force acts on it?,39 N,208 N,65 N,52 N,52 N
+K,Science,Senses,Intermediate,An object travels 262 m in 20 s. What is its average speed?,26.2 m/s,6.55 m/s,13.1 m/s,5240 m/s,13.1 m/s
+K,Science,Weather,Intermediate,An object travels 270 m in 25 s. What is its average speed?,21.6 m/s,6750 m/s,10.8 m/s,5.4 m/s,10.8 m/s
+K,Science,Senses,Intermediate,An object travels 403 m in 24 s. What is its average speed?,8.395833333333334 m/s,9672 m/s,33.583333333333336 m/s,16.791666666666668 m/s,16.791666666666668 m/s
+K,Science,Animals,Intermediate,An object travels 344 m in 28 s. What is its average speed?,9632 m/s,24.571428571428573 m/s,6.142857142857143 m/s,12.285714285714286 m/s,12.285714285714286 m/s
+K,Science,Animals,Intermediate,An object of mass 12 kg accelerates at 4 m/s². What net force acts on it?,36 N,48 N,60 N,192 N,48 N
+K,Science,Plants,Intermediate,An object travels 434 m in 43 s. What is its average speed?,20.186046511627907 m/s,5.046511627906977 m/s,10.093023255813954 m/s,18662 m/s,10.093023255813954 m/s
+K,Science,Plants,Intermediate,An object travels 267 m in 3 s. What is its average speed?,44.5 m/s,89.0 m/s,801 m/s,178.0 m/s,89.0 m/s
+K,Science,Senses,Intermediate,An object travels 363 m in 43 s. What is its average speed?,16.88372093023256 m/s,4.22093023255814 m/s,8.44186046511628 m/s,15609 m/s,8.44186046511628 m/s
+K,Science,Senses,Intermediate,An object travels 280 m in 45 s. What is its average speed?,3.111111111111111 m/s,12.444444444444445 m/s,12600 m/s,6.222222222222222 m/s,6.222222222222222 m/s
+K,Science,Weather,Intermediate,An object travels 376 m in 46 s. What is its average speed?,17296 m/s,16.347826086956523 m/s,4.086956521739131 m/s,8.173913043478262 m/s,8.173913043478262 m/s
+K,Science,Animals,Intermediate,An object travels 33 m in 28 s. What is its average speed?,0.5892857142857143 m/s,1.1785714285714286 m/s,2.357142857142857 m/s,924 m/s,1.1785714285714286 m/s
+K,Science,Plants,Intermediate,An object travels 201 m in 17 s. What is its average speed?,11.823529411764707 m/s,23.647058823529413 m/s,3417 m/s,5.911764705882353 m/s,11.823529411764707 m/s
+K,Science,Animals,Intermediate,An object travels 103 m in 17 s. What is its average speed?,12.117647058823529 m/s,1751 m/s,6.0588235294117645 m/s,3.0294117647058822 m/s,6.0588235294117645 m/s
+K,Science,Plants,Intermediate,An object travels 189 m in 9 s. What is its average speed?,1701 m/s,21.0 m/s,42.0 m/s,10.5 m/s,21.0 m/s
+K,Science,Weather,Intermediate,An object travels 71 m in 45 s. What is its average speed?,3195 m/s,3.1555555555555554 m/s,0.7888888888888889 m/s,1.5777777777777777 m/s,1.5777777777777777 m/s
+K,Science,Plants,Intermediate,An object of mass 5 kg accelerates at 2 m/s². What net force acts on it?,5 N,20 N,15 N,10 N,10 N
+K,Science,Animals,Intermediate,An object travels 406 m in 5 s. What is its average speed?,162.4 m/s,2030 m/s,40.6 m/s,81.2 m/s,81.2 m/s
+K,Science,Weather,Intermediate,An object travels 163 m in 2 s. What is its average speed?,81.5 m/s,163.0 m/s,40.75 m/s,326 m/s,81.5 m/s
+K,Science,Animals,Intermediate,An object of mass 1 kg accelerates at 4 m/s². What net force acts on it?,3 N,5 N,16 N,4 N,4 N
+K,Science,Senses,Intermediate,An object of mass 12 kg accelerates at 10 m/s². What net force acts on it?,120 N,1200 N,132 N,108 N,120 N
+K,Science,Animals,Intermediate,An object travels 99 m in 39 s. What is its average speed?,1.2692307692307692 m/s,2.5384615384615383 m/s,3861 m/s,5.076923076923077 m/s,2.5384615384615383 m/s
+K,Science,Animals,Intermediate,An object travels 413 m in 33 s. What is its average speed?,12.515151515151516 m/s,6.257575757575758 m/s,25.03030303030303 m/s,13629 m/s,12.515151515151516 m/s
+K,Science,Animals,Intermediate,An object travels 403 m in 27 s. What is its average speed?,10881 m/s,14.925925925925926 m/s,29.85185185185185 m/s,7.462962962962963 m/s,14.925925925925926 m/s
+K,Science,Weather,Intermediate,An object of mass 18 kg accelerates at 8 m/s². What net force acts on it?,162 N,144 N,1152 N,126 N,144 N
+K,Science,Weather,Intermediate,An object travels 194 m in 35 s. What is its average speed?,5.542857142857143 m/s,6790 m/s,11.085714285714285 m/s,2.7714285714285714 m/s,5.542857142857143 m/s
+K,Science,Senses,Intermediate,An object travels 138 m in 40 s. What is its average speed?,3.45 m/s,5520 m/s,6.9 m/s,1.725 m/s,3.45 m/s
+K,Science,Animals,Intermediate,An object travels 232 m in 35 s. What is its average speed?,3.3142857142857145 m/s,6.628571428571429 m/s,13.257142857142858 m/s,8120 m/s,6.628571428571429 m/s
+K,Science,Plants,Intermediate,An object travels 239 m in 26 s. What is its average speed?,9.192307692307692 m/s,18.384615384615383 m/s,6214 m/s,4.596153846153846 m/s,9.192307692307692 m/s
+K,Science,Senses,Intermediate,An object travels 30 m in 38 s. What is its average speed?,0.7894736842105263 m/s,1140 m/s,0.39473684210526316 m/s,1.5789473684210527 m/s,0.7894736842105263 m/s
+K,Science,Senses,Intermediate,An object travels 452 m in 7 s. What is its average speed?,32.285714285714285 m/s,64.57142857142857 m/s,3164 m/s,129.14285714285714 m/s,64.57142857142857 m/s
+K,Science,Senses,Intermediate,An object travels 241 m in 49 s. What is its average speed?,4.918367346938775 m/s,9.83673469387755 m/s,2.4591836734693877 m/s,11809 m/s,4.918367346938775 m/s
+K,Science,Senses,Intermediate,An object of mass 5 kg accelerates at 10 m/s². What net force acts on it?,50 N,500 N,45 N,55 N,50 N
+K,Science,Plants,Intermediate,An object of mass 20 kg accelerates at 6 m/s². What net force acts on it?,720 N,120 N,100 N,140 N,120 N
+K,Science,Plants,Intermediate,An object travels 187 m in 25 s. What is its average speed?,3.74 m/s,4675 m/s,14.96 m/s,7.48 m/s,7.48 m/s
+K,Science,Weather,Intermediate,An object travels 364 m in 46 s. What is its average speed?,7.913043478260869 m/s,16744 m/s,15.826086956521738 m/s,3.9565217391304346 m/s,7.913043478260869 m/s
+K,Science,Animals,Intermediate,An object travels 206 m in 4 s. What is its average speed?,25.75 m/s,824 m/s,51.5 m/s,103.0 m/s,51.5 m/s
+K,Science,Weather,Intermediate,An object travels 487 m in 1 s. What is its average speed?,487.0 m/s,487 m/s,974.0 m/s,243.5 m/s,487.0 m/s
+K,Science,Animals,Intermediate,An object travels 70 m in 19 s. What is its average speed?,3.6842105263157894 m/s,1.8421052631578947 m/s,1330 m/s,7.368421052631579 m/s,3.6842105263157894 m/s
+K,Science,Plants,Intermediate,An object of mass 13 kg accelerates at 2 m/s². What net force acts on it?,39 N,13 N,26 N,52 N,26 N
+K,Science,Weather,Intermediate,An object of mass 6 kg accelerates at 10 m/s². What net force acts on it?,60 N,54 N,66 N,600 N,60 N
+K,Science,Animals,Intermediate,An object travels 362 m in 16 s. What is its average speed?,5792 m/s,22.625 m/s,11.3125 m/s,45.25 m/s,22.625 m/s
+K,Science,Weather,Intermediate,An object travels 483 m in 10 s. What is its average speed?,4830 m/s,48.3 m/s,24.15 m/s,96.6 m/s,48.3 m/s
+K,Science,Weather,Intermediate,An object travels 126 m in 42 s. What is its average speed?,5292 m/s,3.0 m/s,6.0 m/s,1.5 m/s,3.0 m/s
+K,Science,Senses,Intermediate,An object of mass 12 kg accelerates at 5 m/s². What net force acts on it?,60 N,72 N,300 N,48 N,60 N
+K,Science,Senses,Intermediate,An object travels 286 m in 34 s. What is its average speed?,4.205882352941177 m/s,8.411764705882353 m/s,9724 m/s,16.823529411764707 m/s,8.411764705882353 m/s
+K,Science,Plants,Intermediate,An object of mass 13 kg accelerates at 6 m/s². What net force acts on it?,91 N,468 N,78 N,65 N,78 N
+K,Science,Senses,Intermediate,An object travels 411 m in 38 s. What is its average speed?,21.63157894736842 m/s,5.407894736842105 m/s,15618 m/s,10.81578947368421 m/s,10.81578947368421 m/s
+K,Science,Animals,Intermediate,An object travels 331 m in 32 s. What is its average speed?,5.171875 m/s,20.6875 m/s,10.34375 m/s,10592 m/s,10.34375 m/s
+K,Science,Animals,Intermediate,An object travels 16 m in 6 s. What is its average speed?,96 m/s,1.3333333333333333 m/s,5.333333333333333 m/s,2.6666666666666665 m/s,2.6666666666666665 m/s
+K,Science,Animals,Intermediate,An object travels 25 m in 45 s. What is its average speed?,0.2777777777777778 m/s,1125 m/s,0.5555555555555556 m/s,1.1111111111111112 m/s,0.5555555555555556 m/s
+K,Science,Weather,Intermediate,An object of mass 9 kg accelerates at 8 m/s². What net force acts on it?,63 N,576 N,72 N,81 N,72 N
+K,Science,Senses,Intermediate,An object travels 197 m in 35 s. What is its average speed?,6895 m/s,11.257142857142858 m/s,5.628571428571429 m/s,2.8142857142857145 m/s,5.628571428571429 m/s
+K,Science,Weather,Intermediate,An object travels 223 m in 41 s. What is its average speed?,10.878048780487806 m/s,2.7195121951219514 m/s,9143 m/s,5.439024390243903 m/s,5.439024390243903 m/s
+K,Science,Senses,Intermediate,An object travels 432 m in 5 s. What is its average speed?,172.8 m/s,43.2 m/s,86.4 m/s,2160 m/s,86.4 m/s
+K,Science,Plants,Intermediate,An object travels 443 m in 18 s. What is its average speed?,12.305555555555555 m/s,24.61111111111111 m/s,49.22222222222222 m/s,7974 m/s,24.61111111111111 m/s
+K,Science,Animals,Intermediate,An object travels 365 m in 42 s. What is its average speed?,4.345238095238095 m/s,15330 m/s,8.69047619047619 m/s,17.38095238095238 m/s,8.69047619047619 m/s
+K,Science,Senses,Intermediate,An object of mass 3 kg accelerates at 4 m/s². What net force acts on it?,48 N,9 N,15 N,12 N,12 N
+K,Science,Animals,Intermediate,An object travels 291 m in 13 s. What is its average speed?,22.384615384615383 m/s,44.76923076923077 m/s,11.192307692307692 m/s,3783 m/s,22.384615384615383 m/s
+K,Science,Plants,Intermediate,An object travels 311 m in 38 s. What is its average speed?,4.092105263157895 m/s,16.36842105263158 m/s,8.18421052631579 m/s,11818 m/s,8.18421052631579 m/s
+K,Science,Animals,Intermediate,An object travels 293 m in 44 s. What is its average speed?,12892 m/s,6.659090909090909 m/s,13.318181818181818 m/s,3.3295454545454546 m/s,6.659090909090909 m/s
+K,Science,Weather,Intermediate,An object travels 149 m in 49 s. What is its average speed?,7301 m/s,6.081632653061225 m/s,1.5204081632653061 m/s,3.0408163265306123 m/s,3.0408163265306123 m/s
+K,Science,Weather,Intermediate,An object travels 146 m in 18 s. What is its average speed?,2628 m/s,8.11111111111111 m/s,4.055555555555555 m/s,16.22222222222222 m/s,8.11111111111111 m/s
+K,Science,Plants,Intermediate,An object travels 72 m in 29 s. What is its average speed?,4.9655172413793105 m/s,2088 m/s,2.4827586206896552 m/s,1.2413793103448276 m/s,2.4827586206896552 m/s
+K,Science,Senses,Intermediate,An object travels 21 m in 48 s. What is its average speed?,0.875 m/s,0.4375 m/s,1008 m/s,0.21875 m/s,0.4375 m/s
+K,Science,Plants,Intermediate,An object of mass 12 kg accelerates at 6 m/s². What net force acts on it?,72 N,84 N,432 N,60 N,72 N
+K,Science,Weather,Intermediate,An object travels 240 m in 21 s. What is its average speed?,22.857142857142858 m/s,5040 m/s,11.428571428571429 m/s,5.714285714285714 m/s,11.428571428571429 m/s
+K,Science,Animals,Intermediate,An object travels 250 m in 22 s. What is its average speed?,11.363636363636363 m/s,5500 m/s,22.727272727272727 m/s,5.681818181818182 m/s,11.363636363636363 m/s
+K,Science,Animals,Intermediate,An object travels 432 m in 46 s. What is its average speed?,4.695652173913044 m/s,9.391304347826088 m/s,19872 m/s,18.782608695652176 m/s,9.391304347826088 m/s
+K,Science,Senses,Intermediate,An object travels 141 m in 11 s. What is its average speed?,25.636363636363637 m/s,12.818181818181818 m/s,1551 m/s,6.409090909090909 m/s,12.818181818181818 m/s
+K,Science,Plants,Intermediate,An object travels 17 m in 23 s. What is its average speed?,0.3695652173913043 m/s,391 m/s,0.7391304347826086 m/s,1.4782608695652173 m/s,0.7391304347826086 m/s
+K,Science,Senses,Intermediate,An object of mass 2 kg accelerates at 4 m/s². What net force acts on it?,32 N,10 N,6 N,8 N,8 N
+K,Science,Animals,Intermediate,An object of mass 8 kg accelerates at 6 m/s². What net force acts on it?,48 N,40 N,288 N,56 N,48 N
+K,Science,Plants,Intermediate,An object travels 250 m in 8 s. What is its average speed?,31.25 m/s,62.5 m/s,15.625 m/s,2000 m/s,31.25 m/s
+K,Science,Plants,Intermediate,An object travels 276 m in 9 s. What is its average speed?,30.666666666666668 m/s,15.333333333333334 m/s,2484 m/s,61.333333333333336 m/s,30.666666666666668 m/s
+K,Science,Animals,Intermediate,An object travels 406 m in 34 s. What is its average speed?,11.941176470588236 m/s,5.970588235294118 m/s,23.88235294117647 m/s,13804 m/s,11.941176470588236 m/s
+K,Science,Weather,Intermediate,An object travels 233 m in 48 s. What is its average speed?,11184 m/s,4.854166666666667 m/s,2.4270833333333335 m/s,9.708333333333334 m/s,4.854166666666667 m/s
+K,Science,Weather,Intermediate,An object travels 148 m in 17 s. What is its average speed?,4.352941176470588 m/s,17.41176470588235 m/s,8.705882352941176 m/s,2516 m/s,8.705882352941176 m/s
+K,Science,Weather,Intermediate,An object travels 173 m in 17 s. What is its average speed?,5.088235294117647 m/s,2941 m/s,20.352941176470587 m/s,10.176470588235293 m/s,10.176470588235293 m/s
+K,Science,Animals,Intermediate,An object travels 336 m in 15 s. What is its average speed?,44.8 m/s,22.4 m/s,5040 m/s,11.2 m/s,22.4 m/s
+K,Science,Senses,Intermediate,An object travels 125 m in 17 s. What is its average speed?,14.705882352941176 m/s,7.352941176470588 m/s,3.676470588235294 m/s,2125 m/s,7.352941176470588 m/s
+K,Science,Weather,Intermediate,An object travels 460 m in 16 s. What is its average speed?,14.375 m/s,57.5 m/s,28.75 m/s,7360 m/s,28.75 m/s
+K,Science,Animals,Intermediate,An object travels 288 m in 31 s. What is its average speed?,4.645161290322581 m/s,18.580645161290324 m/s,9.290322580645162 m/s,8928 m/s,9.290322580645162 m/s
+K,Science,Animals,Intermediate,An object travels 107 m in 50 s. What is its average speed?,1.07 m/s,4.28 m/s,2.14 m/s,5350 m/s,2.14 m/s
+K,Science,Senses,Intermediate,An object of mass 14 kg accelerates at 1 m/s². What net force acts on it?,0 N,14 N,28 N,Option 3,14 N
+K,Science,Senses,Intermediate,An object travels 278 m in 30 s. What is its average speed?,4.633333333333334 m/s,9.266666666666667 m/s,18.533333333333335 m/s,8340 m/s,9.266666666666667 m/s
+K,Science,Plants,Intermediate,An object travels 380 m in 15 s. What is its average speed?,12.666666666666666 m/s,5700 m/s,25.333333333333332 m/s,50.666666666666664 m/s,25.333333333333332 m/s
+K,Science,Plants,Intermediate,An object travels 281 m in 35 s. What is its average speed?,9835 m/s,4.014285714285714 m/s,8.028571428571428 m/s,16.057142857142857 m/s,8.028571428571428 m/s
+K,Science,Weather,Intermediate,An object of mass 12 kg accelerates at 3 m/s². What net force acts on it?,108 N,48 N,36 N,24 N,36 N
+K,Science,Weather,Intermediate,An object travels 239 m in 20 s. What is its average speed?,23.9 m/s,4780 m/s,11.95 m/s,5.975 m/s,11.95 m/s
+K,Science,Plants,Intermediate,An object travels 125 m in 6 s. What is its average speed?,20.833333333333332 m/s,41.666666666666664 m/s,750 m/s,10.416666666666666 m/s,20.833333333333332 m/s
+K,Science,Senses,Intermediate,An object travels 128 m in 19 s. What is its average speed?,13.473684210526315 m/s,3.3684210526315788 m/s,2432 m/s,6.7368421052631575 m/s,6.7368421052631575 m/s
+K,Science,Weather,Intermediate,An object travels 334 m in 17 s. What is its average speed?,5678 m/s,19.647058823529413 m/s,9.823529411764707 m/s,39.294117647058826 m/s,19.647058823529413 m/s
+K,Science,Plants,Intermediate,An object travels 262 m in 43 s. What is its average speed?,12.186046511627907 m/s,3.046511627906977 m/s,6.093023255813954 m/s,11266 m/s,6.093023255813954 m/s
+K,Science,Animals,Intermediate,An object travels 89 m in 15 s. What is its average speed?,1335 m/s,2.966666666666667 m/s,11.866666666666667 m/s,5.933333333333334 m/s,5.933333333333334 m/s
+K,Science,Animals,Intermediate,An object travels 274 m in 49 s. What is its average speed?,2.795918367346939 m/s,11.183673469387756 m/s,5.591836734693878 m/s,13426 m/s,5.591836734693878 m/s
+K,Science,Animals,Intermediate,An object travels 394 m in 25 s. What is its average speed?,15.76 m/s,9850 m/s,31.52 m/s,7.88 m/s,15.76 m/s
+K,Science,Animals,Intermediate,An object travels 367 m in 24 s. What is its average speed?,30.583333333333332 m/s,8808 m/s,15.291666666666666 m/s,7.645833333333333 m/s,15.291666666666666 m/s
+K,Science,Weather,Intermediate,An object of mass 2 kg accelerates at 2 m/s². What net force acts on it?,6 N,4 N,8 N,2 N,4 N
+K,Science,Animals,Intermediate,An object travels 37 m in 5 s. What is its average speed?,14.8 m/s,3.7 m/s,185 m/s,7.4 m/s,7.4 m/s
+K,Science,Weather,Intermediate,An object travels 406 m in 50 s. What is its average speed?,8.12 m/s,4.06 m/s,16.24 m/s,20300 m/s,8.12 m/s
+K,Science,Plants,Intermediate,An object of mass 11 kg accelerates at 9 m/s². What net force acts on it?,891 N,110 N,88 N,99 N,99 N
+K,Science,Plants,Intermediate,An object travels 50 m in 32 s. What is its average speed?,0.78125 m/s,1.5625 m/s,1600 m/s,3.125 m/s,1.5625 m/s
+K,Science,Senses,Intermediate,An object travels 369 m in 7 s. What is its average speed?,26.357142857142858 m/s,105.42857142857143 m/s,2583 m/s,52.714285714285715 m/s,52.714285714285715 m/s
+K,Science,Weather,Intermediate,An object travels 76 m in 15 s. What is its average speed?,5.066666666666666 m/s,1140 m/s,2.533333333333333 m/s,10.133333333333333 m/s,5.066666666666666 m/s
+K,Science,Plants,Intermediate,An object travels 67 m in 45 s. What is its average speed?,3015 m/s,2.977777777777778 m/s,0.7444444444444445 m/s,1.488888888888889 m/s,1.488888888888889 m/s
+K,Science,Senses,Intermediate,An object travels 17 m in 32 s. What is its average speed?,0.53125 m/s,544 m/s,0.265625 m/s,1.0625 m/s,0.53125 m/s
+K,Science,Senses,Intermediate,An object travels 371 m in 43 s. What is its average speed?,17.25581395348837 m/s,8.627906976744185 m/s,4.313953488372093 m/s,15953 m/s,8.627906976744185 m/s
+K,Science,Plants,Intermediate,An object travels 83 m in 25 s. What is its average speed?,6.64 m/s,3.32 m/s,1.66 m/s,2075 m/s,3.32 m/s
+K,Science,Senses,Intermediate,An object travels 190 m in 23 s. What is its average speed?,8.26086956521739 m/s,16.52173913043478 m/s,4.130434782608695 m/s,4370 m/s,8.26086956521739 m/s
+K,Science,Senses,Intermediate,An object travels 195 m in 9 s. What is its average speed?,43.333333333333336 m/s,10.833333333333334 m/s,21.666666666666668 m/s,1755 m/s,21.666666666666668 m/s
+K,Science,Animals,Intermediate,An object of mass 10 kg accelerates at 3 m/s². What net force acts on it?,40 N,20 N,30 N,90 N,30 N
+K,Science,Animals,Intermediate,An object of mass 7 kg accelerates at 2 m/s². What net force acts on it?,7 N,21 N,14 N,28 N,14 N
+K,Science,Plants,Intermediate,An object travels 288 m in 25 s. What is its average speed?,23.04 m/s,5.76 m/s,11.52 m/s,7200 m/s,11.52 m/s
+K,Science,Weather,Intermediate,An object travels 376 m in 16 s. What is its average speed?,47.0 m/s,11.75 m/s,6016 m/s,23.5 m/s,23.5 m/s
+K,Science,Senses,Intermediate,An object travels 422 m in 39 s. What is its average speed?,5.410256410256411 m/s,10.820512820512821 m/s,16458 m/s,21.641025641025642 m/s,10.820512820512821 m/s
+K,Science,Animals,Intermediate,An object travels 88 m in 5 s. What is its average speed?,440 m/s,35.2 m/s,17.6 m/s,8.8 m/s,17.6 m/s
+K,Science,Senses,Intermediate,An object of mass 16 kg accelerates at 4 m/s². What net force acts on it?,256 N,64 N,80 N,48 N,64 N
+K,Science,Animals,Intermediate,An object travels 165 m in 3 s. What is its average speed?,110.0 m/s,495 m/s,27.5 m/s,55.0 m/s,55.0 m/s
+K,Science,Plants,Intermediate,An object travels 72 m in 50 s. What is its average speed?,0.72 m/s,2.88 m/s,1.44 m/s,3600 m/s,1.44 m/s
+K,Science,Animals,Intermediate,An object travels 330 m in 45 s. What is its average speed?,7.333333333333333 m/s,14.666666666666666 m/s,14850 m/s,3.6666666666666665 m/s,7.333333333333333 m/s
+K,Science,Plants,Intermediate,An object of mass 5 kg accelerates at 7 m/s². What net force acts on it?,245 N,40 N,30 N,35 N,35 N
+K,Science,Plants,Intermediate,An object of mass 4 kg accelerates at 1 m/s². What net force acts on it?,Option 3,8 N,4 N,0 N,4 N
+K,Science,Animals,Intermediate,An object travels 357 m in 1 s. What is its average speed?,357.0 m/s,178.5 m/s,714.0 m/s,357 m/s,357.0 m/s
+K,Science,Animals,Intermediate,An object travels 89 m in 31 s. What is its average speed?,2759 m/s,1.435483870967742 m/s,2.870967741935484 m/s,5.741935483870968 m/s,2.870967741935484 m/s
+K,Science,Plants,Intermediate,An object travels 421 m in 11 s. What is its average speed?,19.136363636363637 m/s,76.54545454545455 m/s,38.27272727272727 m/s,4631 m/s,38.27272727272727 m/s
+K,Science,Senses,Intermediate,An object of mass 6 kg accelerates at 2 m/s². What net force acts on it?,6 N,18 N,24 N,12 N,12 N
+K,Science,Senses,Intermediate,An object travels 173 m in 19 s. What is its average speed?,18.210526315789473 m/s,4.552631578947368 m/s,9.105263157894736 m/s,3287 m/s,9.105263157894736 m/s
+K,Science,Senses,Intermediate,An object travels 69 m in 42 s. What is its average speed?,2898 m/s,3.2857142857142856 m/s,1.6428571428571428 m/s,0.8214285714285714 m/s,1.6428571428571428 m/s
+K,Science,Plants,Intermediate,An object travels 118 m in 34 s. What is its average speed?,6.9411764705882355 m/s,3.4705882352941178 m/s,4012 m/s,1.7352941176470589 m/s,3.4705882352941178 m/s
+K,Science,Plants,Intermediate,An object travels 333 m in 32 s. What is its average speed?,10656 m/s,5.203125 m/s,10.40625 m/s,20.8125 m/s,10.40625 m/s
+K,Science,Plants,Intermediate,An object travels 324 m in 45 s. What is its average speed?,3.6 m/s,14.4 m/s,7.2 m/s,14580 m/s,7.2 m/s
+K,Science,Senses,Intermediate,An object travels 470 m in 42 s. What is its average speed?,19740 m/s,5.595238095238095 m/s,22.38095238095238 m/s,11.19047619047619 m/s,11.19047619047619 m/s
+K,Science,Plants,Intermediate,An object travels 323 m in 6 s. What is its average speed?,107.66666666666667 m/s,26.916666666666668 m/s,1938 m/s,53.833333333333336 m/s,53.833333333333336 m/s
+K,Science,Animals,Intermediate,An object travels 23 m in 35 s. What is its average speed?,0.6571428571428571 m/s,0.32857142857142857 m/s,805 m/s,1.3142857142857143 m/s,0.6571428571428571 m/s
+K,Science,Weather,Intermediate,An object travels 23 m in 36 s. What is its average speed?,0.3194444444444444 m/s,1.2777777777777777 m/s,0.6388888888888888 m/s,828 m/s,0.6388888888888888 m/s
+K,Science,Animals,Intermediate,An object travels 116 m in 22 s. What is its average speed?,2552 m/s,5.2727272727272725 m/s,10.545454545454545 m/s,2.6363636363636362 m/s,5.2727272727272725 m/s
+K,Science,Weather,Intermediate,An object travels 78 m in 30 s. What is its average speed?,2.6 m/s,5.2 m/s,1.3 m/s,2340 m/s,2.6 m/s
+K,Science,Animals,Intermediate,An object travels 488 m in 3 s. What is its average speed?,1464 m/s,81.33333333333333 m/s,162.66666666666666 m/s,325.3333333333333 m/s,162.66666666666666 m/s
+K,Science,Senses,Intermediate,An object travels 57 m in 39 s. What is its average speed?,1.4615384615384615 m/s,2.923076923076923 m/s,2223 m/s,0.7307692307692307 m/s,1.4615384615384615 m/s
+K,Science,Animals,Intermediate,An object travels 376 m in 12 s. What is its average speed?,62.666666666666664 m/s,15.666666666666666 m/s,4512 m/s,31.333333333333332 m/s,31.333333333333332 m/s
+K,Science,Weather,Intermediate,An object travels 244 m in 18 s. What is its average speed?,13.555555555555555 m/s,4392 m/s,6.777777777777778 m/s,27.11111111111111 m/s,13.555555555555555 m/s
+K,Science,Plants,Intermediate,An object travels 417 m in 9 s. What is its average speed?,3753 m/s,92.66666666666667 m/s,46.333333333333336 m/s,23.166666666666668 m/s,46.333333333333336 m/s
+K,Science,Animals,Intermediate,An object travels 462 m in 7 s. What is its average speed?,132.0 m/s,66.0 m/s,33.0 m/s,3234 m/s,66.0 m/s
+K,Science,Plants,Intermediate,An object travels 228 m in 28 s. What is its average speed?,8.142857142857142 m/s,16.285714285714285 m/s,4.071428571428571 m/s,6384 m/s,8.142857142857142 m/s
+K,Science,Animals,Intermediate,An object travels 310 m in 2 s. What is its average speed?,620 m/s,155.0 m/s,310.0 m/s,77.5 m/s,155.0 m/s
+K,Science,Plants,Intermediate,An object travels 218 m in 50 s. What is its average speed?,2.18 m/s,8.72 m/s,4.36 m/s,10900 m/s,4.36 m/s
+K,Science,Weather,Intermediate,An object travels 338 m in 46 s. What is its average speed?,15548 m/s,3.6739130434782608 m/s,7.3478260869565215 m/s,14.695652173913043 m/s,7.3478260869565215 m/s
+K,Science,Senses,Intermediate,An object of mass 14 kg accelerates at 10 m/s². What net force acts on it?,1400 N,126 N,140 N,154 N,140 N
+K,Science,Weather,Intermediate,An object of mass 13 kg accelerates at 9 m/s². What net force acts on it?,117 N,130 N,104 N,1053 N,117 N
+K,Science,Weather,Intermediate,An object travels 235 m in 35 s. What is its average speed?,13.428571428571429 m/s,6.714285714285714 m/s,3.357142857142857 m/s,8225 m/s,6.714285714285714 m/s
+K,Science,Animals,Intermediate,An object travels 341 m in 34 s. What is its average speed?,10.029411764705882 m/s,11594 m/s,5.014705882352941 m/s,20.058823529411764 m/s,10.029411764705882 m/s
+K,Science,Weather,Intermediate,An object travels 386 m in 47 s. What is its average speed?,16.425531914893618 m/s,8.212765957446809 m/s,18142 m/s,4.1063829787234045 m/s,8.212765957446809 m/s
+K,Science,Animals,Intermediate,An object travels 498 m in 10 s. What is its average speed?,49.8 m/s,99.6 m/s,24.9 m/s,4980 m/s,49.8 m/s
+K,Science,Animals,Intermediate,An object travels 127 m in 21 s. What is its average speed?,12.095238095238095 m/s,2667 m/s,6.0476190476190474 m/s,3.0238095238095237 m/s,6.0476190476190474 m/s
+K,Science,Animals,Intermediate,An object travels 54 m in 5 s. What is its average speed?,5.4 m/s,270 m/s,21.6 m/s,10.8 m/s,10.8 m/s
+K,Science,Senses,Intermediate,An object travels 362 m in 12 s. What is its average speed?,4344 m/s,60.333333333333336 m/s,30.166666666666668 m/s,15.083333333333334 m/s,30.166666666666668 m/s
+K,Science,Senses,Intermediate,An object travels 356 m in 14 s. What is its average speed?,50.857142857142854 m/s,4984 m/s,25.428571428571427 m/s,12.714285714285714 m/s,25.428571428571427 m/s
+K,Science,Animals,Intermediate,An object travels 69 m in 10 s. What is its average speed?,3.45 m/s,690 m/s,6.9 m/s,13.8 m/s,6.9 m/s
+K,Science,Plants,Intermediate,An object travels 17 m in 27 s. What is its average speed?,1.2592592592592593 m/s,0.6296296296296297 m/s,459 m/s,0.3148148148148148 m/s,0.6296296296296297 m/s
+K,Science,Senses,Intermediate,An object travels 301 m in 46 s. What is its average speed?,13846 m/s,6.543478260869565 m/s,3.2717391304347827 m/s,13.08695652173913 m/s,6.543478260869565 m/s
+K,Science,Senses,Intermediate,An object travels 382 m in 31 s. What is its average speed?,24.64516129032258 m/s,12.32258064516129 m/s,6.161290322580645 m/s,11842 m/s,12.32258064516129 m/s
+K,Science,Plants,Intermediate,An object travels 372 m in 25 s. What is its average speed?,7.44 m/s,14.88 m/s,29.76 m/s,9300 m/s,14.88 m/s
+K,Science,Weather,Intermediate,An object travels 95 m in 17 s. What is its average speed?,11.176470588235293 m/s,5.588235294117647 m/s,1615 m/s,2.7941176470588234 m/s,5.588235294117647 m/s
+K,Science,Weather,Intermediate,An object travels 278 m in 44 s. What is its average speed?,12.636363636363637 m/s,3.159090909090909 m/s,6.318181818181818 m/s,12232 m/s,6.318181818181818 m/s
+K,Science,Senses,Intermediate,An object travels 268 m in 3 s. What is its average speed?,804 m/s,44.666666666666664 m/s,89.33333333333333 m/s,178.66666666666666 m/s,89.33333333333333 m/s
+K,Science,Weather,Intermediate,An object of mass 11 kg accelerates at 4 m/s². What net force acts on it?,33 N,176 N,44 N,55 N,44 N
+K,Science,Plants,Intermediate,An object travels 305 m in 7 s. What is its average speed?,21.785714285714285 m/s,2135 m/s,87.14285714285714 m/s,43.57142857142857 m/s,43.57142857142857 m/s
+K,Science,Weather,Intermediate,An object travels 167 m in 23 s. What is its average speed?,3841 m/s,14.521739130434783 m/s,3.630434782608696 m/s,7.260869565217392 m/s,7.260869565217392 m/s
+K,Science,Plants,Intermediate,An object travels 95 m in 29 s. What is its average speed?,2755 m/s,6.551724137931035 m/s,3.2758620689655173 m/s,1.6379310344827587 m/s,3.2758620689655173 m/s
+K,Science,Plants,Intermediate,An object travels 120 m in 27 s. What is its average speed?,2.2222222222222223 m/s,8.88888888888889 m/s,4.444444444444445 m/s,3240 m/s,4.444444444444445 m/s
+K,Science,Weather,Intermediate,An object travels 70 m in 37 s. What is its average speed?,3.7837837837837838 m/s,1.8918918918918919 m/s,0.9459459459459459 m/s,2590 m/s,1.8918918918918919 m/s
+K,Science,Senses,Intermediate,An object travels 445 m in 17 s. What is its average speed?,52.35294117647059 m/s,26.176470588235293 m/s,7565 m/s,13.088235294117647 m/s,26.176470588235293 m/s
+K,Science,Weather,Intermediate,An object travels 389 m in 33 s. What is its average speed?,23.575757575757574 m/s,11.787878787878787 m/s,12837 m/s,5.893939393939394 m/s,11.787878787878787 m/s
+K,Science,Animals,Intermediate,An object travels 308 m in 3 s. What is its average speed?,924 m/s,205.33333333333334 m/s,51.333333333333336 m/s,102.66666666666667 m/s,102.66666666666667 m/s
+K,Science,Senses,Intermediate,An object travels 212 m in 34 s. What is its average speed?,3.1176470588235294 m/s,12.470588235294118 m/s,6.235294117647059 m/s,7208 m/s,6.235294117647059 m/s
+K,Science,Animals,Intermediate,An object travels 229 m in 39 s. What is its average speed?,5.871794871794871 m/s,11.743589743589743 m/s,2.9358974358974357 m/s,8931 m/s,5.871794871794871 m/s
+K,Science,Plants,Intermediate,An object travels 500 m in 31 s. What is its average speed?,8.064516129032258 m/s,16.129032258064516 m/s,15500 m/s,32.25806451612903 m/s,16.129032258064516 m/s
+K,Science,Animals,Intermediate,An object travels 183 m in 22 s. What is its average speed?,8.318181818181818 m/s,16.636363636363637 m/s,4.159090909090909 m/s,4026 m/s,8.318181818181818 m/s
+K,Science,Weather,Intermediate,An object travels 38 m in 5 s. What is its average speed?,15.2 m/s,190 m/s,7.6 m/s,3.8 m/s,7.6 m/s
+K,Science,Senses,Intermediate,An object travels 485 m in 39 s. What is its average speed?,6.217948717948718 m/s,12.435897435897436 m/s,24.871794871794872 m/s,18915 m/s,12.435897435897436 m/s
+K,Science,Senses,Intermediate,An object of mass 8 kg accelerates at 5 m/s². What net force acts on it?,40 N,32 N,48 N,200 N,40 N
+K,Science,Senses,Intermediate,An object travels 114 m in 46 s. What is its average speed?,4.956521739130435 m/s,1.2391304347826086 m/s,2.4782608695652173 m/s,5244 m/s,2.4782608695652173 m/s
+K,Science,Animals,Intermediate,An object of mass 4 kg accelerates at 6 m/s². What net force acts on it?,20 N,28 N,24 N,144 N,24 N
+K,Science,Plants,Intermediate,An object travels 204 m in 33 s. What is its average speed?,6.181818181818182 m/s,6732 m/s,12.363636363636363 m/s,3.090909090909091 m/s,6.181818181818182 m/s
+K,Science,Plants,Intermediate,An object travels 227 m in 19 s. What is its average speed?,4313 m/s,5.973684210526316 m/s,23.894736842105264 m/s,11.947368421052632 m/s,11.947368421052632 m/s
+K,Science,Animals,Intermediate,An object travels 219 m in 41 s. What is its average speed?,5.341463414634147 m/s,8979 m/s,2.6707317073170733 m/s,10.682926829268293 m/s,5.341463414634147 m/s
+K,Science,Senses,Intermediate,An object of mass 16 kg accelerates at 8 m/s². What net force acts on it?,1024 N,112 N,128 N,144 N,128 N
+K,Science,Plants,Intermediate,An object travels 252 m in 39 s. What is its average speed?,12.923076923076923 m/s,3.230769230769231 m/s,9828 m/s,6.461538461538462 m/s,6.461538461538462 m/s
+K,Science,Animals,Intermediate,An object travels 110 m in 18 s. What is its average speed?,3.0555555555555554 m/s,6.111111111111111 m/s,12.222222222222221 m/s,1980 m/s,6.111111111111111 m/s
+K,Science,Plants,Intermediate,An object travels 445 m in 33 s. What is its average speed?,13.484848484848484 m/s,6.742424242424242 m/s,14685 m/s,26.96969696969697 m/s,13.484848484848484 m/s
+K,Science,Plants,Intermediate,An object of mass 3 kg accelerates at 8 m/s². What net force acts on it?,27 N,21 N,24 N,192 N,24 N
+K,Science,Weather,Intermediate,An object of mass 14 kg accelerates at 6 m/s². What net force acts on it?,70 N,504 N,98 N,84 N,84 N
+K,Science,Senses,Intermediate,An object of mass 1 kg accelerates at 10 m/s². What net force acts on it?,10 N,11 N,100 N,9 N,10 N
+K,Science,Plants,Intermediate,An object travels 143 m in 3 s. What is its average speed?,23.833333333333332 m/s,95.33333333333333 m/s,47.666666666666664 m/s,429 m/s,47.666666666666664 m/s
+K,Science,Plants,Intermediate,An object travels 431 m in 37 s. What is its average speed?,15947 m/s,23.2972972972973 m/s,5.824324324324325 m/s,11.64864864864865 m/s,11.64864864864865 m/s
+K,Science,Plants,Intermediate,An object travels 483 m in 23 s. What is its average speed?,10.5 m/s,42.0 m/s,21.0 m/s,11109 m/s,21.0 m/s
+K,Science,Animals,Intermediate,An object travels 261 m in 9 s. What is its average speed?,14.5 m/s,29.0 m/s,58.0 m/s,2349 m/s,29.0 m/s
+K,Science,Animals,Intermediate,An object of mass 5 kg accelerates at 6 m/s². What net force acts on it?,25 N,35 N,180 N,30 N,30 N
+K,Science,Animals,Intermediate,An object travels 67 m in 39 s. What is its average speed?,0.8589743589743589 m/s,2613 m/s,3.4358974358974357 m/s,1.7179487179487178 m/s,1.7179487179487178 m/s
+K,Science,Senses,Intermediate,An object travels 277 m in 29 s. What is its average speed?,9.551724137931034 m/s,19.103448275862068 m/s,8033 m/s,4.775862068965517 m/s,9.551724137931034 m/s
+K,Science,Plants,Intermediate,An object of mass 15 kg accelerates at 2 m/s². What net force acts on it?,15 N,60 N,30 N,45 N,30 N
+K,Science,Weather,Intermediate,An object travels 155 m in 50 s. What is its average speed?,1.55 m/s,6.2 m/s,3.1 m/s,7750 m/s,3.1 m/s
+K,Science,Animals,Intermediate,An object travels 56 m in 50 s. What is its average speed?,0.56 m/s,1.12 m/s,2800 m/s,2.24 m/s,1.12 m/s
+K,Science,Plants,Intermediate,An object travels 290 m in 5 s. What is its average speed?,1450 m/s,58.0 m/s,116.0 m/s,29.0 m/s,58.0 m/s
+K,Science,Weather,Intermediate,An object travels 402 m in 17 s. What is its average speed?,6834 m/s,23.647058823529413 m/s,11.823529411764707 m/s,47.294117647058826 m/s,23.647058823529413 m/s
+K,Science,Plants,Intermediate,An object travels 32 m in 46 s. What is its average speed?,0.34782608695652173 m/s,1472 m/s,0.6956521739130435 m/s,1.391304347826087 m/s,0.6956521739130435 m/s
+K,Science,Weather,Intermediate,An object of mass 13 kg accelerates at 1 m/s². What net force acts on it?,Option 3,13 N,26 N,0 N,13 N
+K,Science,Plants,Intermediate,An object travels 278 m in 37 s. What is its average speed?,15.027027027027026 m/s,3.7567567567567566 m/s,7.513513513513513 m/s,10286 m/s,7.513513513513513 m/s
+K,Science,Senses,Intermediate,An object travels 490 m in 20 s. What is its average speed?,9800 m/s,49.0 m/s,12.25 m/s,24.5 m/s,24.5 m/s
+K,Science,Senses,Intermediate,An object travels 74 m in 36 s. What is its average speed?,1.0277777777777777 m/s,4.111111111111111 m/s,2.0555555555555554 m/s,2664 m/s,2.0555555555555554 m/s
+K,Science,Animals,Intermediate,An object of mass 9 kg accelerates at 4 m/s². What net force acts on it?,45 N,36 N,144 N,27 N,36 N
+K,Science,Animals,Intermediate,An object travels 402 m in 1 s. What is its average speed?,201.0 m/s,402 m/s,402.0 m/s,804.0 m/s,402.0 m/s
+K,Science,Weather,Intermediate,An object travels 328 m in 11 s. What is its average speed?,3608 m/s,14.909090909090908 m/s,59.63636363636363 m/s,29.818181818181817 m/s,29.818181818181817 m/s
+K,Science,Plants,Intermediate,An object travels 440 m in 38 s. What is its average speed?,16720 m/s,23.157894736842106 m/s,5.7894736842105265 m/s,11.578947368421053 m/s,11.578947368421053 m/s
+K,Science,Plants,Intermediate,An object travels 85 m in 5 s. What is its average speed?,8.5 m/s,17.0 m/s,34.0 m/s,425 m/s,17.0 m/s
+K,Science,Plants,Intermediate,An object travels 21 m in 9 s. What is its average speed?,2.3333333333333335 m/s,1.1666666666666667 m/s,4.666666666666667 m/s,189 m/s,2.3333333333333335 m/s
+K,Science,Weather,Intermediate,An object travels 66 m in 12 s. What is its average speed?,2.75 m/s,792 m/s,11.0 m/s,5.5 m/s,5.5 m/s
+K,Science,Plants,Intermediate,An object of mass 16 kg accelerates at 6 m/s². What net force acts on it?,96 N,80 N,112 N,576 N,96 N
+K,Science,Plants,Intermediate,An object travels 290 m in 35 s. What is its average speed?,10150 m/s,4.142857142857143 m/s,8.285714285714286 m/s,16.571428571428573 m/s,8.285714285714286 m/s
+K,Science,Animals,Intermediate,An object travels 60 m in 43 s. What is its average speed?,1.3953488372093024 m/s,0.6976744186046512 m/s,2580 m/s,2.7906976744186047 m/s,1.3953488372093024 m/s
+K,Science,Plants,Intermediate,An object travels 338 m in 5 s. What is its average speed?,67.6 m/s,135.2 m/s,1690 m/s,33.8 m/s,67.6 m/s
+K,Science,Senses,Intermediate,An object travels 50 m in 19 s. What is its average speed?,5.2631578947368425 m/s,2.6315789473684212 m/s,1.3157894736842106 m/s,950 m/s,2.6315789473684212 m/s
+K,Science,Animals,Intermediate,An object of mass 9 kg accelerates at 9 m/s². What net force acts on it?,729 N,90 N,81 N,72 N,81 N
+K,Science,Senses,Intermediate,An object travels 117 m in 41 s. What is its average speed?,5.7073170731707314 m/s,4797 m/s,1.4268292682926829 m/s,2.8536585365853657 m/s,2.8536585365853657 m/s
+K,Science,Weather,Intermediate,An object travels 373 m in 35 s. What is its average speed?,10.657142857142857 m/s,5.328571428571428 m/s,21.314285714285713 m/s,13055 m/s,10.657142857142857 m/s
+K,Science,Weather,Intermediate,An object travels 443 m in 17 s. What is its average speed?,7531 m/s,26.058823529411764 m/s,13.029411764705882 m/s,52.11764705882353 m/s,26.058823529411764 m/s
+K,Science,Weather,Intermediate,An object travels 413 m in 11 s. What is its average speed?,37.54545454545455 m/s,18.772727272727273 m/s,75.0909090909091 m/s,4543 m/s,37.54545454545455 m/s
+K,Science,Plants,Intermediate,An object travels 489 m in 8 s. What is its average speed?,61.125 m/s,30.5625 m/s,122.25 m/s,3912 m/s,61.125 m/s
+K,Science,Weather,Intermediate,An object travels 101 m in 36 s. What is its average speed?,3636 m/s,1.4027777777777777 m/s,2.8055555555555554 m/s,5.611111111111111 m/s,2.8055555555555554 m/s
+K,Science,Animals,Intermediate,An object travels 416 m in 18 s. What is its average speed?,23.11111111111111 m/s,11.555555555555555 m/s,46.22222222222222 m/s,7488 m/s,23.11111111111111 m/s
+K,Science,Plants,Intermediate,An object travels 366 m in 32 s. What is its average speed?,5.71875 m/s,22.875 m/s,11.4375 m/s,11712 m/s,11.4375 m/s
+K,Science,Animals,Intermediate,An object travels 286 m in 40 s. What is its average speed?,11440 m/s,14.3 m/s,7.15 m/s,3.575 m/s,7.15 m/s
+K,Science,Weather,Intermediate,An object travels 265 m in 26 s. What is its average speed?,5.096153846153846 m/s,20.384615384615383 m/s,6890 m/s,10.192307692307692 m/s,10.192307692307692 m/s
+K,Science,Plants,Intermediate,An object travels 63 m in 26 s. What is its average speed?,2.423076923076923 m/s,4.846153846153846 m/s,1638 m/s,1.2115384615384615 m/s,2.423076923076923 m/s
+K,Science,Plants,Intermediate,An object travels 289 m in 19 s. What is its average speed?,15.210526315789474 m/s,7.605263157894737 m/s,30.42105263157895 m/s,5491 m/s,15.210526315789474 m/s
+K,Science,Weather,Intermediate,An object of mass 8 kg accelerates at 2 m/s². What net force acts on it?,8 N,24 N,32 N,16 N,16 N
+K,Science,Plants,Intermediate,An object travels 185 m in 22 s. What is its average speed?,8.409090909090908 m/s,16.818181818181817 m/s,4.204545454545454 m/s,4070 m/s,8.409090909090908 m/s
+K,Science,Weather,Intermediate,An object travels 111 m in 38 s. What is its average speed?,5.842105263157895 m/s,1.4605263157894737 m/s,4218 m/s,2.9210526315789473 m/s,2.9210526315789473 m/s
+K,Science,Animals,Intermediate,An object travels 18 m in 42 s. What is its average speed?,0.42857142857142855 m/s,0.8571428571428571 m/s,0.21428571428571427 m/s,756 m/s,0.42857142857142855 m/s
+K,Science,Weather,Intermediate,An object travels 489 m in 41 s. What is its average speed?,20049 m/s,11.926829268292684 m/s,5.963414634146342 m/s,23.853658536585368 m/s,11.926829268292684 m/s
+K,Science,Weather,Intermediate,An object travels 341 m in 2 s. What is its average speed?,170.5 m/s,682 m/s,85.25 m/s,341.0 m/s,170.5 m/s
+K,Science,Plants,Intermediate,An object travels 494 m in 23 s. What is its average speed?,42.95652173913044 m/s,21.47826086956522 m/s,10.73913043478261 m/s,11362 m/s,21.47826086956522 m/s
+K,Science,Weather,Intermediate,An object travels 258 m in 13 s. What is its average speed?,19.846153846153847 m/s,3354 m/s,9.923076923076923 m/s,39.69230769230769 m/s,19.846153846153847 m/s
+K,Science,Senses,Intermediate,An object travels 383 m in 20 s. What is its average speed?,19.15 m/s,7660 m/s,38.3 m/s,9.575 m/s,19.15 m/s
+K,Science,Senses,Intermediate,An object travels 47 m in 32 s. What is its average speed?,0.734375 m/s,2.9375 m/s,1504 m/s,1.46875 m/s,1.46875 m/s
+K,Science,Animals,Intermediate,An object travels 322 m in 16 s. What is its average speed?,20.125 m/s,40.25 m/s,10.0625 m/s,5152 m/s,20.125 m/s
+K,Science,Senses,Intermediate,An object travels 184 m in 3 s. What is its average speed?,61.333333333333336 m/s,122.66666666666667 m/s,30.666666666666668 m/s,552 m/s,61.333333333333336 m/s
+K,Science,Senses,Intermediate,An object travels 186 m in 33 s. What is its average speed?,2.8181818181818183 m/s,5.636363636363637 m/s,11.272727272727273 m/s,6138 m/s,5.636363636363637 m/s
+K,Science,Animals,Intermediate,An object travels 269 m in 30 s. What is its average speed?,17.933333333333334 m/s,8070 m/s,4.483333333333333 m/s,8.966666666666667 m/s,8.966666666666667 m/s
+K,Science,Senses,Intermediate,An object travels 317 m in 49 s. What is its average speed?,6.469387755102041 m/s,15533 m/s,3.2346938775510203 m/s,12.938775510204081 m/s,6.469387755102041 m/s
+K,Science,Weather,Intermediate,An object of mass 4 kg accelerates at 3 m/s². What net force acts on it?,16 N,8 N,36 N,12 N,12 N
+K,Science,Senses,Intermediate,An object travels 75 m in 50 s. What is its average speed?,0.75 m/s,1.5 m/s,3750 m/s,3.0 m/s,1.5 m/s
+K,Science,Weather,Intermediate,An object travels 11 m in 42 s. What is its average speed?,462 m/s,0.13095238095238096 m/s,0.2619047619047619 m/s,0.5238095238095238 m/s,0.2619047619047619 m/s
+K,Science,Animals,Intermediate,An object of mass 11 kg accelerates at 2 m/s². What net force acts on it?,33 N,11 N,44 N,22 N,22 N
+K,Science,Plants,Intermediate,An object travels 156 m in 49 s. What is its average speed?,7644 m/s,3.183673469387755 m/s,6.36734693877551 m/s,1.5918367346938775 m/s,3.183673469387755 m/s
+K,Science,Senses,Intermediate,An object travels 108 m in 20 s. What is its average speed?,10.8 m/s,2.7 m/s,2160 m/s,5.4 m/s,5.4 m/s
+K,Science,Senses,Intermediate,An object travels 247 m in 1 s. What is its average speed?,247.0 m/s,247 m/s,494.0 m/s,123.5 m/s,247.0 m/s
+K,Science,Senses,Intermediate,An object travels 468 m in 35 s. What is its average speed?,13.371428571428572 m/s,16380 m/s,26.742857142857144 m/s,6.685714285714286 m/s,13.371428571428572 m/s
+K,Science,Weather,Intermediate,An object of mass 12 kg accelerates at 1 m/s². What net force acts on it?,0 N,Option 3,24 N,12 N,12 N
+K,Science,Plants,Intermediate,An object travels 319 m in 6 s. What is its average speed?,53.166666666666664 m/s,106.33333333333333 m/s,26.583333333333332 m/s,1914 m/s,53.166666666666664 m/s
+K,Science,Weather,Intermediate,An object travels 215 m in 38 s. What is its average speed?,11.31578947368421 m/s,5.657894736842105 m/s,2.8289473684210527 m/s,8170 m/s,5.657894736842105 m/s
+K,Science,Animals,Intermediate,An object travels 31 m in 22 s. What is its average speed?,1.4090909090909092 m/s,682 m/s,0.7045454545454546 m/s,2.8181818181818183 m/s,1.4090909090909092 m/s
+K,Science,Animals,Intermediate,An object travels 234 m in 18 s. What is its average speed?,4212 m/s,6.5 m/s,13.0 m/s,26.0 m/s,13.0 m/s
+K,Science,Senses,Intermediate,An object travels 117 m in 8 s. What is its average speed?,7.3125 m/s,14.625 m/s,29.25 m/s,936 m/s,14.625 m/s
+K,Science,Animals,Intermediate,An object travels 39 m in 9 s. What is its average speed?,4.333333333333333 m/s,8.666666666666666 m/s,351 m/s,2.1666666666666665 m/s,4.333333333333333 m/s
+K,Science,Weather,Intermediate,An object travels 344 m in 27 s. What is its average speed?,6.37037037037037 m/s,25.48148148148148 m/s,9288 m/s,12.74074074074074 m/s,12.74074074074074 m/s
+K,Science,Plants,Intermediate,An object travels 319 m in 17 s. What is its average speed?,18.764705882352942 m/s,5423 m/s,37.529411764705884 m/s,9.382352941176471 m/s,18.764705882352942 m/s
+K,Science,Weather,Intermediate,An object travels 33 m in 16 s. What is its average speed?,528 m/s,1.03125 m/s,4.125 m/s,2.0625 m/s,2.0625 m/s
+K,Science,Animals,Intermediate,An object travels 316 m in 46 s. What is its average speed?,6.869565217391305 m/s,3.4347826086956523 m/s,13.73913043478261 m/s,14536 m/s,6.869565217391305 m/s
+K,Science,Senses,Intermediate,An object travels 195 m in 7 s. What is its average speed?,1365 m/s,13.928571428571429 m/s,55.714285714285715 m/s,27.857142857142858 m/s,27.857142857142858 m/s
+K,Science,Weather,Intermediate,An object travels 229 m in 41 s. What is its average speed?,11.170731707317072 m/s,2.792682926829268 m/s,5.585365853658536 m/s,9389 m/s,5.585365853658536 m/s
+K,Science,Weather,Intermediate,An object travels 31 m in 6 s. What is its average speed?,2.5833333333333335 m/s,10.333333333333334 m/s,5.166666666666667 m/s,186 m/s,5.166666666666667 m/s
+K,Science,Animals,Intermediate,An object travels 351 m in 41 s. What is its average speed?,17.121951219512194 m/s,14391 m/s,8.560975609756097 m/s,4.280487804878049 m/s,8.560975609756097 m/s
+K,Science,Animals,Intermediate,An object travels 293 m in 47 s. What is its average speed?,12.46808510638298 m/s,13771 m/s,6.23404255319149 m/s,3.117021276595745 m/s,6.23404255319149 m/s
+K,Science,Weather,Intermediate,An object travels 37 m in 29 s. What is its average speed?,1.2758620689655173 m/s,2.5517241379310347 m/s,0.6379310344827587 m/s,1073 m/s,1.2758620689655173 m/s
+K,Science,Weather,Intermediate,An object travels 488 m in 46 s. What is its average speed?,22448 m/s,10.608695652173912 m/s,5.304347826086956 m/s,21.217391304347824 m/s,10.608695652173912 m/s
+K,Science,Plants,Intermediate,An object travels 327 m in 13 s. What is its average speed?,50.30769230769231 m/s,25.153846153846153 m/s,4251 m/s,12.576923076923077 m/s,25.153846153846153 m/s
+K,Science,Animals,Intermediate,An object travels 430 m in 25 s. What is its average speed?,17.2 m/s,34.4 m/s,8.6 m/s,10750 m/s,17.2 m/s
+K,Science,Animals,Intermediate,An object of mass 11 kg accelerates at 1 m/s². What net force acts on it?,Option 3,22 N,0 N,11 N,11 N
+K,Science,Weather,Intermediate,An object travels 261 m in 22 s. What is its average speed?,23.727272727272727 m/s,11.863636363636363 m/s,5742 m/s,5.931818181818182 m/s,11.863636363636363 m/s
+K,Science,Plants,Intermediate,An object travels 140 m in 4 s. What is its average speed?,35.0 m/s,17.5 m/s,560 m/s,70.0 m/s,35.0 m/s
+K,Science,Animals,Intermediate,An object travels 45 m in 32 s. What is its average speed?,0.703125 m/s,1440 m/s,2.8125 m/s,1.40625 m/s,1.40625 m/s
+K,Science,Senses,Intermediate,An object travels 153 m in 18 s. What is its average speed?,8.5 m/s,4.25 m/s,17.0 m/s,2754 m/s,8.5 m/s
+K,Science,Animals,Intermediate,An object travels 324 m in 15 s. What is its average speed?,4860 m/s,21.6 m/s,10.8 m/s,43.2 m/s,21.6 m/s
+K,Science,Weather,Intermediate,An object travels 475 m in 40 s. What is its average speed?,19000 m/s,23.75 m/s,11.875 m/s,5.9375 m/s,11.875 m/s
+K,Science,Plants,Intermediate,An object travels 98 m in 27 s. What is its average speed?,7.2592592592592595 m/s,3.6296296296296298 m/s,1.8148148148148149 m/s,2646 m/s,3.6296296296296298 m/s
+K,Science,Animals,Intermediate,An object travels 272 m in 10 s. What is its average speed?,2720 m/s,54.4 m/s,13.6 m/s,27.2 m/s,27.2 m/s
+K,Science,Plants,Intermediate,An object travels 226 m in 36 s. What is its average speed?,3.138888888888889 m/s,8136 m/s,6.277777777777778 m/s,12.555555555555555 m/s,6.277777777777778 m/s
+K,Science,Senses,Intermediate,An object travels 40 m in 24 s. What is its average speed?,960 m/s,3.3333333333333335 m/s,1.6666666666666667 m/s,0.8333333333333334 m/s,1.6666666666666667 m/s
+K,Science,Plants,Intermediate,An object travels 269 m in 20 s. What is its average speed?,6.725 m/s,13.45 m/s,26.9 m/s,5380 m/s,13.45 m/s
+K,Science,Weather,Intermediate,An object travels 400 m in 45 s. What is its average speed?,17.77777777777778 m/s,18000 m/s,4.444444444444445 m/s,8.88888888888889 m/s,8.88888888888889 m/s
+K,Science,Animals,Intermediate,An object travels 83 m in 31 s. What is its average speed?,1.3387096774193548 m/s,2573 m/s,5.354838709677419 m/s,2.6774193548387095 m/s,2.6774193548387095 m/s
+K,Science,Plants,Intermediate,An object of mass 2 kg accelerates at 6 m/s². What net force acts on it?,12 N,72 N,14 N,10 N,12 N
+K,Science,Weather,Intermediate,An object travels 237 m in 4 s. What is its average speed?,118.5 m/s,59.25 m/s,948 m/s,29.625 m/s,59.25 m/s
+K,Science,Plants,Intermediate,An object of mass 2 kg accelerates at 8 m/s². What net force acts on it?,16 N,18 N,128 N,14 N,16 N
+K,Science,Animals,Intermediate,An object travels 253 m in 2 s. What is its average speed?,506 m/s,253.0 m/s,63.25 m/s,126.5 m/s,126.5 m/s
+K,Science,Weather,Intermediate,An object travels 371 m in 34 s. What is its average speed?,12614 m/s,10.911764705882353 m/s,21.823529411764707 m/s,5.455882352941177 m/s,10.911764705882353 m/s
+K,Science,Plants,Intermediate,An object travels 233 m in 47 s. What is its average speed?,9.914893617021276 m/s,4.957446808510638 m/s,2.478723404255319 m/s,10951 m/s,4.957446808510638 m/s
+K,Science,Animals,Intermediate,An object travels 328 m in 40 s. What is its average speed?,16.4 m/s,8.2 m/s,4.1 m/s,13120 m/s,8.2 m/s
+K,Science,Plants,Intermediate,An object travels 63 m in 19 s. What is its average speed?,6.631578947368421 m/s,1.6578947368421053 m/s,3.3157894736842106 m/s,1197 m/s,3.3157894736842106 m/s
+K,Science,Senses,Intermediate,An object travels 371 m in 25 s. What is its average speed?,7.42 m/s,29.68 m/s,14.84 m/s,9275 m/s,14.84 m/s
+K,Science,Animals,Intermediate,An object of mass 1 kg accelerates at 9 m/s². What net force acts on it?,8 N,9 N,10 N,81 N,9 N
+K,Science,Weather,Intermediate,An object travels 448 m in 22 s. What is its average speed?,20.363636363636363 m/s,40.72727272727273 m/s,10.181818181818182 m/s,9856 m/s,20.363636363636363 m/s
+K,Science,Animals,Intermediate,An object travels 216 m in 17 s. What is its average speed?,3672 m/s,6.352941176470588 m/s,25.41176470588235 m/s,12.705882352941176 m/s,12.705882352941176 m/s
+K,Science,Plants,Intermediate,An object travels 372 m in 16 s. What is its average speed?,5952 m/s,11.625 m/s,46.5 m/s,23.25 m/s,23.25 m/s
+K,Science,Animals,Intermediate,An object travels 222 m in 18 s. What is its average speed?,3996 m/s,12.333333333333334 m/s,24.666666666666668 m/s,6.166666666666667 m/s,12.333333333333334 m/s
+K,Science,Animals,Intermediate,An object travels 173 m in 12 s. What is its average speed?,2076 m/s,28.833333333333332 m/s,14.416666666666666 m/s,7.208333333333333 m/s,14.416666666666666 m/s
+K,Science,Plants,Intermediate,An object travels 145 m in 40 s. What is its average speed?,1.8125 m/s,5800 m/s,3.625 m/s,7.25 m/s,3.625 m/s
+K,Science,Animals,Intermediate,An object travels 189 m in 7 s. What is its average speed?,1323 m/s,13.5 m/s,54.0 m/s,27.0 m/s,27.0 m/s
+K,Science,Animals,Intermediate,An object of mass 13 kg accelerates at 5 m/s². What net force acts on it?,65 N,325 N,52 N,78 N,65 N
+K,Science,Weather,Intermediate,An object travels 119 m in 25 s. What is its average speed?,4.76 m/s,2.38 m/s,9.52 m/s,2975 m/s,4.76 m/s
+K,Science,Senses,Intermediate,An object travels 398 m in 11 s. What is its average speed?,18.09090909090909 m/s,4378 m/s,36.18181818181818 m/s,72.36363636363636 m/s,36.18181818181818 m/s
+K,Science,Senses,Intermediate,An object of mass 17 kg accelerates at 8 m/s². What net force acts on it?,153 N,1088 N,119 N,136 N,136 N
+K,Science,Weather,Intermediate,An object travels 372 m in 46 s. What is its average speed?,17112 m/s,16.17391304347826 m/s,8.08695652173913 m/s,4.043478260869565 m/s,8.08695652173913 m/s
+K,Science,Senses,Intermediate,An object travels 152 m in 19 s. What is its average speed?,8.0 m/s,4.0 m/s,2888 m/s,16.0 m/s,8.0 m/s
+K,Science,Senses,Intermediate,An object travels 325 m in 16 s. What is its average speed?,40.625 m/s,5200 m/s,10.15625 m/s,20.3125 m/s,20.3125 m/s
+K,Science,Plants,Intermediate,An object travels 311 m in 47 s. What is its average speed?,14617 m/s,6.617021276595745 m/s,3.3085106382978724 m/s,13.23404255319149 m/s,6.617021276595745 m/s
+K,Science,Animals,Intermediate,An object travels 121 m in 7 s. What is its average speed?,847 m/s,8.642857142857142 m/s,17.285714285714285 m/s,34.57142857142857 m/s,17.285714285714285 m/s
+K,Science,Weather,Intermediate,An object travels 428 m in 3 s. What is its average speed?,142.66666666666666 m/s,71.33333333333333 m/s,285.3333333333333 m/s,1284 m/s,142.66666666666666 m/s
+K,Science,Senses,Intermediate,An object travels 402 m in 18 s. What is its average speed?,22.333333333333332 m/s,44.666666666666664 m/s,11.166666666666666 m/s,7236 m/s,22.333333333333332 m/s
+K,Science,Animals,Intermediate,An object travels 199 m in 17 s. What is its average speed?,5.852941176470588 m/s,23.41176470588235 m/s,11.705882352941176 m/s,3383 m/s,11.705882352941176 m/s
+K,Science,Weather,Intermediate,An object travels 108 m in 38 s. What is its average speed?,1.4210526315789473 m/s,5.684210526315789 m/s,2.8421052631578947 m/s,4104 m/s,2.8421052631578947 m/s
+K,Science,Weather,Intermediate,An object travels 339 m in 43 s. What is its average speed?,3.941860465116279 m/s,7.883720930232558 m/s,14577 m/s,15.767441860465116 m/s,7.883720930232558 m/s
+K,Science,Animals,Intermediate,An object travels 389 m in 38 s. What is its average speed?,5.118421052631579 m/s,10.236842105263158 m/s,14782 m/s,20.473684210526315 m/s,10.236842105263158 m/s
+K,Science,Plants,Intermediate,An object travels 424 m in 10 s. What is its average speed?,42.4 m/s,84.8 m/s,4240 m/s,21.2 m/s,42.4 m/s
+K,Science,Plants,Intermediate,An object travels 270 m in 44 s. What is its average speed?,3.0681818181818183 m/s,11880 m/s,6.136363636363637 m/s,12.272727272727273 m/s,6.136363636363637 m/s
+K,Science,Weather,Intermediate,An object travels 413 m in 4 s. What is its average speed?,1652 m/s,51.625 m/s,206.5 m/s,103.25 m/s,103.25 m/s
+K,Science,Weather,Intermediate,An object travels 62 m in 20 s. What is its average speed?,3.1 m/s,1240 m/s,1.55 m/s,6.2 m/s,3.1 m/s
+K,Science,Animals,Intermediate,An object travels 273 m in 43 s. What is its average speed?,6.348837209302325 m/s,3.1744186046511627 m/s,12.69767441860465 m/s,11739 m/s,6.348837209302325 m/s
+K,Science,Plants,Intermediate,An object travels 30 m in 23 s. What is its average speed?,1.3043478260869565 m/s,2.608695652173913 m/s,690 m/s,0.6521739130434783 m/s,1.3043478260869565 m/s
+K,Science,Animals,Intermediate,An object travels 58 m in 36 s. What is its average speed?,3.2222222222222223 m/s,2088 m/s,1.6111111111111112 m/s,0.8055555555555556 m/s,1.6111111111111112 m/s
+K,Science,Plants,Intermediate,An object travels 47 m in 40 s. What is its average speed?,0.5875 m/s,1.175 m/s,2.35 m/s,1880 m/s,1.175 m/s
+K,Science,Weather,Intermediate,An object travels 205 m in 29 s. What is its average speed?,3.5344827586206895 m/s,5945 m/s,7.068965517241379 m/s,14.137931034482758 m/s,7.068965517241379 m/s
+K,Science,Senses,Intermediate,An object travels 167 m in 30 s. What is its average speed?,5010 m/s,5.566666666666666 m/s,2.783333333333333 m/s,11.133333333333333 m/s,5.566666666666666 m/s
+K,Science,Plants,Intermediate,An object travels 217 m in 8 s. What is its average speed?,27.125 m/s,54.25 m/s,1736 m/s,13.5625 m/s,27.125 m/s
+K,Science,Senses,Intermediate,An object of mass 14 kg accelerates at 9 m/s². What net force acts on it?,140 N,1134 N,112 N,126 N,126 N
+K,Science,Plants,Intermediate,An object travels 467 m in 28 s. What is its average speed?,16.678571428571427 m/s,13076 m/s,33.357142857142854 m/s,8.339285714285714 m/s,16.678571428571427 m/s
+K,Science,Plants,Intermediate,An object travels 119 m in 30 s. What is its average speed?,1.9833333333333334 m/s,3570 m/s,7.933333333333334 m/s,3.966666666666667 m/s,3.966666666666667 m/s
+K,Science,Weather,Intermediate,An object travels 171 m in 19 s. What is its average speed?,18.0 m/s,3249 m/s,9.0 m/s,4.5 m/s,9.0 m/s
+K,Science,Weather,Intermediate,An object of mass 17 kg accelerates at 3 m/s². What net force acts on it?,153 N,51 N,68 N,34 N,51 N
+K,Science,Plants,Intermediate,An object travels 328 m in 35 s. What is its average speed?,9.371428571428572 m/s,4.685714285714286 m/s,11480 m/s,18.742857142857144 m/s,9.371428571428572 m/s
+K,Science,Animals,Intermediate,An object travels 254 m in 50 s. What is its average speed?,5.08 m/s,2.54 m/s,10.16 m/s,12700 m/s,5.08 m/s
+K,Science,Plants,Intermediate,An object travels 261 m in 37 s. What is its average speed?,14.108108108108109 m/s,7.054054054054054 m/s,9657 m/s,3.527027027027027 m/s,7.054054054054054 m/s
+K,Science,Animals,Intermediate,An object of mass 18 kg accelerates at 5 m/s². What net force acts on it?,450 N,90 N,72 N,108 N,90 N
+K,Science,Senses,Intermediate,An object of mass 14 kg accelerates at 3 m/s². What net force acts on it?,56 N,42 N,126 N,28 N,42 N
+K,Science,Animals,Intermediate,An object of mass 15 kg accelerates at 5 m/s². What net force acts on it?,60 N,90 N,375 N,75 N,75 N
+K,Science,Plants,Intermediate,An object travels 123 m in 21 s. What is its average speed?,2583 m/s,11.714285714285714 m/s,2.9285714285714284 m/s,5.857142857142857 m/s,5.857142857142857 m/s
+K,Science,Plants,Intermediate,An object travels 457 m in 26 s. What is its average speed?,8.788461538461538 m/s,11882 m/s,35.15384615384615 m/s,17.576923076923077 m/s,17.576923076923077 m/s
+K,Science,Senses,Intermediate,An object of mass 10 kg accelerates at 10 m/s². What net force acts on it?,110 N,1000 N,90 N,100 N,100 N
+K,Science,Senses,Intermediate,An object travels 20 m in 10 s. What is its average speed?,1.0 m/s,200 m/s,4.0 m/s,2.0 m/s,2.0 m/s
+K,Science,Animals,Intermediate,An object travels 400 m in 28 s. What is its average speed?,14.285714285714286 m/s,11200 m/s,28.571428571428573 m/s,7.142857142857143 m/s,14.285714285714286 m/s
+K,Science,Plants,Intermediate,An object travels 154 m in 27 s. What is its average speed?,5.703703703703703 m/s,2.8518518518518516 m/s,11.407407407407407 m/s,4158 m/s,5.703703703703703 m/s
+K,Science,Weather,Intermediate,An object travels 84 m in 30 s. What is its average speed?,2520 m/s,1.4 m/s,5.6 m/s,2.8 m/s,2.8 m/s
+K,Science,Weather,Intermediate,An object travels 289 m in 22 s. What is its average speed?,6358 m/s,6.568181818181818 m/s,13.136363636363637 m/s,26.272727272727273 m/s,13.136363636363637 m/s
+K,Science,Animals,Intermediate,An object travels 275 m in 36 s. What is its average speed?,15.277777777777779 m/s,3.8194444444444446 m/s,9900 m/s,7.638888888888889 m/s,7.638888888888889 m/s
+K,Science,Animals,Intermediate,An object travels 65 m in 45 s. What is its average speed?,2.888888888888889 m/s,1.4444444444444444 m/s,0.7222222222222222 m/s,2925 m/s,1.4444444444444444 m/s
+K,Science,Plants,Intermediate,An object travels 175 m in 30 s. What is its average speed?,5.833333333333333 m/s,2.9166666666666665 m/s,5250 m/s,11.666666666666666 m/s,5.833333333333333 m/s
+K,Science,Senses,Intermediate,An object travels 444 m in 44 s. What is its average speed?,10.090909090909092 m/s,5.045454545454546 m/s,19536 m/s,20.181818181818183 m/s,10.090909090909092 m/s
+K,Science,Weather,Intermediate,An object travels 459 m in 16 s. What is its average speed?,28.6875 m/s,14.34375 m/s,7344 m/s,57.375 m/s,28.6875 m/s
+K,Science,Senses,Intermediate,An object travels 187 m in 32 s. What is its average speed?,2.921875 m/s,11.6875 m/s,5984 m/s,5.84375 m/s,5.84375 m/s
+K,Science,Senses,Intermediate,An object of mass 5 kg accelerates at 8 m/s². What net force acts on it?,45 N,40 N,320 N,35 N,40 N
+K,Science,Weather,Intermediate,An object travels 350 m in 47 s. What is its average speed?,3.723404255319149 m/s,14.893617021276595 m/s,16450 m/s,7.446808510638298 m/s,7.446808510638298 m/s
+K,Science,Plants,Intermediate,An object travels 428 m in 20 s. What is its average speed?,42.8 m/s,8560 m/s,10.7 m/s,21.4 m/s,21.4 m/s
+K,Science,Weather,Intermediate,An object travels 169 m in 29 s. What is its average speed?,4901 m/s,5.827586206896552 m/s,2.913793103448276 m/s,11.655172413793103 m/s,5.827586206896552 m/s
+K,Science,Senses,Intermediate,An object travels 82 m in 47 s. What is its average speed?,1.7446808510638299 m/s,0.8723404255319149 m/s,3.4893617021276597 m/s,3854 m/s,1.7446808510638299 m/s
+K,Science,Plants,Intermediate,An object travels 316 m in 40 s. What is its average speed?,7.9 m/s,15.8 m/s,12640 m/s,3.95 m/s,7.9 m/s
+K,Science,Plants,Intermediate,An object travels 178 m in 28 s. What is its average speed?,12.714285714285714 m/s,6.357142857142857 m/s,4984 m/s,3.1785714285714284 m/s,6.357142857142857 m/s
+K,Science,Animals,Intermediate,An object travels 46 m in 44 s. What is its average speed?,2.090909090909091 m/s,0.5227272727272727 m/s,2024 m/s,1.0454545454545454 m/s,1.0454545454545454 m/s
+K,Science,Plants,Intermediate,An object travels 467 m in 2 s. What is its average speed?,934 m/s,467.0 m/s,116.75 m/s,233.5 m/s,233.5 m/s
+K,Science,Senses,Intermediate,An object travels 475 m in 18 s. What is its average speed?,52.77777777777778 m/s,13.194444444444445 m/s,8550 m/s,26.38888888888889 m/s,26.38888888888889 m/s
+K,Science,Senses,Intermediate,An object travels 89 m in 21 s. What is its average speed?,8.476190476190476 m/s,2.119047619047619 m/s,1869 m/s,4.238095238095238 m/s,4.238095238095238 m/s
+K,Science,Plants,Intermediate,An object travels 371 m in 15 s. What is its average speed?,49.46666666666667 m/s,12.366666666666667 m/s,5565 m/s,24.733333333333334 m/s,24.733333333333334 m/s
+K,Science,Plants,Intermediate,An object of mass 3 kg accelerates at 9 m/s². What net force acts on it?,30 N,27 N,24 N,243 N,27 N
+K,Science,Weather,Intermediate,An object travels 293 m in 27 s. What is its average speed?,7911 m/s,21.703703703703702 m/s,5.425925925925926 m/s,10.851851851851851 m/s,10.851851851851851 m/s
+K,Science,Senses,Intermediate,An object travels 279 m in 3 s. What is its average speed?,46.5 m/s,837 m/s,93.0 m/s,186.0 m/s,93.0 m/s
+K,Science,Plants,Intermediate,An object travels 74 m in 47 s. What is its average speed?,1.574468085106383 m/s,3.148936170212766 m/s,3478 m/s,0.7872340425531915 m/s,1.574468085106383 m/s
+K,Science,Senses,Intermediate,An object of mass 1 kg accelerates at 7 m/s². What net force acts on it?,7 N,8 N,49 N,6 N,7 N
+K,Science,Plants,Intermediate,An object travels 362 m in 26 s. What is its average speed?,13.923076923076923 m/s,6.961538461538462 m/s,27.846153846153847 m/s,9412 m/s,13.923076923076923 m/s
+K,Science,Weather,Intermediate,An object travels 292 m in 1 s. What is its average speed?,146.0 m/s,584.0 m/s,292 m/s,292.0 m/s,292.0 m/s
+K,Science,Plants,Intermediate,An object travels 332 m in 23 s. What is its average speed?,7.217391304347826 m/s,7636 m/s,14.434782608695652 m/s,28.869565217391305 m/s,14.434782608695652 m/s
+K,Science,Plants,Intermediate,An object travels 446 m in 49 s. What is its average speed?,9.10204081632653 m/s,18.20408163265306 m/s,4.551020408163265 m/s,21854 m/s,9.10204081632653 m/s
+K,Science,Animals,Intermediate,An object travels 52 m in 10 s. What is its average speed?,2.6 m/s,10.4 m/s,520 m/s,5.2 m/s,5.2 m/s
+K,Science,Plants,Intermediate,An object travels 227 m in 49 s. What is its average speed?,4.63265306122449 m/s,9.26530612244898 m/s,11123 m/s,2.316326530612245 m/s,4.63265306122449 m/s
+K,Science,Senses,Intermediate,An object travels 76 m in 2 s. What is its average speed?,76.0 m/s,19.0 m/s,152 m/s,38.0 m/s,38.0 m/s
+K,Science,Animals,Intermediate,An object travels 277 m in 7 s. What is its average speed?,79.14285714285714 m/s,39.57142857142857 m/s,19.785714285714285 m/s,1939 m/s,39.57142857142857 m/s
+K,Science,Plants,Intermediate,An object travels 126 m in 28 s. What is its average speed?,3528 m/s,2.25 m/s,4.5 m/s,9.0 m/s,4.5 m/s
+K,Science,Plants,Intermediate,An object travels 192 m in 13 s. What is its average speed?,14.76923076923077 m/s,29.53846153846154 m/s,7.384615384615385 m/s,2496 m/s,14.76923076923077 m/s
+K,Science,Plants,Intermediate,An object travels 151 m in 29 s. What is its average speed?,4379 m/s,5.206896551724138 m/s,2.603448275862069 m/s,10.413793103448276 m/s,5.206896551724138 m/s
+K,Science,Weather,Intermediate,An object travels 479 m in 45 s. What is its average speed?,21.288888888888888 m/s,21555 m/s,10.644444444444444 m/s,5.322222222222222 m/s,10.644444444444444 m/s
+K,Science,Senses,Intermediate,An object travels 262 m in 6 s. What is its average speed?,87.33333333333333 m/s,1572 m/s,21.833333333333332 m/s,43.666666666666664 m/s,43.666666666666664 m/s
+K,Science,Senses,Intermediate,An object travels 101 m in 19 s. What is its average speed?,2.6578947368421053 m/s,10.631578947368421 m/s,5.315789473684211 m/s,1919 m/s,5.315789473684211 m/s
+K,Science,Animals,Intermediate,An object travels 346 m in 42 s. What is its average speed?,14532 m/s,16.476190476190474 m/s,8.238095238095237 m/s,4.119047619047619 m/s,8.238095238095237 m/s
+K,Science,Plants,Intermediate,An object travels 403 m in 1 s. What is its average speed?,403 m/s,403.0 m/s,806.0 m/s,201.5 m/s,403.0 m/s
+K,Science,Senses,Intermediate,An object travels 124 m in 22 s. What is its average speed?,2.8181818181818183 m/s,11.272727272727273 m/s,5.636363636363637 m/s,2728 m/s,5.636363636363637 m/s
+K,Science,Weather,Intermediate,An object travels 114 m in 42 s. What is its average speed?,1.3571428571428572 m/s,4788 m/s,5.428571428571429 m/s,2.7142857142857144 m/s,2.7142857142857144 m/s
+K,Science,Senses,Intermediate,An object travels 173 m in 42 s. What is its average speed?,4.119047619047619 m/s,2.0595238095238093 m/s,8.238095238095237 m/s,7266 m/s,4.119047619047619 m/s
+K,Science,Weather,Intermediate,An object of mass 18 kg accelerates at 4 m/s². What net force acts on it?,72 N,54 N,90 N,288 N,72 N
+K,Science,Senses,Intermediate,An object travels 18 m in 15 s. What is its average speed?,2.4 m/s,270 m/s,0.6 m/s,1.2 m/s,1.2 m/s
+K,Science,Senses,Intermediate,An object travels 142 m in 3 s. What is its average speed?,47.333333333333336 m/s,23.666666666666668 m/s,94.66666666666667 m/s,426 m/s,47.333333333333336 m/s
+K,Science,Senses,Intermediate,An object travels 163 m in 23 s. What is its average speed?,14.173913043478262 m/s,7.086956521739131 m/s,3749 m/s,3.5434782608695654 m/s,7.086956521739131 m/s
+K,Science,Plants,Intermediate,An object travels 211 m in 42 s. What is its average speed?,8862 m/s,5.023809523809524 m/s,10.047619047619047 m/s,2.511904761904762 m/s,5.023809523809524 m/s
+K,Science,Senses,Intermediate,An object travels 399 m in 3 s. What is its average speed?,266.0 m/s,133.0 m/s,1197 m/s,66.5 m/s,133.0 m/s
+K,Science,Senses,Intermediate,An object of mass 6 kg accelerates at 1 m/s². What net force acts on it?,0 N,6 N,12 N,Option 3,6 N
+K,Science,Animals,Intermediate,An object travels 111 m in 16 s. What is its average speed?,1776 m/s,13.875 m/s,6.9375 m/s,3.46875 m/s,6.9375 m/s
+K,Science,Plants,Intermediate,An object travels 314 m in 33 s. What is its average speed?,9.515151515151516 m/s,4.757575757575758 m/s,19.03030303030303 m/s,10362 m/s,9.515151515151516 m/s
+K,Science,Animals,Intermediate,An object travels 290 m in 17 s. What is its average speed?,4930 m/s,34.11764705882353 m/s,17.058823529411764 m/s,8.529411764705882 m/s,17.058823529411764 m/s
+K,Science,Plants,Intermediate,An object travels 183 m in 33 s. What is its average speed?,5.545454545454546 m/s,2.772727272727273 m/s,6039 m/s,11.090909090909092 m/s,5.545454545454546 m/s
+K,Science,Weather,Intermediate,An object travels 183 m in 1 s. What is its average speed?,366.0 m/s,183.0 m/s,91.5 m/s,183 m/s,183.0 m/s
+K,Science,Weather,Intermediate,An object travels 419 m in 7 s. What is its average speed?,119.71428571428571 m/s,2933 m/s,59.857142857142854 m/s,29.928571428571427 m/s,59.857142857142854 m/s
+K,Science,Animals,Intermediate,An object travels 13 m in 22 s. What is its average speed?,286 m/s,0.5909090909090909 m/s,0.29545454545454547 m/s,1.1818181818181819 m/s,0.5909090909090909 m/s
+K,Science,Senses,Intermediate,An object travels 40 m in 23 s. What is its average speed?,920 m/s,0.8695652173913043 m/s,3.4782608695652173 m/s,1.7391304347826086 m/s,1.7391304347826086 m/s
+K,Science,Senses,Intermediate,An object travels 211 m in 17 s. What is its average speed?,24.823529411764707 m/s,6.205882352941177 m/s,12.411764705882353 m/s,3587 m/s,12.411764705882353 m/s
+K,Science,Weather,Intermediate,An object travels 416 m in 27 s. What is its average speed?,11232 m/s,30.814814814814813 m/s,7.703703703703703 m/s,15.407407407407407 m/s,15.407407407407407 m/s
+K,Science,Weather,Intermediate,An object travels 280 m in 14 s. What is its average speed?,10.0 m/s,20.0 m/s,40.0 m/s,3920 m/s,20.0 m/s
+K,Science,Weather,Intermediate,An object travels 231 m in 16 s. What is its average speed?,3696 m/s,28.875 m/s,14.4375 m/s,7.21875 m/s,14.4375 m/s
+K,Science,Plants,Intermediate,An object travels 396 m in 6 s. What is its average speed?,33.0 m/s,2376 m/s,132.0 m/s,66.0 m/s,66.0 m/s
+K,Science,Senses,Intermediate,An object of mass 8 kg accelerates at 1 m/s². What net force acts on it?,0 N,Option 3,16 N,8 N,8 N
+K,Science,Plants,Intermediate,An object travels 208 m in 42 s. What is its average speed?,4.9523809523809526 m/s,2.4761904761904763 m/s,8736 m/s,9.904761904761905 m/s,4.9523809523809526 m/s
+K,Science,Senses,Intermediate,An object travels 196 m in 17 s. What is its average speed?,11.529411764705882 m/s,5.764705882352941 m/s,23.058823529411764 m/s,3332 m/s,11.529411764705882 m/s
+K,Science,Animals,Intermediate,An object travels 124 m in 15 s. What is its average speed?,1860 m/s,16.533333333333335 m/s,4.133333333333334 m/s,8.266666666666667 m/s,8.266666666666667 m/s
+K,Science,Animals,Intermediate,An object travels 15 m in 24 s. What is its average speed?,360 m/s,0.3125 m/s,1.25 m/s,0.625 m/s,0.625 m/s
+K,Science,Weather,Intermediate,An object travels 437 m in 9 s. What is its average speed?,97.11111111111111 m/s,3933 m/s,24.27777777777778 m/s,48.55555555555556 m/s,48.55555555555556 m/s
+K,Science,Animals,Intermediate,An object travels 113 m in 48 s. What is its average speed?,1.1770833333333333 m/s,5424 m/s,4.708333333333333 m/s,2.3541666666666665 m/s,2.3541666666666665 m/s
+K,Science,Senses,Intermediate,An object travels 19 m in 34 s. What is its average speed?,0.27941176470588236 m/s,1.1176470588235294 m/s,646 m/s,0.5588235294117647 m/s,0.5588235294117647 m/s
+K,Science,Plants,Intermediate,An object travels 371 m in 2 s. What is its average speed?,742 m/s,371.0 m/s,185.5 m/s,92.75 m/s,185.5 m/s
+K,Science,Animals,Intermediate,An object travels 226 m in 2 s. What is its average speed?,113.0 m/s,56.5 m/s,452 m/s,226.0 m/s,113.0 m/s
+K,Science,Plants,Intermediate,An object travels 347 m in 3 s. What is its average speed?,115.66666666666667 m/s,57.833333333333336 m/s,1041 m/s,231.33333333333334 m/s,115.66666666666667 m/s
+K,Science,Animals,Intermediate,An object travels 182 m in 31 s. What is its average speed?,5.870967741935484 m/s,11.741935483870968 m/s,5642 m/s,2.935483870967742 m/s,5.870967741935484 m/s
+K,Science,Plants,Intermediate,An object travels 476 m in 15 s. What is its average speed?,31.733333333333334 m/s,63.46666666666667 m/s,7140 m/s,15.866666666666667 m/s,31.733333333333334 m/s
+K,Science,Weather,Intermediate,An object travels 235 m in 17 s. What is its average speed?,3995 m/s,6.911764705882353 m/s,27.647058823529413 m/s,13.823529411764707 m/s,13.823529411764707 m/s
+K,Science,Plants,Intermediate,An object travels 229 m in 18 s. What is its average speed?,12.722222222222221 m/s,25.444444444444443 m/s,6.361111111111111 m/s,4122 m/s,12.722222222222221 m/s
+K,Science,Plants,Intermediate,An object travels 249 m in 16 s. What is its average speed?,15.5625 m/s,7.78125 m/s,31.125 m/s,3984 m/s,15.5625 m/s
+K,Science,Animals,Intermediate,An object travels 315 m in 27 s. What is its average speed?,8505 m/s,5.833333333333333 m/s,11.666666666666666 m/s,23.333333333333332 m/s,11.666666666666666 m/s
+K,Science,Plants,Intermediate,An object travels 299 m in 4 s. What is its average speed?,37.375 m/s,1196 m/s,149.5 m/s,74.75 m/s,74.75 m/s
+K,Science,Weather,Intermediate,An object travels 294 m in 9 s. What is its average speed?,65.33333333333333 m/s,16.333333333333332 m/s,32.666666666666664 m/s,2646 m/s,32.666666666666664 m/s
+K,Science,Weather,Intermediate,An object travels 441 m in 5 s. What is its average speed?,2205 m/s,44.1 m/s,176.4 m/s,88.2 m/s,88.2 m/s
+K,Science,Animals,Intermediate,An object travels 106 m in 13 s. What is its average speed?,1378 m/s,16.307692307692307 m/s,8.153846153846153 m/s,4.076923076923077 m/s,8.153846153846153 m/s
+K,Science,Plants,Intermediate,An object travels 261 m in 34 s. What is its average speed?,7.676470588235294 m/s,3.838235294117647 m/s,8874 m/s,15.352941176470589 m/s,7.676470588235294 m/s
+K,Science,Weather,Intermediate,An object travels 331 m in 46 s. What is its average speed?,14.391304347826088 m/s,7.195652173913044 m/s,15226 m/s,3.597826086956522 m/s,7.195652173913044 m/s
+K,Science,Weather,Intermediate,An object travels 408 m in 34 s. What is its average speed?,24.0 m/s,13872 m/s,12.0 m/s,6.0 m/s,12.0 m/s
+K,Science,Plants,Intermediate,An object travels 78 m in 22 s. What is its average speed?,3.5454545454545454 m/s,1.7727272727272727 m/s,1716 m/s,7.090909090909091 m/s,3.5454545454545454 m/s
+K,Science,Senses,Intermediate,An object travels 345 m in 29 s. What is its average speed?,10005 m/s,11.89655172413793 m/s,23.79310344827586 m/s,5.948275862068965 m/s,11.89655172413793 m/s
+K,Science,Weather,Intermediate,An object travels 346 m in 37 s. What is its average speed?,9.35135135135135 m/s,18.7027027027027 m/s,4.675675675675675 m/s,12802 m/s,9.35135135135135 m/s
+K,Science,Animals,Intermediate,An object travels 378 m in 41 s. What is its average speed?,18.4390243902439 m/s,4.609756097560975 m/s,15498 m/s,9.21951219512195 m/s,9.21951219512195 m/s
+K,Science,Plants,Intermediate,An object travels 138 m in 37 s. What is its average speed?,7.45945945945946 m/s,5106 m/s,3.72972972972973 m/s,1.864864864864865 m/s,3.72972972972973 m/s
+K,Science,Animals,Intermediate,An object travels 122 m in 23 s. What is its average speed?,5.304347826086956 m/s,10.608695652173912 m/s,2806 m/s,2.652173913043478 m/s,5.304347826086956 m/s
+K,Science,Plants,Intermediate,An object travels 487 m in 20 s. What is its average speed?,48.7 m/s,12.175 m/s,9740 m/s,24.35 m/s,24.35 m/s
+K,Science,Plants,Intermediate,An object travels 68 m in 33 s. What is its average speed?,1.0303030303030303 m/s,4.121212121212121 m/s,2.0606060606060606 m/s,2244 m/s,2.0606060606060606 m/s
+K,Science,Weather,Intermediate,An object travels 137 m in 14 s. What is its average speed?,19.571428571428573 m/s,9.785714285714286 m/s,4.892857142857143 m/s,1918 m/s,9.785714285714286 m/s
+K,Science,Weather,Intermediate,An object travels 294 m in 30 s. What is its average speed?,9.8 m/s,8820 m/s,19.6 m/s,4.9 m/s,9.8 m/s
+K,Science,Plants,Intermediate,An object travels 11 m in 50 s. What is its average speed?,550 m/s,0.22 m/s,0.44 m/s,0.11 m/s,0.22 m/s
+K,Science,Senses,Intermediate,An object travels 103 m in 36 s. What is its average speed?,1.4305555555555556 m/s,5.722222222222222 m/s,2.861111111111111 m/s,3708 m/s,2.861111111111111 m/s
+K,Science,Senses,Intermediate,An object travels 176 m in 23 s. What is its average speed?,4048 m/s,7.6521739130434785 m/s,15.304347826086957 m/s,3.8260869565217392 m/s,7.6521739130434785 m/s
+K,Science,Animals,Intermediate,An object travels 20 m in 50 s. What is its average speed?,0.4 m/s,0.8 m/s,1000 m/s,0.2 m/s,0.4 m/s
+K,Science,Plants,Intermediate,An object travels 308 m in 12 s. What is its average speed?,51.333333333333336 m/s,12.833333333333334 m/s,25.666666666666668 m/s,3696 m/s,25.666666666666668 m/s
+K,Science,Plants,Intermediate,An object travels 167 m in 12 s. What is its average speed?,6.958333333333333 m/s,27.833333333333332 m/s,13.916666666666666 m/s,2004 m/s,13.916666666666666 m/s
+K,Science,Animals,Intermediate,An object travels 161 m in 6 s. What is its average speed?,53.666666666666664 m/s,26.833333333333332 m/s,13.416666666666666 m/s,966 m/s,26.833333333333332 m/s
+K,Science,Plants,Intermediate,An object travels 52 m in 6 s. What is its average speed?,4.333333333333333 m/s,17.333333333333332 m/s,8.666666666666666 m/s,312 m/s,8.666666666666666 m/s
+K,Science,Weather,Intermediate,An object travels 189 m in 3 s. What is its average speed?,567 m/s,63.0 m/s,31.5 m/s,126.0 m/s,63.0 m/s
+K,Science,Plants,Intermediate,An object travels 134 m in 20 s. What is its average speed?,2680 m/s,3.35 m/s,6.7 m/s,13.4 m/s,6.7 m/s
+K,Science,Senses,Intermediate,An object travels 176 m in 30 s. What is its average speed?,2.933333333333333 m/s,5.866666666666666 m/s,11.733333333333333 m/s,5280 m/s,5.866666666666666 m/s
+K,Science,Weather,Intermediate,An object travels 424 m in 1 s. What is its average speed?,424 m/s,848.0 m/s,212.0 m/s,424.0 m/s,424.0 m/s
+K,Science,Senses,Intermediate,An object travels 341 m in 31 s. What is its average speed?,22.0 m/s,5.5 m/s,11.0 m/s,10571 m/s,11.0 m/s
+K,Science,Animals,Intermediate,An object travels 447 m in 21 s. What is its average speed?,9387 m/s,10.642857142857142 m/s,21.285714285714285 m/s,42.57142857142857 m/s,21.285714285714285 m/s
+K,Science,Animals,Intermediate,An object travels 119 m in 44 s. What is its average speed?,5.409090909090909 m/s,5236 m/s,2.7045454545454546 m/s,1.3522727272727273 m/s,2.7045454545454546 m/s
+K,Science,Weather,Intermediate,An object travels 425 m in 11 s. What is its average speed?,77.27272727272727 m/s,19.318181818181817 m/s,4675 m/s,38.63636363636363 m/s,38.63636363636363 m/s
+K,Science,Animals,Intermediate,An object travels 473 m in 18 s. What is its average speed?,8514 m/s,26.27777777777778 m/s,52.55555555555556 m/s,13.13888888888889 m/s,26.27777777777778 m/s
+K,Science,Animals,Intermediate,An object travels 140 m in 25 s. What is its average speed?,11.2 m/s,5.6 m/s,2.8 m/s,3500 m/s,5.6 m/s
+K,Science,Animals,Intermediate,An object travels 358 m in 3 s. What is its average speed?,119.33333333333333 m/s,238.66666666666666 m/s,1074 m/s,59.666666666666664 m/s,119.33333333333333 m/s
+K,Science,Animals,Intermediate,An object travels 242 m in 50 s. What is its average speed?,12100 m/s,9.68 m/s,4.84 m/s,2.42 m/s,4.84 m/s
+K,Science,Animals,Intermediate,An object travels 84 m in 27 s. What is its average speed?,1.5555555555555556 m/s,3.111111111111111 m/s,6.222222222222222 m/s,2268 m/s,3.111111111111111 m/s
+K,Science,Weather,Intermediate,An object travels 82 m in 20 s. What is its average speed?,4.1 m/s,1640 m/s,8.2 m/s,2.05 m/s,4.1 m/s
+K,Science,Animals,Intermediate,An object travels 93 m in 28 s. What is its average speed?,2604 m/s,3.3214285714285716 m/s,6.642857142857143 m/s,1.6607142857142858 m/s,3.3214285714285716 m/s
+K,Science,Animals,Intermediate,An object travels 406 m in 4 s. What is its average speed?,101.5 m/s,50.75 m/s,203.0 m/s,1624 m/s,101.5 m/s
+K,Science,Senses,Intermediate,An object travels 86 m in 38 s. What is its average speed?,3268 m/s,4.526315789473684 m/s,2.263157894736842 m/s,1.131578947368421 m/s,2.263157894736842 m/s
+K,Science,Senses,Intermediate,An object travels 115 m in 8 s. What is its average speed?,920 m/s,28.75 m/s,7.1875 m/s,14.375 m/s,14.375 m/s
+K,Science,Animals,Intermediate,An object travels 288 m in 5 s. What is its average speed?,115.2 m/s,28.8 m/s,57.6 m/s,1440 m/s,57.6 m/s
+K,Science,Senses,Intermediate,An object travels 138 m in 30 s. What is its average speed?,4140 m/s,4.6 m/s,9.2 m/s,2.3 m/s,4.6 m/s
+K,Science,Animals,Intermediate,An object travels 307 m in 31 s. What is its average speed?,9517 m/s,19.806451612903224 m/s,4.951612903225806 m/s,9.903225806451612 m/s,9.903225806451612 m/s
+K,Science,Animals,Intermediate,An object travels 95 m in 8 s. What is its average speed?,11.875 m/s,5.9375 m/s,760 m/s,23.75 m/s,11.875 m/s
+K,Science,Weather,Intermediate,An object travels 489 m in 36 s. What is its average speed?,17604 m/s,6.791666666666667 m/s,27.166666666666668 m/s,13.583333333333334 m/s,13.583333333333334 m/s
+K,Science,Animals,Intermediate,An object travels 500 m in 28 s. What is its average speed?,14000 m/s,17.857142857142858 m/s,8.928571428571429 m/s,35.714285714285715 m/s,17.857142857142858 m/s
+K,Science,Weather,Intermediate,An object travels 358 m in 18 s. What is its average speed?,6444 m/s,19.88888888888889 m/s,9.944444444444445 m/s,39.77777777777778 m/s,19.88888888888889 m/s
+K,Science,Animals,Intermediate,An object travels 395 m in 31 s. What is its average speed?,6.370967741935484 m/s,25.483870967741936 m/s,12245 m/s,12.741935483870968 m/s,12.741935483870968 m/s
+K,Science,Senses,Intermediate,An object travels 246 m in 27 s. What is its average speed?,6642 m/s,4.555555555555555 m/s,18.22222222222222 m/s,9.11111111111111 m/s,9.11111111111111 m/s
+K,Science,Senses,Intermediate,An object of mass 19 kg accelerates at 2 m/s². What net force acts on it?,38 N,76 N,19 N,57 N,38 N
+K,Science,Weather,Intermediate,An object travels 191 m in 47 s. What is its average speed?,8977 m/s,4.0638297872340425 m/s,2.0319148936170213 m/s,8.127659574468085 m/s,4.0638297872340425 m/s
+K,Science,Weather,Intermediate,An object travels 134 m in 1 s. What is its average speed?,268.0 m/s,67.0 m/s,134 m/s,134.0 m/s,134.0 m/s
+K,Science,Senses,Intermediate,An object travels 450 m in 22 s. What is its average speed?,10.227272727272727 m/s,40.90909090909091 m/s,9900 m/s,20.454545454545453 m/s,20.454545454545453 m/s
+K,Science,Weather,Intermediate,An object travels 179 m in 38 s. What is its average speed?,6802 m/s,2.3552631578947367 m/s,4.7105263157894735 m/s,9.421052631578947 m/s,4.7105263157894735 m/s
+K,Science,Senses,Intermediate,An object travels 50 m in 16 s. What is its average speed?,800 m/s,1.5625 m/s,3.125 m/s,6.25 m/s,3.125 m/s
+K,Science,Weather,Intermediate,An object travels 300 m in 22 s. What is its average speed?,13.636363636363637 m/s,27.272727272727273 m/s,6.818181818181818 m/s,6600 m/s,13.636363636363637 m/s
+K,Science,Plants,Intermediate,An object travels 370 m in 30 s. What is its average speed?,11100 m/s,12.333333333333334 m/s,24.666666666666668 m/s,6.166666666666667 m/s,12.333333333333334 m/s
+K,Science,Plants,Intermediate,An object of mass 9 kg accelerates at 2 m/s². What net force acts on it?,9 N,18 N,36 N,27 N,18 N
+K,Science,Senses,Intermediate,An object travels 411 m in 28 s. What is its average speed?,29.357142857142858 m/s,14.678571428571429 m/s,7.339285714285714 m/s,11508 m/s,14.678571428571429 m/s
+K,Science,Animals,Intermediate,An object travels 46 m in 40 s. What is its average speed?,1.15 m/s,1840 m/s,2.3 m/s,0.575 m/s,1.15 m/s
+K,Science,Senses,Intermediate,An object travels 394 m in 36 s. What is its average speed?,21.88888888888889 m/s,10.944444444444445 m/s,14184 m/s,5.472222222222222 m/s,10.944444444444445 m/s
+K,Science,Animals,Intermediate,An object travels 376 m in 21 s. What is its average speed?,35.80952380952381 m/s,7896 m/s,8.952380952380953 m/s,17.904761904761905 m/s,17.904761904761905 m/s
+K,Science,Plants,Intermediate,An object travels 327 m in 33 s. What is its average speed?,19.818181818181817 m/s,10791 m/s,9.909090909090908 m/s,4.954545454545454 m/s,9.909090909090908 m/s
+K,Science,Weather,Intermediate,An object travels 52 m in 43 s. What is its average speed?,2.4186046511627906 m/s,2236 m/s,0.6046511627906976 m/s,1.2093023255813953 m/s,1.2093023255813953 m/s
+K,Science,Plants,Intermediate,An object travels 242 m in 32 s. What is its average speed?,15.125 m/s,7744 m/s,3.78125 m/s,7.5625 m/s,7.5625 m/s
+K,Science,Plants,Intermediate,An object travels 128 m in 8 s. What is its average speed?,8.0 m/s,32.0 m/s,16.0 m/s,1024 m/s,16.0 m/s
+K,Science,Animals,Intermediate,An object travels 298 m in 23 s. What is its average speed?,12.956521739130435 m/s,6.478260869565218 m/s,6854 m/s,25.91304347826087 m/s,12.956521739130435 m/s
+K,Science,Animals,Intermediate,An object travels 208 m in 46 s. What is its average speed?,4.521739130434782 m/s,9.043478260869565 m/s,9568 m/s,2.260869565217391 m/s,4.521739130434782 m/s
+K,Science,Plants,Intermediate,An object travels 194 m in 46 s. What is its average speed?,8.434782608695652 m/s,8924 m/s,4.217391304347826 m/s,2.108695652173913 m/s,4.217391304347826 m/s
+K,Science,Animals,Intermediate,An object travels 192 m in 25 s. What is its average speed?,15.36 m/s,7.68 m/s,4800 m/s,3.84 m/s,7.68 m/s
+K,Science,Animals,Intermediate,An object travels 185 m in 43 s. What is its average speed?,2.1511627906976742 m/s,8.604651162790697 m/s,7955 m/s,4.3023255813953485 m/s,4.3023255813953485 m/s
+K,Science,Weather,Intermediate,An object travels 52 m in 48 s. What is its average speed?,0.5416666666666666 m/s,2.1666666666666665 m/s,2496 m/s,1.0833333333333333 m/s,1.0833333333333333 m/s
+K,Science,Plants,Intermediate,An object travels 303 m in 7 s. What is its average speed?,21.642857142857142 m/s,43.285714285714285 m/s,2121 m/s,86.57142857142857 m/s,43.285714285714285 m/s
+K,Science,Senses,Intermediate,An object travels 263 m in 38 s. What is its average speed?,9994 m/s,3.460526315789474 m/s,6.921052631578948 m/s,13.842105263157896 m/s,6.921052631578948 m/s
+K,Science,Senses,Intermediate,An object travels 224 m in 10 s. What is its average speed?,22.4 m/s,11.2 m/s,2240 m/s,44.8 m/s,22.4 m/s
+K,Science,Animals,Intermediate,An object travels 62 m in 38 s. What is its average speed?,2356 m/s,0.8157894736842105 m/s,3.263157894736842 m/s,1.631578947368421 m/s,1.631578947368421 m/s
+K,Science,Plants,Intermediate,An object travels 215 m in 6 s. What is its average speed?,17.916666666666668 m/s,35.833333333333336 m/s,71.66666666666667 m/s,1290 m/s,35.833333333333336 m/s
+K,Science,Animals,Intermediate,An object travels 459 m in 34 s. What is its average speed?,6.75 m/s,15606 m/s,27.0 m/s,13.5 m/s,13.5 m/s
+K,Science,Plants,Intermediate,An object travels 226 m in 42 s. What is its average speed?,5.380952380952381 m/s,10.761904761904763 m/s,9492 m/s,2.6904761904761907 m/s,5.380952380952381 m/s
+K,Science,Weather,Intermediate,An object travels 13 m in 2 s. What is its average speed?,13.0 m/s,3.25 m/s,6.5 m/s,26 m/s,6.5 m/s
+K,Science,Plants,Intermediate,An object travels 156 m in 13 s. What is its average speed?,6.0 m/s,2028 m/s,24.0 m/s,12.0 m/s,12.0 m/s
+K,Science,Plants,Intermediate,An object travels 84 m in 24 s. What is its average speed?,2016 m/s,1.75 m/s,3.5 m/s,7.0 m/s,3.5 m/s
+K,Science,Plants,Intermediate,An object travels 108 m in 19 s. What is its average speed?,5.684210526315789 m/s,2052 m/s,11.368421052631579 m/s,2.8421052631578947 m/s,5.684210526315789 m/s
+K,Science,Plants,Intermediate,An object travels 343 m in 30 s. What is its average speed?,5.716666666666667 m/s,22.866666666666667 m/s,10290 m/s,11.433333333333334 m/s,11.433333333333334 m/s
+K,Science,Senses,Intermediate,An object travels 300 m in 29 s. What is its average speed?,5.172413793103448 m/s,10.344827586206897 m/s,8700 m/s,20.689655172413794 m/s,10.344827586206897 m/s
+K,Science,Plants,Intermediate,An object travels 270 m in 12 s. What is its average speed?,3240 m/s,11.25 m/s,22.5 m/s,45.0 m/s,22.5 m/s
+K,Science,Plants,Intermediate,An object travels 363 m in 10 s. What is its average speed?,36.3 m/s,18.15 m/s,72.6 m/s,3630 m/s,36.3 m/s
+K,Science,Plants,Intermediate,An object travels 209 m in 4 s. What is its average speed?,836 m/s,52.25 m/s,104.5 m/s,26.125 m/s,52.25 m/s
+K,Science,Plants,Intermediate,An object travels 355 m in 22 s. What is its average speed?,7810 m/s,8.068181818181818 m/s,16.136363636363637 m/s,32.27272727272727 m/s,16.136363636363637 m/s
+K,Science,Animals,Intermediate,An object travels 146 m in 48 s. What is its average speed?,7008 m/s,1.5208333333333333 m/s,6.083333333333333 m/s,3.0416666666666665 m/s,3.0416666666666665 m/s
+K,Science,Plants,Intermediate,An object travels 323 m in 46 s. What is its average speed?,7.021739130434782 m/s,14858 m/s,3.510869565217391 m/s,14.043478260869565 m/s,7.021739130434782 m/s
+K,Science,Senses,Intermediate,An object travels 373 m in 42 s. What is its average speed?,15666 m/s,4.440476190476191 m/s,8.880952380952381 m/s,17.761904761904763 m/s,8.880952380952381 m/s
+K,Science,Plants,Intermediate,An object travels 440 m in 31 s. What is its average speed?,13640 m/s,14.193548387096774 m/s,7.096774193548387 m/s,28.387096774193548 m/s,14.193548387096774 m/s
+K,Science,Weather,Intermediate,An object travels 65 m in 40 s. What is its average speed?,2600 m/s,1.625 m/s,3.25 m/s,0.8125 m/s,1.625 m/s
+K,Science,Weather,Intermediate,An object travels 190 m in 42 s. What is its average speed?,4.523809523809524 m/s,2.261904761904762 m/s,7980 m/s,9.047619047619047 m/s,4.523809523809524 m/s
+K,Science,Senses,Intermediate,An object travels 446 m in 12 s. What is its average speed?,18.583333333333332 m/s,74.33333333333333 m/s,37.166666666666664 m/s,5352 m/s,37.166666666666664 m/s
+K,Science,Senses,Intermediate,An object travels 235 m in 8 s. What is its average speed?,14.6875 m/s,1880 m/s,29.375 m/s,58.75 m/s,29.375 m/s
+K,Science,Animals,Intermediate,An object travels 251 m in 43 s. What is its average speed?,5.837209302325581 m/s,11.674418604651162 m/s,10793 m/s,2.9186046511627906 m/s,5.837209302325581 m/s
+K,Science,Animals,Intermediate,An object travels 299 m in 46 s. What is its average speed?,13.0 m/s,13754 m/s,3.25 m/s,6.5 m/s,6.5 m/s
+K,Science,Animals,Intermediate,An object travels 278 m in 40 s. What is its average speed?,3.475 m/s,13.9 m/s,11120 m/s,6.95 m/s,6.95 m/s
+K,Science,Senses,Intermediate,An object travels 320 m in 20 s. What is its average speed?,16.0 m/s,32.0 m/s,8.0 m/s,6400 m/s,16.0 m/s
+K,Science,Senses,Intermediate,An object travels 321 m in 27 s. What is its average speed?,5.944444444444445 m/s,23.77777777777778 m/s,11.88888888888889 m/s,8667 m/s,11.88888888888889 m/s
+K,Science,Animals,Intermediate,An object travels 46 m in 41 s. What is its average speed?,1886 m/s,2.2439024390243905 m/s,0.5609756097560976 m/s,1.1219512195121952 m/s,1.1219512195121952 m/s
+K,Science,Senses,Intermediate,An object travels 256 m in 49 s. What is its average speed?,12544 m/s,2.6122448979591835 m/s,10.448979591836734 m/s,5.224489795918367 m/s,5.224489795918367 m/s
+K,Science,Senses,Intermediate,An object travels 257 m in 21 s. What is its average speed?,5397 m/s,24.476190476190474 m/s,6.119047619047619 m/s,12.238095238095237 m/s,12.238095238095237 m/s
+K,Science,Weather,Intermediate,An object travels 494 m in 19 s. What is its average speed?,52.0 m/s,26.0 m/s,9386 m/s,13.0 m/s,26.0 m/s
+K,Science,Animals,Intermediate,An object of mass 6 kg accelerates at 8 m/s². What net force acts on it?,384 N,54 N,42 N,48 N,48 N
+K,Science,Senses,Intermediate,An object travels 108 m in 12 s. What is its average speed?,1296 m/s,4.5 m/s,9.0 m/s,18.0 m/s,9.0 m/s
+K,Science,Senses,Intermediate,An object travels 396 m in 15 s. What is its average speed?,26.4 m/s,5940 m/s,52.8 m/s,13.2 m/s,26.4 m/s
+K,Science,Weather,Intermediate,An object travels 139 m in 45 s. What is its average speed?,3.088888888888889 m/s,1.5444444444444445 m/s,6255 m/s,6.177777777777778 m/s,3.088888888888889 m/s
+K,Science,Animals,Intermediate,An object travels 294 m in 15 s. What is its average speed?,39.2 m/s,9.8 m/s,19.6 m/s,4410 m/s,19.6 m/s
+K,Science,Weather,Intermediate,An object travels 255 m in 38 s. What is its average speed?,6.7105263157894735 m/s,13.421052631578947 m/s,9690 m/s,3.3552631578947367 m/s,6.7105263157894735 m/s
+K,Science,Animals,Intermediate,An object travels 301 m in 6 s. What is its average speed?,50.166666666666664 m/s,25.083333333333332 m/s,100.33333333333333 m/s,1806 m/s,50.166666666666664 m/s
+K,Science,Senses,Intermediate,An object travels 223 m in 39 s. What is its average speed?,11.435897435897436 m/s,8697 m/s,2.858974358974359 m/s,5.717948717948718 m/s,5.717948717948718 m/s
+K,Science,Weather,Intermediate,An object travels 193 m in 30 s. What is its average speed?,6.433333333333334 m/s,3.216666666666667 m/s,5790 m/s,12.866666666666667 m/s,6.433333333333334 m/s
+K,Science,Animals,Intermediate,An object travels 163 m in 26 s. What is its average speed?,3.1346153846153846 m/s,6.269230769230769 m/s,12.538461538461538 m/s,4238 m/s,6.269230769230769 m/s
+K,Science,Animals,Intermediate,An object travels 162 m in 30 s. What is its average speed?,5.4 m/s,4860 m/s,2.7 m/s,10.8 m/s,5.4 m/s
+K,Science,Weather,Intermediate,An object travels 368 m in 21 s. What is its average speed?,35.04761904761905 m/s,8.761904761904763 m/s,7728 m/s,17.523809523809526 m/s,17.523809523809526 m/s
+K,Science,Senses,Intermediate,An object travels 288 m in 1 s. What is its average speed?,288.0 m/s,144.0 m/s,576.0 m/s,288 m/s,288.0 m/s
+K,Science,Animals,Intermediate,An object travels 278 m in 25 s. What is its average speed?,11.12 m/s,22.24 m/s,5.56 m/s,6950 m/s,11.12 m/s
+K,Science,Senses,Intermediate,An object travels 145 m in 49 s. What is its average speed?,5.918367346938775 m/s,2.9591836734693877 m/s,1.4795918367346939 m/s,7105 m/s,2.9591836734693877 m/s
+K,Science,Plants,Intermediate,An object travels 121 m in 37 s. What is its average speed?,1.635135135135135 m/s,6.54054054054054 m/s,3.27027027027027 m/s,4477 m/s,3.27027027027027 m/s
+K,Science,Plants,Intermediate,An object travels 62 m in 37 s. What is its average speed?,2294 m/s,0.8378378378378378 m/s,1.6756756756756757 m/s,3.3513513513513513 m/s,1.6756756756756757 m/s
+K,Science,Weather,Intermediate,An object travels 236 m in 14 s. What is its average speed?,16.857142857142858 m/s,8.428571428571429 m/s,33.714285714285715 m/s,3304 m/s,16.857142857142858 m/s
+K,Science,Weather,Intermediate,An object travels 305 m in 30 s. What is its average speed?,10.166666666666666 m/s,9150 m/s,5.083333333333333 m/s,20.333333333333332 m/s,10.166666666666666 m/s
+K,Science,Plants,Intermediate,An object travels 425 m in 47 s. What is its average speed?,4.5212765957446805 m/s,9.042553191489361 m/s,19975 m/s,18.085106382978722 m/s,9.042553191489361 m/s
+K,Science,Animals,Intermediate,An object travels 25 m in 41 s. What is its average speed?,0.3048780487804878 m/s,1025 m/s,1.2195121951219512 m/s,0.6097560975609756 m/s,0.6097560975609756 m/s
+K,Science,Plants,Intermediate,An object travels 486 m in 21 s. What is its average speed?,23.142857142857142 m/s,10206 m/s,46.285714285714285 m/s,11.571428571428571 m/s,23.142857142857142 m/s
+K,Science,Senses,Intermediate,An object travels 145 m in 20 s. What is its average speed?,14.5 m/s,2900 m/s,3.625 m/s,7.25 m/s,7.25 m/s
+K,Science,Senses,Intermediate,An object travels 318 m in 26 s. What is its average speed?,24.46153846153846 m/s,8268 m/s,12.23076923076923 m/s,6.115384615384615 m/s,12.23076923076923 m/s
+K,Science,Plants,Intermediate,An object travels 12 m in 33 s. What is its average speed?,396 m/s,0.36363636363636365 m/s,0.7272727272727273 m/s,0.18181818181818182 m/s,0.36363636363636365 m/s
+K,Science,Animals,Intermediate,An object travels 25 m in 28 s. What is its average speed?,1.7857142857142858 m/s,0.8928571428571429 m/s,700 m/s,0.44642857142857145 m/s,0.8928571428571429 m/s
+K,Science,Animals,Intermediate,An object travels 314 m in 47 s. What is its average speed?,14758 m/s,3.3404255319148937 m/s,13.361702127659575 m/s,6.680851063829787 m/s,6.680851063829787 m/s
+K,Science,Weather,Intermediate,An object travels 55 m in 20 s. What is its average speed?,1100 m/s,1.375 m/s,2.75 m/s,5.5 m/s,2.75 m/s
+K,Science,Senses,Intermediate,An object travels 201 m in 39 s. What is its average speed?,10.307692307692308 m/s,5.153846153846154 m/s,2.576923076923077 m/s,7839 m/s,5.153846153846154 m/s
+K,Science,Weather,Intermediate,An object travels 185 m in 34 s. What is its average speed?,6290 m/s,5.4411764705882355 m/s,2.7205882352941178 m/s,10.882352941176471 m/s,5.4411764705882355 m/s
+K,Science,Senses,Intermediate,An object travels 60 m in 12 s. What is its average speed?,5.0 m/s,10.0 m/s,720 m/s,2.5 m/s,5.0 m/s
+K,Science,Senses,Intermediate,An object travels 254 m in 26 s. What is its average speed?,6604 m/s,4.884615384615385 m/s,9.76923076923077 m/s,19.53846153846154 m/s,9.76923076923077 m/s
+K,Science,Animals,Intermediate,An object travels 326 m in 10 s. What is its average speed?,16.3 m/s,65.2 m/s,32.6 m/s,3260 m/s,32.6 m/s
+K,Science,Plants,Intermediate,An object travels 205 m in 47 s. What is its average speed?,2.1808510638297873 m/s,9635 m/s,8.72340425531915 m/s,4.361702127659575 m/s,4.361702127659575 m/s
+K,Science,Weather,Intermediate,An object travels 82 m in 24 s. What is its average speed?,1968 m/s,6.833333333333333 m/s,3.4166666666666665 m/s,1.7083333333333333 m/s,3.4166666666666665 m/s
+K,Science,Weather,Intermediate,An object travels 311 m in 12 s. What is its average speed?,25.916666666666668 m/s,51.833333333333336 m/s,12.958333333333334 m/s,3732 m/s,25.916666666666668 m/s
+K,Science,Plants,Intermediate,An object travels 405 m in 2 s. What is its average speed?,405.0 m/s,202.5 m/s,101.25 m/s,810 m/s,202.5 m/s
+K,Science,Plants,Intermediate,An object travels 38 m in 28 s. What is its average speed?,0.6785714285714286 m/s,2.7142857142857144 m/s,1.3571428571428572 m/s,1064 m/s,1.3571428571428572 m/s
+K,Science,Senses,Intermediate,An object travels 500 m in 3 s. What is its average speed?,166.66666666666666 m/s,83.33333333333333 m/s,1500 m/s,333.3333333333333 m/s,166.66666666666666 m/s
+K,Science,Weather,Intermediate,An object travels 459 m in 17 s. What is its average speed?,7803 m/s,54.0 m/s,27.0 m/s,13.5 m/s,27.0 m/s
+K,Science,Plants,Intermediate,An object travels 414 m in 22 s. What is its average speed?,9.409090909090908 m/s,37.63636363636363 m/s,18.818181818181817 m/s,9108 m/s,18.818181818181817 m/s
+K,Science,Weather,Intermediate,An object travels 495 m in 39 s. What is its average speed?,19305 m/s,25.384615384615383 m/s,12.692307692307692 m/s,6.346153846153846 m/s,12.692307692307692 m/s
+K,Science,Plants,Intermediate,An object travels 21 m in 16 s. What is its average speed?,336 m/s,1.3125 m/s,0.65625 m/s,2.625 m/s,1.3125 m/s
+K,Science,Animals,Intermediate,An object travels 272 m in 19 s. What is its average speed?,14.31578947368421 m/s,28.63157894736842 m/s,5168 m/s,7.157894736842105 m/s,14.31578947368421 m/s
+K,Science,Senses,Intermediate,An object travels 315 m in 48 s. What is its average speed?,15120 m/s,6.5625 m/s,13.125 m/s,3.28125 m/s,6.5625 m/s
+K,Science,Weather,Intermediate,An object travels 210 m in 10 s. What is its average speed?,21.0 m/s,42.0 m/s,2100 m/s,10.5 m/s,21.0 m/s
+K,Science,Plants,Intermediate,An object travels 164 m in 10 s. What is its average speed?,1640 m/s,16.4 m/s,32.8 m/s,8.2 m/s,16.4 m/s
+K,Science,Animals,Intermediate,An object travels 391 m in 26 s. What is its average speed?,10166 m/s,15.038461538461538 m/s,30.076923076923077 m/s,7.519230769230769 m/s,15.038461538461538 m/s
+K,Science,Plants,Intermediate,An object travels 31 m in 29 s. What is its average speed?,2.1379310344827585 m/s,899 m/s,0.5344827586206896 m/s,1.0689655172413792 m/s,1.0689655172413792 m/s
+K,Science,Plants,Intermediate,An object travels 85 m in 41 s. What is its average speed?,2.073170731707317 m/s,1.0365853658536586 m/s,4.146341463414634 m/s,3485 m/s,2.073170731707317 m/s
+K,Science,Plants,Intermediate,An object travels 219 m in 6 s. What is its average speed?,73.0 m/s,1314 m/s,36.5 m/s,18.25 m/s,36.5 m/s
+K,Science,Animals,Intermediate,An object travels 92 m in 5 s. What is its average speed?,36.8 m/s,9.2 m/s,18.4 m/s,460 m/s,18.4 m/s
+K,Science,Plants,Intermediate,An object travels 422 m in 2 s. What is its average speed?,844 m/s,211.0 m/s,105.5 m/s,422.0 m/s,211.0 m/s
+K,Science,Senses,Intermediate,An object travels 369 m in 20 s. What is its average speed?,9.225 m/s,18.45 m/s,36.9 m/s,7380 m/s,18.45 m/s
+K,Science,Plants,Intermediate,An object travels 142 m in 48 s. What is its average speed?,5.916666666666667 m/s,2.9583333333333335 m/s,1.4791666666666667 m/s,6816 m/s,2.9583333333333335 m/s
+K,Science,Animals,Intermediate,An object travels 297 m in 25 s. What is its average speed?,11.88 m/s,23.76 m/s,7425 m/s,5.94 m/s,11.88 m/s
+K,Science,Senses,Intermediate,An object travels 30 m in 3 s. What is its average speed?,20.0 m/s,10.0 m/s,90 m/s,5.0 m/s,10.0 m/s
+K,Science,Senses,Intermediate,An object travels 165 m in 12 s. What is its average speed?,13.75 m/s,6.875 m/s,1980 m/s,27.5 m/s,13.75 m/s
+K,Science,Senses,Intermediate,An object travels 204 m in 28 s. What is its average speed?,5712 m/s,7.285714285714286 m/s,14.571428571428571 m/s,3.642857142857143 m/s,7.285714285714286 m/s
+K,Science,Weather,Intermediate,An object travels 135 m in 45 s. What is its average speed?,6.0 m/s,1.5 m/s,3.0 m/s,6075 m/s,3.0 m/s
+K,Science,Plants,Intermediate,An object travels 413 m in 28 s. What is its average speed?,29.5 m/s,7.375 m/s,14.75 m/s,11564 m/s,14.75 m/s
+K,Science,Plants,Intermediate,An object travels 38 m in 16 s. What is its average speed?,2.375 m/s,4.75 m/s,608 m/s,1.1875 m/s,2.375 m/s
+K,Science,Animals,Intermediate,An object travels 391 m in 4 s. What is its average speed?,195.5 m/s,97.75 m/s,1564 m/s,48.875 m/s,97.75 m/s
+K,Science,Weather,Intermediate,An object travels 345 m in 37 s. What is its average speed?,9.324324324324325 m/s,12765 m/s,18.64864864864865 m/s,4.662162162162162 m/s,9.324324324324325 m/s
+K,Science,Weather,Intermediate,An object travels 26 m in 32 s. What is its average speed?,832 m/s,0.8125 m/s,0.40625 m/s,1.625 m/s,0.8125 m/s
+K,Science,Senses,Intermediate,An object travels 308 m in 39 s. What is its average speed?,12012 m/s,15.794871794871796 m/s,7.897435897435898 m/s,3.948717948717949 m/s,7.897435897435898 m/s
+K,Science,Animals,Intermediate,An object travels 379 m in 21 s. What is its average speed?,18.047619047619047 m/s,36.095238095238095 m/s,9.023809523809524 m/s,7959 m/s,18.047619047619047 m/s
+K,Science,Animals,Intermediate,An object travels 436 m in 49 s. What is its average speed?,4.448979591836735 m/s,17.79591836734694 m/s,8.89795918367347 m/s,21364 m/s,8.89795918367347 m/s
+K,Science,Senses,Intermediate,An object travels 286 m in 20 s. What is its average speed?,14.3 m/s,28.6 m/s,7.15 m/s,5720 m/s,14.3 m/s
+K,Science,Plants,Intermediate,An object travels 371 m in 27 s. What is its average speed?,6.87037037037037 m/s,13.74074074074074 m/s,10017 m/s,27.48148148148148 m/s,13.74074074074074 m/s
+K,Science,Senses,Intermediate,An object travels 469 m in 45 s. What is its average speed?,21105 m/s,20.844444444444445 m/s,5.211111111111111 m/s,10.422222222222222 m/s,10.422222222222222 m/s
+K,Science,Plants,Intermediate,An object travels 201 m in 42 s. What is its average speed?,4.785714285714286 m/s,9.571428571428571 m/s,8442 m/s,2.392857142857143 m/s,4.785714285714286 m/s
+K,Science,Weather,Intermediate,An object travels 162 m in 1 s. What is its average speed?,324.0 m/s,162.0 m/s,81.0 m/s,162 m/s,162.0 m/s
+K,Science,Plants,Intermediate,An object travels 493 m in 28 s. What is its average speed?,13804 m/s,17.607142857142858 m/s,35.214285714285715 m/s,8.803571428571429 m/s,17.607142857142858 m/s
+K,Science,Senses,Intermediate,An object travels 155 m in 32 s. What is its average speed?,9.6875 m/s,4.84375 m/s,4960 m/s,2.421875 m/s,4.84375 m/s
+K,Science,Senses,Intermediate,An object travels 306 m in 18 s. What is its average speed?,8.5 m/s,34.0 m/s,17.0 m/s,5508 m/s,17.0 m/s
+K,Science,Weather,Intermediate,An object travels 113 m in 1 s. What is its average speed?,113 m/s,113.0 m/s,226.0 m/s,56.5 m/s,113.0 m/s
+K,Science,Plants,Intermediate,An object travels 430 m in 10 s. What is its average speed?,43.0 m/s,21.5 m/s,86.0 m/s,4300 m/s,43.0 m/s
+K,Science,Senses,Intermediate,An object travels 252 m in 41 s. What is its average speed?,10332 m/s,6.146341463414634 m/s,12.292682926829269 m/s,3.073170731707317 m/s,6.146341463414634 m/s
+K,Science,Plants,Intermediate,An object travels 435 m in 17 s. What is its average speed?,25.58823529411765 m/s,12.794117647058824 m/s,51.1764705882353 m/s,7395 m/s,25.58823529411765 m/s
+K,Science,Weather,Intermediate,An object travels 357 m in 31 s. What is its average speed?,11.516129032258064 m/s,11067 m/s,23.032258064516128 m/s,5.758064516129032 m/s,11.516129032258064 m/s
+K,Science,Senses,Intermediate,An object travels 370 m in 45 s. What is its average speed?,8.222222222222221 m/s,16.444444444444443 m/s,4.111111111111111 m/s,16650 m/s,8.222222222222221 m/s
+K,Science,Animals,Intermediate,An object travels 267 m in 40 s. What is its average speed?,13.35 m/s,6.675 m/s,10680 m/s,3.3375 m/s,6.675 m/s
+K,Science,Plants,Intermediate,An object travels 442 m in 39 s. What is its average speed?,5.666666666666667 m/s,22.666666666666668 m/s,11.333333333333334 m/s,17238 m/s,11.333333333333334 m/s
+K,Science,Weather,Intermediate,An object travels 168 m in 45 s. What is its average speed?,7560 m/s,1.8666666666666667 m/s,7.466666666666667 m/s,3.7333333333333334 m/s,3.7333333333333334 m/s
+K,Science,Senses,Intermediate,An object travels 388 m in 27 s. What is its average speed?,14.37037037037037 m/s,10476 m/s,28.74074074074074 m/s,7.185185185185185 m/s,14.37037037037037 m/s
+K,Science,Senses,Intermediate,An object travels 88 m in 41 s. What is its average speed?,4.2926829268292686 m/s,1.0731707317073171 m/s,2.1463414634146343 m/s,3608 m/s,2.1463414634146343 m/s
+K,Science,Animals,Intermediate,An object travels 375 m in 2 s. What is its average speed?,93.75 m/s,187.5 m/s,375.0 m/s,750 m/s,187.5 m/s
+K,Science,Weather,Intermediate,An object travels 461 m in 24 s. What is its average speed?,9.604166666666666 m/s,11064 m/s,19.208333333333332 m/s,38.416666666666664 m/s,19.208333333333332 m/s
+K,Science,Weather,Intermediate,An object travels 242 m in 22 s. What is its average speed?,5324 m/s,22.0 m/s,11.0 m/s,5.5 m/s,11.0 m/s
+K,Science,Animals,Intermediate,An object travels 289 m in 27 s. What is its average speed?,10.703703703703704 m/s,7803 m/s,21.40740740740741 m/s,5.351851851851852 m/s,10.703703703703704 m/s
+K,Science,Plants,Intermediate,An object travels 155 m in 47 s. What is its average speed?,1.648936170212766 m/s,6.595744680851064 m/s,7285 m/s,3.297872340425532 m/s,3.297872340425532 m/s
+K,Science,Plants,Intermediate,An object travels 199 m in 10 s. What is its average speed?,1990 m/s,9.95 m/s,19.9 m/s,39.8 m/s,19.9 m/s
+K,Science,Animals,Intermediate,An object travels 291 m in 12 s. What is its average speed?,12.125 m/s,24.25 m/s,48.5 m/s,3492 m/s,24.25 m/s
+K,Science,Weather,Intermediate,An object travels 58 m in 18 s. What is its average speed?,3.2222222222222223 m/s,6.444444444444445 m/s,1044 m/s,1.6111111111111112 m/s,3.2222222222222223 m/s
+K,Science,Senses,Intermediate,An object travels 176 m in 10 s. What is its average speed?,35.2 m/s,17.6 m/s,1760 m/s,8.8 m/s,17.6 m/s
+K,Science,Animals,Intermediate,An object travels 439 m in 29 s. What is its average speed?,30.275862068965516 m/s,12731 m/s,15.137931034482758 m/s,7.568965517241379 m/s,15.137931034482758 m/s
+K,Science,Weather,Intermediate,An object travels 125 m in 29 s. What is its average speed?,4.310344827586207 m/s,3625 m/s,2.1551724137931036 m/s,8.620689655172415 m/s,4.310344827586207 m/s
+K,Science,Animals,Intermediate,An object travels 367 m in 47 s. What is its average speed?,7.808510638297872 m/s,17249 m/s,15.617021276595745 m/s,3.904255319148936 m/s,7.808510638297872 m/s
+K,Science,Senses,Intermediate,An object travels 180 m in 49 s. What is its average speed?,8820 m/s,3.673469387755102 m/s,1.836734693877551 m/s,7.346938775510204 m/s,3.673469387755102 m/s
+K,Science,Weather,Intermediate,An object travels 196 m in 43 s. What is its average speed?,8428 m/s,4.558139534883721 m/s,2.2790697674418605 m/s,9.116279069767442 m/s,4.558139534883721 m/s
+K,Science,Weather,Intermediate,An object travels 299 m in 43 s. What is its average speed?,3.4767441860465116 m/s,13.906976744186046 m/s,6.953488372093023 m/s,12857 m/s,6.953488372093023 m/s
+K,Science,Animals,Intermediate,An object travels 342 m in 23 s. What is its average speed?,29.73913043478261 m/s,7.434782608695652 m/s,14.869565217391305 m/s,7866 m/s,14.869565217391305 m/s
+K,Science,Senses,Intermediate,An object travels 192 m in 42 s. What is its average speed?,4.571428571428571 m/s,8064 m/s,9.142857142857142 m/s,2.2857142857142856 m/s,4.571428571428571 m/s
+K,Science,Animals,Intermediate,An object travels 476 m in 33 s. What is its average speed?,28.848484848484848 m/s,15708 m/s,7.212121212121212 m/s,14.424242424242424 m/s,14.424242424242424 m/s
+K,Science,Animals,Intermediate,An object travels 60 m in 5 s. What is its average speed?,12.0 m/s,6.0 m/s,300 m/s,24.0 m/s,12.0 m/s
+K,Science,Animals,Intermediate,An object travels 500 m in 23 s. What is its average speed?,10.869565217391305 m/s,21.73913043478261 m/s,43.47826086956522 m/s,11500 m/s,21.73913043478261 m/s
+K,Science,Senses,Intermediate,An object travels 458 m in 16 s. What is its average speed?,57.25 m/s,14.3125 m/s,28.625 m/s,7328 m/s,28.625 m/s
+K,Science,Senses,Intermediate,An object travels 362 m in 44 s. What is its average speed?,8.227272727272727 m/s,16.454545454545453 m/s,15928 m/s,4.113636363636363 m/s,8.227272727272727 m/s
+K,Science,Senses,Intermediate,An object travels 291 m in 26 s. What is its average speed?,11.192307692307692 m/s,22.384615384615383 m/s,7566 m/s,5.596153846153846 m/s,11.192307692307692 m/s
+K,Science,Plants,Intermediate,An object travels 482 m in 24 s. What is its average speed?,20.083333333333332 m/s,10.041666666666666 m/s,40.166666666666664 m/s,11568 m/s,20.083333333333332 m/s
+K,Science,Weather,Intermediate,An object travels 215 m in 41 s. What is its average speed?,8815 m/s,2.6219512195121952 m/s,5.2439024390243905 m/s,10.487804878048781 m/s,5.2439024390243905 m/s
+K,Science,Plants,Intermediate,An object travels 61 m in 43 s. What is its average speed?,0.7093023255813954 m/s,1.4186046511627908 m/s,2623 m/s,2.8372093023255816 m/s,1.4186046511627908 m/s
+K,Science,Weather,Intermediate,An object travels 76 m in 32 s. What is its average speed?,2.375 m/s,4.75 m/s,2432 m/s,1.1875 m/s,2.375 m/s
+K,Science,Animals,Intermediate,An object travels 82 m in 14 s. What is its average speed?,11.714285714285714 m/s,5.857142857142857 m/s,2.9285714285714284 m/s,1148 m/s,5.857142857142857 m/s
+K,Science,Senses,Intermediate,An object travels 26 m in 17 s. What is its average speed?,3.0588235294117645 m/s,0.7647058823529411 m/s,1.5294117647058822 m/s,442 m/s,1.5294117647058822 m/s
+K,Science,Weather,Intermediate,An object travels 151 m in 48 s. What is its average speed?,3.1458333333333335 m/s,1.5729166666666667 m/s,7248 m/s,6.291666666666667 m/s,3.1458333333333335 m/s
+K,Science,Plants,Intermediate,An object travels 56 m in 42 s. What is its average speed?,0.6666666666666666 m/s,1.3333333333333333 m/s,2352 m/s,2.6666666666666665 m/s,1.3333333333333333 m/s
+K,Science,Plants,Intermediate,An object travels 289 m in 5 s. What is its average speed?,57.8 m/s,1445 m/s,28.9 m/s,115.6 m/s,57.8 m/s
+K,Science,Plants,Intermediate,An object of mass 9 kg accelerates at 10 m/s². What net force acts on it?,99 N,81 N,900 N,90 N,90 N
+K,Science,Senses,Intermediate,An object travels 402 m in 10 s. What is its average speed?,40.2 m/s,20.1 m/s,80.4 m/s,4020 m/s,40.2 m/s
+K,Science,Weather,Intermediate,An object travels 327 m in 2 s. What is its average speed?,163.5 m/s,81.75 m/s,654 m/s,327.0 m/s,163.5 m/s
+K,Science,Animals,Intermediate,An object travels 323 m in 16 s. What is its average speed?,40.375 m/s,20.1875 m/s,10.09375 m/s,5168 m/s,20.1875 m/s
+K,Science,Animals,Intermediate,An object travels 161 m in 14 s. What is its average speed?,23.0 m/s,5.75 m/s,2254 m/s,11.5 m/s,11.5 m/s
+K,Science,Weather,Intermediate,An object travels 384 m in 43 s. What is its average speed?,16512 m/s,17.86046511627907 m/s,8.930232558139535 m/s,4.465116279069767 m/s,8.930232558139535 m/s
+K,Science,Animals,Intermediate,An object travels 296 m in 11 s. What is its average speed?,53.81818181818182 m/s,26.90909090909091 m/s,13.454545454545455 m/s,3256 m/s,26.90909090909091 m/s
+K,Science,Weather,Intermediate,An object travels 193 m in 13 s. What is its average speed?,29.692307692307693 m/s,2509 m/s,14.846153846153847 m/s,7.423076923076923 m/s,14.846153846153847 m/s
+K,Science,Animals,Intermediate,An object travels 477 m in 50 s. What is its average speed?,4.77 m/s,23850 m/s,19.08 m/s,9.54 m/s,9.54 m/s
+K,Science,Weather,Intermediate,An object travels 136 m in 3 s. What is its average speed?,408 m/s,90.66666666666667 m/s,22.666666666666668 m/s,45.333333333333336 m/s,45.333333333333336 m/s
+K,Science,Animals,Intermediate,An object travels 286 m in 48 s. What is its average speed?,13728 m/s,11.916666666666666 m/s,5.958333333333333 m/s,2.9791666666666665 m/s,5.958333333333333 m/s

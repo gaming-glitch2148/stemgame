@@ -1,0 +1,1001 @@
+Grade,Subject,Topic,Difficulty,Question,A,B,C,D,Correct Answer
+4,Maths,Advanced Operations,Hard,"What is 12,345 + 6,789?","19,034","19,124","19,134","19,234","19,134"
+4,Maths,Multiplication & Division,Hard,What is 288 ÷ 8?,34,35,36,37,36
+4,Maths,Fractions & Decimals,Hard,Which is greater?,3/4,0.6,They are equal,1/2,3/4
+4,Maths,Geometry & Measurement,Hard,How many sides does a hexagon have?,5,6,7,8,6
+4,Maths,Multiplication & Division,Hard,What is 36 × 7?,242,252,262,272,252
+4,Maths,Fractions & Decimals,Hard,What is 0.5 as a fraction?,1/4,1/5,1/2,2/5,1/2
+4,Maths,Geometry & Measurement,Hard,What is the perimeter of a square with side 5 cm?,10 cm,15 cm,20 cm,25 cm,20 cm
+4,Maths,Advanced Operations,Hard,"What is 10,000 − 4,678?","5,222","5,322","5,422","5,522","5,322"
+4,Maths,Geometry & Measurement,Hard,Compute: 133 + 143,276,266,277,286,276
+4,Maths,Multiplication & Division,Hard,Compute: 126 + 122,248,258,249,238,248
+4,Maths,Geometry & Measurement,Hard,Compute: 130 - 78,53,62,52,42,52
+4,Maths,Fractions & Decimals,Hard,Compute: 28 + 72,110,101,100,90,100
+4,Maths,Geometry & Measurement,Hard,Compute: 13 × 8,117,114,96,104,104
+4,Maths,Geometry & Measurement,Hard,Compute: 174 + 79,263,253,243,254,253
+4,Maths,Advanced Operations,Hard,Compute: 139 - 82,58,47,67,57,57
+4,Maths,Multiplication & Division,Hard,Compute: 171 - 40,121,132,141,131,131
+4,Maths,Geometry & Measurement,Hard,Compute: 106 + 1,107,108,97,117,107
+4,Maths,Advanced Operations,Hard,Compute: 6 × 14,90,70,94,84,84
+4,Maths,Advanced Operations,Hard,Compute: 4 × 12,48,52,36,58,48
+4,Maths,Geometry & Measurement,Hard,Compute: 11 × 15,175,176,165,150,165
+4,Maths,Multiplication & Division,Hard,Compute: 7 × 10,70,80,60,77,70
+4,Maths,Geometry & Measurement,Hard,Compute: 16 + 104,120,110,121,130,120
+4,Maths,Geometry & Measurement,Hard,Compute: 62 + 52,104,115,124,114,114
+4,Maths,Fractions & Decimals,Hard,Compute: 27 ÷ 3,11,8,10,9,9
+4,Maths,Fractions & Decimals,Hard,Compute: 9 × 5,54,55,45,40,45
+4,Maths,Advanced Operations,Hard,Compute: 156 + 51,208,217,197,207,207
+4,Maths,Geometry & Measurement,Hard,Compute: 147 + 86,233,243,234,223,233
+4,Maths,Geometry & Measurement,Hard,Compute: 11 × 6,66,76,77,60,66
+4,Maths,Fractions & Decimals,Hard,Compute: 134 + 135,269,270,279,259,269
+4,Maths,Fractions & Decimals,Hard,Compute: 10 × 11,120,110,99,Option 3,110
+4,Maths,Fractions & Decimals,Hard,Compute: 89 - 74,5,16,25,15,15
+4,Maths,Fractions & Decimals,Hard,Compute: 70 - 15,56,55,65,45,55
+4,Maths,Multiplication & Division,Hard,Compute: 170 + 12,172,192,183,182,182
+4,Maths,Fractions & Decimals,Hard,Compute: 72 ÷ 9,10,9,7,8,8
+4,Maths,Fractions & Decimals,Hard,Compute: 152 - 148,14,0,4,5,4
+4,Maths,Geometry & Measurement,Hard,Compute: 118 + 133,241,261,251,252,251
+4,Maths,Fractions & Decimals,Hard,Compute: 12 × 3,33,46,36,48,36
+4,Maths,Multiplication & Division,Hard,Compute: 12 × 10,120,132,110,130,120
+4,Maths,Advanced Operations,Hard,Compute: 48 - 43,0,6,15,5,5
+4,Maths,Fractions & Decimals,Hard,Compute: 12 × 5,60,70,72,55,60
+4,Maths,Multiplication & Division,Hard,Compute: 60 ÷ 10,8,5,7,6,6
+4,Maths,Multiplication & Division,Hard,Compute: 105 + 81,176,196,186,187,186
+4,Maths,Advanced Operations,Hard,Compute: 2 × 7,24,16,7,14,14
+4,Maths,Multiplication & Division,Hard,Compute: 178 - 31,137,147,148,157,147
+4,Maths,Advanced Operations,Hard,Compute: 105 + 196,301,291,302,311,301
+4,Maths,Fractions & Decimals,Hard,Compute: 135 + 165,301,300,310,290,300
+4,Maths,Geometry & Measurement,Hard,Compute: 12 × 12,132,156,144,154,144
+4,Maths,Fractions & Decimals,Hard,Compute: 114 - 39,76,65,75,85,75
+4,Maths,Geometry & Measurement,Hard,Compute: 5 + 186,191,201,181,192,191
+4,Maths,Multiplication & Division,Hard,Compute: 120 - 9,121,111,101,112,111
+4,Maths,Multiplication & Division,Hard,Compute: 8 × 13,114,112,91,104,104
+4,Maths,Advanced Operations,Hard,Compute: 70 ÷ 5,13,14,16,15,14
+4,Maths,Fractions & Decimals,Hard,Compute: 56 + 193,259,250,249,239,249
+4,Maths,Advanced Operations,Hard,Compute: 132 ÷ 11,12,14,13,11,12
+4,Maths,Fractions & Decimals,Hard,Compute: 145 + 52,207,197,198,187,197
+4,Maths,Fractions & Decimals,Hard,Compute: 66 ÷ 11,5,6,7,8,6
+4,Maths,Geometry & Measurement,Hard,Compute: 195 + 91,286,287,276,296,286
+4,Maths,Advanced Operations,Hard,Compute: 26 + 170,206,197,186,196,196
+4,Maths,Fractions & Decimals,Hard,Compute: 86 - 77,0,10,19,9,9
+4,Maths,Fractions & Decimals,Hard,Compute: 48 ÷ 8,8,5,7,6,6
+4,Maths,Geometry & Measurement,Hard,Compute: 4 × 9,36,40,27,46,36
+4,Maths,Fractions & Decimals,Hard,Compute: 108 ÷ 9,11,13,14,12,12
+4,Maths,Fractions & Decimals,Hard,Compute: 10 ÷ 2,5,4,6,7,5
+4,Maths,Advanced Operations,Hard,Compute: 2 × 15,40,32,30,15,30
+4,Maths,Multiplication & Division,Hard,Compute: 129 - 91,39,38,28,48,38
+4,Maths,Fractions & Decimals,Hard,Compute: 139 - 88,52,51,41,61,51
+4,Maths,Fractions & Decimals,Hard,Compute: 9 + 96,105,106,95,115,105
+4,Maths,Geometry & Measurement,Hard,Compute: 177 + 83,270,260,261,250,260
+4,Maths,Fractions & Decimals,Hard,Compute: 30 - 14,16,6,26,17,16
+4,Maths,Multiplication & Division,Hard,Compute: 11 × 3,43,33,44,30,33
+4,Maths,Advanced Operations,Hard,Compute: 4 × 15,60,64,70,45,60
+4,Maths,Multiplication & Division,Hard,Compute: 101 - 13,89,98,88,78,88
+4,Maths,Multiplication & Division,Hard,Compute: 124 - 20,114,104,105,94,104
+4,Maths,Fractions & Decimals,Hard,Compute: 164 - 40,125,114,134,124,124
+4,Maths,Fractions & Decimals,Hard,Compute: 14 × 9,117,140,126,136,126
+4,Maths,Fractions & Decimals,Hard,Compute: 68 - 37,32,41,31,21,31
+4,Maths,Multiplication & Division,Hard,Compute: 28 ÷ 4,9,7,8,6,7
+4,Maths,Geometry & Measurement,Hard,Compute: 72 ÷ 6,14,12,13,11,12
+4,Maths,Advanced Operations,Hard,Compute: 3 + 3,6,7,0,16,6
+4,Maths,Advanced Operations,Hard,Compute: 85 - 79,7,6,0,16,6
+4,Maths,Multiplication & Division,Hard,Compute: 200 + 49,239,259,250,249,249
+4,Maths,Multiplication & Division,Hard,Compute: 113 + 131,244,234,254,245,244
+4,Maths,Geometry & Measurement,Hard,Compute: 48 ÷ 12,6,3,4,5,4
+4,Maths,Advanced Operations,Hard,Compute: 12 × 11,142,121,132,144,132
+4,Maths,Fractions & Decimals,Hard,Compute: 60 - 9,51,41,61,52,51
+4,Maths,Advanced Operations,Hard,Compute: 65 - 5,50,60,70,61,60
+4,Maths,Geometry & Measurement,Hard,Compute: 32 + 193,226,235,215,225,225
+4,Maths,Fractions & Decimals,Hard,Compute: 183 + 81,265,274,264,254,264
+4,Maths,Geometry & Measurement,Hard,Compute: 12 ÷ 6,3,2,4,1,2
+4,Maths,Advanced Operations,Hard,Compute: 0 + 191,201,192,191,181,191
+4,Maths,Fractions & Decimals,Hard,Compute: 14 × 2,42,38,28,26,28
+4,Maths,Advanced Operations,Hard,Compute: 150 ÷ 15,11,10,9,12,10
+4,Maths,Fractions & Decimals,Hard,Compute: 6 × 4,20,24,30,34,24
+4,Maths,Geometry & Measurement,Hard,Compute: 10 ÷ 5,1,2,3,4,2
+4,Maths,Geometry & Measurement,Hard,Compute: 15 × 11,165,154,180,175,165
+4,Maths,Fractions & Decimals,Hard,Compute: 144 + 195,340,329,349,339,339
+4,Maths,Fractions & Decimals,Hard,Compute: 41 + 60,101,111,91,102,101
+4,Maths,Advanced Operations,Hard,Compute: 171 + 181,352,342,362,353,352
+4,Maths,Advanced Operations,Hard,Compute: 169 - 124,46,45,35,55,45
+4,Maths,Geometry & Measurement,Hard,Compute: 225 ÷ 15,17,16,14,15,15
+4,Maths,Geometry & Measurement,Hard,Compute: 9 × 8,64,82,72,81,72
+4,Maths,Fractions & Decimals,Hard,Compute: 139 - 96,53,44,43,33,43
+4,Maths,Geometry & Measurement,Hard,Compute: 149 - 78,72,71,81,61,71
+4,Maths,Fractions & Decimals,Hard,Compute: 14 × 5,84,80,70,65,70
+4,Maths,Geometry & Measurement,Hard,Compute: 65 ÷ 13,5,7,6,4,5
+4,Maths,Geometry & Measurement,Hard,Compute: 65 - 25,41,50,30,40,40
+4,Maths,Fractions & Decimals,Hard,Compute: 36 ÷ 4,8,9,11,10,9
+4,Maths,Multiplication & Division,Hard,Compute: 57 - 37,30,20,10,21,20
+4,Maths,Multiplication & Division,Hard,Compute: 72 ÷ 12,6,8,7,5,6
+4,Maths,Multiplication & Division,Hard,Compute: 110 ÷ 11,12,10,11,9,10
+4,Maths,Advanced Operations,Hard,Compute: 156 ÷ 12,14,13,12,15,13
+4,Maths,Fractions & Decimals,Hard,Compute: 32 ÷ 8,3,6,5,4,4
+4,Maths,Advanced Operations,Hard,Compute: 126 - 24,112,92,103,102,102
+4,Maths,Advanced Operations,Hard,Compute: 55 ÷ 5,12,13,10,11,11
+4,Maths,Advanced Operations,Hard,Compute: 45 ÷ 9,7,5,4,6,5
+4,Maths,Geometry & Measurement,Hard,Compute: 186 - 3,184,173,183,193,183
+4,Maths,Multiplication & Division,Hard,Compute: 5 × 4,25,20,16,30,20
+4,Maths,Advanced Operations,Hard,Compute: 81 + 145,226,227,236,216,226
+4,Maths,Geometry & Measurement,Hard,Compute: 10 × 8,80,90,Option 3,72,80
+4,Maths,Geometry & Measurement,Hard,Compute: 2 × 14,28,38,14,30,28
+4,Maths,Multiplication & Division,Hard,Compute: 188 - 82,106,116,96,107,106
+4,Maths,Advanced Operations,Hard,Compute: 3 × 4,22,15,8,12,12
+4,Maths,Fractions & Decimals,Hard,Compute: 200 + 100,301,290,310,300,300
+4,Maths,Advanced Operations,Hard,Compute: 11 × 9,109,90,99,110,99
+4,Maths,Fractions & Decimals,Hard,Compute: 9 × 14,135,126,112,136,126
+4,Maths,Geometry & Measurement,Hard,Compute: 56 ÷ 14,3,4,6,5,4
+4,Maths,Geometry & Measurement,Hard,Compute: 2 × 10,30,22,10,20,20
+4,Maths,Fractions & Decimals,Hard,Compute: 165 - 83,83,82,92,72,82
+4,Maths,Fractions & Decimals,Hard,Compute: 132 ÷ 12,12,11,13,10,11
+4,Maths,Advanced Operations,Hard,Compute: 13 × 13,169,179,156,182,169
+4,Maths,Geometry & Measurement,Hard,Compute: 35 ÷ 5,6,7,8,9,7
+4,Maths,Geometry & Measurement,Hard,Compute: 45 ÷ 15,2,3,5,4,3
+4,Maths,Fractions & Decimals,Hard,Compute: 2 × 2,2,4,14,6,4
+4,Maths,Geometry & Measurement,Hard,Compute: 27 ÷ 9,2,5,4,3,3
+4,Maths,Fractions & Decimals,Hard,Compute: 20 + 165,195,186,175,185,185
+4,Maths,Fractions & Decimals,Hard,Compute: 195 ÷ 15,15,14,12,13,13
+4,Maths,Fractions & Decimals,Hard,Compute: 40 ÷ 5,7,10,9,8,8
+4,Maths,Fractions & Decimals,Hard,Compute: 199 - 88,112,121,111,101,111
+4,Maths,Multiplication & Division,Hard,Compute: 15 × 4,60,75,70,56,60
+4,Maths,Geometry & Measurement,Hard,Compute: 36 + 46,92,82,83,72,82
+4,Maths,Fractions & Decimals,Hard,Compute: 101 + 124,225,235,226,215,225
+4,Maths,Multiplication & Division,Hard,Compute: 3 × 13,42,39,49,26,39
+4,Maths,Multiplication & Division,Hard,Compute: 15 + 86,102,111,101,91,101
+4,Maths,Advanced Operations,Hard,Compute: 177 + 140,307,317,327,318,317
+4,Maths,Fractions & Decimals,Hard,Compute: 4 × 3,16,12,9,22,12
+4,Maths,Geometry & Measurement,Hard,Compute: 19 + 143,163,162,172,152,162
+4,Maths,Fractions & Decimals,Hard,Compute: 10 × 7,Option 3,80,63,70,70
+4,Maths,Multiplication & Division,Hard,Compute: 68 + 192,270,260,261,250,260
+4,Maths,Advanced Operations,Hard,Compute: 49 ÷ 7,9,7,6,8,7
+4,Maths,Advanced Operations,Hard,Compute: 155 - 30,125,135,126,115,125
+4,Maths,Fractions & Decimals,Hard,Compute: 1 + 54,56,55,65,45,55
+4,Maths,Geometry & Measurement,Hard,Compute: 56 ÷ 8,8,6,7,9,7
+4,Maths,Geometry & Measurement,Hard,Compute: 176 - 138,38,39,28,48,38
+4,Maths,Fractions & Decimals,Hard,Compute: 159 + 54,214,213,203,223,213
+4,Maths,Multiplication & Division,Hard,Compute: 35 ÷ 7,5,7,6,4,5
+4,Maths,Fractions & Decimals,Hard,Compute: 169 + 60,239,230,229,219,229
+4,Maths,Fractions & Decimals,Hard,Compute: 22 ÷ 11,4,2,1,3,2
+4,Maths,Fractions & Decimals,Hard,Compute: 176 - 92,94,84,85,74,84
+4,Maths,Geometry & Measurement,Hard,Compute: 54 ÷ 9,5,6,8,7,6
+4,Maths,Advanced Operations,Hard,Compute: 13 × 5,75,60,65,78,65
+4,Maths,Multiplication & Division,Hard,Compute: 117 ÷ 13,11,9,10,8,9
+4,Maths,Geometry & Measurement,Hard,Compute: 148 - 48,110,90,101,100,100
+4,Maths,Multiplication & Division,Hard,Compute: 188 - 84,104,105,114,94,104
+4,Maths,Geometry & Measurement,Hard,Compute: 151 - 62,90,79,89,99,89
+4,Maths,Multiplication & Division,Hard,Compute: 110 ÷ 10,13,10,12,11,11
+4,Maths,Multiplication & Division,Hard,Compute: 3 × 2,9,16,4,6,6
+4,Maths,Multiplication & Division,Hard,Compute: 52 ÷ 13,4,5,6,3,4
+4,Maths,Advanced Operations,Hard,Compute: 21 + 60,71,82,91,81,81
+4,Maths,Multiplication & Division,Hard,Compute: 12 ÷ 2,6,5,7,8,6
+4,Maths,Advanced Operations,Hard,Compute: 138 + 26,164,174,154,165,164
+4,Maths,Advanced Operations,Hard,Compute: 160 - 91,79,70,69,59,69
+4,Maths,Multiplication & Division,Hard,Compute: 32 + 45,77,67,87,78,77
+4,Maths,Geometry & Measurement,Hard,Compute: 159 + 30,189,179,190,199,189
+4,Maths,Fractions & Decimals,Hard,Compute: 16 + 166,183,172,182,192,182
+4,Maths,Geometry & Measurement,Hard,Compute: 70 + 53,123,124,113,133,123
+4,Maths,Fractions & Decimals,Hard,Compute: 144 ÷ 12,13,11,12,14,12
+4,Maths,Advanced Operations,Hard,Compute: 13 × 15,180,208,205,195,195
+4,Maths,Multiplication & Division,Hard,Compute: 135 ÷ 9,15,16,14,17,15
+4,Maths,Advanced Operations,Hard,Compute: 40 ÷ 4,12,9,11,10,10
+4,Maths,Multiplication & Division,Hard,Compute: 46 + 176,222,223,212,232,222
+4,Maths,Fractions & Decimals,Hard,Compute: 165 - 89,66,86,77,76,76
+4,Maths,Fractions & Decimals,Hard,Compute: 124 - 24,90,101,100,110,100
+4,Maths,Fractions & Decimals,Hard,Compute: 14 × 13,192,182,169,196,182
+4,Maths,Advanced Operations,Hard,Compute: 94 - 49,35,45,55,46,45
+4,Maths,Geometry & Measurement,Hard,Compute: 185 - 178,0,8,7,17,7
+4,Maths,Advanced Operations,Hard,Compute: 80 ÷ 8,12,11,10,9,10
+4,Maths,Advanced Operations,Hard,Compute: 13 × 3,52,36,49,39,39
+4,Maths,Multiplication & Division,Hard,Compute: 125 + 28,153,143,163,154,153
+4,Maths,Multiplication & Division,Hard,Compute: 14 × 10,154,140,130,150,140
+4,Maths,Advanced Operations,Hard,Compute: 7 × 11,77,87,66,84,77
+4,Maths,Advanced Operations,Hard,Compute: 195 - 103,93,92,102,82,92
+4,Maths,Geometry & Measurement,Hard,Compute: 8 × 5,48,40,35,50,40
+4,Maths,Advanced Operations,Hard,Compute: 135 + 17,152,142,162,153,152
+4,Maths,Geometry & Measurement,Hard,Compute: 33 ÷ 11,2,5,4,3,3
+4,Maths,Advanced Operations,Hard,Compute: 102 - 31,61,72,81,71,71
+4,Maths,Fractions & Decimals,Hard,Compute: 90 ÷ 9,11,12,10,9,10
+4,Maths,Geometry & Measurement,Hard,Compute: 163 + 14,187,178,177,167,177
+4,Maths,Fractions & Decimals,Hard,Compute: 11 + 88,99,89,109,100,99
+4,Maths,Advanced Operations,Hard,Compute: 149 - 4,146,145,155,135,145
+4,Maths,Multiplication & Division,Hard,Compute: 4 + 57,62,71,51,61,61
+4,Maths,Geometry & Measurement,Hard,Compute: 78 ÷ 6,14,13,15,12,13
+4,Maths,Advanced Operations,Hard,Compute: 142 - 1,141,142,131,151,141
+4,Maths,Fractions & Decimals,Hard,Compute: 18 ÷ 3,6,8,5,7,6
+4,Maths,Advanced Operations,Hard,Compute: 56 ÷ 4,14,15,13,16,14
+4,Maths,Multiplication & Division,Hard,Compute: 80 - 42,48,28,38,39,38
+4,Maths,Fractions & Decimals,Hard,Compute: 80 + 139,219,229,209,220,219
+4,Maths,Fractions & Decimals,Hard,Compute: 149 + 163,313,312,322,302,312
+4,Maths,Geometry & Measurement,Hard,Compute: 83 - 30,63,43,53,54,53
+4,Maths,Multiplication & Division,Hard,Compute: 20 ÷ 4,4,7,5,6,5
+4,Maths,Multiplication & Division,Hard,Compute: 7 × 5,35,30,42,45,35
+4,Maths,Geometry & Measurement,Hard,Compute: 2 + 117,109,119,129,120,119
+4,Maths,Multiplication & Division,Hard,Compute: 63 + 158,221,222,211,231,221
+4,Maths,Fractions & Decimals,Hard,Compute: 100 + 66,166,156,167,176,166
+4,Maths,Advanced Operations,Hard,Compute: 85 + 116,201,202,191,211,201
+4,Maths,Advanced Operations,Hard,Compute: 66 + 8,74,84,64,75,74
+4,Maths,Advanced Operations,Hard,Compute: 179 + 180,349,359,369,360,359
+4,Maths,Multiplication & Division,Hard,Compute: 54 - 18,26,36,46,37,36
+4,Maths,Fractions & Decimals,Hard,Compute: 6 × 5,25,36,30,40,30
+4,Maths,Geometry & Measurement,Hard,Compute: 193 + 88,281,282,271,291,281
+4,Maths,Advanced Operations,Hard,Compute: 6 ÷ 3,3,4,2,1,2
+4,Maths,Multiplication & Division,Hard,Compute: 159 + 53,213,202,222,212,212
+4,Maths,Geometry & Measurement,Hard,Compute: 4 × 13,56,62,39,52,52
+4,Maths,Fractions & Decimals,Hard,Compute: 9 × 11,88,108,99,109,99
+4,Maths,Geometry & Measurement,Hard,Compute: 50 + 52,92,102,103,112,102
+4,Maths,Fractions & Decimals,Hard,Compute: 63 + 35,88,99,108,98,98
+4,Maths,Multiplication & Division,Hard,Compute: 175 - 11,154,174,165,164,164
+4,Maths,Fractions & Decimals,Hard,Compute: 90 - 58,42,32,22,33,32
+4,Maths,Advanced Operations,Hard,Compute: 106 - 33,63,83,73,74,73
+4,Maths,Multiplication & Division,Hard,Compute: 4 + 97,91,111,102,101,101
+4,Maths,Multiplication & Division,Hard,Compute: 81 + 182,264,263,273,253,263
+4,Maths,Geometry & Measurement,Hard,Compute: 124 + 138,263,262,252,272,262
+4,Maths,Fractions & Decimals,Hard,Compute: 67 - 22,55,46,35,45,45
+4,Maths,Advanced Operations,Hard,Compute: 141 - 54,87,88,97,77,87
+4,Maths,Geometry & Measurement,Hard,Compute: 104 + 56,150,170,160,161,160
+4,Maths,Advanced Operations,Hard,Compute: 2 × 6,22,6,12,14,12
+4,Maths,Fractions & Decimals,Hard,Compute: 84 ÷ 12,9,8,6,7,7
+4,Maths,Fractions & Decimals,Hard,Compute: 9 ÷ 3,5,3,4,2,3
+4,Maths,Fractions & Decimals,Hard,Compute: 9 × 13,104,126,117,127,117
+4,Maths,Fractions & Decimals,Hard,Compute: 139 + 78,217,207,227,218,217
+4,Maths,Fractions & Decimals,Hard,Compute: 98 + 65,164,173,163,153,163
+4,Maths,Multiplication & Division,Hard,Compute: 113 + 18,131,132,121,141,131
+4,Maths,Fractions & Decimals,Hard,Compute: 14 × 11,164,168,143,154,154
+4,Maths,Fractions & Decimals,Hard,Compute: 98 + 38,126,137,136,146,136
+4,Maths,Advanced Operations,Hard,Compute: 20 ÷ 5,3,5,6,4,4
+4,Maths,Geometry & Measurement,Hard,Compute: 196 + 164,370,360,350,361,360
+4,Maths,Advanced Operations,Hard,Compute: 39 + 160,199,189,200,209,199
+4,Maths,Multiplication & Division,Hard,Compute: 194 - 177,27,18,7,17,17
+4,Maths,Advanced Operations,Hard,Compute: 14 × 6,78,84,98,94,84
+4,Maths,Multiplication & Division,Hard,Compute: 12 × 4,60,48,58,44,48
+4,Maths,Advanced Operations,Hard,Compute: 91 + 0,81,91,92,101,91
+4,Maths,Advanced Operations,Hard,Compute: 114 + 134,249,258,248,238,248
+4,Maths,Multiplication & Division,Hard,Compute: 188 - 171,27,17,7,18,17
+4,Maths,Geometry & Measurement,Hard,Compute: 60 ÷ 12,4,6,5,7,5
+4,Maths,Geometry & Measurement,Hard,Compute: 143 - 129,15,24,4,14,14
+4,Maths,Advanced Operations,Hard,Compute: 163 - 19,144,134,154,145,144
+4,Maths,Fractions & Decimals,Hard,Compute: 147 - 102,46,55,35,45,45
+4,Maths,Advanced Operations,Hard,Compute: 15 × 15,225,210,235,240,225
+4,Maths,Fractions & Decimals,Hard,Compute: 98 ÷ 7,14,16,15,13,14
+4,Maths,Multiplication & Division,Hard,Compute: 172 - 38,124,144,135,134,134
+4,Maths,Multiplication & Division,Hard,Compute: 14 × 4,66,70,56,52,56
+4,Maths,Advanced Operations,Hard,Compute: 158 + 63,222,231,221,211,221
+4,Maths,Advanced Operations,Hard,Compute: 169 + 156,315,325,326,335,325
+4,Maths,Advanced Operations,Hard,Compute: 159 + 165,325,314,334,324,324
+4,Maths,Multiplication & Division,Hard,Compute: 135 - 82,63,54,43,53,53
+4,Maths,Fractions & Decimals,Hard,Compute: 194 - 28,166,176,156,167,166
+4,Maths,Multiplication & Division,Hard,Compute: 170 - 167,13,0,4,3,3
+4,Maths,Geometry & Measurement,Hard,Compute: 183 - 155,38,28,29,18,28
+4,Maths,Advanced Operations,Hard,Compute: 6 × 8,48,58,40,54,48
+4,Maths,Advanced Operations,Hard,Compute: 82 + 40,123,132,112,122,122
+4,Maths,Advanced Operations,Hard,Compute: 82 + 43,125,126,115,135,125
+4,Maths,Advanced Operations,Hard,Compute: 191 - 9,183,192,182,172,182
+4,Maths,Advanced Operations,Hard,Compute: 195 + 61,257,246,256,266,256
+4,Maths,Advanced Operations,Hard,Compute: 161 + 57,218,228,208,219,218
+4,Maths,Advanced Operations,Hard,Compute: 155 + 29,174,184,194,185,184
+4,Maths,Geometry & Measurement,Hard,Compute: 130 ÷ 13,11,9,10,12,10
+4,Maths,Fractions & Decimals,Hard,Compute: 43 + 152,205,185,196,195,195
+4,Maths,Multiplication & Division,Hard,Compute: 127 - 25,102,103,112,92,102
+4,Maths,Multiplication & Division,Hard,Compute: 12 × 7,94,84,96,77,84
+4,Maths,Advanced Operations,Hard,Compute: 7 × 7,49,56,59,42,49
+4,Maths,Geometry & Measurement,Hard,Compute: 135 ÷ 15,9,10,8,11,9
+4,Maths,Advanced Operations,Hard,Compute: 60 ÷ 5,13,11,12,14,12
+4,Maths,Advanced Operations,Hard,Compute: 148 + 164,312,313,302,322,312
+4,Maths,Fractions & Decimals,Hard,Compute: 108 + 102,200,220,211,210,210
+4,Maths,Fractions & Decimals,Hard,Compute: 183 + 178,362,371,361,351,361
+4,Maths,Multiplication & Division,Hard,Compute: 188 + 120,308,298,309,318,308
+4,Maths,Geometry & Measurement,Hard,Compute: 183 - 164,9,19,20,29,19
+4,Maths,Geometry & Measurement,Hard,Compute: 194 + 53,257,237,247,248,247
+4,Maths,Multiplication & Division,Hard,Compute: 14 ÷ 7,4,1,2,3,2
+4,Maths,Advanced Operations,Hard,Compute: 158 - 29,139,129,130,119,129
+4,Maths,Multiplication & Division,Hard,Compute: 5 × 12,70,65,48,60,60
+4,Maths,Geometry & Measurement,Hard,Compute: 135 - 31,114,94,105,104,104
+4,Maths,Advanced Operations,Hard,Compute: 39 ÷ 13,2,3,4,5,3
+4,Maths,Multiplication & Division,Hard,Compute: 176 - 35,151,142,141,131,141
+4,Maths,Fractions & Decimals,Hard,Compute: 4 ÷ 2,3,1,4,2,2
+4,Maths,Fractions & Decimals,Hard,Compute: 7 × 9,63,54,73,70,63
+4,Maths,Fractions & Decimals,Hard,Compute: 112 ÷ 8,13,14,16,15,14
+4,Maths,Geometry & Measurement,Hard,Compute: 53 + 49,102,103,112,92,102
+4,Maths,Geometry & Measurement,Hard,Compute: 36 ÷ 9,3,5,6,4,4
+4,Maths,Advanced Operations,Hard,Compute: 4 × 7,28,38,21,32,28
+4,Maths,Fractions & Decimals,Hard,Compute: 147 - 101,47,46,36,56,46
+4,Maths,Fractions & Decimals,Hard,Compute: 105 ÷ 7,14,16,15,17,15
+4,Maths,Geometry & Measurement,Hard,Compute: 85 + 52,138,127,147,137,137
+4,Maths,Advanced Operations,Hard,Compute: 161 - 67,84,94,95,104,94
+4,Maths,Geometry & Measurement,Hard,Compute: 8 × 6,58,56,42,48,48
+4,Maths,Geometry & Measurement,Hard,Compute: 116 - 29,87,77,97,88,87
+4,Maths,Geometry & Measurement,Hard,Compute: 121 - 33,88,89,78,98,88
+4,Maths,Multiplication & Division,Hard,Compute: 137 + 117,254,255,264,244,254
+4,Maths,Geometry & Measurement,Hard,Compute: 7 × 6,42,49,52,36,42
+4,Maths,Advanced Operations,Hard,Compute: 125 - 55,70,60,71,80,70
+4,Maths,Geometry & Measurement,Hard,Compute: 84 ÷ 7,14,12,11,13,12
+4,Maths,Fractions & Decimals,Hard,Compute: 147 - 132,16,25,5,15,15
+4,Maths,Multiplication & Division,Hard,Compute: 185 + 174,349,359,360,369,359
+4,Maths,Geometry & Measurement,Hard,Compute: 91 + 52,143,153,144,133,143
+4,Maths,Multiplication & Division,Hard,Compute: 200 - 4,206,197,196,186,196
+4,Maths,Fractions & Decimals,Hard,Compute: 99 - 6,103,83,93,94,93
+4,Maths,Multiplication & Division,Hard,Compute: 108 ÷ 12,10,9,8,11,9
+4,Maths,Advanced Operations,Hard,Compute: 5 × 2,20,10,15,8,10
+4,Maths,Geometry & Measurement,Hard,Compute: 17 + 177,195,194,184,204,194
+4,Maths,Geometry & Measurement,Hard,Compute: 112 ÷ 14,7,10,9,8,8
+4,Maths,Multiplication & Division,Hard,Compute: 81 ÷ 9,8,10,11,9,9
+4,Maths,Geometry & Measurement,Hard,Compute: 58 - 36,12,32,22,23,22
+4,Maths,Advanced Operations,Hard,Compute: 134 + 158,302,293,292,282,292
+4,Maths,Multiplication & Division,Hard,Compute: 147 + 156,313,303,304,293,303
+4,Maths,Geometry & Measurement,Hard,Compute: 27 - 11,16,26,6,17,16
+4,Maths,Advanced Operations,Hard,Compute: 41 + 138,180,169,179,189,179
+4,Maths,Geometry & Measurement,Hard,Compute: 26 ÷ 2,14,13,15,12,13
+4,Maths,Geometry & Measurement,Hard,Compute: 142 + 52,195,184,194,204,194
+4,Maths,Fractions & Decimals,Hard,Compute: 138 - 77,71,51,61,62,61
+4,Maths,Geometry & Measurement,Hard,Compute: 44 ÷ 11,3,4,6,5,4
+4,Maths,Fractions & Decimals,Hard,Compute: 7 × 4,35,24,28,38,28
+4,Maths,Multiplication & Division,Hard,Compute: 197 - 52,155,135,145,146,145
+4,Maths,Geometry & Measurement,Hard,Compute: 102 + 47,159,139,150,149,149
+4,Maths,Fractions & Decimals,Hard,Compute: 187 + 141,338,328,318,329,328
+4,Maths,Fractions & Decimals,Hard,Compute: 36 ÷ 3,13,12,14,11,12
+4,Maths,Geometry & Measurement,Hard,Compute: 92 + 113,206,205,195,215,205
+4,Maths,Geometry & Measurement,Hard,Compute: 160 - 36,134,125,124,114,124
+4,Maths,Geometry & Measurement,Hard,Compute: 8 × 15,128,130,105,120,120
+4,Maths,Fractions & Decimals,Hard,Compute: 15 × 10,160,165,140,150,150
+4,Maths,Geometry & Measurement,Hard,Compute: 50 ÷ 10,4,6,5,7,5
+4,Maths,Advanced Operations,Hard,Compute: 125 - 59,66,67,56,76,66
+4,Maths,Fractions & Decimals,Hard,Compute: 55 + 10,55,66,65,75,65
+4,Maths,Multiplication & Division,Hard,Compute: 70 ÷ 14,7,6,5,4,5
+4,Maths,Advanced Operations,Hard,Compute: 188 - 25,153,164,173,163,163
+4,Maths,Multiplication & Division,Hard,Compute: 49 + 148,197,187,198,207,197
+4,Maths,Fractions & Decimals,Hard,Compute: 69 + 178,237,257,247,248,247
+4,Maths,Geometry & Measurement,Hard,Compute: 51 - 15,36,26,46,37,36
+4,Maths,Fractions & Decimals,Hard,Compute: 117 - 67,40,60,50,51,50
+4,Maths,Multiplication & Division,Hard,Compute: 3 × 14,52,28,45,42,42
+4,Maths,Geometry & Measurement,Hard,Compute: 194 + 105,289,300,309,299,299
+4,Maths,Multiplication & Division,Hard,Compute: 1 + 184,185,175,195,186,185
+4,Maths,Fractions & Decimals,Hard,Compute: 22 + 190,212,213,202,222,212
+4,Maths,Fractions & Decimals,Hard,Compute: 18 ÷ 2,10,9,8,11,9
+4,Maths,Geometry & Measurement,Hard,Compute: 148 - 4,144,134,154,145,144
+4,Maths,Geometry & Measurement,Hard,Compute: 185 - 54,132,131,141,121,131
+4,Maths,Multiplication & Division,Hard,Compute: 150 - 10,130,140,150,141,140
+4,Maths,Multiplication & Division,Hard,Compute: 70 ÷ 7,10,9,12,11,10
+4,Maths,Advanced Operations,Hard,Compute: 183 - 63,121,120,110,130,120
+4,Maths,Geometry & Measurement,Hard,Compute: 84 ÷ 6,15,14,13,16,14
+4,Maths,Advanced Operations,Hard,Compute: 117 ÷ 9,12,14,15,13,13
+4,Maths,Fractions & Decimals,Hard,Compute: 200 - 33,167,177,168,157,167
+4,Maths,Geometry & Measurement,Hard,Compute: 176 - 153,13,24,23,33,23
+4,Maths,Geometry & Measurement,Hard,Compute: 177 - 151,16,36,27,26,26
+4,Maths,Fractions & Decimals,Hard,Compute: 30 + 174,194,204,214,205,204
+4,Maths,Multiplication & Division,Hard,Compute: 11 + 164,185,165,175,176,175
+4,Maths,Multiplication & Division,Hard,Compute: 16 ÷ 4,4,3,5,6,4
+4,Maths,Geometry & Measurement,Hard,Compute: 121 ÷ 11,10,12,13,11,11
+4,Maths,Geometry & Measurement,Hard,Compute: 4 × 8,32,36,24,42,32
+4,Maths,Advanced Operations,Hard,Compute: 8 × 9,72,82,63,80,72
+4,Maths,Geometry & Measurement,Hard,Compute: 180 - 68,122,113,102,112,112
+4,Maths,Geometry & Measurement,Hard,Compute: 198 + 140,348,338,339,328,338
+4,Maths,Fractions & Decimals,Hard,Compute: 21 ÷ 3,7,6,8,9,7
+4,Maths,Advanced Operations,Hard,Compute: 170 - 133,37,47,27,38,37
+4,Maths,Multiplication & Division,Hard,Compute: 0 + 107,107,117,108,97,107
+4,Maths,Geometry & Measurement,Hard,Compute: 5 × 6,35,30,40,24,30
+4,Maths,Geometry & Measurement,Hard,Compute: 28 ÷ 7,4,6,3,5,4
+4,Maths,Advanced Operations,Hard,Compute: 49 - 19,40,30,31,20,30
+4,Maths,Advanced Operations,Hard,Compute: 158 - 152,6,0,16,7,6
+4,Maths,Fractions & Decimals,Hard,Compute: 116 + 71,187,197,177,188,187
+4,Maths,Fractions & Decimals,Hard,Compute: 174 - 39,135,145,136,125,135
+4,Maths,Geometry & Measurement,Hard,Compute: 19 + 162,182,191,171,181,181
+4,Maths,Geometry & Measurement,Hard,Compute: 183 - 73,111,100,120,110,110
+4,Maths,Geometry & Measurement,Hard,Compute: 73 + 184,267,247,257,258,257
+4,Maths,Advanced Operations,Hard,Compute: 177 + 144,321,331,322,311,321
+4,Maths,Fractions & Decimals,Hard,Compute: 80 + 16,96,106,86,97,96
+4,Maths,Geometry & Measurement,Hard,Compute: 36 ÷ 12,5,4,2,3,3
+4,Maths,Multiplication & Division,Hard,Compute: 14 × 14,196,210,182,206,196
+4,Maths,Multiplication & Division,Hard,Compute: 2 + 96,108,98,99,88,98
+4,Maths,Multiplication & Division,Hard,Compute: 11 × 10,100,120,110,121,110
+4,Maths,Multiplication & Division,Hard,Compute: 120 + 91,212,221,201,211,211
+4,Maths,Geometry & Measurement,Hard,Compute: 119 - 84,36,25,45,35,35
+4,Maths,Multiplication & Division,Hard,Compute: 48 - 41,17,7,0,8,7
+4,Maths,Multiplication & Division,Hard,Compute: 134 - 113,31,11,21,22,21
+4,Maths,Advanced Operations,Hard,Compute: 10 × 15,160,Option 3,150,135,150
+4,Maths,Geometry & Measurement,Hard,Compute: 5 × 13,65,75,70,52,65
+4,Maths,Multiplication & Division,Hard,Compute: 107 + 82,190,179,199,189,189
+4,Maths,Geometry & Measurement,Hard,Compute: 193 - 134,69,49,59,60,59
+4,Maths,Multiplication & Division,Hard,Compute: 30 ÷ 2,16,17,14,15,15
+4,Maths,Advanced Operations,Hard,Compute: 172 - 68,114,94,105,104,104
+4,Maths,Multiplication & Division,Hard,Compute: 20 ÷ 10,4,1,3,2,2
+4,Maths,Geometry & Measurement,Hard,Compute: 151 - 97,55,64,44,54,54
+4,Maths,Geometry & Measurement,Hard,Compute: 187 + 91,268,279,288,278,278
+4,Maths,Advanced Operations,Hard,Compute: 197 - 89,109,98,118,108,108
+4,Maths,Multiplication & Division,Hard,Compute: 8 × 12,106,104,84,96,96
+4,Maths,Geometry & Measurement,Hard,Compute: 0 + 89,90,79,99,89,89
+4,Maths,Multiplication & Division,Hard,Compute: 94 + 11,95,115,106,105,105
+4,Maths,Geometry & Measurement,Hard,Compute: 123 - 59,74,64,65,54,64
+4,Maths,Advanced Operations,Hard,Compute: 11 × 12,142,143,120,132,132
+4,Maths,Advanced Operations,Hard,Compute: 62 + 149,211,201,221,212,211
+4,Maths,Fractions & Decimals,Hard,Compute: 24 ÷ 8,5,3,2,4,3
+4,Maths,Advanced Operations,Hard,Compute: 163 - 99,54,74,64,65,64
+4,Maths,Multiplication & Division,Hard,Compute: 34 - 26,18,8,9,0,8
+4,Maths,Fractions & Decimals,Hard,Compute: 45 ÷ 5,10,8,11,9,9
+4,Maths,Fractions & Decimals,Hard,Compute: 92 - 7,95,75,86,85,85
+4,Maths,Geometry & Measurement,Hard,Compute: 2 × 13,36,13,28,26,26
+4,Maths,Fractions & Decimals,Hard,Compute: 102 - 62,40,50,30,41,40
+4,Maths,Multiplication & Division,Hard,Compute: 156 + 92,249,238,248,258,248
+4,Maths,Advanced Operations,Hard,Compute: 186 + 189,365,375,385,376,375
+4,Maths,Fractions & Decimals,Hard,Compute: 106 - 16,90,80,100,91,90
+4,Maths,Multiplication & Division,Hard,Compute: 151 + 19,180,171,170,160,170
+4,Maths,Multiplication & Division,Hard,Compute: 53 + 63,116,106,117,126,116
+4,Maths,Geometry & Measurement,Hard,Compute: 132 + 46,168,179,178,188,178
+4,Maths,Advanced Operations,Hard,Compute: 155 - 114,41,51,42,31,41
+4,Maths,Advanced Operations,Hard,Compute: 181 - 73,118,98,109,108,108
+4,Maths,Advanced Operations,Hard,Compute: 168 - 81,97,87,88,77,87
+4,Maths,Multiplication & Division,Hard,Compute: 13 × 12,144,169,166,156,156
+4,Maths,Geometry & Measurement,Hard,Compute: 188 - 95,103,94,83,93,93
+4,Maths,Fractions & Decimals,Hard,Compute: 119 + 76,205,185,195,196,195
+4,Maths,Advanced Operations,Hard,Compute: 18 ÷ 6,5,2,4,3,3
+4,Maths,Multiplication & Division,Hard,Compute: 13 × 2,39,26,36,24,26
+4,Maths,Advanced Operations,Hard,Compute: 12 ÷ 4,5,4,3,2,3
+4,Maths,Multiplication & Division,Hard,Compute: 18 + 168,187,176,196,186,186
+4,Maths,Multiplication & Division,Hard,Compute: 24 ÷ 4,5,6,8,7,6
+4,Maths,Advanced Operations,Hard,Compute: 14 × 8,112,126,122,104,112
+4,Maths,Multiplication & Division,Hard,Compute: 163 + 92,256,245,265,255,255
+4,Maths,Geometry & Measurement,Hard,Compute: 54 + 180,224,235,234,244,234
+4,Maths,Geometry & Measurement,Hard,Compute: 145 - 113,33,42,32,22,32
+4,Maths,Advanced Operations,Hard,Compute: 175 + 91,266,267,276,256,266
+4,Maths,Fractions & Decimals,Hard,Compute: 8 + 24,32,42,33,22,32
+4,Maths,Advanced Operations,Hard,Compute: 100 ÷ 10,11,9,10,12,10
+4,Maths,Geometry & Measurement,Hard,Compute: 176 - 172,14,4,5,0,4
+4,Maths,Geometry & Measurement,Hard,Compute: 178 - 156,12,32,23,22,22
+4,Maths,Multiplication & Division,Hard,Compute: 60 ÷ 6,10,12,9,11,10
+4,Maths,Fractions & Decimals,Hard,Compute: 9 × 2,18,27,28,16,18
+4,Maths,Geometry & Measurement,Hard,Compute: 145 - 140,0,15,6,5,5
+4,Maths,Fractions & Decimals,Hard,Compute: 107 - 36,71,72,81,61,71
+4,Maths,Fractions & Decimals,Hard,Compute: 109 + 127,246,236,226,237,236
+4,Maths,Advanced Operations,Hard,Compute: 94 + 21,115,105,116,125,115
+4,Maths,Fractions & Decimals,Hard,Compute: 8 ÷ 4,3,1,2,4,2
+4,Maths,Geometry & Measurement,Hard,Compute: 124 - 73,51,52,41,61,51
+4,Maths,Multiplication & Division,Hard,Compute: 186 - 86,110,101,90,100,100
+4,Maths,Multiplication & Division,Hard,Compute: 20 + 67,77,88,87,97,87
+4,Maths,Fractions & Decimals,Hard,Compute: 79 + 58,137,138,147,127,137
+4,Maths,Advanced Operations,Hard,Compute: 5 × 11,60,55,65,44,55
+4,Maths,Advanced Operations,Hard,Compute: 135 - 130,15,0,5,6,5
+4,Maths,Fractions & Decimals,Hard,Compute: 10 × 2,30,Option 3,18,20,20
+4,Maths,Fractions & Decimals,Hard,Compute: 11 × 4,40,44,55,54,44
+4,Maths,Multiplication & Division,Hard,Compute: 64 ÷ 8,7,9,10,8,8
+4,Maths,Advanced Operations,Hard,Compute: 60 ÷ 4,17,16,15,14,15
+4,Maths,Advanced Operations,Hard,Compute: 144 - 7,138,147,137,127,137
+4,Maths,Fractions & Decimals,Hard,Compute: 182 + 143,325,335,315,326,325
+4,Maths,Fractions & Decimals,Hard,Compute: 109 - 15,94,84,104,95,94
+4,Maths,Fractions & Decimals,Hard,Compute: 27 + 76,113,104,93,103,103
+4,Maths,Fractions & Decimals,Hard,Compute: 150 - 60,80,91,90,100,90
+4,Maths,Advanced Operations,Hard,Compute: 95 + 100,205,185,196,195,195
+4,Maths,Geometry & Measurement,Hard,Compute: 191 - 32,159,149,160,169,159
+4,Maths,Advanced Operations,Hard,Compute: 200 - 58,132,152,142,143,142
+4,Maths,Multiplication & Division,Hard,Compute: 128 + 179,317,308,297,307,307
+4,Maths,Fractions & Decimals,Hard,Compute: 18 + 181,209,189,199,200,199
+4,Maths,Fractions & Decimals,Hard,Compute: 169 ÷ 13,14,13,15,12,13
+4,Maths,Advanced Operations,Hard,Compute: 8 × 11,88,98,96,77,88
+4,Maths,Geometry & Measurement,Hard,Compute: 32 - 17,16,25,5,15,15
+4,Maths,Advanced Operations,Hard,Compute: 30 ÷ 5,7,5,6,8,6
+4,Maths,Multiplication & Division,Hard,Compute: 13 × 14,195,192,168,182,182
+4,Maths,Multiplication & Division,Hard,Compute: 116 - 40,66,76,86,77,76
+4,Maths,Fractions & Decimals,Hard,Compute: 4 × 6,24,34,18,28,24
+4,Maths,Fractions & Decimals,Hard,Compute: 88 ÷ 11,7,9,8,10,8
+4,Maths,Fractions & Decimals,Hard,Compute: 105 ÷ 15,7,6,8,9,7
+4,Maths,Geometry & Measurement,Hard,Compute: 123 + 163,276,286,287,296,286
+4,Maths,Fractions & Decimals,Hard,Compute: 40 ÷ 8,7,6,5,4,5
+4,Maths,Advanced Operations,Hard,Compute: 151 - 59,82,92,93,102,92
+4,Maths,Geometry & Measurement,Hard,Compute: 177 + 84,262,251,271,261,261
+4,Maths,Geometry & Measurement,Hard,Compute: 134 - 29,95,106,105,115,105
+4,Maths,Fractions & Decimals,Hard,Compute: 107 + 48,145,156,155,165,155
+4,Maths,Geometry & Measurement,Hard,Compute: 20 + 185,206,195,205,215,205
+4,Maths,Advanced Operations,Hard,Compute: 70 ÷ 10,7,9,6,8,7
+4,Maths,Fractions & Decimals,Hard,Compute: 3 × 10,33,30,20,40,30
+4,Maths,Geometry & Measurement,Hard,Compute: 167 - 67,110,90,101,100,100
+4,Maths,Multiplication & Division,Hard,Compute: 60 - 10,50,40,60,51,50
+4,Maths,Geometry & Measurement,Hard,Compute: 45 + 99,144,134,145,154,144
+4,Maths,Multiplication & Division,Hard,Compute: 126 ÷ 14,11,10,9,8,9
+4,Maths,Advanced Operations,Hard,Compute: 117 + 135,252,262,253,242,252
+4,Maths,Geometry & Measurement,Hard,Compute: 13 × 4,65,52,62,48,52
+4,Maths,Multiplication & Division,Hard,Compute: 48 ÷ 6,9,10,8,7,8
+4,Maths,Geometry & Measurement,Hard,Compute: 174 - 132,32,52,42,43,42
+4,Maths,Advanced Operations,Hard,Compute: 119 + 20,149,140,139,129,139
+4,Maths,Multiplication & Division,Hard,Compute: 153 - 102,61,41,51,52,51
+4,Maths,Advanced Operations,Hard,Compute: 60 + 194,264,255,244,254,254
+4,Maths,Multiplication & Division,Hard,Compute: 170 - 137,23,43,33,34,33
+4,Maths,Geometry & Measurement,Hard,Compute: 161 - 128,33,34,23,43,33
+4,Maths,Multiplication & Division,Hard,Compute: 110 + 24,124,144,134,135,134
+4,Maths,Fractions & Decimals,Hard,Compute: 7 × 14,105,98,108,84,98
+4,Maths,Fractions & Decimals,Hard,Compute: 189 + 104,283,293,294,303,293
+4,Maths,Multiplication & Division,Hard,Compute: 75 ÷ 15,7,5,4,6,5
+4,Maths,Fractions & Decimals,Hard,Compute: 84 ÷ 14,8,6,7,5,6
+4,Maths,Multiplication & Division,Hard,Compute: 122 - 65,57,58,47,67,57
+4,Maths,Advanced Operations,Hard,Compute: 3 × 5,25,10,18,15,15
+4,Maths,Multiplication & Division,Hard,Compute: 16 ÷ 2,9,10,7,8,8
+4,Maths,Advanced Operations,Hard,Compute: 65 ÷ 5,12,13,14,15,13
+4,Maths,Geometry & Measurement,Hard,Compute: 116 + 182,298,308,299,288,298
+4,Maths,Advanced Operations,Hard,Compute: 160 - 159,1,11,0,2,1
+4,Maths,Multiplication & Division,Hard,Compute: 101 - 65,26,46,37,36,36
+4,Maths,Geometry & Measurement,Hard,Compute: 8 × 3,24,32,21,34,24
+4,Maths,Advanced Operations,Hard,Compute: 28 ÷ 14,2,1,4,3,2
+4,Maths,Geometry & Measurement,Hard,Compute: 90 ÷ 6,15,14,16,17,15
+4,Maths,Fractions & Decimals,Hard,Compute: 138 - 55,83,73,84,93,83
+4,Maths,Multiplication & Division,Hard,Compute: 185 - 176,9,0,19,10,9
+4,Maths,Geometry & Measurement,Hard,Compute: 174 - 24,160,140,150,151,150
+4,Maths,Multiplication & Division,Hard,Compute: 12 × 13,168,166,156,143,156
+4,Maths,Advanced Operations,Hard,Compute: 91 - 3,89,98,78,88,88
+4,Maths,Multiplication & Division,Hard,Compute: 86 - 3,73,93,84,83,83
+4,Maths,Multiplication & Division,Hard,Compute: 123 - 33,91,100,90,80,90
+4,Maths,Advanced Operations,Hard,Compute: 67 + 31,98,108,99,88,98
+4,Maths,Fractions & Decimals,Hard,Compute: 82 + 93,185,176,175,165,175
+4,Maths,Multiplication & Division,Hard,Compute: 128 - 93,35,25,36,45,35
+4,Maths,Fractions & Decimals,Hard,Compute: 80 + 58,148,128,138,139,138
+4,Maths,Fractions & Decimals,Hard,Compute: 9 × 10,99,80,100,90,90
+4,Maths,Advanced Operations,Hard,Compute: 200 - 79,131,122,121,111,121
+4,Maths,Multiplication & Division,Hard,Compute: 98 + 35,143,133,123,134,133
+4,Maths,Multiplication & Division,Hard,Compute: 10 × 6,54,Option 3,70,60,60
+4,Maths,Geometry & Measurement,Hard,Compute: 22 ÷ 2,10,13,11,12,11
+4,Maths,Multiplication & Division,Hard,Compute: 6 × 13,78,84,88,65,78
+4,Maths,Geometry & Measurement,Hard,Compute: 188 - 159,29,30,19,39,29
+4,Maths,Multiplication & Division,Hard,Compute: 174 + 78,252,253,242,262,252
+4,Maths,Multiplication & Division,Hard,Compute: 133 - 9,114,134,124,125,124
+4,Maths,Advanced Operations,Hard,Compute: 181 + 135,317,326,316,306,316
+4,Maths,Multiplication & Division,Hard,Compute: 137 + 93,231,230,240,220,230
+4,Maths,Multiplication & Division,Hard,Compute: 4 × 14,42,56,66,60,56
+4,Maths,Multiplication & Division,Hard,Compute: 39 ÷ 3,12,13,15,14,13
+4,Maths,Advanced Operations,Hard,Compute: 177 - 174,3,4,0,13,3
+4,Maths,Advanced Operations,Hard,Compute: 15 ÷ 3,6,4,5,7,5
+4,Maths,Advanced Operations,Hard,Compute: 6 × 15,75,90,100,96,90
+4,Maths,Advanced Operations,Hard,Compute: 91 - 82,9,19,10,0,9
+4,Maths,Fractions & Decimals,Hard,Compute: 91 ÷ 7,14,12,15,13,13
+4,Maths,Geometry & Measurement,Hard,Compute: 3 × 11,43,22,36,33,33
+4,Maths,Geometry & Measurement,Hard,Compute: 15 ÷ 5,3,5,2,4,3
+4,Maths,Advanced Operations,Hard,Compute: 118 - 112,7,0,6,16,6
+4,Maths,Advanced Operations,Hard,Compute: 155 - 136,20,29,9,19,19
+4,Maths,Geometry & Measurement,Hard,Compute: 131 + 111,252,232,243,242,242
+4,Maths,Advanced Operations,Hard,Compute: 15 - 2,3,13,14,23,13
+4,Maths,Fractions & Decimals,Hard,Compute: 140 - 75,65,66,75,55,65
+4,Maths,Advanced Operations,Hard,Compute: 15 × 12,195,190,180,168,180
+4,Maths,Advanced Operations,Hard,Compute: 10 × 13,130,Option 3,117,140,130
+4,Maths,Geometry & Measurement,Hard,Compute: 115 + 57,162,173,172,182,172
+4,Maths,Geometry & Measurement,Hard,Compute: 128 - 40,89,78,98,88,88
+4,Maths,Multiplication & Division,Hard,Compute: 96 ÷ 12,7,9,8,10,8
+4,Maths,Geometry & Measurement,Hard,Compute: 24 ÷ 12,2,1,4,3,2
+4,Maths,Advanced Operations,Hard,Compute: 79 + 46,135,126,125,115,125
+4,Maths,Geometry & Measurement,Hard,Compute: 56 + 154,200,220,210,211,210
+4,Maths,Fractions & Decimals,Hard,Compute: 34 + 176,210,200,211,220,210
+4,Maths,Advanced Operations,Hard,Compute: 91 ÷ 13,6,8,9,7,7
+4,Maths,Geometry & Measurement,Hard,Compute: 100 - 54,47,46,56,36,46
+4,Maths,Fractions & Decimals,Hard,Compute: 187 - 87,110,100,101,90,100
+4,Maths,Multiplication & Division,Hard,Compute: 12 + 152,154,164,165,174,164
+4,Maths,Geometry & Measurement,Hard,Compute: 106 + 113,220,209,229,219,219
+4,Maths,Fractions & Decimals,Hard,Compute: 154 ÷ 11,14,15,16,13,14
+4,Maths,Geometry & Measurement,Hard,Compute: 120 + 52,182,172,173,162,172
+4,Maths,Geometry & Measurement,Hard,Compute: 31 - 5,16,26,27,36,26
+4,Maths,Multiplication & Division,Hard,Compute: 120 ÷ 8,15,16,14,17,15
+4,Maths,Multiplication & Division,Hard,Compute: 189 - 20,169,170,159,179,169
+4,Maths,Fractions & Decimals,Hard,Compute: 98 - 72,16,27,26,36,26
+4,Maths,Fractions & Decimals,Hard,Compute: 145 - 142,4,13,3,0,3
+4,Maths,Multiplication & Division,Hard,Compute: 162 - 41,121,122,131,111,121
+4,Maths,Geometry & Measurement,Hard,Compute: 185 - 166,20,19,9,29,19
+4,Maths,Advanced Operations,Hard,Compute: 154 ÷ 14,11,12,13,10,11
+4,Maths,Multiplication & Division,Hard,Compute: 181 - 69,122,102,112,113,112
+4,Maths,Fractions & Decimals,Hard,Compute: 198 - 49,149,159,139,150,149
+4,Maths,Fractions & Decimals,Hard,Compute: 31 - 29,0,12,3,2,2
+4,Maths,Geometry & Measurement,Hard,Compute: 159 + 14,173,183,174,163,173
+4,Maths,Geometry & Measurement,Hard,Compute: 43 - 26,7,18,27,17,17
+4,Maths,Fractions & Decimals,Hard,Compute: 171 - 92,89,80,69,79,79
+4,Maths,Multiplication & Division,Hard,Compute: 197 - 124,63,73,83,74,73
+4,Maths,Multiplication & Division,Hard,Compute: 189 - 181,18,8,0,9,8
+4,Maths,Fractions & Decimals,Hard,Compute: 159 + 200,369,349,359,360,359
+4,Maths,Geometry & Measurement,Hard,Compute: 24 ÷ 2,13,14,12,11,12
+4,Maths,Multiplication & Division,Hard,Compute: 3 × 15,55,48,30,45,45
+4,Maths,Geometry & Measurement,Hard,Compute: 99 ÷ 11,10,8,11,9,9
+4,Maths,Fractions & Decimals,Hard,Compute: 18 ÷ 9,2,1,3,4,2
+4,Maths,Geometry & Measurement,Hard,Compute: 40 - 17,24,33,23,13,23
+4,Maths,Fractions & Decimals,Hard,Compute: 180 + 189,369,359,370,379,369
+4,Maths,Multiplication & Division,Hard,Compute: 29 + 173,203,192,202,212,202
+4,Maths,Fractions & Decimals,Hard,Compute: 8 × 7,49,56,64,66,56
+4,Maths,Multiplication & Division,Hard,Compute: 119 + 144,273,264,253,263,263
+4,Maths,Multiplication & Division,Hard,Compute: 15 × 8,135,130,112,120,120
+4,Maths,Geometry & Measurement,Hard,Compute: 14 × 7,98,112,108,91,98
+4,Maths,Multiplication & Division,Hard,Compute: 6 ÷ 2,2,5,3,4,3
+4,Maths,Geometry & Measurement,Hard,Compute: 81 + 43,114,134,124,125,124
+4,Maths,Geometry & Measurement,Hard,Compute: 49 - 0,49,50,59,39,49
+4,Maths,Multiplication & Division,Hard,Compute: 6 + 103,109,110,99,119,109
+4,Maths,Advanced Operations,Hard,Compute: 13 × 7,91,84,104,101,91
+4,Maths,Advanced Operations,Hard,Compute: 72 + 187,269,259,260,249,259
+4,Maths,Advanced Operations,Hard,Compute: 60 ÷ 15,5,4,6,3,4
+4,Maths,Fractions & Decimals,Hard,Compute: 140 + 86,226,216,227,236,226
+4,Maths,Geometry & Measurement,Hard,Compute: 10 × 14,Option 3,126,150,140,140
+4,Maths,Fractions & Decimals,Hard,Compute: 40 ÷ 10,5,3,6,4,4
+4,Maths,Advanced Operations,Hard,Compute: 81 + 10,92,91,81,101,91
+4,Maths,Multiplication & Division,Hard,Compute: 183 - 82,102,111,91,101,101
+4,Maths,Geometry & Measurement,Hard,Compute: 153 - 119,44,35,24,34,34
+4,Maths,Geometry & Measurement,Hard,Compute: 183 - 59,114,124,134,125,124
+4,Maths,Geometry & Measurement,Hard,Compute: 36 + 119,145,165,156,155,155
+4,Maths,Geometry & Measurement,Hard,Compute: 193 + 25,228,218,208,219,218
+4,Maths,Advanced Operations,Hard,Compute: 76 - 42,24,34,44,35,34
+4,Maths,Advanced Operations,Hard,Compute: 9 + 144,143,163,153,154,153
+4,Maths,Geometry & Measurement,Hard,Compute: 126 - 20,107,96,106,116,106
+4,Maths,Geometry & Measurement,Hard,Compute: 64 + 182,246,256,247,236,246
+4,Maths,Fractions & Decimals,Hard,Compute: 70 - 19,61,52,51,41,51
+4,Maths,Fractions & Decimals,Hard,Compute: 187 - 22,155,166,175,165,165
+4,Maths,Advanced Operations,Hard,Compute: 34 + 199,223,233,234,243,233
+4,Maths,Advanced Operations,Hard,Compute: 12 × 15,180,190,165,192,180
+4,Maths,Advanced Operations,Hard,Compute: 49 - 7,42,52,43,32,42
+4,Maths,Geometry & Measurement,Hard,Compute: 30 ÷ 15,4,2,1,3,2
+4,Maths,Advanced Operations,Hard,Compute: 157 - 36,122,111,121,131,121
+4,Maths,Multiplication & Division,Hard,Compute: 12 × 2,22,24,34,36,24
+4,Maths,Fractions & Decimals,Hard,Compute: 80 + 170,240,260,250,251,250
+4,Maths,Advanced Operations,Hard,Compute: 107 + 104,211,201,212,221,211
+4,Maths,Fractions & Decimals,Hard,Compute: 7 × 13,98,78,101,91,91
+4,Maths,Advanced Operations,Hard,Compute: 182 - 92,90,80,100,91,90
+4,Maths,Geometry & Measurement,Hard,Compute: 178 - 159,29,20,9,19,19
+4,Maths,Advanced Operations,Hard,Compute: 199 + 155,344,354,364,355,354
+4,Maths,Advanced Operations,Hard,Compute: 188 - 110,79,68,78,88,78
+4,Maths,Multiplication & Division,Hard,Compute: 181 + 115,297,286,296,306,296
+4,Maths,Multiplication & Division,Hard,Compute: 97 + 131,238,218,229,228,228
+4,Maths,Advanced Operations,Hard,Compute: 124 - 16,118,109,108,98,108
+4,Maths,Geometry & Measurement,Hard,Compute: 16 ÷ 8,3,2,4,1,2
+4,Maths,Fractions & Decimals,Hard,Compute: 43 - 18,26,15,35,25,25
+4,Maths,Advanced Operations,Hard,Compute: 55 ÷ 11,7,6,5,4,5
+4,Maths,Fractions & Decimals,Hard,Compute: 117 - 108,9,10,19,0,9
+4,Maths,Advanced Operations,Hard,Compute: 170 - 15,165,145,155,156,155
+4,Maths,Multiplication & Division,Hard,Compute: 92 - 58,35,34,24,44,34
+4,Maths,Multiplication & Division,Hard,Compute: 3 × 6,21,18,28,12,18
+4,Maths,Advanced Operations,Hard,Compute: 78 - 42,36,37,26,46,36
+4,Maths,Advanced Operations,Hard,Compute: 193 - 48,146,135,155,145,145
+4,Maths,Geometry & Measurement,Hard,Compute: 3 × 8,24,34,27,16,24
+4,Maths,Fractions & Decimals,Hard,Compute: 30 ÷ 6,4,6,5,7,5
+4,Maths,Advanced Operations,Hard,Compute: 143 ÷ 13,13,11,10,12,11
+4,Maths,Fractions & Decimals,Hard,Compute: 63 + 54,107,117,127,118,117
+4,Maths,Multiplication & Division,Hard,Compute: 101 + 100,191,201,211,202,201
+4,Maths,Geometry & Measurement,Hard,Compute: 76 + 67,144,153,143,133,143
+4,Maths,Multiplication & Division,Hard,Compute: 154 + 188,342,343,332,352,342
+4,Maths,Multiplication & Division,Hard,Compute: 22 + 171,193,203,194,183,193
+4,Maths,Geometry & Measurement,Hard,Compute: 12 × 8,108,88,106,96,96
+4,Maths,Advanced Operations,Hard,Compute: 108 + 163,281,272,271,261,271
+4,Maths,Multiplication & Division,Hard,Compute: 42 ÷ 6,7,6,8,9,7
+4,Maths,Multiplication & Division,Hard,Compute: 194 - 161,33,23,34,43,33
+4,Maths,Advanced Operations,Hard,Compute: 187 - 106,71,81,91,82,81
+4,Maths,Multiplication & Division,Hard,Compute: 76 + 187,264,273,263,253,263
+4,Maths,Multiplication & Division,Hard,Compute: 52 ÷ 4,12,14,15,13,13
+4,Maths,Geometry & Measurement,Hard,Compute: 94 - 51,44,33,53,43,43
+4,Maths,Advanced Operations,Hard,Compute: 140 - 45,95,85,96,105,95
+4,Maths,Multiplication & Division,Hard,Compute: 139 - 138,0,2,1,11,1
+4,Maths,Multiplication & Division,Hard,Compute: 55 - 30,15,35,26,25,25
+4,Maths,Geometry & Measurement,Hard,Compute: 132 - 67,75,55,65,66,65
+4,Maths,Advanced Operations,Hard,Compute: 3 × 9,37,27,30,18,27
+4,Maths,Geometry & Measurement,Hard,Compute: 4 × 5,30,24,15,20,20
+4,Maths,Fractions & Decimals,Hard,Compute: 70 + 23,93,83,94,103,93
+4,Maths,Geometry & Measurement,Hard,Compute: 8 × 4,28,42,32,40,32
+4,Maths,Multiplication & Division,Hard,Compute: 116 - 63,63,54,43,53,53
+4,Maths,Geometry & Measurement,Hard,Compute: 128 - 115,23,13,14,3,13
+4,Maths,Advanced Operations,Hard,Compute: 11 × 11,110,132,131,121,121
+4,Maths,Geometry & Measurement,Hard,Compute: 88 - 36,42,62,53,52,52
+4,Maths,Advanced Operations,Hard,Compute: 197 - 30,168,177,157,167,167
+4,Maths,Geometry & Measurement,Hard,Compute: 158 + 48,216,196,206,207,206
+4,Maths,Advanced Operations,Hard,Compute: 151 - 115,46,36,26,37,36
+4,Maths,Advanced Operations,Hard,Compute: 104 ÷ 13,8,10,7,9,8
+4,Maths,Advanced Operations,Hard,Compute: 89 + 138,217,228,237,227,227
+4,Maths,Advanced Operations,Hard,Compute: 62 + 196,248,259,258,268,258
+4,Maths,Advanced Operations,Hard,Compute: 109 + 163,262,273,282,272,272
+4,Maths,Multiplication & Division,Hard,Compute: 29 + 52,91,82,81,71,81
+4,Maths,Geometry & Measurement,Hard,Compute: 66 + 82,149,158,138,148,148
+4,Maths,Fractions & Decimals,Hard,Compute: 28 + 70,88,98,99,108,98
+4,Maths,Advanced Operations,Hard,Compute: 108 - 43,66,55,75,65,65
+4,Maths,Geometry & Measurement,Hard,Compute: 179 - 61,118,108,119,128,118
+4,Maths,Fractions & Decimals,Hard,Compute: 183 - 50,134,123,143,133,133
+4,Maths,Multiplication & Division,Hard,Compute: 127 + 30,158,167,147,157,157
+4,Maths,Geometry & Measurement,Hard,Compute: 57 - 14,53,33,43,44,43
+4,Maths,Fractions & Decimals,Hard,Compute: 106 + 179,275,285,295,286,285
+4,Maths,Geometry & Measurement,Hard,Compute: 84 + 14,98,99,88,108,98
+4,Maths,Multiplication & Division,Hard,Compute: 33 ÷ 3,11,12,10,13,11
+4,Maths,Geometry & Measurement,Hard,Compute: 179 - 159,10,21,30,20,20
+4,Maths,Multiplication & Division,Hard,Compute: 5 × 9,55,36,50,45,45
+4,Maths,Multiplication & Division,Hard,Compute: 45 ÷ 3,17,16,14,15,15
+4,Maths,Geometry & Measurement,Hard,Compute: 188 - 112,76,66,77,86,76
+4,Maths,Multiplication & Division,Hard,Compute: 11 × 13,153,130,154,143,143
+4,Maths,Geometry & Measurement,Hard,Compute: 119 - 22,97,87,107,98,97
+4,Maths,Fractions & Decimals,Hard,Compute: 126 + 20,136,147,146,156,146
+4,Maths,Fractions & Decimals,Hard,Compute: 9 × 3,37,27,24,36,27
+4,Maths,Fractions & Decimals,Hard,Compute: 145 + 109,255,254,264,244,254
+4,Maths,Fractions & Decimals,Hard,Compute: 121 - 5,117,106,126,116,116
+4,Maths,Geometry & Measurement,Hard,Compute: 7 + 96,93,113,104,103,103
+4,Maths,Advanced Operations,Hard,Compute: 131 - 8,123,124,133,113,123
+4,Maths,Multiplication & Division,Hard,Compute: 109 - 52,58,67,57,47,57
+4,Maths,Geometry & Measurement,Hard,Compute: 169 - 105,74,64,54,65,64
+4,Maths,Multiplication & Division,Hard,Compute: 161 - 40,122,111,121,131,121
+4,Maths,Fractions & Decimals,Hard,Compute: 190 - 55,145,136,135,125,135
+4,Maths,Advanced Operations,Hard,Compute: 39 - 9,20,30,31,40,30
+4,Maths,Multiplication & Division,Hard,Compute: 27 - 27,0,10,1,Option 3,0
+4,Maths,Fractions & Decimals,Hard,Compute: 2 × 4,18,10,8,4,8
+4,Maths,Multiplication & Division,Hard,Compute: 102 - 9,94,93,103,83,93
+4,Maths,Fractions & Decimals,Hard,Compute: 3 + 182,185,175,186,195,185
+4,Maths,Multiplication & Division,Hard,Compute: 13 × 9,130,117,108,127,117
+4,Maths,Fractions & Decimals,Hard,Compute: 117 - 73,54,45,44,34,44
+4,Maths,Multiplication & Division,Hard,Compute: 138 - 22,126,116,117,106,116
+4,Maths,Geometry & Measurement,Hard,Compute: 36 ÷ 6,8,7,5,6,6
+4,Maths,Advanced Operations,Hard,Compute: 174 - 115,59,60,49,69,59
+4,Maths,Advanced Operations,Hard,Compute: 101 - 5,96,106,86,97,96
+4,Maths,Geometry & Measurement,Hard,Compute: 184 - 35,150,139,149,159,149
+4,Maths,Multiplication & Division,Hard,Compute: 27 + 16,44,33,43,53,43
+4,Maths,Geometry & Measurement,Hard,Compute: 71 + 112,184,193,173,183,183
+4,Maths,Multiplication & Division,Hard,Compute: 120 ÷ 12,12,10,9,11,10
+4,Maths,Advanced Operations,Hard,Compute: 32 ÷ 4,10,7,8,9,8
+4,Maths,Fractions & Decimals,Hard,Compute: 79 + 164,243,233,244,253,243
+4,Maths,Multiplication & Division,Hard,Compute: 182 - 118,74,64,65,54,64
+4,Maths,Multiplication & Division,Hard,Compute: 69 - 9,70,60,50,61,60
+4,Maths,Multiplication & Division,Hard,Compute: 145 - 12,134,123,133,143,133
+4,Maths,Multiplication & Division,Hard,Compute: 41 - 8,43,23,34,33,33
+4,Maths,Fractions & Decimals,Hard,Compute: 182 ÷ 14,12,13,15,14,13
+4,Maths,Advanced Operations,Hard,Compute: 41 - 34,0,8,7,17,7
+4,Maths,Fractions & Decimals,Hard,Compute: 195 ÷ 13,14,16,15,17,15
+4,Maths,Fractions & Decimals,Hard,Compute: 42 ÷ 14,3,4,2,5,3
+4,Maths,Fractions & Decimals,Hard,Compute: 124 + 48,162,172,182,173,172
+4,Maths,Fractions & Decimals,Hard,Compute: 61 + 21,92,82,83,72,82
+4,Maths,Advanced Operations,Hard,Compute: 138 - 132,6,0,16,7,6
+4,Maths,Fractions & Decimals,Hard,Compute: 78 - 29,39,50,59,49,49
+4,Maths,Advanced Operations,Hard,Compute: 137 - 23,124,114,115,104,114
+4,Maths,Multiplication & Division,Hard,Compute: 6 × 2,22,12,18,10,12
+4,Maths,Fractions & Decimals,Hard,Compute: 91 - 49,52,43,32,42,42
+4,Maths,Advanced Operations,Hard,Compute: 145 - 62,93,83,84,73,83
+4,Maths,Multiplication & Division,Hard,Compute: 98 - 98,10,Option 3,1,0,0
+4,Maths,Fractions & Decimals,Hard,Compute: 53 + 46,99,109,89,100,99
+4,Maths,Advanced Operations,Hard,Compute: 26 - 25,2,11,1,0,1
+4,Maths,Geometry & Measurement,Hard,Compute: 100 + 53,163,154,143,153,153
+4,Maths,Fractions & Decimals,Hard,Compute: 123 + 85,198,208,218,209,208
+4,Maths,Geometry & Measurement,Hard,Compute: 178 - 47,132,121,141,131,131
+4,Maths,Multiplication & Division,Hard,Compute: 56 ÷ 7,9,8,10,7,8
+4,Maths,Advanced Operations,Hard,Compute: 112 - 101,1,11,21,12,11
+4,Maths,Advanced Operations,Hard,Compute: 94 + 128,212,232,223,222,222
+4,Maths,Geometry & Measurement,Hard,Compute: 66 - 64,2,12,0,3,2
+4,Maths,Advanced Operations,Hard,Compute: 104 + 161,265,266,255,275,265
+4,Maths,Geometry & Measurement,Hard,Compute: 141 - 109,42,32,22,33,32
+4,Maths,Advanced Operations,Hard,Compute: 56 + 65,111,131,122,121,121
+4,Maths,Multiplication & Division,Hard,Compute: 156 ÷ 13,13,11,12,14,12
+4,Maths,Fractions & Decimals,Hard,Compute: 200 - 54,146,156,136,147,146
+4,Maths,Multiplication & Division,Hard,Compute: 120 ÷ 15,9,10,7,8,8
+4,Maths,Multiplication & Division,Hard,Compute: 101 + 40,151,142,131,141,141
+4,Maths,Fractions & Decimals,Hard,Compute: 6 + 150,157,146,166,156,156
+4,Maths,Geometry & Measurement,Hard,Compute: 7 × 3,18,31,28,21,21
+4,Maths,Multiplication & Division,Hard,Compute: 198 + 57,245,265,256,255,255
+4,Maths,Advanced Operations,Hard,Compute: 146 - 114,33,42,32,22,32
+4,Maths,Geometry & Measurement,Hard,Compute: 83 - 5,88,79,78,68,78
+4,Maths,Multiplication & Division,Hard,Compute: 169 - 168,2,11,0,1,1
+4,Maths,Fractions & Decimals,Hard,Compute: 84 + 44,129,128,118,138,128
+4,Maths,Geometry & Measurement,Hard,Compute: 153 - 107,47,56,36,46,46
+4,Maths,Fractions & Decimals,Hard,Compute: 46 - 44,12,2,0,3,2
+4,Maths,Advanced Operations,Hard,Compute: 118 + 176,294,295,284,304,294
+4,Maths,Multiplication & Division,Hard,Compute: 62 - 40,22,23,32,12,22
+4,Maths,Multiplication & Division,Hard,Compute: 75 + 68,133,144,143,153,143
+4,Maths,Multiplication & Division,Hard,Compute: 20 ÷ 2,11,12,10,9,10
+4,Maths,Multiplication & Division,Hard,Compute: 119 + 189,308,309,318,298,308
+4,Maths,Fractions & Decimals,Hard,Compute: 153 - 76,77,87,67,78,77
+4,Maths,Advanced Operations,Hard,Compute: 180 ÷ 12,17,14,15,16,15
+4,Maths,Geometry & Measurement,Hard,Compute: 88 - 85,3,4,0,13,3
+4,Maths,Fractions & Decimals,Hard,Compute: 157 - 80,67,78,77,87,77
+4,Maths,Advanced Operations,Hard,Compute: 103 + 61,164,174,154,165,164
+4,Maths,Geometry & Measurement,Hard,Compute: 28 ÷ 2,16,14,15,13,14
+4,Maths,Geometry & Measurement,Hard,Compute: 147 + 78,235,215,226,225,225
+4,Maths,Geometry & Measurement,Hard,Compute: 168 ÷ 12,14,16,15,13,14
+4,Maths,Fractions & Decimals,Hard,Compute: 8 × 10,80,88,90,70,80
+4,Maths,Fractions & Decimals,Hard,Compute: 168 ÷ 14,12,11,14,13,12
+4,Maths,Multiplication & Division,Hard,Compute: 171 - 118,54,63,43,53,53
+4,Maths,Geometry & Measurement,Hard,Compute: 162 - 102,70,60,50,61,60
+4,Maths,Geometry & Measurement,Hard,Compute: 145 - 126,29,9,20,19,19
+4,Maths,Multiplication & Division,Hard,Compute: 101 - 87,15,14,24,4,14
+4,Maths,Advanced Operations,Hard,Compute: 7 × 2,14,12,24,21,14
+4,Maths,Fractions & Decimals,Hard,Compute: 11 × 14,154,164,165,140,154
+4,Maths,Fractions & Decimals,Hard,Compute: 85 + 39,134,125,114,124,124
+4,Maths,Geometry & Measurement,Hard,Compute: 180 + 143,324,323,333,313,323
+4,Maths,Geometry & Measurement,Hard,Compute: 132 + 186,308,318,328,319,318
+4,Maths,Multiplication & Division,Hard,Compute: 110 - 62,38,58,48,49,48
+4,Maths,Geometry & Measurement,Hard,Compute: 197 - 151,46,56,36,47,46
+4,Maths,Multiplication & Division,Hard,Compute: 155 + 181,326,346,336,337,336
+4,Maths,Geometry & Measurement,Hard,Compute: 77 + 30,107,108,117,97,107
+4,Maths,Geometry & Measurement,Hard,Compute: 165 - 155,11,0,10,20,10
+4,Maths,Advanced Operations,Hard,Compute: 95 - 26,59,79,69,70,69
+4,Maths,Advanced Operations,Hard,Compute: 93 - 50,53,33,43,44,43
+4,Maths,Fractions & Decimals,Hard,Compute: 56 - 36,20,10,30,21,20
+4,Maths,Geometry & Measurement,Hard,Compute: 96 - 10,87,86,96,76,86
+4,Maths,Multiplication & Division,Hard,Compute: 141 + 197,339,348,338,328,338
+4,Maths,Geometry & Measurement,Hard,Compute: 157 - 53,105,94,104,114,104
+4,Maths,Advanced Operations,Hard,Compute: 198 - 115,93,83,84,73,83
+4,Maths,Fractions & Decimals,Hard,Compute: 111 - 99,12,2,22,13,12
+4,Maths,Fractions & Decimals,Hard,Compute: 93 + 196,279,290,289,299,289
+4,Maths,Multiplication & Division,Hard,Compute: 0 + 109,119,109,99,110,109
+4,Maths,Multiplication & Division,Hard,Compute: 11 + 19,31,40,30,20,30
+4,Maths,Advanced Operations,Hard,Compute: 183 - 9,174,175,184,164,174
+4,Maths,Fractions & Decimals,Hard,Compute: 63 ÷ 7,9,8,10,11,9
+4,Maths,Fractions & Decimals,Hard,Compute: 93 + 123,217,206,226,216,216
+4,Maths,Multiplication & Division,Hard,Compute: 133 + 118,241,252,251,261,251
+4,Maths,Geometry & Measurement,Hard,Compute: 142 - 84,59,58,68,48,58
+4,Maths,Advanced Operations,Hard,Compute: 13 × 6,78,72,91,88,78
+4,Maths,Fractions & Decimals,Hard,Compute: 173 + 76,239,249,250,259,249
+4,Maths,Multiplication & Division,Hard,Compute: 68 + 176,245,234,254,244,244
+4,Maths,Multiplication & Division,Hard,Compute: 54 + 41,105,96,85,95,95
+4,Maths,Multiplication & Division,Hard,Compute: 67 + 120,187,197,177,188,187
+4,Maths,Fractions & Decimals,Hard,Compute: 154 - 90,65,74,54,64,64
+4,Maths,Geometry & Measurement,Hard,Compute: 174 + 175,359,350,339,349,349
+4,Maths,Fractions & Decimals,Hard,Compute: 168 - 71,87,107,97,98,97
+4,Maths,Fractions & Decimals,Hard,Compute: 72 - 1,61,72,71,81,71
+4,Maths,Fractions & Decimals,Hard,Compute: 179 - 24,156,145,165,155,155
+4,Maths,Multiplication & Division,Hard,Compute: 53 - 31,23,12,22,32,22
+4,Maths,Advanced Operations,Hard,Compute: 9 × 12,108,117,96,118,108
+4,Maths,Fractions & Decimals,Hard,Compute: 33 + 150,183,193,173,184,183
+4,Maths,Fractions & Decimals,Hard,Compute: 186 - 99,88,97,77,87,87
+4,Maths,Advanced Operations,Hard,Compute: 90 - 36,64,54,44,55,54
+4,Maths,Multiplication & Division,Hard,Compute: 13 × 10,130,140,120,143,130
+4,Maths,Fractions & Decimals,Hard,Compute: 66 - 58,9,0,18,8,8
+4,Maths,Multiplication & Division,Hard,Compute: 137 + 102,229,239,249,240,239
+4,Maths,Multiplication & Division,Hard,Compute: 109 + 26,145,136,135,125,135
+4,Maths,Fractions & Decimals,Hard,Compute: 104 + 114,228,218,219,208,218
+4,Maths,Geometry & Measurement,Hard,Compute: 180 + 67,247,237,248,257,247
+4,Maths,Fractions & Decimals,Hard,Compute: 156 + 26,183,182,172,192,182
+4,Maths,Fractions & Decimals,Hard,Compute: 70 - 12,48,59,68,58,58
+4,Maths,Multiplication & Division,Hard,Compute: 131 + 136,267,257,277,268,267
+4,Maths,Geometry & Measurement,Hard,Compute: 104 + 39,153,143,133,144,143
+4,Maths,Multiplication & Division,Hard,Compute: 78 ÷ 13,7,8,6,5,6
+4,Maths,Multiplication & Division,Hard,Compute: 15 × 9,145,150,126,135,135
+4,Maths,Fractions & Decimals,Hard,Compute: 94 - 17,77,78,87,67,77
+4,Maths,Fractions & Decimals,Hard,Compute: 176 + 17,203,194,193,183,193
+4,Maths,Multiplication & Division,Hard,Compute: 88 + 62,160,150,140,151,150
+4,Maths,Fractions & Decimals,Hard,Compute: 80 ÷ 10,8,7,10,9,8
+4,Maths,Geometry & Measurement,Hard,Compute: 182 + 78,270,250,261,260,260
+4,Maths,Fractions & Decimals,Hard,Compute: 139 - 16,124,113,133,123,123
+4,Maths,Geometry & Measurement,Hard,Compute: 15 × 13,210,195,182,205,195
+4,Maths,Fractions & Decimals,Hard,Compute: 190 + 65,255,265,256,245,255
+4,Maths,Advanced Operations,Hard,Compute: 141 - 66,65,85,76,75,75
+4,Maths,Geometry & Measurement,Hard,Compute: 57 - 34,23,24,33,13,23
+4,Maths,Fractions & Decimals,Hard,Compute: 197 - 166,31,41,32,21,31
+4,Maths,Advanced Operations,Hard,Compute: 140 - 86,55,54,44,64,54
+4,Maths,Multiplication & Division,Hard,Compute: 5 + 170,165,185,176,175,175
+4,Maths,Geometry & Measurement,Hard,Compute: 63 + 93,156,146,166,157,156
+4,Maths,Multiplication & Division,Hard,Compute: 65 - 7,59,48,58,68,58
+4,Maths,Multiplication & Division,Hard,Compute: 152 - 54,98,108,88,99,98
+4,Maths,Fractions & Decimals,Hard,Compute: 13 + 155,158,169,168,178,168
+4,Maths,Geometry & Measurement,Hard,Compute: 85 + 144,229,230,219,239,229
+4,Maths,Multiplication & Division,Hard,Compute: 93 + 154,237,247,248,257,247
+4,Maths,Advanced Operations,Hard,Compute: 179 + 173,352,353,342,362,352
+4,Maths,Geometry & Measurement,Hard,Compute: 197 - 182,15,16,25,5,15
+4,Maths,Multiplication & Division,Hard,Compute: 104 + 141,235,255,246,245,245
+4,Maths,Geometry & Measurement,Hard,Compute: 11 + 15,26,36,16,27,26
+4,Maths,Multiplication & Division,Hard,Compute: 90 ÷ 10,9,10,11,8,9
+4,Maths,Multiplication & Division,Hard,Compute: 183 - 22,161,162,171,151,161
+4,Maths,Fractions & Decimals,Hard,Compute: 119 + 137,266,257,256,246,256
+4,Maths,Multiplication & Division,Hard,Compute: 69 + 153,212,232,223,222,222
+4,Maths,Advanced Operations,Hard,Compute: 46 + 100,146,147,136,156,146
+4,Maths,Multiplication & Division,Hard,Compute: 152 - 26,116,126,127,136,126
+4,Maths,Geometry & Measurement,Hard,Compute: 18 + 53,81,71,61,72,71
+4,Maths,Advanced Operations,Hard,Compute: 140 + 188,329,328,318,338,328
+4,Maths,Geometry & Measurement,Hard,Compute: 163 - 128,36,45,25,35,35
+4,Maths,Multiplication & Division,Hard,Compute: 189 - 175,24,14,4,15,14
+4,Maths,Fractions & Decimals,Hard,Compute: 123 + 97,221,210,220,230,220
+4,Maths,Multiplication & Division,Hard,Compute: 79 + 29,118,109,98,108,108
+4,Maths,Fractions & Decimals,Hard,Compute: 185 - 167,8,19,18,28,18
+4,Maths,Multiplication & Division,Hard,Compute: 79 + 62,141,131,151,142,141
+4,Maths,Fractions & Decimals,Hard,Compute: 180 - 44,146,126,136,137,136
+4,Maths,Geometry & Measurement,Hard,Compute: 120 ÷ 10,14,13,11,12,12
+4,Maths,Geometry & Measurement,Hard,Compute: 174 - 97,87,78,77,67,77
+4,Maths,Multiplication & Division,Hard,Compute: 104 + 80,185,194,184,174,184
+4,Maths,Geometry & Measurement,Hard,Compute: 192 - 125,77,67,57,68,67
+4,Maths,Advanced Operations,Hard,Compute: 140 ÷ 10,16,14,13,15,14
+4,Maths,Advanced Operations,Hard,Compute: 78 + 22,100,101,110,90,100
+4,Maths,Fractions & Decimals,Hard,Compute: 97 - 5,82,92,93,102,92
+4,Maths,Geometry & Measurement,Hard,Compute: 22 - 7,15,25,5,16,15
+4,Maths,Geometry & Measurement,Hard,Compute: 139 + 79,218,228,208,219,218
+4,Maths,Fractions & Decimals,Hard,Compute: 11 + 99,100,110,111,120,110
+4,Maths,Multiplication & Division,Hard,Compute: 144 - 95,39,59,49,50,49
+4,Maths,Fractions & Decimals,Hard,Compute: 184 - 116,78,68,69,58,68
+4,Maths,Geometry & Measurement,Hard,Compute: 15 × 7,120,115,105,98,105
+4,Maths,Geometry & Measurement,Hard,Compute: 105 - 78,28,17,27,37,27
+4,Maths,Fractions & Decimals,Hard,Compute: 158 + 15,183,173,174,163,173
+4,Maths,Multiplication & Division,Hard,Compute: 163 - 92,81,61,72,71,71
+4,Maths,Multiplication & Division,Hard,Compute: 149 + 147,296,297,286,306,296
+4,Maths,Advanced Operations,Hard,Compute: 190 + 172,362,363,372,352,362
+4,Maths,Geometry & Measurement,Hard,Compute: 180 + 35,205,216,225,215,215
+4,Maths,Geometry & Measurement,Hard,Compute: 49 - 36,23,14,13,3,13
+4,Maths,Fractions & Decimals,Hard,Compute: 5 + 194,209,199,189,200,199
+4,Maths,Geometry & Measurement,Hard,Compute: 113 + 150,263,264,273,253,263
+4,Maths,Geometry & Measurement,Hard,Compute: 41 + 14,45,56,55,65,55
+4,Maths,Fractions & Decimals,Hard,Compute: 68 + 54,122,123,132,112,122
+4,Maths,Fractions & Decimals,Hard,Compute: 48 + 2,40,60,50,51,50
+4,Maths,Multiplication & Division,Hard,Compute: 142 - 93,49,39,59,50,49
+4,Maths,Geometry & Measurement,Hard,Compute: 10 × 4,36,Option 3,50,40,40
+4,Maths,Multiplication & Division,Hard,Compute: 2 - 0,0,3,2,12,2
+4,Maths,Geometry & Measurement,Hard,Compute: 12 + 75,87,77,88,97,87
+4,Maths,Advanced Operations,Hard,Compute: 144 - 122,22,32,12,23,22
+4,Maths,Advanced Operations,Hard,Compute: 2 × 3,8,3,16,6,6
+4,Maths,Fractions & Decimals,Hard,Compute: 181 + 180,362,351,361,371,361
+4,Maths,Advanced Operations,Hard,Compute: 170 - 165,5,0,6,15,5
+4,Maths,Multiplication & Division,Hard,Compute: 154 - 49,105,106,115,95,105
+4,Maths,Advanced Operations,Hard,Compute: 173 + 18,191,192,201,181,191
+4,Maths,Geometry & Measurement,Hard,Compute: 129 - 68,62,61,51,71,61
+4,Maths,Fractions & Decimals,Hard,Compute: 38 - 8,40,31,30,20,30
+4,Maths,Advanced Operations,Hard,Compute: 92 + 159,251,261,252,241,251
+4,Maths,Multiplication & Division,Hard,Compute: 147 - 41,96,107,116,106,106
+4,Maths,Multiplication & Division,Hard,Compute: 149 + 92,231,251,242,241,241
+4,Maths,Fractions & Decimals,Hard,Compute: 11 × 2,33,22,32,20,22
+4,Maths,Multiplication & Division,Hard,Compute: 10 × 12,Option 3,108,130,120,120
+4,Maths,Advanced Operations,Hard,Compute: 101 - 63,28,48,38,39,38
+4,Maths,Advanced Operations,Hard,Compute: 97 - 15,83,82,72,92,82
+4,Maths,Fractions & Decimals,Hard,Compute: 28 + 103,131,141,132,121,131
+4,Maths,Geometry & Measurement,Hard,Compute: 44 + 155,200,189,199,209,199
+4,Maths,Geometry & Measurement,Hard,Compute: 103 + 53,166,157,146,156,156
+4,Maths,Fractions & Decimals,Hard,Compute: 37 + 121,159,158,148,168,158
+4,Maths,Advanced Operations,Hard,Compute: 182 + 105,297,277,287,288,287
+4,Maths,Fractions & Decimals,Hard,Compute: 173 + 63,237,226,246,236,236
+4,Maths,Geometry & Measurement,Hard,Compute: 18 + 103,111,131,121,122,121
+4,Maths,Advanced Operations,Hard,Compute: 184 + 190,364,384,375,374,374
+4,Maths,Advanced Operations,Hard,Compute: 42 ÷ 7,8,5,7,6,6
+4,Maths,Geometry & Measurement,Hard,Compute: 143 + 46,189,199,179,190,189
+4,Maths,Advanced Operations,Hard,Compute: 11 × 5,55,65,66,50,55
+4,Maths,Advanced Operations,Hard,Compute: 15 × 2,45,40,28,30,30
+4,Maths,Fractions & Decimals,Hard,Compute: 192 + 117,299,310,309,319,309
+4,Maths,Fractions & Decimals,Hard,Compute: 193 - 181,12,2,13,22,12
+4,Maths,Fractions & Decimals,Hard,Compute: 191 + 147,339,338,328,348,338
+4,Maths,Fractions & Decimals,Hard,Compute: 17 + 92,110,119,99,109,109
+4,Maths,Geometry & Measurement,Hard,Compute: 138 + 20,148,158,159,168,158
+4,Maths,Advanced Operations,Hard,Compute: 147 + 185,333,342,322,332,332
+4,Maths,Multiplication & Division,Hard,Compute: 73 + 130,213,204,203,193,203
+4,Maths,Fractions & Decimals,Hard,Compute: 30 + 170,201,190,210,200,200
+4,Maths,Multiplication & Division,Hard,Compute: 143 - 9,124,144,135,134,134
+4,Maths,Advanced Operations,Hard,Compute: 10 + 146,156,166,146,157,156
+4,Maths,Geometry & Measurement,Hard,Compute: 5 × 8,32,40,45,50,40
+4,Maths,Advanced Operations,Hard,Compute: 142 + 32,164,174,175,184,174
+4,Maths,Advanced Operations,Hard,Compute: 69 - 0,70,59,69,79,69
+4,Maths,Fractions & Decimals,Hard,Compute: 126 - 117,0,10,9,19,9
+4,Maths,Fractions & Decimals,Hard,Compute: 7 × 12,72,91,84,94,84
+4,Maths,Advanced Operations,Hard,Compute: 98 - 2,96,97,106,86,96
+4,Maths,Fractions & Decimals,Hard,Compute: 26 + 81,108,97,107,117,107
+4,Maths,Multiplication & Division,Hard,Compute: 161 + 72,243,234,233,223,233
+4,Maths,Advanced Operations,Hard,Compute: 168 + 31,200,199,209,189,199
+4,Maths,Multiplication & Division,Hard,Compute: 196 + 76,272,262,282,273,272
+4,Maths,Multiplication & Division,Hard,Compute: 89 - 34,45,56,65,55,55
+4,Maths,Advanced Operations,Hard,Compute: 182 - 30,152,153,142,162,152
+4,Maths,Geometry & Measurement,Hard,Compute: 45 + 142,188,197,177,187,187
+4,Maths,Fractions & Decimals,Hard,Compute: 178 - 13,175,165,166,155,165
+4,Maths,Geometry & Measurement,Hard,Compute: 131 - 120,11,1,12,21,11
+4,Maths,Geometry & Measurement,Hard,Compute: 82 + 89,161,171,172,181,171
+4,Maths,Advanced Operations,Hard,Compute: 7 × 8,66,48,63,56,56
+4,Maths,Fractions & Decimals,Hard,Compute: 94 + 142,237,236,246,226,236
+4,Maths,Multiplication & Division,Hard,Compute: 156 + 126,282,272,292,283,282
+4,Maths,Fractions & Decimals,Hard,Compute: 190 + 188,378,368,379,388,378
+4,Maths,Fractions & Decimals,Hard,Compute: 12 ÷ 3,3,5,6,4,4
+4,Maths,Geometry & Measurement,Hard,Compute: 168 - 17,151,141,161,152,151
+4,Maths,Advanced Operations,Hard,Compute: 55 + 129,174,185,194,184,184
+4,Maths,Geometry & Measurement,Hard,Compute: 109 + 55,165,174,164,154,164
+4,Maths,Fractions & Decimals,Hard,Compute: 70 - 54,26,6,16,17,16
+4,Maths,Multiplication & Division,Hard,Compute: 61 - 38,23,24,13,33,23
+4,Maths,Geometry & Measurement,Hard,Compute: 146 + 74,210,230,220,221,220
+4,Maths,Fractions & Decimals,Hard,Compute: 190 - 83,97,108,117,107,107
+4,Maths,Geometry & Measurement,Hard,Compute: 169 + 171,350,340,330,341,340
+4,Maths,Multiplication & Division,Hard,Compute: 72 + 42,114,124,115,104,114
+4,Maths,Multiplication & Division,Hard,Compute: 5 × 5,30,25,35,20,25
+4,Maths,Geometry & Measurement,Hard,Compute: 176 - 23,154,143,153,163,153
+4,Maths,Multiplication & Division,Hard,Compute: 8 × 8,74,64,56,72,64
+4,Maths,Multiplication & Division,Hard,Compute: 14 × 15,195,210,220,224,210
+4,Maths,Advanced Operations,Hard,Compute: 149 + 83,222,242,233,232,232
+4,Maths,Geometry & Measurement,Hard,Compute: 180 - 62,108,118,119,128,118
+4,Maths,Geometry & Measurement,Hard,Compute: 136 - 21,125,105,115,116,115
+4,Maths,Multiplication & Division,Hard,Compute: 65 + 49,104,115,114,124,114
+4,Maths,Fractions & Decimals,Hard,Compute: 193 - 81,122,112,102,113,112
+4,Maths,Fractions & Decimals,Hard,Compute: 158 - 67,91,101,92,81,91
+4,Maths,Advanced Operations,Hard,Compute: 173 - 14,159,169,160,149,159
+4,Maths,Advanced Operations,Hard,Compute: 133 + 50,193,173,183,184,183
+4,Maths,Fractions & Decimals,Hard,Compute: 78 + 102,170,180,181,190,180
+4,Maths,Geometry & Measurement,Hard,Compute: 163 - 53,120,111,110,100,110
+4,Maths,Fractions & Decimals,Hard,Compute: 82 - 50,32,22,33,42,32
+4,Maths,Advanced Operations,Hard,Compute: 110 + 75,186,195,175,185,185
+4,Maths,Geometry & Measurement,Hard,Compute: 59 - 38,21,11,31,22,21
+4,Maths,Multiplication & Division,Hard,Compute: 174 + 155,339,319,330,329,329
+4,Maths,Multiplication & Division,Hard,Compute: 118 - 45,63,73,74,83,73
+4,Maths,Advanced Operations,Hard,Compute: 185 - 52,143,134,133,123,133
+4,Maths,Fractions & Decimals,Hard,Compute: 157 - 111,36,56,47,46,46
+4,Maths,Geometry & Measurement,Hard,Compute: 9 × 7,63,73,56,72,63
+4,Maths,Advanced Operations,Hard,Compute: 11 × 8,98,88,80,99,88
+4,Maths,Advanced Operations,Hard,Compute: 150 ÷ 10,17,16,15,14,15
+4,Maths,Geometry & Measurement,Hard,Compute: 98 ÷ 14,9,8,6,7,7
+4,Maths,Advanced Operations,Hard,Compute: 177 - 81,86,96,97,106,96
+4,Maths,Fractions & Decimals,Hard,Compute: 10 × 10,90,Option 3,110,100,100
+4,Maths,Fractions & Decimals,Hard,Compute: 170 + 167,337,338,327,347,337
+4,Maths,Multiplication & Division,Hard,Compute: 68 + 196,264,254,274,265,264
+4,Maths,Multiplication & Division,Hard,Compute: 121 + 178,300,289,299,309,299
+4,Maths,Multiplication & Division,Hard,Compute: 33 - 19,15,24,4,14,14
+4,Maths,Geometry & Measurement,Hard,Compute: 196 ÷ 14,15,14,16,13,14

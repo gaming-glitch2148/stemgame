@@ -1,0 +1,1001 @@
+Grade,Subject,Topic,Difficulty,Question,A,B,C,D,Correct Answer
+10,Science,Biology Reasoning,Hard,Why does protein structure determine function?,Proteins store energy,Shape affects interactions,Proteins are identical,DNA changes shape,Shape affects interactions
+10,Science,Chemistry,Hard,Why does increasing temperature increase reaction rate?,Mass increases,More energetic collisions,Atoms disappear,Volume decreases,More energetic collisions
+10,Science,Earth Science,Hard,How do feedback loops influence Earth systems?,Always stabilize,Amplify or dampen changes,Stop processes,Eliminate gases,Amplify or dampen changes
+10,Science,Physics,Hard,Why does increasing mass reduce acceleration for the same force?,More friction,Greater inertia,Energy loss,Lower speed,Greater inertia
+10,Science,Biology Reasoning,Hard,Why can a small mutation have large biological effects?,Cells divide faster,Proteins may malfunction,Energy increases,Genes disappear,Proteins may malfunction
+10,Science,Chemistry,Hard,Why are catalysts not consumed in reactions?,They are destroyed,They are regenerated,They store energy,They change products,They are regenerated
+10,Science,Earth Science,Hard,Why does plate tectonics affect long-term climate?,Stops erosion,Moves continents and ocean currents,Changes gravity,Blocks sunlight,Moves continents and ocean currents
+10,Science,Physics,Hard,Why is energy conserved in isolated systems?,Energy destroyed,Energy transforms,Mass increases,Speed constant,Energy transforms
+10,Science,Physics,Hard,An object of mass 18 kg accelerates at 3 m/s². What net force acts on it?,54 N,72 N,36 N,162 N,54 N
+10,Science,Earth Science,Hard,Which process is most responsible for breaking down rock into smaller pieces?,Weathering,Evaporation,Condensation,Deposition,Weathering
+10,Science,Physics,Hard,An object of mass 17 kg accelerates at 2 m/s². What net force acts on it?,51 N,17 N,34 N,68 N,34 N
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 56°C)?",Reaction rate increases up to an optimum,Products disappear,Reaction rate always decreases,Enzyme creates new atoms,Reaction rate increases up to an optimum
+10,Science,Chemistry,Hard,A solution has pH 5. How is it best classified?,Acidic,Saltwater,Neutral,Basic,Acidic
+10,Science,Earth Science,Hard,Two tectonic plates are moving toward each other. This boundary is called:,Convergent boundary,Divergent boundary,Transform boundary,Stable boundary,Convergent boundary
+10,Science,Chemistry,Hard,A solution has pH 14. How is it best classified?,Saltwater,Basic,Neutral,Acidic,Basic
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 38°C)?",Reaction rate always decreases,Enzyme creates new atoms,Products disappear,Reaction rate increases up to an optimum,Reaction rate increases up to an optimum
+10,Science,Biology Reasoning,Hard,"If a DNA sequence changes by one base, what is that called?",Cell wall,Point mutation,Homeostasis,Protein folding,Point mutation
+10,Science,Earth Science,Hard,Magma that cools slowly underground most likely forms:,Sedimentary rock,Intrusive igneous rock,Extrusive igneous rock,Metamorphic rock,Intrusive igneous rock
+10,Science,Chemistry,Hard,A solution has pH 12. How is it best classified?,Saltwater,Basic,Neutral,Acidic,Basic
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 22°C)?",Enzyme creates new atoms,Reaction rate always decreases,Products disappear,Reaction rate increases up to an optimum,Reaction rate increases up to an optimum
+10,Science,Physics,Hard,An object of mass 8 kg accelerates at 6 m/s². What net force acts on it?,40 N,56 N,48 N,288 N,48 N
+10,Science,Physics,Hard,An object of mass 9 kg accelerates at 7 m/s². What net force acts on it?,63 N,72 N,441 N,54 N,63 N
+10,Science,Chemistry,Hard,A solution has pH 10. How is it best classified?,Neutral,Acidic,Basic,Saltwater,Basic
+10,Science,Chemistry,Hard,A solution has pH 2. How is it best classified?,Saltwater,Acidic,Basic,Neutral,Acidic
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 47°C)?",Enzyme creates new atoms,Reaction rate always decreases,Products disappear,Reaction rate increases up to an optimum,Reaction rate increases up to an optimum
+10,Science,Biology Reasoning,Hard,Osmosis is the movement of water across a membrane from:,Low solute concentration to high solute concentration,High solute to low solute,High pressure to low pressure,Hot to cold,Low solute concentration to high solute concentration
+10,Science,Chemistry,Hard,A solution has pH 6. How is it best classified?,Acidic,Saltwater,Basic,Neutral,Acidic
+10,Science,Chemistry,Hard,A solution has pH 3. How is it best classified?,Acidic,Neutral,Basic,Saltwater,Acidic
+10,Science,Chemistry,Hard,A solution has pH 0. How is it best classified?,Saltwater,Neutral,Acidic,Basic,Acidic
+10,Science,Biology Reasoning,Hard,Osmosis is the movement of water molecules across a membrane from:,Low solute concentration to high solute concentration,Hot to cold,High pressure to low pressure,High solute to low solute,Low solute concentration to high solute concentration
+10,Science,Physics,Hard,An object travels 126 m in 46 s. What is its average speed?,1.3695652173913044 m/s,2.739130434782609 m/s,5.478260869565218 m/s,5796 m/s,2.739130434782609 m/s
+10,Science,Physics,Hard,An object of mass 2 kg accelerates at 7 m/s². What net force acts on it?,16 N,14 N,12 N,98 N,14 N
+10,Science,Physics,Hard,An object travels 353 m in 32 s. What is its average speed?,11296 m/s,22.0625 m/s,5.515625 m/s,11.03125 m/s,11.03125 m/s
+10,Science,Chemistry,Hard,A solution has pH 11. How is it best classified?,Acidic,Basic,Neutral,Saltwater,Basic
+10,Science,Physics,Hard,An object travels 173 m in 9 s. What is its average speed?,9.61111111111111 m/s,19.22222222222222 m/s,1557 m/s,38.44444444444444 m/s,19.22222222222222 m/s
+10,Science,Physics,Hard,An object travels 118 m in 13 s. What is its average speed?,9.076923076923077 m/s,1534 m/s,4.538461538461538 m/s,18.153846153846153 m/s,9.076923076923077 m/s
+10,Science,Physics,Hard,Which statement best describes conservation of energy?,Energy is always destroyed,Energy stays only as heat,Energy is created in every reaction,Energy changes form but is not created or destroyed,Energy changes form but is not created or destroyed
+10,Science,Physics,Hard,An object travels 121 m in 1 s. What is its average speed?,121 m/s,121.0 m/s,242.0 m/s,60.5 m/s,121.0 m/s
+10,Science,Physics,Hard,An object travels 208 m in 8 s. What is its average speed?,13.0 m/s,26.0 m/s,1664 m/s,52.0 m/s,26.0 m/s
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 44°C)?",Reaction rate increases up to an optimum,Reaction rate always decreases,Enzyme creates new atoms,Products disappear,Reaction rate increases up to an optimum
+10,Science,Physics,Hard,An object of mass 1 kg accelerates at 5 m/s². What net force acts on it?,5 N,6 N,4 N,25 N,5 N
+10,Science,Chemistry,Hard,A solution has pH 13. How is it best classified?,Acidic,Neutral,Basic,Saltwater,Basic
+10,Science,Physics,Hard,An object travels 61 m in 12 s. What is its average speed?,10.166666666666666 m/s,732 m/s,5.083333333333333 m/s,2.5416666666666665 m/s,5.083333333333333 m/s
+10,Science,Physics,Hard,An object travels 417 m in 50 s. What is its average speed?,8.34 m/s,16.68 m/s,20850 m/s,4.17 m/s,8.34 m/s
+10,Science,Physics,Hard,An object of mass 20 kg accelerates at 4 m/s². What net force acts on it?,320 N,100 N,60 N,80 N,80 N
+10,Science,Physics,Hard,An object of mass 5 kg accelerates at 9 m/s². What net force acts on it?,40 N,45 N,405 N,50 N,45 N
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 21°C)?",Enzyme creates new atoms,Products disappear,Reaction rate increases up to an optimum,Reaction rate always decreases,Reaction rate increases up to an optimum
+10,Science,Chemistry,Hard,A solution has pH 4. How is it best classified?,Saltwater,Acidic,Neutral,Basic,Acidic
+10,Science,Physics,Hard,An object travels 64 m in 49 s. What is its average speed?,3136 m/s,2.6122448979591835 m/s,1.3061224489795917 m/s,0.6530612244897959 m/s,1.3061224489795917 m/s
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 59°C)?",Reaction rate increases up to an optimum,Enzyme creates new atoms,Products disappear,Reaction rate always decreases,Reaction rate increases up to an optimum
+10,Science,Physics,Hard,An object travels 91 m in 18 s. What is its average speed?,1638 m/s,2.5277777777777777 m/s,10.11111111111111 m/s,5.055555555555555 m/s,5.055555555555555 m/s
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 23°C)?",Enzyme creates new atoms,Reaction rate increases up to an optimum,Products disappear,Reaction rate always decreases,Reaction rate increases up to an optimum
+10,Science,Physics,Hard,An object travels 399 m in 19 s. What is its average speed?,21.0 m/s,42.0 m/s,7581 m/s,10.5 m/s,21.0 m/s
+10,Science,Physics,Hard,An object travels 436 m in 22 s. What is its average speed?,39.63636363636363 m/s,9.909090909090908 m/s,9592 m/s,19.818181818181817 m/s,19.818181818181817 m/s
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 39°C)?",Products disappear,Reaction rate always decreases,Enzyme creates new atoms,Reaction rate increases up to an optimum,Reaction rate increases up to an optimum
+10,Science,Chemistry,Hard,A solution has pH 9. How is it best classified?,Acidic,Basic,Saltwater,Neutral,Basic
+10,Science,Physics,Hard,An object travels 384 m in 43 s. What is its average speed?,17.86046511627907 m/s,16512 m/s,8.930232558139535 m/s,4.465116279069767 m/s,8.930232558139535 m/s
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 20°C)?",Reaction rate increases up to an optimum,Reaction rate always decreases,Products disappear,Enzyme creates new atoms,Reaction rate increases up to an optimum
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 55°C)?",Enzyme creates new atoms,Reaction rate always decreases,Reaction rate increases up to an optimum,Products disappear,Reaction rate increases up to an optimum
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 37°C)?",Reaction rate always decreases,Enzyme creates new atoms,Products disappear,Reaction rate increases up to an optimum,Reaction rate increases up to an optimum
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 14°C)?",Reaction rate always decreases,Reaction rate increases up to an optimum,Enzyme creates new atoms,Products disappear,Reaction rate increases up to an optimum
+10,Science,Physics,Hard,An object travels 500 m in 9 s. What is its average speed?,4500 m/s,27.77777777777778 m/s,55.55555555555556 m/s,111.11111111111111 m/s,55.55555555555556 m/s
+10,Science,Physics,Hard,An object of mass 4 kg accelerates at 1 m/s². What net force acts on it?,Option 3,0 N,4 N,8 N,4 N
+10,Science,Physics,Hard,An object of mass 1 kg accelerates at 9 m/s². What net force acts on it?,8 N,81 N,10 N,9 N,9 N
+10,Science,Physics,Hard,An object of mass 19 kg accelerates at 1 m/s². What net force acts on it?,0 N,38 N,19 N,Option 3,19 N
+10,Science,Physics,Hard,An object of mass 6 kg accelerates at 10 m/s². What net force acts on it?,60 N,600 N,66 N,54 N,60 N
+10,Science,Physics,Hard,An object of mass 15 kg accelerates at 5 m/s². What net force acts on it?,375 N,60 N,75 N,90 N,75 N
+10,Science,Physics,Hard,An object travels 267 m in 19 s. What is its average speed?,28.105263157894736 m/s,14.052631578947368 m/s,5073 m/s,7.026315789473684 m/s,14.052631578947368 m/s
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 54°C)?",Reaction rate increases up to an optimum,Products disappear,Reaction rate always decreases,Enzyme creates new atoms,Reaction rate increases up to an optimum
+10,Science,Physics,Hard,An object travels 76 m in 48 s. What is its average speed?,3.1666666666666665 m/s,3648 m/s,1.5833333333333333 m/s,0.7916666666666666 m/s,1.5833333333333333 m/s
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 17°C)?",Enzyme creates new atoms,Reaction rate always decreases,Products disappear,Reaction rate increases up to an optimum,Reaction rate increases up to an optimum
+10,Science,Physics,Hard,An object of mass 3 kg accelerates at 9 m/s². What net force acts on it?,30 N,24 N,27 N,243 N,27 N
+10,Science,Physics,Hard,An object of mass 19 kg accelerates at 7 m/s². What net force acts on it?,152 N,931 N,133 N,114 N,133 N
+10,Science,Physics,Hard,An object of mass 10 kg accelerates at 9 m/s². What net force acts on it?,100 N,80 N,90 N,810 N,90 N
+10,Science,Physics,Hard,An object travels 106 m in 43 s. What is its average speed?,1.2325581395348837 m/s,4558 m/s,2.4651162790697674 m/s,4.930232558139535 m/s,2.4651162790697674 m/s
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 15°C)?",Enzyme creates new atoms,Reaction rate always decreases,Products disappear,Reaction rate increases up to an optimum,Reaction rate increases up to an optimum
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 19°C)?",Reaction rate increases up to an optimum,Products disappear,Enzyme creates new atoms,Reaction rate always decreases,Reaction rate increases up to an optimum
+10,Science,Physics,Hard,An object travels 126 m in 24 s. What is its average speed?,5.25 m/s,2.625 m/s,10.5 m/s,3024 m/s,5.25 m/s
+10,Science,Physics,Hard,An object of mass 2 kg accelerates at 9 m/s². What net force acts on it?,16 N,20 N,18 N,162 N,18 N
+10,Science,Physics,Hard,An object of mass 14 kg accelerates at 10 m/s². What net force acts on it?,1400 N,154 N,140 N,126 N,140 N
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 29°C)?",Reaction rate always decreases,Enzyme creates new atoms,Products disappear,Reaction rate increases up to an optimum,Reaction rate increases up to an optimum
+10,Science,Physics,Hard,An object travels 393 m in 27 s. What is its average speed?,10611 m/s,29.11111111111111 m/s,14.555555555555555 m/s,7.277777777777778 m/s,14.555555555555555 m/s
+10,Science,Chemistry,Hard,A solution has pH 7. How is it best classified?,Saltwater,Acidic,Basic,Neutral,Neutral
+10,Science,Physics,Hard,An object of mass 11 kg accelerates at 4 m/s². What net force acts on it?,33 N,55 N,176 N,44 N,44 N
+10,Science,Physics,Hard,An object travels 319 m in 24 s. What is its average speed?,7656 m/s,6.645833333333333 m/s,26.583333333333332 m/s,13.291666666666666 m/s,13.291666666666666 m/s
+10,Science,Physics,Hard,An object of mass 7 kg accelerates at 2 m/s². What net force acts on it?,14 N,21 N,7 N,28 N,14 N
+10,Science,Physics,Hard,An object travels 240 m in 23 s. What is its average speed?,5.217391304347826 m/s,10.434782608695652 m/s,5520 m/s,20.869565217391305 m/s,10.434782608695652 m/s
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 49°C)?",Enzyme creates new atoms,Reaction rate increases up to an optimum,Reaction rate always decreases,Products disappear,Reaction rate increases up to an optimum
+10,Science,Physics,Hard,An object travels 464 m in 46 s. What is its average speed?,5.043478260869565 m/s,10.08695652173913 m/s,21344 m/s,20.17391304347826 m/s,10.08695652173913 m/s
+10,Science,Chemistry,Hard,A solution has pH 8. How is it best classified?,Basic,Acidic,Saltwater,Neutral,Basic
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 58°C)?",Products disappear,Reaction rate increases up to an optimum,Reaction rate always decreases,Enzyme creates new atoms,Reaction rate increases up to an optimum
+10,Science,Physics,Hard,An object of mass 19 kg accelerates at 4 m/s². What net force acts on it?,304 N,95 N,57 N,76 N,76 N
+10,Science,Physics,Hard,An object of mass 18 kg accelerates at 4 m/s². What net force acts on it?,54 N,90 N,72 N,288 N,72 N
+10,Science,Physics,Hard,An object of mass 18 kg accelerates at 5 m/s². What net force acts on it?,450 N,72 N,90 N,108 N,90 N
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 48°C)?",Products disappear,Enzyme creates new atoms,Reaction rate always decreases,Reaction rate increases up to an optimum,Reaction rate increases up to an optimum
+10,Science,Chemistry,Hard,A solution has pH 1. How is it best classified?,Acidic,Saltwater,Basic,Neutral,Acidic
+10,Science,Physics,Hard,An object of mass 8 kg accelerates at 5 m/s². What net force acts on it?,200 N,32 N,48 N,40 N,40 N
+10,Science,Physics,Hard,An object of mass 15 kg accelerates at 9 m/s². What net force acts on it?,1215 N,135 N,150 N,120 N,135 N
+10,Science,Physics,Hard,An object travels 388 m in 38 s. What is its average speed?,20.42105263157895 m/s,10.210526315789474 m/s,14744 m/s,5.105263157894737 m/s,10.210526315789474 m/s
+10,Science,Physics,Hard,An object of mass 3 kg accelerates at 10 m/s². What net force acts on it?,30 N,300 N,27 N,33 N,30 N
+10,Science,Physics,Hard,An object of mass 11 kg accelerates at 1 m/s². What net force acts on it?,22 N,0 N,11 N,Option 3,11 N
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 51°C)?",Enzyme creates new atoms,Reaction rate always decreases,Products disappear,Reaction rate increases up to an optimum,Reaction rate increases up to an optimum
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 25°C)?",Products disappear,Enzyme creates new atoms,Reaction rate increases up to an optimum,Reaction rate always decreases,Reaction rate increases up to an optimum
+10,Science,Physics,Hard,An object of mass 15 kg accelerates at 4 m/s². What net force acts on it?,75 N,240 N,45 N,60 N,60 N
+10,Science,Physics,Hard,An object travels 356 m in 30 s. What is its average speed?,23.733333333333334 m/s,10680 m/s,11.866666666666667 m/s,5.933333333333334 m/s,11.866666666666667 m/s
+10,Science,Physics,Hard,An object travels 228 m in 50 s. What is its average speed?,11400 m/s,2.28 m/s,4.56 m/s,9.12 m/s,4.56 m/s
+10,Science,Physics,Hard,An object travels 237 m in 20 s. What is its average speed?,4740 m/s,23.7 m/s,11.85 m/s,5.925 m/s,11.85 m/s
+10,Science,Physics,Hard,An object of mass 17 kg accelerates at 1 m/s². What net force acts on it?,17 N,Option 3,34 N,0 N,17 N
+10,Science,Physics,Hard,An object of mass 12 kg accelerates at 5 m/s². What net force acts on it?,48 N,72 N,300 N,60 N,60 N
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 53°C)?",Reaction rate always decreases,Enzyme creates new atoms,Reaction rate increases up to an optimum,Products disappear,Reaction rate increases up to an optimum
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 46°C)?",Reaction rate always decreases,Reaction rate increases up to an optimum,Enzyme creates new atoms,Products disappear,Reaction rate increases up to an optimum
+10,Science,Physics,Hard,An object of mass 8 kg accelerates at 1 m/s². What net force acts on it?,Option 3,0 N,16 N,8 N,8 N
+10,Science,Physics,Hard,An object of mass 18 kg accelerates at 1 m/s². What net force acts on it?,36 N,Option 3,18 N,0 N,18 N
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 16°C)?",Reaction rate increases up to an optimum,Enzyme creates new atoms,Reaction rate always decreases,Products disappear,Reaction rate increases up to an optimum
+10,Science,Physics,Hard,An object of mass 3 kg accelerates at 1 m/s². What net force acts on it?,6 N,Option 3,3 N,0 N,3 N
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 43°C)?",Reaction rate increases up to an optimum,Products disappear,Enzyme creates new atoms,Reaction rate always decreases,Reaction rate increases up to an optimum
+10,Science,Physics,Hard,An object travels 28 m in 13 s. What is its average speed?,1.0769230769230769 m/s,364 m/s,2.1538461538461537 m/s,4.3076923076923075 m/s,2.1538461538461537 m/s
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 52°C)?",Reaction rate always decreases,Reaction rate increases up to an optimum,Enzyme creates new atoms,Products disappear,Reaction rate increases up to an optimum
+10,Science,Physics,Hard,An object travels 124 m in 44 s. What is its average speed?,2.8181818181818183 m/s,5456 m/s,5.636363636363637 m/s,1.4090909090909092 m/s,2.8181818181818183 m/s
+10,Science,Physics,Hard,An object of mass 16 kg accelerates at 3 m/s². What net force acts on it?,32 N,144 N,48 N,64 N,48 N
+10,Science,Physics,Hard,An object travels 368 m in 20 s. What is its average speed?,9.2 m/s,7360 m/s,18.4 m/s,36.8 m/s,18.4 m/s
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 12°C)?",Reaction rate increases up to an optimum,Products disappear,Reaction rate always decreases,Enzyme creates new atoms,Reaction rate increases up to an optimum
+10,Science,Physics,Hard,An object travels 462 m in 28 s. What is its average speed?,16.5 m/s,33.0 m/s,12936 m/s,8.25 m/s,16.5 m/s
+10,Science,Physics,Hard,An object travels 386 m in 43 s. What is its average speed?,4.488372093023256 m/s,8.976744186046512 m/s,16598 m/s,17.953488372093023 m/s,8.976744186046512 m/s
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 10°C)?",Reaction rate increases up to an optimum,Reaction rate always decreases,Enzyme creates new atoms,Products disappear,Reaction rate increases up to an optimum
+10,Science,Physics,Hard,An object of mass 6 kg accelerates at 5 m/s². What net force acts on it?,30 N,36 N,24 N,150 N,30 N
+10,Science,Physics,Hard,An object of mass 2 kg accelerates at 4 m/s². What net force acts on it?,32 N,10 N,8 N,6 N,8 N
+10,Science,Physics,Hard,An object of mass 8 kg accelerates at 9 m/s². What net force acts on it?,80 N,648 N,72 N,64 N,72 N
+10,Science,Physics,Hard,An object of mass 13 kg accelerates at 8 m/s². What net force acts on it?,117 N,91 N,832 N,104 N,104 N
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 33°C)?",Enzyme creates new atoms,Reaction rate always decreases,Reaction rate increases up to an optimum,Products disappear,Reaction rate increases up to an optimum
+10,Science,Physics,Hard,An object travels 452 m in 33 s. What is its average speed?,6.848484848484849 m/s,14916 m/s,27.393939393939394 m/s,13.696969696969697 m/s,13.696969696969697 m/s
+10,Science,Physics,Hard,An object of mass 8 kg accelerates at 8 m/s². What net force acts on it?,72 N,56 N,64 N,512 N,64 N
+10,Science,Physics,Hard,An object travels 413 m in 49 s. What is its average speed?,8.428571428571429 m/s,20237 m/s,16.857142857142858 m/s,4.214285714285714 m/s,8.428571428571429 m/s
+10,Science,Physics,Hard,An object of mass 2 kg accelerates at 3 m/s². What net force acts on it?,8 N,6 N,18 N,4 N,6 N
+10,Science,Physics,Hard,An object of mass 19 kg accelerates at 6 m/s². What net force acts on it?,95 N,684 N,133 N,114 N,114 N
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 45°C)?",Products disappear,Reaction rate increases up to an optimum,Reaction rate always decreases,Enzyme creates new atoms,Reaction rate increases up to an optimum
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 31°C)?",Reaction rate increases up to an optimum,Reaction rate always decreases,Products disappear,Enzyme creates new atoms,Reaction rate increases up to an optimum
+10,Science,Physics,Hard,An object travels 221 m in 22 s. What is its average speed?,20.09090909090909 m/s,4862 m/s,5.0227272727272725 m/s,10.045454545454545 m/s,10.045454545454545 m/s
+10,Science,Physics,Hard,An object travels 480 m in 50 s. What is its average speed?,9.6 m/s,4.8 m/s,19.2 m/s,24000 m/s,9.6 m/s
+10,Science,Physics,Hard,An object of mass 7 kg accelerates at 1 m/s². What net force acts on it?,Option 3,7 N,14 N,0 N,7 N
+10,Science,Physics,Hard,An object of mass 11 kg accelerates at 3 m/s². What net force acts on it?,22 N,44 N,33 N,99 N,33 N
+10,Science,Physics,Hard,An object travels 254 m in 35 s. What is its average speed?,7.257142857142857 m/s,8890 m/s,3.6285714285714286 m/s,14.514285714285714 m/s,7.257142857142857 m/s
+10,Science,Physics,Hard,An object of mass 9 kg accelerates at 2 m/s². What net force acts on it?,27 N,36 N,18 N,9 N,18 N
+10,Science,Physics,Hard,An object travels 233 m in 39 s. What is its average speed?,5.9743589743589745 m/s,9087 m/s,11.948717948717949 m/s,2.9871794871794872 m/s,5.9743589743589745 m/s
+10,Science,Physics,Hard,An object travels 353 m in 28 s. What is its average speed?,12.607142857142858 m/s,9884 m/s,25.214285714285715 m/s,6.303571428571429 m/s,12.607142857142858 m/s
+10,Science,Physics,Hard,An object travels 125 m in 31 s. What is its average speed?,8.064516129032258 m/s,3875 m/s,2.0161290322580645 m/s,4.032258064516129 m/s,4.032258064516129 m/s
+10,Science,Physics,Hard,An object travels 49 m in 10 s. What is its average speed?,9.8 m/s,490 m/s,4.9 m/s,2.45 m/s,4.9 m/s
+10,Science,Physics,Hard,An object of mass 3 kg accelerates at 2 m/s². What net force acts on it?,6 N,12 N,3 N,9 N,6 N
+10,Science,Physics,Hard,An object of mass 7 kg accelerates at 9 m/s². What net force acts on it?,567 N,56 N,63 N,70 N,63 N
+10,Science,Physics,Hard,An object travels 159 m in 43 s. What is its average speed?,7.395348837209302 m/s,3.697674418604651 m/s,6837 m/s,1.8488372093023255 m/s,3.697674418604651 m/s
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 30°C)?",Enzyme creates new atoms,Products disappear,Reaction rate always decreases,Reaction rate increases up to an optimum,Reaction rate increases up to an optimum
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 13°C)?",Reaction rate always decreases,Products disappear,Reaction rate increases up to an optimum,Enzyme creates new atoms,Reaction rate increases up to an optimum
+10,Science,Physics,Hard,An object travels 308 m in 32 s. What is its average speed?,9856 m/s,19.25 m/s,9.625 m/s,4.8125 m/s,9.625 m/s
+10,Science,Physics,Hard,An object travels 243 m in 9 s. What is its average speed?,54.0 m/s,27.0 m/s,13.5 m/s,2187 m/s,27.0 m/s
+10,Science,Physics,Hard,An object travels 227 m in 18 s. What is its average speed?,12.61111111111111 m/s,6.305555555555555 m/s,4086 m/s,25.22222222222222 m/s,12.61111111111111 m/s
+10,Science,Physics,Hard,An object of mass 13 kg accelerates at 10 m/s². What net force acts on it?,143 N,130 N,117 N,1300 N,130 N
+10,Science,Physics,Hard,An object of mass 14 kg accelerates at 1 m/s². What net force acts on it?,28 N,Option 3,14 N,0 N,14 N
+10,Science,Physics,Hard,An object travels 87 m in 7 s. What is its average speed?,24.857142857142858 m/s,12.428571428571429 m/s,6.214285714285714 m/s,609 m/s,12.428571428571429 m/s
+10,Science,Physics,Hard,An object travels 58 m in 38 s. What is its average speed?,2204 m/s,1.5263157894736843 m/s,3.0526315789473686 m/s,0.7631578947368421 m/s,1.5263157894736843 m/s
+10,Science,Physics,Hard,An object travels 398 m in 45 s. What is its average speed?,8.844444444444445 m/s,17910 m/s,4.4222222222222225 m/s,17.68888888888889 m/s,8.844444444444445 m/s
+10,Science,Physics,Hard,An object travels 154 m in 34 s. What is its average speed?,9.058823529411764 m/s,5236 m/s,4.529411764705882 m/s,2.264705882352941 m/s,4.529411764705882 m/s
+10,Science,Physics,Hard,An object of mass 12 kg accelerates at 8 m/s². What net force acts on it?,84 N,108 N,96 N,768 N,96 N
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 50°C)?",Reaction rate increases up to an optimum,Reaction rate always decreases,Enzyme creates new atoms,Products disappear,Reaction rate increases up to an optimum
+10,Science,Physics,Hard,An object of mass 3 kg accelerates at 5 m/s². What net force acts on it?,75 N,15 N,12 N,18 N,15 N
+10,Science,Physics,Hard,An object of mass 18 kg accelerates at 7 m/s². What net force acts on it?,108 N,126 N,882 N,144 N,126 N
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 26°C)?",Reaction rate increases up to an optimum,Reaction rate always decreases,Enzyme creates new atoms,Products disappear,Reaction rate increases up to an optimum
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 41°C)?",Products disappear,Reaction rate always decreases,Enzyme creates new atoms,Reaction rate increases up to an optimum,Reaction rate increases up to an optimum
+10,Science,Physics,Hard,An object travels 127 m in 40 s. What is its average speed?,5080 m/s,3.175 m/s,6.35 m/s,1.5875 m/s,3.175 m/s
+10,Science,Physics,Hard,An object travels 151 m in 50 s. What is its average speed?,7550 m/s,1.51 m/s,3.02 m/s,6.04 m/s,3.02 m/s
+10,Science,Physics,Hard,An object travels 353 m in 43 s. What is its average speed?,16.41860465116279 m/s,8.209302325581396 m/s,4.104651162790698 m/s,15179 m/s,8.209302325581396 m/s
+10,Science,Physics,Hard,An object travels 111 m in 49 s. What is its average speed?,5439 m/s,4.530612244897959 m/s,2.2653061224489797 m/s,1.1326530612244898 m/s,2.2653061224489797 m/s
+10,Science,Physics,Hard,An object of mass 17 kg accelerates at 7 m/s². What net force acts on it?,119 N,102 N,136 N,833 N,119 N
+10,Science,Physics,Hard,An object travels 15 m in 44 s. What is its average speed?,0.6818181818181818 m/s,0.17045454545454544 m/s,0.3409090909090909 m/s,660 m/s,0.3409090909090909 m/s
+10,Science,Physics,Hard,An object travels 296 m in 21 s. What is its average speed?,14.095238095238095 m/s,28.19047619047619 m/s,6216 m/s,7.0476190476190474 m/s,14.095238095238095 m/s
+10,Science,Physics,Hard,An object of mass 15 kg accelerates at 3 m/s². What net force acts on it?,60 N,30 N,45 N,135 N,45 N
+10,Science,Physics,Hard,An object travels 79 m in 7 s. What is its average speed?,11.285714285714286 m/s,553 m/s,5.642857142857143 m/s,22.571428571428573 m/s,11.285714285714286 m/s
+10,Science,Physics,Hard,An object of mass 19 kg accelerates at 5 m/s². What net force acts on it?,114 N,76 N,95 N,475 N,95 N
+10,Science,Physics,Hard,An object travels 162 m in 35 s. What is its average speed?,2.3142857142857145 m/s,5670 m/s,9.257142857142858 m/s,4.628571428571429 m/s,4.628571428571429 m/s
+10,Science,Physics,Hard,An object travels 467 m in 2 s. What is its average speed?,467.0 m/s,934 m/s,116.75 m/s,233.5 m/s,233.5 m/s
+10,Science,Physics,Hard,An object of mass 9 kg accelerates at 8 m/s². What net force acts on it?,63 N,72 N,576 N,81 N,72 N
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 28°C)?",Reaction rate always decreases,Reaction rate increases up to an optimum,Products disappear,Enzyme creates new atoms,Reaction rate increases up to an optimum
+10,Science,Physics,Hard,An object travels 186 m in 25 s. What is its average speed?,7.44 m/s,14.88 m/s,3.72 m/s,4650 m/s,7.44 m/s
+10,Science,Physics,Hard,An object travels 303 m in 42 s. What is its average speed?,14.428571428571429 m/s,3.607142857142857 m/s,12726 m/s,7.214285714285714 m/s,7.214285714285714 m/s
+10,Science,Physics,Hard,An object of mass 20 kg accelerates at 5 m/s². What net force acts on it?,100 N,120 N,80 N,500 N,100 N
+10,Science,Physics,Hard,An object of mass 8 kg accelerates at 3 m/s². What net force acts on it?,32 N,24 N,16 N,72 N,24 N
+10,Science,Physics,Hard,An object of mass 9 kg accelerates at 9 m/s². What net force acts on it?,729 N,72 N,81 N,90 N,81 N
+10,Science,Physics,Hard,An object travels 158 m in 37 s. What is its average speed?,4.27027027027027 m/s,8.54054054054054 m/s,5846 m/s,2.135135135135135 m/s,4.27027027027027 m/s
+10,Science,Physics,Hard,An object of mass 13 kg accelerates at 1 m/s². What net force acts on it?,0 N,Option 3,13 N,26 N,13 N
+10,Science,Physics,Hard,An object travels 312 m in 24 s. What is its average speed?,13.0 m/s,26.0 m/s,6.5 m/s,7488 m/s,13.0 m/s
+10,Science,Physics,Hard,An object of mass 20 kg accelerates at 9 m/s². What net force acts on it?,200 N,160 N,180 N,1620 N,180 N
+10,Science,Physics,Hard,An object travels 52 m in 2 s. What is its average speed?,52.0 m/s,104 m/s,26.0 m/s,13.0 m/s,26.0 m/s
+10,Science,Physics,Hard,An object travels 342 m in 1 s. What is its average speed?,171.0 m/s,342.0 m/s,342 m/s,684.0 m/s,342.0 m/s
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 40°C)?",Reaction rate increases up to an optimum,Enzyme creates new atoms,Products disappear,Reaction rate always decreases,Reaction rate increases up to an optimum
+10,Science,Physics,Hard,An object travels 331 m in 5 s. What is its average speed?,1655 m/s,33.1 m/s,66.2 m/s,132.4 m/s,66.2 m/s
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 11°C)?",Enzyme creates new atoms,Reaction rate always decreases,Reaction rate increases up to an optimum,Products disappear,Reaction rate increases up to an optimum
+10,Science,Physics,Hard,An object of mass 12 kg accelerates at 2 m/s². What net force acts on it?,24 N,48 N,36 N,12 N,24 N
+10,Science,Physics,Hard,An object of mass 18 kg accelerates at 6 m/s². What net force acts on it?,648 N,108 N,90 N,126 N,108 N
+10,Science,Physics,Hard,An object travels 374 m in 17 s. What is its average speed?,22.0 m/s,6358 m/s,11.0 m/s,44.0 m/s,22.0 m/s
+10,Science,Physics,Hard,An object travels 187 m in 8 s. What is its average speed?,1496 m/s,46.75 m/s,23.375 m/s,11.6875 m/s,23.375 m/s
+10,Science,Physics,Hard,An object travels 16 m in 2 s. What is its average speed?,32 m/s,4.0 m/s,16.0 m/s,8.0 m/s,8.0 m/s
+10,Science,Physics,Hard,An object travels 248 m in 28 s. What is its average speed?,8.857142857142858 m/s,17.714285714285715 m/s,6944 m/s,4.428571428571429 m/s,8.857142857142858 m/s
+10,Science,Physics,Hard,An object travels 448 m in 26 s. What is its average speed?,34.46153846153846 m/s,8.615384615384615 m/s,17.23076923076923 m/s,11648 m/s,17.23076923076923 m/s
+10,Science,Physics,Hard,An object travels 31 m in 40 s. What is its average speed?,0.775 m/s,1.55 m/s,1240 m/s,0.3875 m/s,0.775 m/s
+10,Science,Physics,Hard,An object of mass 16 kg accelerates at 6 m/s². What net force acts on it?,80 N,576 N,96 N,112 N,96 N
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 42°C)?",Enzyme creates new atoms,Reaction rate increases up to an optimum,Products disappear,Reaction rate always decreases,Reaction rate increases up to an optimum
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 24°C)?",Products disappear,Enzyme creates new atoms,Reaction rate always decreases,Reaction rate increases up to an optimum,Reaction rate increases up to an optimum
+10,Science,Physics,Hard,An object travels 81 m in 4 s. What is its average speed?,10.125 m/s,20.25 m/s,324 m/s,40.5 m/s,20.25 m/s
+10,Science,Physics,Hard,An object travels 123 m in 10 s. What is its average speed?,12.3 m/s,24.6 m/s,6.15 m/s,1230 m/s,12.3 m/s
+10,Science,Physics,Hard,An object travels 407 m in 45 s. What is its average speed?,18315 m/s,18.08888888888889 m/s,9.044444444444444 m/s,4.522222222222222 m/s,9.044444444444444 m/s
+10,Science,Physics,Hard,An object travels 69 m in 19 s. What is its average speed?,3.6315789473684212 m/s,1.8157894736842106 m/s,7.2631578947368425 m/s,1311 m/s,3.6315789473684212 m/s
+10,Science,Physics,Hard,An object travels 229 m in 35 s. What is its average speed?,6.542857142857143 m/s,13.085714285714285 m/s,8015 m/s,3.2714285714285714 m/s,6.542857142857143 m/s
+10,Science,Physics,Hard,An object travels 64 m in 7 s. What is its average speed?,18.285714285714285 m/s,9.142857142857142 m/s,448 m/s,4.571428571428571 m/s,9.142857142857142 m/s
+10,Science,Physics,Hard,An object of mass 7 kg accelerates at 3 m/s². What net force acts on it?,21 N,28 N,63 N,14 N,21 N
+10,Science,Physics,Hard,An object travels 172 m in 30 s. What is its average speed?,5.733333333333333 m/s,5160 m/s,2.8666666666666667 m/s,11.466666666666667 m/s,5.733333333333333 m/s
+10,Science,Physics,Hard,An object travels 271 m in 50 s. What is its average speed?,10.84 m/s,13550 m/s,5.42 m/s,2.71 m/s,5.42 m/s
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 32°C)?",Enzyme creates new atoms,Products disappear,Reaction rate increases up to an optimum,Reaction rate always decreases,Reaction rate increases up to an optimum
+10,Science,Physics,Hard,An object travels 115 m in 49 s. What is its average speed?,4.6938775510204085 m/s,5635 m/s,2.3469387755102042 m/s,1.1734693877551021 m/s,2.3469387755102042 m/s
+10,Science,Physics,Hard,An object travels 51 m in 18 s. What is its average speed?,5.666666666666667 m/s,1.4166666666666667 m/s,2.8333333333333335 m/s,918 m/s,2.8333333333333335 m/s
+10,Science,Physics,Hard,An object travels 302 m in 18 s. What is its average speed?,8.38888888888889 m/s,33.55555555555556 m/s,16.77777777777778 m/s,5436 m/s,16.77777777777778 m/s
+10,Science,Physics,Hard,An object of mass 10 kg accelerates at 1 m/s². What net force acts on it?,10 N,20 N,Option 3,0 N,10 N
+10,Science,Physics,Hard,An object of mass 4 kg accelerates at 9 m/s². What net force acts on it?,32 N,36 N,324 N,40 N,36 N
+10,Science,Physics,Hard,An object travels 459 m in 32 s. What is its average speed?,7.171875 m/s,14.34375 m/s,14688 m/s,28.6875 m/s,14.34375 m/s
+10,Science,Physics,Hard,An object of mass 16 kg accelerates at 5 m/s². What net force acts on it?,64 N,96 N,80 N,400 N,80 N
+10,Science,Physics,Hard,An object travels 61 m in 22 s. What is its average speed?,2.772727272727273 m/s,1342 m/s,1.3863636363636365 m/s,5.545454545454546 m/s,2.772727272727273 m/s
+10,Science,Physics,Hard,An object of mass 1 kg accelerates at 1 m/s². What net force acts on it?,1 N,2 N,0 N,Option 3,1 N
+10,Science,Physics,Hard,An object of mass 6 kg accelerates at 4 m/s². What net force acts on it?,96 N,18 N,24 N,30 N,24 N
+10,Science,Physics,Hard,An object of mass 11 kg accelerates at 9 m/s². What net force acts on it?,110 N,99 N,88 N,891 N,99 N
+10,Science,Physics,Hard,An object travels 419 m in 1 s. What is its average speed?,838.0 m/s,419.0 m/s,209.5 m/s,419 m/s,419.0 m/s
+10,Science,Physics,Hard,An object travels 161 m in 45 s. What is its average speed?,7.155555555555556 m/s,1.788888888888889 m/s,7245 m/s,3.577777777777778 m/s,3.577777777777778 m/s
+10,Science,Physics,Hard,An object of mass 14 kg accelerates at 6 m/s². What net force acts on it?,98 N,504 N,70 N,84 N,84 N
+10,Science,Physics,Hard,An object of mass 9 kg accelerates at 6 m/s². What net force acts on it?,45 N,54 N,63 N,324 N,54 N
+10,Science,Physics,Hard,An object travels 162 m in 47 s. What is its average speed?,3.4468085106382977 m/s,7614 m/s,1.7234042553191489 m/s,6.8936170212765955 m/s,3.4468085106382977 m/s
+10,Science,Physics,Hard,An object travels 13 m in 20 s. What is its average speed?,260 m/s,0.65 m/s,1.3 m/s,0.325 m/s,0.65 m/s
+10,Science,Physics,Hard,An object of mass 4 kg accelerates at 8 m/s². What net force acts on it?,256 N,28 N,36 N,32 N,32 N
+10,Science,Physics,Hard,An object travels 340 m in 15 s. What is its average speed?,11.333333333333334 m/s,22.666666666666668 m/s,5100 m/s,45.333333333333336 m/s,22.666666666666668 m/s
+10,Science,Physics,Hard,An object travels 128 m in 39 s. What is its average speed?,6.564102564102564 m/s,1.641025641025641 m/s,4992 m/s,3.282051282051282 m/s,3.282051282051282 m/s
+10,Science,Physics,Hard,An object of mass 11 kg accelerates at 8 m/s². What net force acts on it?,77 N,88 N,704 N,99 N,88 N
+10,Science,Physics,Hard,An object travels 223 m in 44 s. What is its average speed?,5.068181818181818 m/s,2.534090909090909 m/s,10.136363636363637 m/s,9812 m/s,5.068181818181818 m/s
+10,Science,Physics,Hard,An object travels 279 m in 11 s. What is its average speed?,50.72727272727273 m/s,25.363636363636363 m/s,12.681818181818182 m/s,3069 m/s,25.363636363636363 m/s
+10,Science,Physics,Hard,An object travels 495 m in 20 s. What is its average speed?,49.5 m/s,9900 m/s,24.75 m/s,12.375 m/s,24.75 m/s
+10,Science,Physics,Hard,An object travels 303 m in 4 s. What is its average speed?,1212 m/s,151.5 m/s,37.875 m/s,75.75 m/s,75.75 m/s
+10,Science,Physics,Hard,An object travels 212 m in 42 s. What is its average speed?,5.0476190476190474 m/s,2.5238095238095237 m/s,8904 m/s,10.095238095238095 m/s,5.0476190476190474 m/s
+10,Science,Physics,Hard,An object of mass 12 kg accelerates at 1 m/s². What net force acts on it?,12 N,Option 3,24 N,0 N,12 N
+10,Science,Physics,Hard,An object travels 21 m in 8 s. What is its average speed?,2.625 m/s,1.3125 m/s,168 m/s,5.25 m/s,2.625 m/s
+10,Science,Physics,Hard,An object travels 175 m in 38 s. What is its average speed?,4.605263157894737 m/s,9.210526315789474 m/s,6650 m/s,2.3026315789473686 m/s,4.605263157894737 m/s
+10,Science,Physics,Hard,An object of mass 2 kg accelerates at 5 m/s². What net force acts on it?,12 N,8 N,10 N,50 N,10 N
+10,Science,Physics,Hard,An object travels 256 m in 3 s. What is its average speed?,170.66666666666666 m/s,42.666666666666664 m/s,768 m/s,85.33333333333333 m/s,85.33333333333333 m/s
+10,Science,Physics,Hard,An object travels 374 m in 26 s. What is its average speed?,9724 m/s,14.384615384615385 m/s,28.76923076923077 m/s,7.1923076923076925 m/s,14.384615384615385 m/s
+10,Science,Physics,Hard,An object of mass 5 kg accelerates at 6 m/s². What net force acts on it?,35 N,25 N,180 N,30 N,30 N
+10,Science,Physics,Hard,An object of mass 14 kg accelerates at 3 m/s². What net force acts on it?,56 N,42 N,28 N,126 N,42 N
+10,Science,Physics,Hard,An object of mass 16 kg accelerates at 2 m/s². What net force acts on it?,16 N,48 N,32 N,64 N,32 N
+10,Science,Physics,Hard,An object of mass 17 kg accelerates at 4 m/s². What net force acts on it?,68 N,85 N,51 N,272 N,68 N
+10,Science,Physics,Hard,An object travels 244 m in 1 s. What is its average speed?,244.0 m/s,244 m/s,488.0 m/s,122.0 m/s,244.0 m/s
+10,Science,Physics,Hard,An object of mass 5 kg accelerates at 1 m/s². What net force acts on it?,0 N,10 N,Option 3,5 N,5 N
+10,Science,Physics,Hard,An object travels 30 m in 6 s. What is its average speed?,10.0 m/s,180 m/s,5.0 m/s,2.5 m/s,5.0 m/s
+10,Science,Physics,Hard,An object travels 290 m in 20 s. What is its average speed?,29.0 m/s,7.25 m/s,5800 m/s,14.5 m/s,14.5 m/s
+10,Science,Physics,Hard,An object of mass 7 kg accelerates at 10 m/s². What net force acts on it?,700 N,70 N,63 N,77 N,70 N
+10,Science,Physics,Hard,An object of mass 13 kg accelerates at 9 m/s². What net force acts on it?,1053 N,117 N,104 N,130 N,117 N
+10,Science,Physics,Hard,An object of mass 16 kg accelerates at 4 m/s². What net force acts on it?,48 N,64 N,80 N,256 N,64 N
+10,Science,Physics,Hard,An object of mass 10 kg accelerates at 5 m/s². What net force acts on it?,50 N,250 N,60 N,40 N,50 N
+10,Science,Physics,Hard,An object travels 273 m in 24 s. What is its average speed?,6552 m/s,11.375 m/s,5.6875 m/s,22.75 m/s,11.375 m/s
+10,Science,Physics,Hard,An object of mass 4 kg accelerates at 3 m/s². What net force acts on it?,36 N,8 N,16 N,12 N,12 N
+10,Science,Physics,Hard,An object of mass 15 kg accelerates at 2 m/s². What net force acts on it?,45 N,60 N,30 N,15 N,30 N
+10,Science,Physics,Hard,An object travels 113 m in 36 s. What is its average speed?,1.5694444444444444 m/s,3.138888888888889 m/s,4068 m/s,6.277777777777778 m/s,3.138888888888889 m/s
+10,Science,Physics,Hard,An object of mass 15 kg accelerates at 10 m/s². What net force acts on it?,1500 N,135 N,165 N,150 N,150 N
+10,Science,Physics,Hard,An object travels 96 m in 49 s. What is its average speed?,1.9591836734693877 m/s,3.9183673469387754 m/s,4704 m/s,0.9795918367346939 m/s,1.9591836734693877 m/s
+10,Science,Physics,Hard,An object of mass 5 kg accelerates at 2 m/s². What net force acts on it?,10 N,20 N,5 N,15 N,10 N
+10,Science,Physics,Hard,An object of mass 19 kg accelerates at 8 m/s². What net force acts on it?,133 N,152 N,1216 N,171 N,152 N
+10,Science,Physics,Hard,An object travels 107 m in 33 s. What is its average speed?,6.484848484848484 m/s,3.242424242424242 m/s,3531 m/s,1.621212121212121 m/s,3.242424242424242 m/s
+10,Science,Physics,Hard,An object of mass 12 kg accelerates at 4 m/s². What net force acts on it?,48 N,60 N,36 N,192 N,48 N
+10,Science,Physics,Hard,An object travels 398 m in 16 s. What is its average speed?,12.4375 m/s,24.875 m/s,6368 m/s,49.75 m/s,24.875 m/s
+10,Science,Physics,Hard,An object of mass 6 kg accelerates at 8 m/s². What net force acts on it?,48 N,42 N,384 N,54 N,48 N
+10,Science,Physics,Hard,An object travels 220 m in 49 s. What is its average speed?,10780 m/s,8.979591836734693 m/s,4.489795918367347 m/s,2.2448979591836733 m/s,4.489795918367347 m/s
+10,Science,Physics,Hard,An object of mass 5 kg accelerates at 3 m/s². What net force acts on it?,45 N,10 N,15 N,20 N,15 N
+10,Science,Physics,Hard,An object of mass 18 kg accelerates at 9 m/s². What net force acts on it?,144 N,180 N,1458 N,162 N,162 N
+10,Science,Physics,Hard,An object of mass 20 kg accelerates at 6 m/s². What net force acts on it?,120 N,720 N,140 N,100 N,120 N
+10,Science,Physics,Hard,An object travels 397 m in 9 s. What is its average speed?,88.22222222222223 m/s,3573 m/s,44.111111111111114 m/s,22.055555555555557 m/s,44.111111111111114 m/s
+10,Science,Physics,Hard,An object of mass 13 kg accelerates at 2 m/s². What net force acts on it?,52 N,26 N,39 N,13 N,26 N
+10,Science,Physics,Hard,An object travels 140 m in 36 s. What is its average speed?,5040 m/s,1.9444444444444444 m/s,3.888888888888889 m/s,7.777777777777778 m/s,3.888888888888889 m/s
+10,Science,Physics,Hard,An object travels 149 m in 23 s. What is its average speed?,12.956521739130435 m/s,3427 m/s,6.478260869565218 m/s,3.239130434782609 m/s,6.478260869565218 m/s
+10,Science,Physics,Hard,An object travels 251 m in 29 s. What is its average speed?,8.655172413793103 m/s,4.327586206896552 m/s,7279 m/s,17.310344827586206 m/s,8.655172413793103 m/s
+10,Science,Physics,Hard,An object of mass 9 kg accelerates at 5 m/s². What net force acts on it?,54 N,45 N,225 N,36 N,45 N
+10,Science,Physics,Hard,An object of mass 19 kg accelerates at 10 m/s². What net force acts on it?,1900 N,171 N,209 N,190 N,190 N
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 35°C)?",Enzyme creates new atoms,Reaction rate always decreases,Reaction rate increases up to an optimum,Products disappear,Reaction rate increases up to an optimum
+10,Science,Physics,Hard,An object travels 152 m in 34 s. What is its average speed?,4.470588235294118 m/s,2.235294117647059 m/s,8.941176470588236 m/s,5168 m/s,4.470588235294118 m/s
+10,Science,Physics,Hard,An object of mass 14 kg accelerates at 4 m/s². What net force acts on it?,56 N,70 N,42 N,224 N,56 N
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 36°C)?",Reaction rate always decreases,Reaction rate increases up to an optimum,Products disappear,Enzyme creates new atoms,Reaction rate increases up to an optimum
+10,Science,Physics,Hard,An object of mass 20 kg accelerates at 1 m/s². What net force acts on it?,Option 3,20 N,0 N,40 N,20 N
+10,Science,Physics,Hard,An object travels 48 m in 47 s. What is its average speed?,2256 m/s,1.0212765957446808 m/s,2.0425531914893615 m/s,0.5106382978723404 m/s,1.0212765957446808 m/s
+10,Science,Physics,Hard,An object travels 191 m in 13 s. What is its average speed?,2483 m/s,14.692307692307692 m/s,29.384615384615383 m/s,7.346153846153846 m/s,14.692307692307692 m/s
+10,Science,Physics,Hard,An object travels 157 m in 14 s. What is its average speed?,22.428571428571427 m/s,11.214285714285714 m/s,5.607142857142857 m/s,2198 m/s,11.214285714285714 m/s
+10,Science,Physics,Hard,An object travels 297 m in 33 s. What is its average speed?,9801 m/s,4.5 m/s,18.0 m/s,9.0 m/s,9.0 m/s
+10,Science,Physics,Hard,An object travels 318 m in 34 s. What is its average speed?,4.676470588235294 m/s,18.705882352941178 m/s,9.352941176470589 m/s,10812 m/s,9.352941176470589 m/s
+10,Science,Physics,Hard,An object travels 131 m in 7 s. What is its average speed?,917 m/s,37.42857142857143 m/s,9.357142857142858 m/s,18.714285714285715 m/s,18.714285714285715 m/s
+10,Science,Physics,Hard,An object travels 166 m in 13 s. What is its average speed?,12.76923076923077 m/s,2158 m/s,25.53846153846154 m/s,6.384615384615385 m/s,12.76923076923077 m/s
+10,Science,Physics,Hard,An object travels 491 m in 31 s. What is its average speed?,31.677419354838708 m/s,7.919354838709677 m/s,15221 m/s,15.838709677419354 m/s,15.838709677419354 m/s
+10,Science,Physics,Hard,An object travels 218 m in 41 s. What is its average speed?,10.634146341463415 m/s,5.317073170731708 m/s,8938 m/s,2.658536585365854 m/s,5.317073170731708 m/s
+10,Science,Physics,Hard,An object travels 38 m in 49 s. What is its average speed?,0.3877551020408163 m/s,0.7755102040816326 m/s,1862 m/s,1.5510204081632653 m/s,0.7755102040816326 m/s
+10,Science,Physics,Hard,An object travels 22 m in 23 s. What is its average speed?,1.9130434782608696 m/s,0.4782608695652174 m/s,0.9565217391304348 m/s,506 m/s,0.9565217391304348 m/s
+10,Science,Physics,Hard,An object of mass 15 kg accelerates at 6 m/s². What net force acts on it?,105 N,90 N,75 N,540 N,90 N
+10,Science,Physics,Hard,An object of mass 17 kg accelerates at 8 m/s². What net force acts on it?,119 N,136 N,153 N,1088 N,136 N
+10,Science,Physics,Hard,An object travels 348 m in 16 s. What is its average speed?,5568 m/s,21.75 m/s,10.875 m/s,43.5 m/s,21.75 m/s
+10,Science,Physics,Hard,An object travels 115 m in 4 s. What is its average speed?,460 m/s,57.5 m/s,14.375 m/s,28.75 m/s,28.75 m/s
+10,Science,Physics,Hard,An object of mass 14 kg accelerates at 5 m/s². What net force acts on it?,70 N,56 N,350 N,84 N,70 N
+10,Science,Physics,Hard,An object of mass 3 kg accelerates at 6 m/s². What net force acts on it?,21 N,18 N,15 N,108 N,18 N
+10,Science,Physics,Hard,An object travels 367 m in 12 s. What is its average speed?,4404 m/s,30.583333333333332 m/s,61.166666666666664 m/s,15.291666666666666 m/s,30.583333333333332 m/s
+10,Science,Physics,Hard,An object travels 447 m in 20 s. What is its average speed?,22.35 m/s,44.7 m/s,8940 m/s,11.175 m/s,22.35 m/s
+10,Science,Physics,Hard,An object travels 205 m in 32 s. What is its average speed?,3.203125 m/s,6560 m/s,6.40625 m/s,12.8125 m/s,6.40625 m/s
+10,Science,Physics,Hard,An object travels 329 m in 3 s. What is its average speed?,219.33333333333334 m/s,987 m/s,109.66666666666667 m/s,54.833333333333336 m/s,109.66666666666667 m/s
+10,Science,Physics,Hard,An object of mass 16 kg accelerates at 10 m/s². What net force acts on it?,144 N,160 N,1600 N,176 N,160 N
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 60°C)?",Enzyme creates new atoms,Products disappear,Reaction rate increases up to an optimum,Reaction rate always decreases,Reaction rate increases up to an optimum
+10,Science,Physics,Hard,An object travels 252 m in 18 s. What is its average speed?,14.0 m/s,7.0 m/s,28.0 m/s,4536 m/s,14.0 m/s
+10,Science,Physics,Hard,An object travels 228 m in 22 s. What is its average speed?,5016 m/s,10.363636363636363 m/s,5.181818181818182 m/s,20.727272727272727 m/s,10.363636363636363 m/s
+10,Science,Physics,Hard,An object of mass 5 kg accelerates at 10 m/s². What net force acts on it?,55 N,45 N,50 N,500 N,50 N
+10,Science,Physics,Hard,An object travels 421 m in 45 s. What is its average speed?,18.711111111111112 m/s,9.355555555555556 m/s,4.677777777777778 m/s,18945 m/s,9.355555555555556 m/s
+10,Science,Physics,Hard,An object of mass 5 kg accelerates at 5 m/s². What net force acts on it?,25 N,30 N,20 N,125 N,25 N
+10,Science,Physics,Hard,An object travels 92 m in 16 s. What is its average speed?,11.5 m/s,1472 m/s,2.875 m/s,5.75 m/s,5.75 m/s
+10,Science,Physics,Hard,An object travels 359 m in 6 s. What is its average speed?,59.833333333333336 m/s,29.916666666666668 m/s,2154 m/s,119.66666666666667 m/s,59.833333333333336 m/s
+10,Science,Physics,Hard,An object travels 367 m in 5 s. What is its average speed?,36.7 m/s,1835 m/s,146.8 m/s,73.4 m/s,73.4 m/s
+10,Science,Physics,Hard,An object of mass 8 kg accelerates at 10 m/s². What net force acts on it?,80 N,72 N,88 N,800 N,80 N
+10,Science,Physics,Hard,An object travels 261 m in 40 s. What is its average speed?,13.05 m/s,10440 m/s,3.2625 m/s,6.525 m/s,6.525 m/s
+10,Science,Physics,Hard,An object travels 232 m in 2 s. What is its average speed?,232.0 m/s,464 m/s,116.0 m/s,58.0 m/s,116.0 m/s
+10,Science,Physics,Hard,An object travels 161 m in 8 s. What is its average speed?,20.125 m/s,1288 m/s,10.0625 m/s,40.25 m/s,20.125 m/s
+10,Science,Physics,Hard,An object of mass 16 kg accelerates at 8 m/s². What net force acts on it?,144 N,112 N,128 N,1024 N,128 N
+10,Science,Physics,Hard,An object of mass 14 kg accelerates at 7 m/s². What net force acts on it?,98 N,84 N,686 N,112 N,98 N
+10,Science,Physics,Hard,An object travels 170 m in 25 s. What is its average speed?,4250 m/s,3.4 m/s,13.6 m/s,6.8 m/s,6.8 m/s
+10,Science,Physics,Hard,An object of mass 19 kg accelerates at 3 m/s². What net force acts on it?,57 N,171 N,38 N,76 N,57 N
+10,Science,Physics,Hard,An object travels 365 m in 11 s. What is its average speed?,16.59090909090909 m/s,4015 m/s,33.18181818181818 m/s,66.36363636363636 m/s,33.18181818181818 m/s
+10,Science,Physics,Hard,An object of mass 13 kg accelerates at 3 m/s². What net force acts on it?,26 N,117 N,39 N,52 N,39 N
+10,Science,Physics,Hard,An object of mass 7 kg accelerates at 4 m/s². What net force acts on it?,28 N,21 N,35 N,112 N,28 N
+10,Science,Physics,Hard,An object travels 52 m in 1 s. What is its average speed?,104.0 m/s,26.0 m/s,52 m/s,52.0 m/s,52.0 m/s
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 57°C)?",Products disappear,Reaction rate always decreases,Enzyme creates new atoms,Reaction rate increases up to an optimum,Reaction rate increases up to an optimum
+10,Science,Physics,Hard,An object of mass 4 kg accelerates at 5 m/s². What net force acts on it?,20 N,100 N,16 N,24 N,20 N
+10,Science,Physics,Hard,An object of mass 18 kg accelerates at 2 m/s². What net force acts on it?,72 N,18 N,54 N,36 N,36 N
+10,Science,Physics,Hard,An object travels 150 m in 24 s. What is its average speed?,3.125 m/s,6.25 m/s,3600 m/s,12.5 m/s,6.25 m/s
+10,Science,Physics,Hard,An object travels 61 m in 1 s. What is its average speed?,30.5 m/s,61 m/s,61.0 m/s,122.0 m/s,61.0 m/s
+10,Science,Physics,Hard,An object travels 499 m in 40 s. What is its average speed?,24.95 m/s,19960 m/s,6.2375 m/s,12.475 m/s,12.475 m/s
+10,Science,Physics,Hard,An object travels 439 m in 24 s. What is its average speed?,36.583333333333336 m/s,9.145833333333334 m/s,10536 m/s,18.291666666666668 m/s,18.291666666666668 m/s
+10,Science,Physics,Hard,An object travels 467 m in 29 s. What is its average speed?,16.103448275862068 m/s,8.051724137931034 m/s,32.206896551724135 m/s,13543 m/s,16.103448275862068 m/s
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 34°C)?",Enzyme creates new atoms,Reaction rate increases up to an optimum,Products disappear,Reaction rate always decreases,Reaction rate increases up to an optimum
+10,Science,Physics,Hard,An object travels 171 m in 35 s. What is its average speed?,9.771428571428572 m/s,4.885714285714286 m/s,5985 m/s,2.442857142857143 m/s,4.885714285714286 m/s
+10,Science,Physics,Hard,An object of mass 8 kg accelerates at 4 m/s². What net force acts on it?,128 N,32 N,24 N,40 N,32 N
+10,Science,Physics,Hard,An object of mass 12 kg accelerates at 3 m/s². What net force acts on it?,36 N,48 N,108 N,24 N,36 N
+10,Science,Physics,Hard,An object travels 214 m in 24 s. What is its average speed?,5136 m/s,17.833333333333332 m/s,8.916666666666666 m/s,4.458333333333333 m/s,8.916666666666666 m/s
+10,Science,Physics,Hard,An object travels 450 m in 11 s. What is its average speed?,40.90909090909091 m/s,4950 m/s,20.454545454545453 m/s,81.81818181818181 m/s,40.90909090909091 m/s
+10,Science,Physics,Hard,An object travels 312 m in 23 s. What is its average speed?,7176 m/s,13.565217391304348 m/s,27.130434782608695 m/s,6.782608695652174 m/s,13.565217391304348 m/s
+10,Science,Physics,Hard,An object of mass 3 kg accelerates at 8 m/s². What net force acts on it?,192 N,27 N,21 N,24 N,24 N
+10,Science,Physics,Hard,An object of mass 6 kg accelerates at 2 m/s². What net force acts on it?,6 N,12 N,24 N,18 N,12 N
+10,Science,Physics,Hard,An object travels 230 m in 25 s. What is its average speed?,5750 m/s,18.4 m/s,4.6 m/s,9.2 m/s,9.2 m/s
+10,Science,Physics,Hard,An object travels 412 m in 31 s. What is its average speed?,12772 m/s,6.645161290322581 m/s,13.290322580645162 m/s,26.580645161290324 m/s,13.290322580645162 m/s
+10,Science,Physics,Hard,An object travels 123 m in 17 s. What is its average speed?,2091 m/s,3.6176470588235294 m/s,14.470588235294118 m/s,7.235294117647059 m/s,7.235294117647059 m/s
+10,Science,Physics,Hard,An object travels 404 m in 2 s. What is its average speed?,404.0 m/s,808 m/s,202.0 m/s,101.0 m/s,202.0 m/s
+10,Science,Physics,Hard,An object of mass 10 kg accelerates at 8 m/s². What net force acts on it?,80 N,640 N,90 N,70 N,80 N
+10,Science,Physics,Hard,An object travels 79 m in 25 s. What is its average speed?,1.58 m/s,3.16 m/s,1975 m/s,6.32 m/s,3.16 m/s
+10,Science,Physics,Hard,An object of mass 7 kg accelerates at 8 m/s². What net force acts on it?,63 N,49 N,448 N,56 N,56 N
+10,Science,Physics,Hard,An object travels 162 m in 18 s. What is its average speed?,4.5 m/s,2916 m/s,9.0 m/s,18.0 m/s,9.0 m/s
+10,Science,Physics,Hard,An object of mass 20 kg accelerates at 3 m/s². What net force acts on it?,180 N,60 N,80 N,40 N,60 N
+10,Science,Physics,Hard,An object travels 488 m in 12 s. What is its average speed?,81.33333333333333 m/s,40.666666666666664 m/s,5856 m/s,20.333333333333332 m/s,40.666666666666664 m/s
+10,Science,Physics,Hard,An object travels 188 m in 44 s. What is its average speed?,8272 m/s,4.2727272727272725 m/s,2.1363636363636362 m/s,8.545454545454545 m/s,4.2727272727272725 m/s
+10,Science,Physics,Hard,An object travels 234 m in 30 s. What is its average speed?,7020 m/s,3.9 m/s,7.8 m/s,15.6 m/s,7.8 m/s
+10,Science,Physics,Hard,An object of mass 17 kg accelerates at 9 m/s². What net force acts on it?,1377 N,153 N,136 N,170 N,153 N
+10,Science,Physics,Hard,An object travels 116 m in 49 s. What is its average speed?,2.36734693877551 m/s,4.73469387755102 m/s,5684 m/s,1.183673469387755 m/s,2.36734693877551 m/s
+10,Science,Physics,Hard,An object travels 232 m in 5 s. What is its average speed?,23.2 m/s,1160 m/s,92.8 m/s,46.4 m/s,46.4 m/s
+10,Science,Physics,Hard,An object travels 86 m in 15 s. What is its average speed?,2.8666666666666667 m/s,5.733333333333333 m/s,11.466666666666667 m/s,1290 m/s,5.733333333333333 m/s
+10,Science,Physics,Hard,An object travels 156 m in 19 s. What is its average speed?,8.210526315789474 m/s,2964 m/s,4.105263157894737 m/s,16.42105263157895 m/s,8.210526315789474 m/s
+10,Science,Physics,Hard,An object travels 225 m in 17 s. What is its average speed?,26.470588235294116 m/s,13.235294117647058 m/s,3825 m/s,6.617647058823529 m/s,13.235294117647058 m/s
+10,Science,Physics,Hard,An object travels 267 m in 47 s. What is its average speed?,5.680851063829787 m/s,12549 m/s,2.8404255319148937 m/s,11.361702127659575 m/s,5.680851063829787 m/s
+10,Science,Physics,Hard,An object travels 83 m in 41 s. What is its average speed?,4.048780487804878 m/s,1.0121951219512195 m/s,3403 m/s,2.024390243902439 m/s,2.024390243902439 m/s
+10,Science,Physics,Hard,An object travels 196 m in 27 s. What is its average speed?,3.6296296296296298 m/s,5292 m/s,7.2592592592592595 m/s,14.518518518518519 m/s,7.2592592592592595 m/s
+10,Science,Physics,Hard,An object of mass 10 kg accelerates at 7 m/s². What net force acts on it?,490 N,60 N,70 N,80 N,70 N
+10,Science,Physics,Hard,An object travels 321 m in 48 s. What is its average speed?,3.34375 m/s,15408 m/s,13.375 m/s,6.6875 m/s,6.6875 m/s
+10,Science,Physics,Hard,An object travels 11 m in 31 s. What is its average speed?,0.7096774193548387 m/s,0.3548387096774194 m/s,0.1774193548387097 m/s,341 m/s,0.3548387096774194 m/s
+10,Science,Physics,Hard,An object travels 397 m in 38 s. What is its average speed?,10.447368421052632 m/s,5.223684210526316 m/s,15086 m/s,20.894736842105264 m/s,10.447368421052632 m/s
+10,Science,Physics,Hard,An object travels 407 m in 18 s. What is its average speed?,7326 m/s,11.305555555555555 m/s,45.22222222222222 m/s,22.61111111111111 m/s,22.61111111111111 m/s
+10,Science,Physics,Hard,An object travels 425 m in 33 s. What is its average speed?,12.878787878787879 m/s,14025 m/s,6.4393939393939394 m/s,25.757575757575758 m/s,12.878787878787879 m/s
+10,Science,Physics,Hard,An object travels 197 m in 27 s. What is its average speed?,3.6481481481481484 m/s,14.592592592592593 m/s,7.296296296296297 m/s,5319 m/s,7.296296296296297 m/s
+10,Science,Physics,Hard,An object travels 356 m in 25 s. What is its average speed?,14.24 m/s,8900 m/s,7.12 m/s,28.48 m/s,14.24 m/s
+10,Science,Physics,Hard,An object travels 452 m in 8 s. What is its average speed?,56.5 m/s,113.0 m/s,28.25 m/s,3616 m/s,56.5 m/s
+10,Science,Physics,Hard,An object travels 191 m in 48 s. What is its average speed?,7.958333333333333 m/s,9168 m/s,1.9895833333333333 m/s,3.9791666666666665 m/s,3.9791666666666665 m/s
+10,Science,Physics,Hard,An object travels 13 m in 48 s. What is its average speed?,0.5416666666666666 m/s,0.2708333333333333 m/s,0.13541666666666666 m/s,624 m/s,0.2708333333333333 m/s
+10,Science,Physics,Hard,An object travels 88 m in 44 s. What is its average speed?,2.0 m/s,4.0 m/s,3872 m/s,1.0 m/s,2.0 m/s
+10,Science,Physics,Hard,An object travels 11 m in 29 s. What is its average speed?,0.3793103448275862 m/s,319 m/s,0.7586206896551724 m/s,0.1896551724137931 m/s,0.3793103448275862 m/s
+10,Science,Physics,Hard,An object travels 337 m in 28 s. What is its average speed?,12.035714285714286 m/s,24.071428571428573 m/s,6.017857142857143 m/s,9436 m/s,12.035714285714286 m/s
+10,Science,Physics,Hard,An object travels 465 m in 23 s. What is its average speed?,40.43478260869565 m/s,10695 m/s,10.108695652173912 m/s,20.217391304347824 m/s,20.217391304347824 m/s
+10,Science,Physics,Hard,An object travels 397 m in 2 s. What is its average speed?,99.25 m/s,794 m/s,198.5 m/s,397.0 m/s,198.5 m/s
+10,Science,Physics,Hard,An object travels 398 m in 1 s. What is its average speed?,398 m/s,199.0 m/s,398.0 m/s,796.0 m/s,398.0 m/s
+10,Science,Physics,Hard,An object travels 39 m in 25 s. What is its average speed?,975 m/s,3.12 m/s,1.56 m/s,0.78 m/s,1.56 m/s
+10,Science,Physics,Hard,An object travels 435 m in 50 s. What is its average speed?,4.35 m/s,21750 m/s,17.4 m/s,8.7 m/s,8.7 m/s
+10,Science,Physics,Hard,An object travels 260 m in 35 s. What is its average speed?,3.7142857142857144 m/s,14.857142857142858 m/s,7.428571428571429 m/s,9100 m/s,7.428571428571429 m/s
+10,Science,Physics,Hard,An object of mass 6 kg accelerates at 3 m/s². What net force acts on it?,12 N,54 N,18 N,24 N,18 N
+10,Science,Physics,Hard,An object of mass 15 kg accelerates at 8 m/s². What net force acts on it?,960 N,135 N,105 N,120 N,120 N
+10,Science,Physics,Hard,An object travels 115 m in 9 s. What is its average speed?,6.388888888888889 m/s,1035 m/s,12.777777777777779 m/s,25.555555555555557 m/s,12.777777777777779 m/s
+10,Science,Physics,Hard,An object travels 431 m in 20 s. What is its average speed?,21.55 m/s,10.775 m/s,43.1 m/s,8620 m/s,21.55 m/s
+10,Science,Physics,Hard,An object travels 217 m in 1 s. What is its average speed?,217.0 m/s,217 m/s,434.0 m/s,108.5 m/s,217.0 m/s
+10,Science,Physics,Hard,An object travels 273 m in 27 s. What is its average speed?,5.055555555555555 m/s,7371 m/s,10.11111111111111 m/s,20.22222222222222 m/s,10.11111111111111 m/s
+10,Science,Physics,Hard,An object travels 87 m in 3 s. What is its average speed?,14.5 m/s,29.0 m/s,261 m/s,58.0 m/s,29.0 m/s
+10,Science,Physics,Hard,An object of mass 7 kg accelerates at 5 m/s². What net force acts on it?,42 N,28 N,175 N,35 N,35 N
+10,Science,Physics,Hard,An object travels 316 m in 5 s. What is its average speed?,1580 m/s,31.6 m/s,126.4 m/s,63.2 m/s,63.2 m/s
+10,Science,Physics,Hard,An object of mass 9 kg accelerates at 4 m/s². What net force acts on it?,27 N,36 N,45 N,144 N,36 N
+10,Science,Physics,Hard,An object travels 486 m in 48 s. What is its average speed?,5.0625 m/s,20.25 m/s,23328 m/s,10.125 m/s,10.125 m/s
+10,Science,Physics,Hard,An object travels 283 m in 1 s. What is its average speed?,283 m/s,141.5 m/s,283.0 m/s,566.0 m/s,283.0 m/s
+10,Science,Physics,Hard,An object travels 233 m in 13 s. What is its average speed?,17.923076923076923 m/s,35.84615384615385 m/s,3029 m/s,8.961538461538462 m/s,17.923076923076923 m/s
+10,Science,Physics,Hard,An object of mass 10 kg accelerates at 3 m/s². What net force acts on it?,20 N,30 N,90 N,40 N,30 N
+10,Science,Physics,Hard,An object travels 184 m in 34 s. What is its average speed?,6256 m/s,2.7058823529411766 m/s,10.823529411764707 m/s,5.411764705882353 m/s,5.411764705882353 m/s
+10,Science,Physics,Hard,An object travels 199 m in 6 s. What is its average speed?,16.583333333333332 m/s,66.33333333333333 m/s,33.166666666666664 m/s,1194 m/s,33.166666666666664 m/s
+10,Science,Physics,Hard,An object of mass 11 kg accelerates at 7 m/s². What net force acts on it?,88 N,539 N,77 N,66 N,77 N
+10,Science,Physics,Hard,An object travels 394 m in 19 s. What is its average speed?,20.736842105263158 m/s,41.473684210526315 m/s,7486 m/s,10.368421052631579 m/s,20.736842105263158 m/s
+10,Science,Physics,Hard,An object travels 100 m in 10 s. What is its average speed?,1000 m/s,5.0 m/s,10.0 m/s,20.0 m/s,10.0 m/s
+10,Science,Physics,Hard,An object travels 275 m in 33 s. What is its average speed?,8.333333333333334 m/s,4.166666666666667 m/s,16.666666666666668 m/s,9075 m/s,8.333333333333334 m/s
+10,Science,Physics,Hard,An object travels 39 m in 35 s. What is its average speed?,1.1142857142857143 m/s,1365 m/s,0.5571428571428572 m/s,2.2285714285714286 m/s,1.1142857142857143 m/s
+10,Science,Physics,Hard,An object travels 60 m in 8 s. What is its average speed?,7.5 m/s,480 m/s,3.75 m/s,15.0 m/s,7.5 m/s
+10,Science,Physics,Hard,An object travels 373 m in 30 s. What is its average speed?,12.433333333333334 m/s,24.866666666666667 m/s,11190 m/s,6.216666666666667 m/s,12.433333333333334 m/s
+10,Science,Physics,Hard,An object of mass 2 kg accelerates at 6 m/s². What net force acts on it?,12 N,14 N,10 N,72 N,12 N
+10,Science,Physics,Hard,An object travels 326 m in 44 s. What is its average speed?,3.7045454545454546 m/s,14.818181818181818 m/s,7.409090909090909 m/s,14344 m/s,7.409090909090909 m/s
+10,Science,Physics,Hard,An object travels 36 m in 1 s. What is its average speed?,36 m/s,36.0 m/s,18.0 m/s,72.0 m/s,36.0 m/s
+10,Science,Physics,Hard,An object travels 393 m in 18 s. What is its average speed?,7074 m/s,10.916666666666666 m/s,43.666666666666664 m/s,21.833333333333332 m/s,21.833333333333332 m/s
+10,Science,Physics,Hard,An object of mass 9 kg accelerates at 1 m/s². What net force acts on it?,Option 3,18 N,0 N,9 N,9 N
+10,Science,Physics,Hard,An object travels 386 m in 16 s. What is its average speed?,6176 m/s,48.25 m/s,12.0625 m/s,24.125 m/s,24.125 m/s
+10,Science,Physics,Hard,An object travels 440 m in 48 s. What is its average speed?,4.583333333333333 m/s,18.333333333333332 m/s,21120 m/s,9.166666666666666 m/s,9.166666666666666 m/s
+10,Science,Physics,Hard,An object travels 90 m in 46 s. What is its average speed?,0.9782608695652174 m/s,3.9130434782608696 m/s,1.9565217391304348 m/s,4140 m/s,1.9565217391304348 m/s
+10,Science,Physics,Hard,An object travels 223 m in 36 s. What is its average speed?,12.38888888888889 m/s,3.0972222222222223 m/s,8028 m/s,6.194444444444445 m/s,6.194444444444445 m/s
+10,Science,Physics,Hard,An object of mass 4 kg accelerates at 2 m/s². What net force acts on it?,4 N,12 N,16 N,8 N,8 N
+10,Science,Physics,Hard,An object travels 143 m in 34 s. What is its average speed?,4862 m/s,8.411764705882353 m/s,2.1029411764705883 m/s,4.205882352941177 m/s,4.205882352941177 m/s
+10,Science,Physics,Hard,An object travels 335 m in 7 s. What is its average speed?,2345 m/s,47.857142857142854 m/s,95.71428571428571 m/s,23.928571428571427 m/s,47.857142857142854 m/s
+10,Science,Physics,Hard,An object travels 319 m in 40 s. What is its average speed?,3.9875 m/s,12760 m/s,15.95 m/s,7.975 m/s,7.975 m/s
+10,Science,Physics,Hard,An object travels 196 m in 43 s. What is its average speed?,8428 m/s,2.2790697674418605 m/s,4.558139534883721 m/s,9.116279069767442 m/s,4.558139534883721 m/s
+10,Science,Physics,Hard,An object travels 42 m in 48 s. What is its average speed?,2016 m/s,0.875 m/s,0.4375 m/s,1.75 m/s,0.875 m/s
+10,Science,Physics,Hard,An object travels 30 m in 49 s. What is its average speed?,0.30612244897959184 m/s,0.6122448979591837 m/s,1.2244897959183674 m/s,1470 m/s,0.6122448979591837 m/s
+10,Science,Physics,Hard,An object travels 21 m in 42 s. What is its average speed?,882 m/s,1.0 m/s,0.5 m/s,0.25 m/s,0.5 m/s
+10,Science,Physics,Hard,An object travels 363 m in 12 s. What is its average speed?,60.5 m/s,15.125 m/s,4356 m/s,30.25 m/s,30.25 m/s
+10,Science,Physics,Hard,An object of mass 5 kg accelerates at 8 m/s². What net force acts on it?,35 N,45 N,320 N,40 N,40 N
+10,Science,Physics,Hard,An object of mass 3 kg accelerates at 4 m/s². What net force acts on it?,9 N,12 N,48 N,15 N,12 N
+10,Science,Physics,Hard,An object travels 277 m in 26 s. What is its average speed?,5.326923076923077 m/s,10.653846153846153 m/s,7202 m/s,21.307692307692307 m/s,10.653846153846153 m/s
+10,Science,Physics,Hard,An object travels 292 m in 25 s. What is its average speed?,7300 m/s,11.68 m/s,5.84 m/s,23.36 m/s,11.68 m/s
+10,Science,Physics,Hard,An object travels 192 m in 28 s. What is its average speed?,5376 m/s,6.857142857142857 m/s,3.4285714285714284 m/s,13.714285714285714 m/s,6.857142857142857 m/s
+10,Science,Physics,Hard,An object travels 414 m in 11 s. What is its average speed?,37.63636363636363 m/s,75.27272727272727 m/s,4554 m/s,18.818181818181817 m/s,37.63636363636363 m/s
+10,Science,Physics,Hard,An object travels 19 m in 43 s. What is its average speed?,0.8837209302325582 m/s,0.4418604651162791 m/s,817 m/s,0.22093023255813954 m/s,0.4418604651162791 m/s
+10,Science,Physics,Hard,An object travels 348 m in 7 s. What is its average speed?,49.714285714285715 m/s,2436 m/s,24.857142857142858 m/s,99.42857142857143 m/s,49.714285714285715 m/s
+10,Science,Physics,Hard,An object travels 458 m in 6 s. What is its average speed?,38.166666666666664 m/s,2748 m/s,76.33333333333333 m/s,152.66666666666666 m/s,76.33333333333333 m/s
+10,Science,Physics,Hard,An object travels 75 m in 14 s. What is its average speed?,5.357142857142857 m/s,1050 m/s,2.6785714285714284 m/s,10.714285714285714 m/s,5.357142857142857 m/s
+10,Science,Physics,Hard,An object travels 285 m in 25 s. What is its average speed?,7125 m/s,11.4 m/s,22.8 m/s,5.7 m/s,11.4 m/s
+10,Science,Physics,Hard,An object travels 151 m in 5 s. What is its average speed?,15.1 m/s,60.4 m/s,30.2 m/s,755 m/s,30.2 m/s
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 18°C)?",Reaction rate increases up to an optimum,Reaction rate always decreases,Products disappear,Enzyme creates new atoms,Reaction rate increases up to an optimum
+10,Science,Physics,Hard,An object travels 277 m in 18 s. What is its average speed?,15.38888888888889 m/s,4986 m/s,30.77777777777778 m/s,7.694444444444445 m/s,15.38888888888889 m/s
+10,Science,Physics,Hard,An object travels 98 m in 31 s. What is its average speed?,3.161290322580645 m/s,6.32258064516129 m/s,3038 m/s,1.5806451612903225 m/s,3.161290322580645 m/s
+10,Science,Physics,Hard,An object of mass 2 kg accelerates at 2 m/s². What net force acts on it?,2 N,4 N,6 N,8 N,4 N
+10,Science,Physics,Hard,An object travels 301 m in 37 s. What is its average speed?,4.0675675675675675 m/s,11137 m/s,8.135135135135135 m/s,16.27027027027027 m/s,8.135135135135135 m/s
+10,Science,Physics,Hard,An object travels 80 m in 43 s. What is its average speed?,0.9302325581395349 m/s,1.8604651162790697 m/s,3440 m/s,3.7209302325581395 m/s,1.8604651162790697 m/s
+10,Science,Physics,Hard,An object travels 411 m in 39 s. What is its average speed?,10.538461538461538 m/s,21.076923076923077 m/s,5.269230769230769 m/s,16029 m/s,10.538461538461538 m/s
+10,Science,Physics,Hard,An object travels 274 m in 31 s. What is its average speed?,8.838709677419354 m/s,8494 m/s,17.677419354838708 m/s,4.419354838709677 m/s,8.838709677419354 m/s
+10,Science,Physics,Hard,An object travels 451 m in 30 s. What is its average speed?,7.516666666666667 m/s,30.066666666666666 m/s,15.033333333333333 m/s,13530 m/s,15.033333333333333 m/s
+10,Science,Physics,Hard,An object of mass 9 kg accelerates at 10 m/s². What net force acts on it?,900 N,90 N,81 N,99 N,90 N
+10,Science,Physics,Hard,An object travels 284 m in 29 s. What is its average speed?,4.896551724137931 m/s,8236 m/s,19.586206896551722 m/s,9.793103448275861 m/s,9.793103448275861 m/s
+10,Science,Physics,Hard,An object travels 334 m in 37 s. What is its average speed?,18.054054054054053 m/s,12358 m/s,9.027027027027026 m/s,4.513513513513513 m/s,9.027027027027026 m/s
+10,Science,Physics,Hard,An object of mass 20 kg accelerates at 10 m/s². What net force acts on it?,220 N,200 N,2000 N,180 N,200 N
+10,Science,Physics,Hard,An object travels 24 m in 49 s. What is its average speed?,0.4897959183673469 m/s,0.9795918367346939 m/s,0.24489795918367346 m/s,1176 m/s,0.4897959183673469 m/s
+10,Science,Physics,Hard,An object travels 275 m in 34 s. What is its average speed?,8.088235294117647 m/s,16.176470588235293 m/s,9350 m/s,4.044117647058823 m/s,8.088235294117647 m/s
+10,Science,Physics,Hard,An object travels 275 m in 29 s. What is its average speed?,4.741379310344827 m/s,9.482758620689655 m/s,18.96551724137931 m/s,7975 m/s,9.482758620689655 m/s
+10,Science,Physics,Hard,An object travels 331 m in 45 s. What is its average speed?,3.6777777777777776 m/s,7.355555555555555 m/s,14.71111111111111 m/s,14895 m/s,7.355555555555555 m/s
+10,Science,Physics,Hard,An object of mass 2 kg accelerates at 10 m/s². What net force acts on it?,22 N,20 N,18 N,200 N,20 N
+10,Science,Physics,Hard,An object travels 57 m in 15 s. What is its average speed?,1.9 m/s,855 m/s,3.8 m/s,7.6 m/s,3.8 m/s
+10,Science,Physics,Hard,An object travels 84 m in 48 s. What is its average speed?,0.875 m/s,1.75 m/s,3.5 m/s,4032 m/s,1.75 m/s
+10,Science,Physics,Hard,An object travels 320 m in 38 s. What is its average speed?,12160 m/s,4.2105263157894735 m/s,8.421052631578947 m/s,16.842105263157894 m/s,8.421052631578947 m/s
+10,Science,Physics,Hard,An object of mass 20 kg accelerates at 7 m/s². What net force acts on it?,120 N,160 N,980 N,140 N,140 N
+10,Science,Physics,Hard,An object of mass 6 kg accelerates at 9 m/s². What net force acts on it?,486 N,54 N,60 N,48 N,54 N
+10,Science,Physics,Hard,An object travels 433 m in 16 s. What is its average speed?,54.125 m/s,27.0625 m/s,13.53125 m/s,6928 m/s,27.0625 m/s
+10,Science,Physics,Hard,An object travels 207 m in 46 s. What is its average speed?,9.0 m/s,4.5 m/s,2.25 m/s,9522 m/s,4.5 m/s
+10,Science,Physics,Hard,An object travels 221 m in 32 s. What is its average speed?,6.90625 m/s,13.8125 m/s,3.453125 m/s,7072 m/s,6.90625 m/s
+10,Science,Physics,Hard,An object travels 415 m in 26 s. What is its average speed?,31.923076923076923 m/s,10790 m/s,7.980769230769231 m/s,15.961538461538462 m/s,15.961538461538462 m/s
+10,Science,Physics,Hard,An object travels 99 m in 2 s. What is its average speed?,198 m/s,49.5 m/s,99.0 m/s,24.75 m/s,49.5 m/s
+10,Science,Physics,Hard,An object of mass 18 kg accelerates at 8 m/s². What net force acts on it?,126 N,1152 N,144 N,162 N,144 N
+10,Science,Physics,Hard,An object travels 153 m in 25 s. What is its average speed?,3.06 m/s,6.12 m/s,3825 m/s,12.24 m/s,6.12 m/s
+10,Science,Physics,Hard,An object of mass 20 kg accelerates at 8 m/s². What net force acts on it?,160 N,1280 N,140 N,180 N,160 N
+10,Science,Physics,Hard,An object travels 322 m in 21 s. What is its average speed?,6762 m/s,7.666666666666667 m/s,15.333333333333334 m/s,30.666666666666668 m/s,15.333333333333334 m/s
+10,Science,Physics,Hard,An object travels 97 m in 33 s. What is its average speed?,3201 m/s,5.878787878787879 m/s,2.9393939393939394 m/s,1.4696969696969697 m/s,2.9393939393939394 m/s
+10,Science,Physics,Hard,An object of mass 1 kg accelerates at 3 m/s². What net force acts on it?,9 N,3 N,2 N,4 N,3 N
+10,Science,Physics,Hard,An object of mass 10 kg accelerates at 4 m/s². What net force acts on it?,160 N,50 N,30 N,40 N,40 N
+10,Science,Physics,Hard,An object travels 495 m in 12 s. What is its average speed?,5940 m/s,41.25 m/s,82.5 m/s,20.625 m/s,41.25 m/s
+10,Science,Physics,Hard,An object travels 366 m in 12 s. What is its average speed?,15.25 m/s,30.5 m/s,4392 m/s,61.0 m/s,30.5 m/s
+10,Science,Physics,Hard,An object travels 111 m in 1 s. What is its average speed?,111.0 m/s,55.5 m/s,111 m/s,222.0 m/s,111.0 m/s
+10,Science,Physics,Hard,An object travels 60 m in 31 s. What is its average speed?,1860 m/s,1.935483870967742 m/s,3.870967741935484 m/s,0.967741935483871 m/s,1.935483870967742 m/s
+10,Science,Physics,Hard,An object travels 175 m in 2 s. What is its average speed?,43.75 m/s,87.5 m/s,175.0 m/s,350 m/s,87.5 m/s
+10,Science,Physics,Hard,An object travels 343 m in 41 s. What is its average speed?,14063 m/s,4.182926829268292 m/s,16.73170731707317 m/s,8.365853658536585 m/s,8.365853658536585 m/s
+10,Science,Physics,Hard,An object travels 135 m in 24 s. What is its average speed?,5.625 m/s,3240 m/s,2.8125 m/s,11.25 m/s,5.625 m/s
+10,Science,Physics,Hard,An object travels 392 m in 5 s. What is its average speed?,1960 m/s,78.4 m/s,156.8 m/s,39.2 m/s,78.4 m/s
+10,Science,Physics,Hard,An object travels 69 m in 44 s. What is its average speed?,3036 m/s,1.5681818181818181 m/s,3.1363636363636362 m/s,0.7840909090909091 m/s,1.5681818181818181 m/s
+10,Science,Physics,Hard,An object travels 96 m in 34 s. What is its average speed?,1.411764705882353 m/s,2.823529411764706 m/s,3264 m/s,5.647058823529412 m/s,2.823529411764706 m/s
+10,Science,Physics,Hard,An object travels 356 m in 4 s. What is its average speed?,178.0 m/s,1424 m/s,44.5 m/s,89.0 m/s,89.0 m/s
+10,Science,Physics,Hard,An object travels 22 m in 13 s. What is its average speed?,286 m/s,3.3846153846153846 m/s,1.6923076923076923 m/s,0.8461538461538461 m/s,1.6923076923076923 m/s
+10,Science,Physics,Hard,An object travels 384 m in 29 s. What is its average speed?,11136 m/s,26.482758620689655 m/s,13.241379310344827 m/s,6.620689655172414 m/s,13.241379310344827 m/s
+10,Science,Physics,Hard,An object travels 438 m in 28 s. What is its average speed?,7.821428571428571 m/s,15.642857142857142 m/s,31.285714285714285 m/s,12264 m/s,15.642857142857142 m/s
+10,Science,Physics,Hard,An object travels 231 m in 21 s. What is its average speed?,4851 m/s,22.0 m/s,11.0 m/s,5.5 m/s,11.0 m/s
+10,Science,Physics,Hard,An object travels 395 m in 5 s. What is its average speed?,79.0 m/s,1975 m/s,158.0 m/s,39.5 m/s,79.0 m/s
+10,Science,Physics,Hard,An object travels 145 m in 12 s. What is its average speed?,24.166666666666668 m/s,6.041666666666667 m/s,12.083333333333334 m/s,1740 m/s,12.083333333333334 m/s
+10,Science,Physics,Hard,An object travels 42 m in 11 s. What is its average speed?,462 m/s,1.9090909090909092 m/s,3.8181818181818183 m/s,7.636363636363637 m/s,3.8181818181818183 m/s
+10,Science,Physics,Hard,An object travels 307 m in 44 s. What is its average speed?,6.9772727272727275 m/s,3.4886363636363638 m/s,13.954545454545455 m/s,13508 m/s,6.9772727272727275 m/s
+10,Science,Physics,Hard,An object travels 341 m in 44 s. What is its average speed?,3.875 m/s,15.5 m/s,7.75 m/s,15004 m/s,7.75 m/s
+10,Science,Physics,Hard,An object of mass 15 kg accelerates at 1 m/s². What net force acts on it?,Option 3,15 N,30 N,0 N,15 N
+10,Science,Physics,Hard,An object travels 186 m in 39 s. What is its average speed?,4.769230769230769 m/s,9.538461538461538 m/s,7254 m/s,2.3846153846153846 m/s,4.769230769230769 m/s
+10,Science,Physics,Hard,An object travels 313 m in 45 s. What is its average speed?,14085 m/s,6.955555555555556 m/s,13.911111111111111 m/s,3.477777777777778 m/s,6.955555555555556 m/s
+10,Science,Physics,Hard,An object travels 94 m in 14 s. What is its average speed?,13.428571428571429 m/s,3.357142857142857 m/s,1316 m/s,6.714285714285714 m/s,6.714285714285714 m/s
+10,Science,Physics,Hard,An object travels 27 m in 1 s. What is its average speed?,27.0 m/s,27 m/s,13.5 m/s,54.0 m/s,27.0 m/s
+10,Science,Physics,Hard,An object travels 379 m in 41 s. What is its average speed?,15539 m/s,9.24390243902439 m/s,4.621951219512195 m/s,18.48780487804878 m/s,9.24390243902439 m/s
+10,Science,Physics,Hard,An object travels 410 m in 28 s. What is its average speed?,14.642857142857142 m/s,7.321428571428571 m/s,11480 m/s,29.285714285714285 m/s,14.642857142857142 m/s
+10,Science,Physics,Hard,An object travels 142 m in 39 s. What is its average speed?,1.8205128205128205 m/s,3.641025641025641 m/s,5538 m/s,7.282051282051282 m/s,3.641025641025641 m/s
+10,Science,Physics,Hard,An object travels 397 m in 43 s. What is its average speed?,9.232558139534884 m/s,18.46511627906977 m/s,4.616279069767442 m/s,17071 m/s,9.232558139534884 m/s
+10,Science,Physics,Hard,An object of mass 10 kg accelerates at 10 m/s². What net force acts on it?,1000 N,90 N,100 N,110 N,100 N
+10,Science,Physics,Hard,An object travels 331 m in 3 s. What is its average speed?,220.66666666666666 m/s,993 m/s,110.33333333333333 m/s,55.166666666666664 m/s,110.33333333333333 m/s
+10,Science,Physics,Hard,An object travels 422 m in 13 s. What is its average speed?,64.92307692307692 m/s,5486 m/s,32.46153846153846 m/s,16.23076923076923 m/s,32.46153846153846 m/s
+10,Science,Physics,Hard,An object travels 443 m in 27 s. What is its average speed?,8.203703703703704 m/s,11961 m/s,32.81481481481482 m/s,16.40740740740741 m/s,16.40740740740741 m/s
+10,Science,Physics,Hard,An object travels 115 m in 17 s. What is its average speed?,6.764705882352941 m/s,3.3823529411764706 m/s,1955 m/s,13.529411764705882 m/s,6.764705882352941 m/s
+10,Science,Physics,Hard,An object travels 212 m in 28 s. What is its average speed?,15.142857142857142 m/s,7.571428571428571 m/s,5936 m/s,3.7857142857142856 m/s,7.571428571428571 m/s
+10,Science,Physics,Hard,An object travels 135 m in 18 s. What is its average speed?,3.75 m/s,2430 m/s,7.5 m/s,15.0 m/s,7.5 m/s
+10,Science,Physics,Hard,An object travels 329 m in 50 s. What is its average speed?,16450 m/s,3.29 m/s,13.16 m/s,6.58 m/s,6.58 m/s
+10,Science,Physics,Hard,An object travels 490 m in 34 s. What is its average speed?,14.411764705882353 m/s,28.823529411764707 m/s,16660 m/s,7.205882352941177 m/s,14.411764705882353 m/s
+10,Science,Physics,Hard,An object of mass 19 kg accelerates at 9 m/s². What net force acts on it?,171 N,190 N,1539 N,152 N,171 N
+10,Science,Physics,Hard,An object travels 362 m in 14 s. What is its average speed?,12.928571428571429 m/s,51.714285714285715 m/s,5068 m/s,25.857142857142858 m/s,25.857142857142858 m/s
+10,Science,Physics,Hard,An object of mass 3 kg accelerates at 3 m/s². What net force acts on it?,12 N,9 N,27 N,6 N,9 N
+10,Science,Physics,Hard,An object travels 359 m in 21 s. What is its average speed?,7539 m/s,34.19047619047619 m/s,8.547619047619047 m/s,17.095238095238095 m/s,17.095238095238095 m/s
+10,Science,Physics,Hard,An object travels 182 m in 30 s. What is its average speed?,5460 m/s,12.133333333333333 m/s,6.066666666666666 m/s,3.033333333333333 m/s,6.066666666666666 m/s
+10,Science,Physics,Hard,An object of mass 10 kg accelerates at 6 m/s². What net force acts on it?,60 N,70 N,50 N,360 N,60 N
+10,Science,Physics,Hard,An object travels 315 m in 4 s. What is its average speed?,78.75 m/s,157.5 m/s,39.375 m/s,1260 m/s,78.75 m/s
+10,Science,Physics,Hard,An object travels 254 m in 26 s. What is its average speed?,9.76923076923077 m/s,19.53846153846154 m/s,6604 m/s,4.884615384615385 m/s,9.76923076923077 m/s
+10,Science,Physics,Hard,An object travels 144 m in 32 s. What is its average speed?,2.25 m/s,4608 m/s,4.5 m/s,9.0 m/s,4.5 m/s
+10,Science,Physics,Hard,An object of mass 13 kg accelerates at 5 m/s². What net force acts on it?,52 N,325 N,65 N,78 N,65 N
+10,Science,Physics,Hard,An object travels 53 m in 26 s. What is its average speed?,2.0384615384615383 m/s,1.0192307692307692 m/s,1378 m/s,4.076923076923077 m/s,2.0384615384615383 m/s
+10,Science,Physics,Hard,An object travels 361 m in 6 s. What is its average speed?,120.33333333333333 m/s,30.083333333333332 m/s,60.166666666666664 m/s,2166 m/s,60.166666666666664 m/s
+10,Science,Physics,Hard,An object travels 238 m in 38 s. What is its average speed?,3.1315789473684212 m/s,12.526315789473685 m/s,6.2631578947368425 m/s,9044 m/s,6.2631578947368425 m/s
+10,Science,Physics,Hard,An object travels 273 m in 17 s. What is its average speed?,32.11764705882353 m/s,8.029411764705882 m/s,16.058823529411764 m/s,4641 m/s,16.058823529411764 m/s
+10,Science,Physics,Hard,An object travels 431 m in 9 s. What is its average speed?,47.888888888888886 m/s,23.944444444444443 m/s,95.77777777777777 m/s,3879 m/s,47.888888888888886 m/s
+10,Science,Physics,Hard,An object travels 346 m in 2 s. What is its average speed?,692 m/s,346.0 m/s,173.0 m/s,86.5 m/s,173.0 m/s
+10,Science,Physics,Hard,An object travels 114 m in 47 s. What is its average speed?,5358 m/s,1.2127659574468086 m/s,2.425531914893617 m/s,4.851063829787234 m/s,2.425531914893617 m/s
+10,Science,Physics,Hard,An object travels 53 m in 49 s. What is its average speed?,2.163265306122449 m/s,1.0816326530612246 m/s,0.5408163265306123 m/s,2597 m/s,1.0816326530612246 m/s
+10,Science,Physics,Hard,An object travels 36 m in 38 s. What is its average speed?,1.894736842105263 m/s,1368 m/s,0.47368421052631576 m/s,0.9473684210526315 m/s,0.9473684210526315 m/s
+10,Science,Physics,Hard,An object travels 96 m in 14 s. What is its average speed?,3.4285714285714284 m/s,13.714285714285714 m/s,1344 m/s,6.857142857142857 m/s,6.857142857142857 m/s
+10,Science,Physics,Hard,An object travels 189 m in 48 s. What is its average speed?,7.875 m/s,3.9375 m/s,1.96875 m/s,9072 m/s,3.9375 m/s
+10,Science,Physics,Hard,An object of mass 13 kg accelerates at 4 m/s². What net force acts on it?,52 N,39 N,65 N,208 N,52 N
+10,Science,Physics,Hard,An object travels 19 m in 27 s. What is its average speed?,513 m/s,0.35185185185185186 m/s,1.4074074074074074 m/s,0.7037037037037037 m/s,0.7037037037037037 m/s
+10,Science,Physics,Hard,An object travels 289 m in 45 s. What is its average speed?,12.844444444444445 m/s,3.2111111111111112 m/s,6.4222222222222225 m/s,13005 m/s,6.4222222222222225 m/s
+10,Science,Physics,Hard,An object travels 331 m in 24 s. What is its average speed?,7944 m/s,13.791666666666666 m/s,6.895833333333333 m/s,27.583333333333332 m/s,13.791666666666666 m/s
+10,Science,Physics,Hard,An object travels 246 m in 49 s. What is its average speed?,2.510204081632653 m/s,10.040816326530612 m/s,12054 m/s,5.020408163265306 m/s,5.020408163265306 m/s
+10,Science,Physics,Hard,An object of mass 1 kg accelerates at 6 m/s². What net force acts on it?,7 N,5 N,6 N,36 N,6 N
+10,Science,Physics,Hard,An object travels 280 m in 11 s. What is its average speed?,12.727272727272727 m/s,3080 m/s,50.90909090909091 m/s,25.454545454545453 m/s,25.454545454545453 m/s
+10,Science,Physics,Hard,An object travels 345 m in 27 s. What is its average speed?,9315 m/s,6.388888888888889 m/s,25.555555555555557 m/s,12.777777777777779 m/s,12.777777777777779 m/s
+10,Science,Physics,Hard,An object of mass 12 kg accelerates at 9 m/s². What net force acts on it?,96 N,120 N,108 N,972 N,108 N
+10,Science,Physics,Hard,An object travels 436 m in 32 s. What is its average speed?,6.8125 m/s,13.625 m/s,27.25 m/s,13952 m/s,13.625 m/s
+10,Science,Physics,Hard,An object of mass 14 kg accelerates at 8 m/s². What net force acts on it?,126 N,896 N,98 N,112 N,112 N
+10,Science,Physics,Hard,An object of mass 17 kg accelerates at 10 m/s². What net force acts on it?,153 N,187 N,170 N,1700 N,170 N
+10,Science,Physics,Hard,An object travels 396 m in 18 s. What is its average speed?,44.0 m/s,22.0 m/s,7128 m/s,11.0 m/s,22.0 m/s
+10,Science,Physics,Hard,An object travels 484 m in 23 s. What is its average speed?,42.08695652173913 m/s,21.043478260869566 m/s,10.521739130434783 m/s,11132 m/s,21.043478260869566 m/s
+10,Science,Physics,Hard,An object travels 248 m in 10 s. What is its average speed?,2480 m/s,12.4 m/s,49.6 m/s,24.8 m/s,24.8 m/s
+10,Science,Physics,Hard,An object travels 228 m in 33 s. What is its average speed?,13.818181818181818 m/s,3.4545454545454546 m/s,7524 m/s,6.909090909090909 m/s,6.909090909090909 m/s
+10,Science,Physics,Hard,An object travels 493 m in 16 s. What is its average speed?,15.40625 m/s,30.8125 m/s,7888 m/s,61.625 m/s,30.8125 m/s
+10,Science,Physics,Hard,An object of mass 12 kg accelerates at 6 m/s². What net force acts on it?,72 N,60 N,84 N,432 N,72 N
+10,Science,Physics,Hard,An object travels 215 m in 39 s. What is its average speed?,11.025641025641026 m/s,5.512820512820513 m/s,8385 m/s,2.7564102564102564 m/s,5.512820512820513 m/s
+10,Science,Physics,Hard,An object travels 131 m in 47 s. What is its average speed?,2.7872340425531914 m/s,5.574468085106383 m/s,1.3936170212765957 m/s,6157 m/s,2.7872340425531914 m/s
+10,Science,Physics,Hard,An object travels 328 m in 21 s. What is its average speed?,6888 m/s,7.809523809523809 m/s,15.619047619047619 m/s,31.238095238095237 m/s,15.619047619047619 m/s
+10,Science,Physics,Hard,An object travels 138 m in 50 s. What is its average speed?,2.76 m/s,6900 m/s,5.52 m/s,1.38 m/s,2.76 m/s
+10,Science,Physics,Hard,An object travels 354 m in 22 s. What is its average speed?,7788 m/s,8.045454545454545 m/s,16.09090909090909 m/s,32.18181818181818 m/s,16.09090909090909 m/s
+10,Science,Physics,Hard,An object travels 107 m in 38 s. What is its average speed?,5.631578947368421 m/s,2.8157894736842106 m/s,4066 m/s,1.4078947368421053 m/s,2.8157894736842106 m/s
+10,Science,Physics,Hard,An object of mass 1 kg accelerates at 8 m/s². What net force acts on it?,7 N,9 N,8 N,64 N,8 N
+10,Science,Physics,Hard,An object travels 275 m in 16 s. What is its average speed?,34.375 m/s,17.1875 m/s,8.59375 m/s,4400 m/s,17.1875 m/s
+10,Science,Physics,Hard,An object of mass 2 kg accelerates at 8 m/s². What net force acts on it?,128 N,14 N,16 N,18 N,16 N
+10,Science,Physics,Hard,An object travels 304 m in 38 s. What is its average speed?,11552 m/s,4.0 m/s,8.0 m/s,16.0 m/s,8.0 m/s
+10,Science,Physics,Hard,An object travels 412 m in 2 s. What is its average speed?,824 m/s,412.0 m/s,103.0 m/s,206.0 m/s,206.0 m/s
+10,Science,Physics,Hard,An object travels 380 m in 29 s. What is its average speed?,26.20689655172414 m/s,6.551724137931035 m/s,13.10344827586207 m/s,11020 m/s,13.10344827586207 m/s
+10,Science,Physics,Hard,An object travels 447 m in 49 s. What is its average speed?,9.122448979591837 m/s,21903 m/s,18.244897959183675 m/s,4.561224489795919 m/s,9.122448979591837 m/s
+10,Science,Physics,Hard,An object travels 109 m in 1 s. What is its average speed?,109 m/s,218.0 m/s,109.0 m/s,54.5 m/s,109.0 m/s
+10,Science,Physics,Hard,An object travels 455 m in 31 s. What is its average speed?,14105 m/s,7.338709677419355 m/s,14.67741935483871 m/s,29.35483870967742 m/s,14.67741935483871 m/s
+10,Science,Physics,Hard,An object travels 330 m in 39 s. What is its average speed?,4.230769230769231 m/s,8.461538461538462 m/s,12870 m/s,16.923076923076923 m/s,8.461538461538462 m/s
+10,Science,Physics,Hard,An object travels 334 m in 8 s. What is its average speed?,41.75 m/s,20.875 m/s,83.5 m/s,2672 m/s,41.75 m/s
+10,Science,Physics,Hard,An object travels 276 m in 12 s. What is its average speed?,46.0 m/s,11.5 m/s,23.0 m/s,3312 m/s,23.0 m/s
+10,Science,Physics,Hard,An object travels 142 m in 45 s. What is its average speed?,3.1555555555555554 m/s,6390 m/s,1.5777777777777777 m/s,6.311111111111111 m/s,3.1555555555555554 m/s
+10,Science,Physics,Hard,An object travels 268 m in 37 s. What is its average speed?,3.6216216216216215 m/s,14.486486486486486 m/s,9916 m/s,7.243243243243243 m/s,7.243243243243243 m/s
+10,Science,Physics,Hard,An object travels 309 m in 28 s. What is its average speed?,5.517857142857143 m/s,11.035714285714286 m/s,8652 m/s,22.071428571428573 m/s,11.035714285714286 m/s
+10,Science,Physics,Hard,An object travels 44 m in 37 s. What is its average speed?,1628 m/s,0.5945945945945946 m/s,1.1891891891891893 m/s,2.3783783783783785 m/s,1.1891891891891893 m/s
+10,Science,Physics,Hard,An object travels 416 m in 1 s. What is its average speed?,832.0 m/s,416.0 m/s,208.0 m/s,416 m/s,416.0 m/s
+10,Science,Physics,Hard,An object travels 97 m in 40 s. What is its average speed?,3880 m/s,4.85 m/s,1.2125 m/s,2.425 m/s,2.425 m/s
+10,Science,Physics,Hard,An object travels 183 m in 22 s. What is its average speed?,4.159090909090909 m/s,8.318181818181818 m/s,4026 m/s,16.636363636363637 m/s,8.318181818181818 m/s
+10,Science,Physics,Hard,An object travels 329 m in 26 s. What is its average speed?,6.326923076923077 m/s,12.653846153846153 m/s,8554 m/s,25.307692307692307 m/s,12.653846153846153 m/s
+10,Science,Physics,Hard,An object travels 81 m in 35 s. What is its average speed?,4.628571428571429 m/s,1.1571428571428573 m/s,2835 m/s,2.3142857142857145 m/s,2.3142857142857145 m/s
+10,Science,Physics,Hard,An object travels 171 m in 2 s. What is its average speed?,85.5 m/s,171.0 m/s,342 m/s,42.75 m/s,85.5 m/s
+10,Science,Physics,Hard,An object travels 13 m in 27 s. What is its average speed?,0.48148148148148145 m/s,0.9629629629629629 m/s,351 m/s,0.24074074074074073 m/s,0.48148148148148145 m/s
+10,Science,Physics,Hard,An object travels 180 m in 25 s. What is its average speed?,7.2 m/s,4500 m/s,14.4 m/s,3.6 m/s,7.2 m/s
+10,Science,Physics,Hard,An object travels 291 m in 12 s. What is its average speed?,24.25 m/s,12.125 m/s,3492 m/s,48.5 m/s,24.25 m/s
+10,Science,Physics,Hard,An object travels 230 m in 5 s. What is its average speed?,46.0 m/s,92.0 m/s,1150 m/s,23.0 m/s,46.0 m/s
+10,Science,Physics,Hard,An object travels 246 m in 43 s. What is its average speed?,5.72093023255814 m/s,2.86046511627907 m/s,10578 m/s,11.44186046511628 m/s,5.72093023255814 m/s
+10,Science,Physics,Hard,An object travels 286 m in 25 s. What is its average speed?,7150 m/s,22.88 m/s,11.44 m/s,5.72 m/s,11.44 m/s
+10,Science,Physics,Hard,An object travels 369 m in 10 s. What is its average speed?,18.45 m/s,73.8 m/s,3690 m/s,36.9 m/s,36.9 m/s
+10,Science,Physics,Hard,An object travels 80 m in 20 s. What is its average speed?,4.0 m/s,1600 m/s,2.0 m/s,8.0 m/s,4.0 m/s
+10,Science,Physics,Hard,An object of mass 2 kg accelerates at 1 m/s². What net force acts on it?,2 N,4 N,Option 3,0 N,2 N
+10,Science,Physics,Hard,An object travels 176 m in 49 s. What is its average speed?,1.7959183673469388 m/s,3.5918367346938775 m/s,7.183673469387755 m/s,8624 m/s,3.5918367346938775 m/s
+10,Science,Physics,Hard,An object travels 89 m in 44 s. What is its average speed?,2.022727272727273 m/s,1.0113636363636365 m/s,4.045454545454546 m/s,3916 m/s,2.022727272727273 m/s
+10,Science,Biology Reasoning,Hard,"In a typical enzyme-catalyzed reaction, what is most likely to happen as temperature rises toward an optimum (e.g., 27°C)?",Enzyme creates new atoms,Reaction rate increases up to an optimum,Reaction rate always decreases,Products disappear,Reaction rate increases up to an optimum
+10,Science,Physics,Hard,An object travels 115 m in 43 s. What is its average speed?,4945 m/s,5.348837209302325 m/s,1.3372093023255813 m/s,2.6744186046511627 m/s,2.6744186046511627 m/s
+10,Science,Physics,Hard,An object travels 92 m in 41 s. What is its average speed?,2.2439024390243905 m/s,3772 m/s,1.1219512195121952 m/s,4.487804878048781 m/s,2.2439024390243905 m/s
+10,Science,Physics,Hard,An object travels 299 m in 14 s. What is its average speed?,4186 m/s,21.357142857142858 m/s,42.714285714285715 m/s,10.678571428571429 m/s,21.357142857142858 m/s
+10,Science,Physics,Hard,An object travels 415 m in 48 s. What is its average speed?,19920 m/s,4.322916666666667 m/s,8.645833333333334 m/s,17.291666666666668 m/s,8.645833333333334 m/s
+10,Science,Physics,Hard,An object travels 305 m in 4 s. What is its average speed?,38.125 m/s,1220 m/s,76.25 m/s,152.5 m/s,76.25 m/s
+10,Science,Physics,Hard,An object travels 156 m in 50 s. What is its average speed?,7800 m/s,6.24 m/s,3.12 m/s,1.56 m/s,3.12 m/s
+10,Science,Physics,Hard,An object travels 120 m in 2 s. What is its average speed?,240 m/s,120.0 m/s,60.0 m/s,30.0 m/s,60.0 m/s
+10,Science,Physics,Hard,An object travels 152 m in 9 s. What is its average speed?,33.77777777777778 m/s,8.444444444444445 m/s,16.88888888888889 m/s,1368 m/s,16.88888888888889 m/s
+10,Science,Physics,Hard,An object travels 134 m in 21 s. What is its average speed?,3.1904761904761907 m/s,12.761904761904763 m/s,6.380952380952381 m/s,2814 m/s,6.380952380952381 m/s
+10,Science,Physics,Hard,An object travels 164 m in 37 s. What is its average speed?,8.864864864864865 m/s,4.4324324324324325 m/s,2.2162162162162162 m/s,6068 m/s,4.4324324324324325 m/s
+10,Science,Physics,Hard,An object of mass 17 kg accelerates at 5 m/s². What net force acts on it?,102 N,68 N,425 N,85 N,85 N
+10,Science,Physics,Hard,An object travels 258 m in 22 s. What is its average speed?,5676 m/s,23.454545454545453 m/s,5.863636363636363 m/s,11.727272727272727 m/s,11.727272727272727 m/s
+10,Science,Physics,Hard,An object travels 247 m in 6 s. What is its average speed?,41.166666666666664 m/s,1482 m/s,82.33333333333333 m/s,20.583333333333332 m/s,41.166666666666664 m/s
+10,Science,Physics,Hard,An object travels 203 m in 46 s. What is its average speed?,9338 m/s,8.826086956521738 m/s,2.2065217391304346 m/s,4.413043478260869 m/s,4.413043478260869 m/s
+10,Science,Physics,Hard,An object travels 484 m in 5 s. What is its average speed?,96.8 m/s,193.6 m/s,48.4 m/s,2420 m/s,96.8 m/s
+10,Science,Physics,Hard,An object travels 194 m in 35 s. What is its average speed?,5.542857142857143 m/s,6790 m/s,2.7714285714285714 m/s,11.085714285714285 m/s,5.542857142857143 m/s
+10,Science,Physics,Hard,An object travels 319 m in 21 s. What is its average speed?,30.38095238095238 m/s,6699 m/s,15.19047619047619 m/s,7.595238095238095 m/s,15.19047619047619 m/s
+10,Science,Physics,Hard,An object travels 415 m in 18 s. What is its average speed?,11.527777777777779 m/s,46.111111111111114 m/s,7470 m/s,23.055555555555557 m/s,23.055555555555557 m/s
+10,Science,Physics,Hard,An object travels 398 m in 48 s. What is its average speed?,16.583333333333332 m/s,8.291666666666666 m/s,19104 m/s,4.145833333333333 m/s,8.291666666666666 m/s
+10,Science,Physics,Hard,An object travels 75 m in 48 s. What is its average speed?,3600 m/s,0.78125 m/s,1.5625 m/s,3.125 m/s,1.5625 m/s
+10,Science,Physics,Hard,An object travels 190 m in 14 s. What is its average speed?,27.142857142857142 m/s,6.785714285714286 m/s,2660 m/s,13.571428571428571 m/s,13.571428571428571 m/s
+10,Science,Physics,Hard,An object travels 68 m in 38 s. What is its average speed?,2584 m/s,0.8947368421052632 m/s,3.5789473684210527 m/s,1.7894736842105263 m/s,1.7894736842105263 m/s
+10,Science,Physics,Hard,An object travels 55 m in 38 s. What is its average speed?,0.7236842105263158 m/s,2.8947368421052633 m/s,2090 m/s,1.4473684210526316 m/s,1.4473684210526316 m/s
+10,Science,Physics,Hard,An object travels 454 m in 3 s. What is its average speed?,1362 m/s,302.6666666666667 m/s,75.66666666666667 m/s,151.33333333333334 m/s,151.33333333333334 m/s
+10,Science,Physics,Hard,An object travels 12 m in 24 s. What is its average speed?,1.0 m/s,0.5 m/s,288 m/s,0.25 m/s,0.5 m/s
+10,Science,Physics,Hard,An object travels 141 m in 39 s. What is its average speed?,3.6153846153846154 m/s,5499 m/s,7.230769230769231 m/s,1.8076923076923077 m/s,3.6153846153846154 m/s
+10,Science,Physics,Hard,An object travels 430 m in 9 s. What is its average speed?,23.88888888888889 m/s,95.55555555555556 m/s,3870 m/s,47.77777777777778 m/s,47.77777777777778 m/s
+10,Science,Physics,Hard,An object of mass 1 kg accelerates at 7 m/s². What net force acts on it?,7 N,49 N,6 N,8 N,7 N
+10,Science,Physics,Hard,An object travels 107 m in 17 s. What is its average speed?,3.1470588235294117 m/s,1819 m/s,6.294117647058823 m/s,12.588235294117647 m/s,6.294117647058823 m/s
+10,Science,Physics,Hard,An object travels 26 m in 28 s. What is its average speed?,728 m/s,1.8571428571428572 m/s,0.9285714285714286 m/s,0.4642857142857143 m/s,0.9285714285714286 m/s
+10,Science,Physics,Hard,An object of mass 5 kg accelerates at 7 m/s². What net force acts on it?,40 N,30 N,245 N,35 N,35 N
+10,Science,Physics,Hard,An object of mass 4 kg accelerates at 6 m/s². What net force acts on it?,24 N,144 N,20 N,28 N,24 N
+10,Science,Physics,Hard,An object travels 431 m in 4 s. What is its average speed?,53.875 m/s,215.5 m/s,1724 m/s,107.75 m/s,107.75 m/s
+10,Science,Physics,Hard,An object travels 137 m in 43 s. What is its average speed?,5891 m/s,3.186046511627907 m/s,1.5930232558139534 m/s,6.372093023255814 m/s,3.186046511627907 m/s
+10,Science,Physics,Hard,An object of mass 1 kg accelerates at 2 m/s². What net force acts on it?,3 N,4 N,2 N,1 N,2 N
+10,Science,Physics,Hard,An object travels 149 m in 46 s. What is its average speed?,1.6195652173913044 m/s,3.239130434782609 m/s,6.478260869565218 m/s,6854 m/s,3.239130434782609 m/s
+10,Science,Physics,Hard,An object travels 116 m in 32 s. What is its average speed?,3712 m/s,1.8125 m/s,7.25 m/s,3.625 m/s,3.625 m/s
+10,Science,Physics,Hard,An object travels 476 m in 39 s. What is its average speed?,18564 m/s,6.102564102564102 m/s,24.41025641025641 m/s,12.205128205128204 m/s,12.205128205128204 m/s
+10,Science,Physics,Hard,An object travels 332 m in 5 s. What is its average speed?,66.4 m/s,1660 m/s,33.2 m/s,132.8 m/s,66.4 m/s
+10,Science,Physics,Hard,An object of mass 16 kg accelerates at 7 m/s². What net force acts on it?,128 N,112 N,784 N,96 N,112 N
+10,Science,Physics,Hard,An object travels 305 m in 5 s. What is its average speed?,61.0 m/s,1525 m/s,122.0 m/s,30.5 m/s,61.0 m/s
+10,Science,Physics,Hard,An object travels 249 m in 41 s. What is its average speed?,3.0365853658536586 m/s,6.073170731707317 m/s,12.146341463414634 m/s,10209 m/s,6.073170731707317 m/s
+10,Science,Physics,Hard,An object travels 443 m in 42 s. What is its average speed?,21.095238095238095 m/s,18606 m/s,5.273809523809524 m/s,10.547619047619047 m/s,10.547619047619047 m/s
+10,Science,Physics,Hard,An object travels 388 m in 27 s. What is its average speed?,10476 m/s,7.185185185185185 m/s,28.74074074074074 m/s,14.37037037037037 m/s,14.37037037037037 m/s
+10,Science,Physics,Hard,An object travels 452 m in 44 s. What is its average speed?,5.136363636363637 m/s,10.272727272727273 m/s,20.545454545454547 m/s,19888 m/s,10.272727272727273 m/s
+10,Science,Physics,Hard,An object travels 370 m in 9 s. What is its average speed?,82.22222222222223 m/s,3330 m/s,41.111111111111114 m/s,20.555555555555557 m/s,41.111111111111114 m/s
+10,Science,Physics,Hard,An object travels 260 m in 19 s. What is its average speed?,27.36842105263158 m/s,6.842105263157895 m/s,4940 m/s,13.68421052631579 m/s,13.68421052631579 m/s
+10,Science,Physics,Hard,An object travels 374 m in 1 s. What is its average speed?,748.0 m/s,187.0 m/s,374.0 m/s,374 m/s,374.0 m/s
+10,Science,Physics,Hard,An object travels 141 m in 48 s. What is its average speed?,6768 m/s,1.46875 m/s,5.875 m/s,2.9375 m/s,2.9375 m/s
+10,Science,Physics,Hard,An object of mass 11 kg accelerates at 6 m/s². What net force acts on it?,66 N,396 N,77 N,55 N,66 N
+10,Science,Physics,Hard,An object travels 250 m in 8 s. What is its average speed?,2000 m/s,62.5 m/s,31.25 m/s,15.625 m/s,31.25 m/s
+10,Science,Physics,Hard,An object travels 261 m in 26 s. What is its average speed?,10.038461538461538 m/s,6786 m/s,20.076923076923077 m/s,5.019230769230769 m/s,10.038461538461538 m/s
+10,Science,Physics,Hard,An object travels 429 m in 9 s. What is its average speed?,95.33333333333333 m/s,3861 m/s,47.666666666666664 m/s,23.833333333333332 m/s,47.666666666666664 m/s
+10,Science,Physics,Hard,An object travels 193 m in 31 s. What is its average speed?,3.1129032258064515 m/s,6.225806451612903 m/s,12.451612903225806 m/s,5983 m/s,6.225806451612903 m/s
+10,Science,Physics,Hard,An object travels 483 m in 29 s. What is its average speed?,16.655172413793103 m/s,33.310344827586206 m/s,14007 m/s,8.327586206896552 m/s,16.655172413793103 m/s
+10,Science,Physics,Hard,An object travels 199 m in 10 s. What is its average speed?,9.95 m/s,19.9 m/s,1990 m/s,39.8 m/s,19.9 m/s
+10,Science,Physics,Hard,An object travels 294 m in 25 s. What is its average speed?,11.76 m/s,23.52 m/s,7350 m/s,5.88 m/s,11.76 m/s
+10,Science,Physics,Hard,An object travels 279 m in 40 s. What is its average speed?,6.975 m/s,13.95 m/s,3.4875 m/s,11160 m/s,6.975 m/s
+10,Science,Physics,Hard,An object of mass 7 kg accelerates at 7 m/s². What net force acts on it?,56 N,49 N,343 N,42 N,49 N
+10,Science,Physics,Hard,An object travels 344 m in 21 s. What is its average speed?,16.38095238095238 m/s,32.76190476190476 m/s,7224 m/s,8.19047619047619 m/s,16.38095238095238 m/s
+10,Science,Physics,Hard,An object travels 304 m in 40 s. What is its average speed?,3.8 m/s,15.2 m/s,7.6 m/s,12160 m/s,7.6 m/s
+10,Science,Physics,Hard,An object travels 273 m in 26 s. What is its average speed?,7098 m/s,5.25 m/s,21.0 m/s,10.5 m/s,10.5 m/s
+10,Science,Physics,Hard,An object travels 307 m in 26 s. What is its average speed?,5.903846153846154 m/s,23.615384615384617 m/s,7982 m/s,11.807692307692308 m/s,11.807692307692308 m/s
+10,Science,Physics,Hard,An object travels 121 m in 22 s. What is its average speed?,5.5 m/s,2662 m/s,11.0 m/s,2.75 m/s,5.5 m/s
+10,Science,Physics,Hard,An object travels 217 m in 17 s. What is its average speed?,3689 m/s,6.382352941176471 m/s,25.529411764705884 m/s,12.764705882352942 m/s,12.764705882352942 m/s
+10,Science,Physics,Hard,An object travels 106 m in 30 s. What is its average speed?,3180 m/s,7.066666666666666 m/s,3.533333333333333 m/s,1.7666666666666666 m/s,3.533333333333333 m/s
+10,Science,Physics,Hard,An object travels 479 m in 46 s. What is its average speed?,20.82608695652174 m/s,22034 m/s,10.41304347826087 m/s,5.206521739130435 m/s,10.41304347826087 m/s
+10,Science,Physics,Hard,An object travels 176 m in 35 s. What is its average speed?,2.5142857142857142 m/s,5.0285714285714285 m/s,10.057142857142857 m/s,6160 m/s,5.0285714285714285 m/s
+10,Science,Physics,Hard,An object travels 123 m in 40 s. What is its average speed?,4920 m/s,3.075 m/s,1.5375 m/s,6.15 m/s,3.075 m/s
+10,Science,Physics,Hard,An object travels 389 m in 7 s. What is its average speed?,27.785714285714285 m/s,55.57142857142857 m/s,111.14285714285714 m/s,2723 m/s,55.57142857142857 m/s
+10,Science,Physics,Hard,An object travels 187 m in 29 s. What is its average speed?,3.2241379310344827 m/s,12.89655172413793 m/s,6.448275862068965 m/s,5423 m/s,6.448275862068965 m/s
+10,Science,Physics,Hard,An object travels 249 m in 29 s. What is its average speed?,17.17241379310345 m/s,7221 m/s,8.586206896551724 m/s,4.293103448275862 m/s,8.586206896551724 m/s
+10,Science,Physics,Hard,An object travels 427 m in 8 s. What is its average speed?,53.375 m/s,26.6875 m/s,3416 m/s,106.75 m/s,53.375 m/s
+10,Science,Physics,Hard,An object travels 150 m in 45 s. What is its average speed?,6750 m/s,3.3333333333333335 m/s,6.666666666666667 m/s,1.6666666666666667 m/s,3.3333333333333335 m/s
+10,Science,Physics,Hard,An object travels 285 m in 3 s. What is its average speed?,95.0 m/s,855 m/s,47.5 m/s,190.0 m/s,95.0 m/s
+10,Science,Physics,Hard,An object of mass 19 kg accelerates at 2 m/s². What net force acts on it?,57 N,76 N,38 N,19 N,38 N
+10,Science,Physics,Hard,An object travels 421 m in 6 s. What is its average speed?,35.083333333333336 m/s,70.16666666666667 m/s,140.33333333333334 m/s,2526 m/s,70.16666666666667 m/s
+10,Science,Physics,Hard,An object travels 207 m in 13 s. What is its average speed?,7.961538461538462 m/s,31.846153846153847 m/s,2691 m/s,15.923076923076923 m/s,15.923076923076923 m/s
+10,Science,Physics,Hard,An object travels 353 m in 27 s. What is its average speed?,9531 m/s,26.14814814814815 m/s,13.074074074074074 m/s,6.537037037037037 m/s,13.074074074074074 m/s
+10,Science,Physics,Hard,An object travels 353 m in 5 s. What is its average speed?,1765 m/s,35.3 m/s,141.2 m/s,70.6 m/s,70.6 m/s
+10,Science,Physics,Hard,An object travels 302 m in 8 s. What is its average speed?,18.875 m/s,75.5 m/s,2416 m/s,37.75 m/s,37.75 m/s
+10,Science,Physics,Hard,An object travels 140 m in 30 s. What is its average speed?,4200 m/s,9.333333333333334 m/s,4.666666666666667 m/s,2.3333333333333335 m/s,4.666666666666667 m/s
+10,Science,Physics,Hard,An object travels 422 m in 11 s. What is its average speed?,4642 m/s,19.181818181818183 m/s,38.36363636363637 m/s,76.72727272727273 m/s,38.36363636363637 m/s
+10,Science,Physics,Hard,An object travels 419 m in 50 s. What is its average speed?,16.76 m/s,8.38 m/s,20950 m/s,4.19 m/s,8.38 m/s
+10,Science,Physics,Hard,An object travels 217 m in 8 s. What is its average speed?,1736 m/s,13.5625 m/s,27.125 m/s,54.25 m/s,27.125 m/s
+10,Science,Physics,Hard,An object travels 428 m in 3 s. What is its average speed?,142.66666666666666 m/s,1284 m/s,285.3333333333333 m/s,71.33333333333333 m/s,142.66666666666666 m/s
+10,Science,Physics,Hard,An object of mass 1 kg accelerates at 4 m/s². What net force acts on it?,5 N,16 N,3 N,4 N,4 N
+10,Science,Physics,Hard,An object travels 371 m in 16 s. What is its average speed?,5936 m/s,46.375 m/s,23.1875 m/s,11.59375 m/s,23.1875 m/s
+10,Science,Physics,Hard,An object travels 284 m in 8 s. What is its average speed?,71.0 m/s,35.5 m/s,17.75 m/s,2272 m/s,35.5 m/s
+10,Science,Physics,Hard,An object travels 38 m in 35 s. What is its average speed?,0.5428571428571428 m/s,1.0857142857142856 m/s,2.1714285714285713 m/s,1330 m/s,1.0857142857142856 m/s
+10,Science,Physics,Hard,An object travels 269 m in 29 s. What is its average speed?,18.551724137931036 m/s,9.275862068965518 m/s,7801 m/s,4.637931034482759 m/s,9.275862068965518 m/s
+10,Science,Physics,Hard,An object of mass 17 kg accelerates at 3 m/s². What net force acts on it?,153 N,68 N,51 N,34 N,51 N
+10,Science,Physics,Hard,An object travels 129 m in 15 s. What is its average speed?,8.6 m/s,17.2 m/s,1935 m/s,4.3 m/s,8.6 m/s
+10,Science,Physics,Hard,An object travels 134 m in 40 s. What is its average speed?,3.35 m/s,6.7 m/s,1.675 m/s,5360 m/s,3.35 m/s
+10,Science,Physics,Hard,An object of mass 11 kg accelerates at 10 m/s². What net force acts on it?,110 N,121 N,99 N,1100 N,110 N
+10,Science,Physics,Hard,An object travels 471 m in 2 s. What is its average speed?,942 m/s,235.5 m/s,471.0 m/s,117.75 m/s,235.5 m/s
+10,Science,Physics,Hard,An object of mass 16 kg accelerates at 9 m/s². What net force acts on it?,144 N,1296 N,128 N,160 N,144 N
+10,Science,Physics,Hard,An object travels 285 m in 9 s. What is its average speed?,2565 m/s,63.333333333333336 m/s,15.833333333333334 m/s,31.666666666666668 m/s,31.666666666666668 m/s
+10,Science,Physics,Hard,An object travels 218 m in 12 s. What is its average speed?,36.333333333333336 m/s,18.166666666666668 m/s,2616 m/s,9.083333333333334 m/s,18.166666666666668 m/s
+10,Science,Physics,Hard,An object of mass 3 kg accelerates at 7 m/s². What net force acts on it?,21 N,24 N,147 N,18 N,21 N
+10,Science,Physics,Hard,An object travels 357 m in 30 s. What is its average speed?,23.8 m/s,5.95 m/s,11.9 m/s,10710 m/s,11.9 m/s
+10,Science,Physics,Hard,An object travels 53 m in 12 s. What is its average speed?,2.2083333333333335 m/s,636 m/s,8.833333333333334 m/s,4.416666666666667 m/s,4.416666666666667 m/s
+10,Science,Physics,Hard,An object travels 249 m in 19 s. What is its average speed?,26.210526315789473 m/s,13.105263157894736 m/s,4731 m/s,6.552631578947368 m/s,13.105263157894736 m/s
+10,Science,Physics,Hard,An object travels 222 m in 30 s. What is its average speed?,6660 m/s,14.8 m/s,3.7 m/s,7.4 m/s,7.4 m/s
+10,Science,Physics,Hard,An object travels 447 m in 8 s. What is its average speed?,27.9375 m/s,3576 m/s,111.75 m/s,55.875 m/s,55.875 m/s
+10,Science,Physics,Hard,An object travels 287 m in 36 s. What is its average speed?,10332 m/s,15.944444444444445 m/s,3.986111111111111 m/s,7.972222222222222 m/s,7.972222222222222 m/s
+10,Science,Physics,Hard,An object travels 119 m in 11 s. What is its average speed?,10.818181818181818 m/s,21.636363636363637 m/s,1309 m/s,5.409090909090909 m/s,10.818181818181818 m/s
+10,Science,Physics,Hard,An object travels 210 m in 25 s. What is its average speed?,4.2 m/s,16.8 m/s,5250 m/s,8.4 m/s,8.4 m/s
+10,Science,Physics,Hard,An object travels 373 m in 39 s. What is its average speed?,19.128205128205128 m/s,14547 m/s,4.782051282051282 m/s,9.564102564102564 m/s,9.564102564102564 m/s
+10,Science,Physics,Hard,An object travels 104 m in 39 s. What is its average speed?,4056 m/s,5.333333333333333 m/s,2.6666666666666665 m/s,1.3333333333333333 m/s,2.6666666666666665 m/s
+10,Science,Physics,Hard,An object travels 157 m in 18 s. What is its average speed?,4.361111111111111 m/s,2826 m/s,17.444444444444443 m/s,8.722222222222221 m/s,8.722222222222221 m/s
+10,Science,Physics,Hard,An object travels 106 m in 34 s. What is its average speed?,3604 m/s,6.235294117647059 m/s,3.1176470588235294 m/s,1.5588235294117647 m/s,3.1176470588235294 m/s
+10,Science,Physics,Hard,An object travels 49 m in 33 s. What is its average speed?,2.9696969696969697 m/s,0.7424242424242424 m/s,1617 m/s,1.4848484848484849 m/s,1.4848484848484849 m/s
+10,Science,Physics,Hard,An object travels 388 m in 3 s. What is its average speed?,1164 m/s,129.33333333333334 m/s,64.66666666666667 m/s,258.6666666666667 m/s,129.33333333333334 m/s
+10,Science,Physics,Hard,An object travels 20 m in 39 s. What is its average speed?,1.0256410256410255 m/s,0.5128205128205128 m/s,0.2564102564102564 m/s,780 m/s,0.5128205128205128 m/s
+10,Science,Physics,Hard,An object travels 232 m in 20 s. What is its average speed?,23.2 m/s,4640 m/s,5.8 m/s,11.6 m/s,11.6 m/s
+10,Science,Physics,Hard,An object of mass 5 kg accelerates at 4 m/s². What net force acts on it?,80 N,25 N,20 N,15 N,20 N
+10,Science,Physics,Hard,An object travels 205 m in 36 s. What is its average speed?,5.694444444444445 m/s,7380 m/s,2.8472222222222223 m/s,11.38888888888889 m/s,5.694444444444445 m/s
+10,Science,Physics,Hard,An object travels 140 m in 7 s. What is its average speed?,10.0 m/s,980 m/s,40.0 m/s,20.0 m/s,20.0 m/s
+10,Science,Physics,Hard,An object travels 157 m in 21 s. What is its average speed?,14.952380952380953 m/s,3297 m/s,3.738095238095238 m/s,7.476190476190476 m/s,7.476190476190476 m/s
+10,Science,Physics,Hard,An object travels 277 m in 9 s. What is its average speed?,2493 m/s,30.77777777777778 m/s,15.38888888888889 m/s,61.55555555555556 m/s,30.77777777777778 m/s
+10,Science,Physics,Hard,An object travels 162 m in 23 s. What is its average speed?,3.5217391304347827 m/s,7.043478260869565 m/s,14.08695652173913 m/s,3726 m/s,7.043478260869565 m/s
+10,Science,Physics,Hard,An object travels 393 m in 24 s. What is its average speed?,9432 m/s,8.1875 m/s,32.75 m/s,16.375 m/s,16.375 m/s
+10,Science,Physics,Hard,An object travels 104 m in 20 s. What is its average speed?,2.6 m/s,10.4 m/s,2080 m/s,5.2 m/s,5.2 m/s
+10,Science,Physics,Hard,An object travels 319 m in 5 s. What is its average speed?,31.9 m/s,1595 m/s,127.6 m/s,63.8 m/s,63.8 m/s
+10,Science,Physics,Hard,An object travels 263 m in 27 s. What is its average speed?,9.74074074074074 m/s,4.87037037037037 m/s,7101 m/s,19.48148148148148 m/s,9.74074074074074 m/s
+10,Science,Physics,Hard,An object travels 370 m in 47 s. What is its average speed?,15.74468085106383 m/s,3.9361702127659575 m/s,17390 m/s,7.872340425531915 m/s,7.872340425531915 m/s
+10,Science,Physics,Hard,An object travels 499 m in 35 s. What is its average speed?,14.257142857142858 m/s,7.128571428571429 m/s,28.514285714285716 m/s,17465 m/s,14.257142857142858 m/s
+10,Science,Physics,Hard,An object travels 46 m in 43 s. What is its average speed?,2.13953488372093 m/s,1.069767441860465 m/s,0.5348837209302325 m/s,1978 m/s,1.069767441860465 m/s
+10,Science,Physics,Hard,An object travels 457 m in 46 s. What is its average speed?,19.869565217391305 m/s,4.967391304347826 m/s,21022 m/s,9.934782608695652 m/s,9.934782608695652 m/s
+10,Science,Physics,Hard,An object of mass 12 kg accelerates at 7 m/s². What net force acts on it?,96 N,72 N,84 N,588 N,84 N
+10,Science,Physics,Hard,An object travels 130 m in 2 s. What is its average speed?,130.0 m/s,65.0 m/s,260 m/s,32.5 m/s,65.0 m/s
+10,Science,Physics,Hard,An object travels 284 m in 40 s. What is its average speed?,3.55 m/s,11360 m/s,14.2 m/s,7.1 m/s,7.1 m/s
+10,Science,Physics,Hard,An object travels 381 m in 24 s. What is its average speed?,31.75 m/s,15.875 m/s,7.9375 m/s,9144 m/s,15.875 m/s
+10,Science,Physics,Hard,An object travels 114 m in 49 s. What is its average speed?,1.163265306122449 m/s,4.653061224489796 m/s,2.326530612244898 m/s,5586 m/s,2.326530612244898 m/s
+10,Science,Physics,Hard,An object travels 481 m in 21 s. What is its average speed?,45.80952380952381 m/s,22.904761904761905 m/s,11.452380952380953 m/s,10101 m/s,22.904761904761905 m/s
+10,Science,Physics,Hard,An object of mass 12 kg accelerates at 10 m/s². What net force acts on it?,132 N,120 N,108 N,1200 N,120 N
+10,Science,Physics,Hard,An object travels 448 m in 45 s. What is its average speed?,20160 m/s,4.977777777777778 m/s,9.955555555555556 m/s,19.91111111111111 m/s,9.955555555555556 m/s
+10,Science,Physics,Hard,An object travels 161 m in 26 s. What is its average speed?,12.384615384615385 m/s,4186 m/s,6.1923076923076925 m/s,3.0961538461538463 m/s,6.1923076923076925 m/s
+10,Science,Physics,Hard,An object travels 153 m in 17 s. What is its average speed?,4.5 m/s,2601 m/s,18.0 m/s,9.0 m/s,9.0 m/s
+10,Science,Physics,Hard,An object travels 174 m in 23 s. What is its average speed?,15.130434782608695 m/s,7.565217391304348 m/s,3.782608695652174 m/s,4002 m/s,7.565217391304348 m/s
+10,Science,Physics,Hard,An object travels 292 m in 47 s. What is its average speed?,12.425531914893616 m/s,13724 m/s,3.106382978723404 m/s,6.212765957446808 m/s,6.212765957446808 m/s
+10,Science,Physics,Hard,An object travels 322 m in 18 s. What is its average speed?,35.77777777777778 m/s,5796 m/s,17.88888888888889 m/s,8.944444444444445 m/s,17.88888888888889 m/s
+10,Science,Physics,Hard,An object travels 368 m in 45 s. What is its average speed?,8.177777777777777 m/s,4.088888888888889 m/s,16560 m/s,16.355555555555554 m/s,8.177777777777777 m/s
+10,Science,Physics,Hard,An object of mass 14 kg accelerates at 2 m/s². What net force acts on it?,14 N,28 N,56 N,42 N,28 N
+10,Science,Physics,Hard,An object travels 477 m in 48 s. What is its average speed?,9.9375 m/s,19.875 m/s,22896 m/s,4.96875 m/s,9.9375 m/s
+10,Science,Physics,Hard,An object travels 147 m in 22 s. What is its average speed?,3.340909090909091 m/s,6.681818181818182 m/s,13.363636363636363 m/s,3234 m/s,6.681818181818182 m/s
+10,Science,Physics,Hard,An object travels 280 m in 48 s. What is its average speed?,5.833333333333333 m/s,11.666666666666666 m/s,2.9166666666666665 m/s,13440 m/s,5.833333333333333 m/s
+10,Science,Physics,Hard,An object travels 487 m in 31 s. What is its average speed?,15.709677419354838 m/s,31.419354838709676 m/s,15097 m/s,7.854838709677419 m/s,15.709677419354838 m/s
+10,Science,Physics,Hard,An object of mass 15 kg accelerates at 7 m/s². What net force acts on it?,105 N,90 N,735 N,120 N,105 N
+10,Science,Physics,Hard,An object travels 343 m in 9 s. What is its average speed?,76.22222222222223 m/s,38.111111111111114 m/s,3087 m/s,19.055555555555557 m/s,38.111111111111114 m/s
+10,Science,Physics,Hard,An object travels 239 m in 17 s. What is its average speed?,7.029411764705882 m/s,28.11764705882353 m/s,14.058823529411764 m/s,4063 m/s,14.058823529411764 m/s
+10,Science,Physics,Hard,An object travels 189 m in 5 s. What is its average speed?,945 m/s,18.9 m/s,37.8 m/s,75.6 m/s,37.8 m/s
+10,Science,Physics,Hard,An object travels 239 m in 41 s. What is its average speed?,9799 m/s,11.658536585365853 m/s,2.9146341463414633 m/s,5.829268292682927 m/s,5.829268292682927 m/s
+10,Science,Physics,Hard,An object travels 344 m in 6 s. What is its average speed?,114.66666666666667 m/s,57.333333333333336 m/s,28.666666666666668 m/s,2064 m/s,57.333333333333336 m/s
+10,Science,Physics,Hard,An object travels 90 m in 17 s. What is its average speed?,10.588235294117647 m/s,5.294117647058823 m/s,1530 m/s,2.6470588235294117 m/s,5.294117647058823 m/s
+10,Science,Physics,Hard,An object travels 161 m in 18 s. What is its average speed?,17.88888888888889 m/s,8.944444444444445 m/s,2898 m/s,4.472222222222222 m/s,8.944444444444445 m/s
+10,Science,Physics,Hard,An object travels 292 m in 33 s. What is its average speed?,9636 m/s,17.696969696969695 m/s,8.848484848484848 m/s,4.424242424242424 m/s,8.848484848484848 m/s
+10,Science,Physics,Hard,An object travels 101 m in 28 s. What is its average speed?,3.607142857142857 m/s,2828 m/s,7.214285714285714 m/s,1.8035714285714286 m/s,3.607142857142857 m/s
+10,Science,Physics,Hard,An object travels 50 m in 39 s. What is its average speed?,1950 m/s,0.6410256410256411 m/s,1.2820512820512822 m/s,2.5641025641025643 m/s,1.2820512820512822 m/s
+10,Science,Physics,Hard,An object of mass 4 kg accelerates at 4 m/s². What net force acts on it?,16 N,20 N,64 N,12 N,16 N
+10,Science,Physics,Hard,An object travels 421 m in 25 s. What is its average speed?,8.42 m/s,10525 m/s,33.68 m/s,16.84 m/s,16.84 m/s
+10,Science,Physics,Hard,An object of mass 13 kg accelerates at 6 m/s². What net force acts on it?,91 N,78 N,65 N,468 N,78 N
+10,Science,Physics,Hard,An object travels 314 m in 48 s. What is its average speed?,13.083333333333334 m/s,15072 m/s,3.2708333333333335 m/s,6.541666666666667 m/s,6.541666666666667 m/s
+10,Science,Physics,Hard,An object of mass 16 kg accelerates at 1 m/s². What net force acts on it?,Option 3,0 N,32 N,16 N,16 N
+10,Science,Physics,Hard,An object travels 239 m in 28 s. What is its average speed?,6692 m/s,4.267857142857143 m/s,17.071428571428573 m/s,8.535714285714286 m/s,8.535714285714286 m/s
+10,Science,Physics,Hard,An object travels 15 m in 37 s. What is its average speed?,0.8108108108108109 m/s,0.40540540540540543 m/s,0.20270270270270271 m/s,555 m/s,0.40540540540540543 m/s
+10,Science,Physics,Hard,An object travels 18 m in 7 s. What is its average speed?,2.5714285714285716 m/s,1.2857142857142858 m/s,5.142857142857143 m/s,126 m/s,2.5714285714285716 m/s
+10,Science,Physics,Hard,An object travels 487 m in 21 s. What is its average speed?,46.38095238095238 m/s,23.19047619047619 m/s,10227 m/s,11.595238095238095 m/s,23.19047619047619 m/s
+10,Science,Physics,Hard,An object travels 183 m in 20 s. What is its average speed?,3660 m/s,4.575 m/s,18.3 m/s,9.15 m/s,9.15 m/s
+10,Science,Physics,Hard,An object travels 124 m in 35 s. What is its average speed?,7.085714285714285 m/s,3.5428571428571427 m/s,4340 m/s,1.7714285714285714 m/s,3.5428571428571427 m/s
+10,Science,Physics,Hard,An object of mass 18 kg accelerates at 10 m/s². What net force acts on it?,162 N,1800 N,198 N,180 N,180 N
+10,Science,Physics,Hard,An object travels 443 m in 49 s. What is its average speed?,21707 m/s,4.520408163265306 m/s,18.081632653061224 m/s,9.040816326530612 m/s,9.040816326530612 m/s
+10,Science,Physics,Hard,An object travels 359 m in 17 s. What is its average speed?,21.11764705882353 m/s,10.558823529411764 m/s,6103 m/s,42.23529411764706 m/s,21.11764705882353 m/s
+10,Science,Physics,Hard,An object travels 325 m in 16 s. What is its average speed?,40.625 m/s,20.3125 m/s,5200 m/s,10.15625 m/s,20.3125 m/s
+10,Science,Physics,Hard,An object travels 328 m in 34 s. What is its average speed?,4.823529411764706 m/s,9.647058823529411 m/s,11152 m/s,19.294117647058822 m/s,9.647058823529411 m/s
+10,Science,Physics,Hard,An object travels 315 m in 40 s. What is its average speed?,15.75 m/s,7.875 m/s,3.9375 m/s,12600 m/s,7.875 m/s
+10,Science,Physics,Hard,An object travels 481 m in 3 s. What is its average speed?,80.16666666666667 m/s,160.33333333333334 m/s,320.6666666666667 m/s,1443 m/s,160.33333333333334 m/s
+10,Science,Physics,Hard,An object travels 112 m in 24 s. What is its average speed?,4.666666666666667 m/s,9.333333333333334 m/s,2688 m/s,2.3333333333333335 m/s,4.666666666666667 m/s
+10,Science,Physics,Hard,An object travels 463 m in 24 s. What is its average speed?,11112 m/s,9.645833333333334 m/s,38.583333333333336 m/s,19.291666666666668 m/s,19.291666666666668 m/s
+10,Science,Physics,Hard,An object travels 456 m in 19 s. What is its average speed?,48.0 m/s,12.0 m/s,24.0 m/s,8664 m/s,24.0 m/s
+10,Science,Physics,Hard,An object travels 237 m in 9 s. What is its average speed?,13.166666666666666 m/s,26.333333333333332 m/s,52.666666666666664 m/s,2133 m/s,26.333333333333332 m/s
+10,Science,Physics,Hard,An object travels 34 m in 10 s. What is its average speed?,6.8 m/s,3.4 m/s,340 m/s,1.7 m/s,3.4 m/s
+10,Science,Physics,Hard,An object travels 327 m in 38 s. What is its average speed?,17.210526315789473 m/s,12426 m/s,4.302631578947368 m/s,8.605263157894736 m/s,8.605263157894736 m/s
+10,Science,Physics,Hard,An object travels 51 m in 16 s. What is its average speed?,6.375 m/s,3.1875 m/s,1.59375 m/s,816 m/s,3.1875 m/s
+10,Science,Physics,Hard,An object travels 86 m in 47 s. What is its average speed?,0.9148936170212766 m/s,4042 m/s,3.6595744680851063 m/s,1.8297872340425532 m/s,1.8297872340425532 m/s
+10,Science,Physics,Hard,An object travels 437 m in 36 s. What is its average speed?,12.13888888888889 m/s,24.27777777777778 m/s,6.069444444444445 m/s,15732 m/s,12.13888888888889 m/s
+10,Science,Physics,Hard,An object travels 10 m in 7 s. What is its average speed?,70 m/s,2.857142857142857 m/s,0.7142857142857143 m/s,1.4285714285714286 m/s,1.4285714285714286 m/s
+10,Science,Physics,Hard,An object travels 366 m in 8 s. What is its average speed?,2928 m/s,22.875 m/s,45.75 m/s,91.5 m/s,45.75 m/s
+10,Science,Physics,Hard,An object travels 29 m in 7 s. What is its average speed?,2.0714285714285716 m/s,8.285714285714286 m/s,4.142857142857143 m/s,203 m/s,4.142857142857143 m/s
+10,Science,Physics,Hard,An object travels 338 m in 27 s. What is its average speed?,6.2592592592592595 m/s,12.518518518518519 m/s,9126 m/s,25.037037037037038 m/s,12.518518518518519 m/s
+10,Science,Physics,Hard,An object travels 94 m in 12 s. What is its average speed?,7.833333333333333 m/s,3.9166666666666665 m/s,1128 m/s,15.666666666666666 m/s,7.833333333333333 m/s
+10,Science,Physics,Hard,An object travels 132 m in 30 s. What is its average speed?,8.8 m/s,3960 m/s,4.4 m/s,2.2 m/s,4.4 m/s
+10,Science,Physics,Hard,An object travels 249 m in 30 s. What is its average speed?,8.3 m/s,4.15 m/s,16.6 m/s,7470 m/s,8.3 m/s
+10,Science,Physics,Hard,An object travels 193 m in 9 s. What is its average speed?,1737 m/s,42.888888888888886 m/s,10.722222222222221 m/s,21.444444444444443 m/s,21.444444444444443 m/s
+10,Science,Physics,Hard,An object travels 419 m in 22 s. What is its average speed?,9.522727272727273 m/s,19.045454545454547 m/s,9218 m/s,38.09090909090909 m/s,19.045454545454547 m/s
+10,Science,Physics,Hard,An object travels 215 m in 49 s. What is its average speed?,2.193877551020408 m/s,4.387755102040816 m/s,10535 m/s,8.775510204081632 m/s,4.387755102040816 m/s
+10,Science,Physics,Hard,An object travels 250 m in 7 s. What is its average speed?,71.42857142857143 m/s,1750 m/s,17.857142857142858 m/s,35.714285714285715 m/s,35.714285714285715 m/s
+10,Science,Physics,Hard,An object of mass 4 kg accelerates at 10 m/s². What net force acts on it?,40 N,36 N,400 N,44 N,40 N
+10,Science,Physics,Hard,An object travels 479 m in 19 s. What is its average speed?,12.605263157894736 m/s,50.421052631578945 m/s,25.210526315789473 m/s,9101 m/s,25.210526315789473 m/s
+10,Science,Physics,Hard,An object travels 115 m in 22 s. What is its average speed?,5.2272727272727275 m/s,2530 m/s,2.6136363636363638 m/s,10.454545454545455 m/s,5.2272727272727275 m/s
+10,Science,Physics,Hard,An object travels 289 m in 23 s. What is its average speed?,6647 m/s,25.130434782608695 m/s,12.565217391304348 m/s,6.282608695652174 m/s,12.565217391304348 m/s
+10,Science,Physics,Hard,An object travels 151 m in 36 s. What is its average speed?,2.0972222222222223 m/s,5436 m/s,4.194444444444445 m/s,8.38888888888889 m/s,4.194444444444445 m/s
+10,Science,Physics,Hard,An object travels 12 m in 39 s. What is its average speed?,468 m/s,0.3076923076923077 m/s,0.6153846153846154 m/s,0.15384615384615385 m/s,0.3076923076923077 m/s
+10,Science,Physics,Hard,An object travels 56 m in 44 s. What is its average speed?,2.5454545454545454 m/s,2464 m/s,1.2727272727272727 m/s,0.6363636363636364 m/s,1.2727272727272727 m/s
+10,Science,Physics,Hard,An object travels 203 m in 28 s. What is its average speed?,7.25 m/s,14.5 m/s,3.625 m/s,5684 m/s,7.25 m/s
+10,Science,Physics,Hard,An object travels 344 m in 10 s. What is its average speed?,34.4 m/s,68.8 m/s,17.2 m/s,3440 m/s,34.4 m/s
+10,Science,Physics,Hard,An object travels 22 m in 16 s. What is its average speed?,1.375 m/s,0.6875 m/s,352 m/s,2.75 m/s,1.375 m/s
+10,Science,Physics,Hard,An object travels 248 m in 26 s. What is its average speed?,19.076923076923077 m/s,4.769230769230769 m/s,9.538461538461538 m/s,6448 m/s,9.538461538461538 m/s
+10,Science,Physics,Hard,An object travels 28 m in 25 s. What is its average speed?,1.12 m/s,0.56 m/s,2.24 m/s,700 m/s,1.12 m/s
+10,Science,Physics,Hard,An object travels 189 m in 7 s. What is its average speed?,27.0 m/s,54.0 m/s,13.5 m/s,1323 m/s,27.0 m/s
+10,Science,Physics,Hard,An object travels 179 m in 49 s. What is its average speed?,3.6530612244897958 m/s,8771 m/s,1.8265306122448979 m/s,7.3061224489795915 m/s,3.6530612244897958 m/s
+10,Science,Physics,Hard,An object of mass 11 kg accelerates at 2 m/s². What net force acts on it?,44 N,22 N,33 N,11 N,22 N
+10,Science,Physics,Hard,An object travels 320 m in 45 s. What is its average speed?,7.111111111111111 m/s,3.5555555555555554 m/s,14400 m/s,14.222222222222221 m/s,7.111111111111111 m/s
+10,Science,Physics,Hard,An object travels 310 m in 2 s. What is its average speed?,310.0 m/s,155.0 m/s,77.5 m/s,620 m/s,155.0 m/s
+10,Science,Physics,Hard,An object travels 37 m in 33 s. What is its average speed?,0.5606060606060606 m/s,1221 m/s,1.121212121212121 m/s,2.242424242424242 m/s,1.121212121212121 m/s
+10,Science,Physics,Hard,An object travels 117 m in 31 s. What is its average speed?,3627 m/s,7.548387096774194 m/s,3.774193548387097 m/s,1.8870967741935485 m/s,3.774193548387097 m/s
+10,Science,Physics,Hard,An object travels 336 m in 25 s. What is its average speed?,6.72 m/s,8400 m/s,26.88 m/s,13.44 m/s,13.44 m/s
+10,Science,Physics,Hard,An object travels 414 m in 4 s. What is its average speed?,1656 m/s,207.0 m/s,103.5 m/s,51.75 m/s,103.5 m/s
+10,Science,Physics,Hard,An object travels 407 m in 37 s. What is its average speed?,15059 m/s,5.5 m/s,22.0 m/s,11.0 m/s,11.0 m/s
+10,Science,Physics,Hard,An object travels 101 m in 38 s. What is its average speed?,1.3289473684210527 m/s,2.6578947368421053 m/s,3838 m/s,5.315789473684211 m/s,2.6578947368421053 m/s
+10,Science,Physics,Hard,An object travels 372 m in 39 s. What is its average speed?,14508 m/s,9.538461538461538 m/s,4.769230769230769 m/s,19.076923076923077 m/s,9.538461538461538 m/s
+10,Science,Physics,Hard,An object travels 317 m in 13 s. What is its average speed?,24.384615384615383 m/s,48.76923076923077 m/s,12.192307692307692 m/s,4121 m/s,24.384615384615383 m/s
+10,Science,Physics,Hard,An object travels 335 m in 8 s. What is its average speed?,41.875 m/s,2680 m/s,83.75 m/s,20.9375 m/s,41.875 m/s
+10,Science,Physics,Hard,An object travels 324 m in 7 s. What is its average speed?,23.142857142857142 m/s,46.285714285714285 m/s,92.57142857142857 m/s,2268 m/s,46.285714285714285 m/s
+10,Science,Physics,Hard,An object travels 136 m in 39 s. What is its average speed?,3.4871794871794872 m/s,1.7435897435897436 m/s,6.9743589743589745 m/s,5304 m/s,3.4871794871794872 m/s
+10,Science,Physics,Hard,An object travels 416 m in 46 s. What is its average speed?,18.08695652173913 m/s,4.521739130434782 m/s,19136 m/s,9.043478260869565 m/s,9.043478260869565 m/s
+10,Science,Physics,Hard,An object travels 18 m in 27 s. What is its average speed?,1.3333333333333333 m/s,0.3333333333333333 m/s,0.6666666666666666 m/s,486 m/s,0.6666666666666666 m/s
+10,Science,Physics,Hard,An object travels 479 m in 39 s. What is its average speed?,12.282051282051283 m/s,18681 m/s,6.141025641025641 m/s,24.564102564102566 m/s,12.282051282051283 m/s
+10,Science,Physics,Hard,An object travels 275 m in 4 s. What is its average speed?,68.75 m/s,137.5 m/s,1100 m/s,34.375 m/s,68.75 m/s
+10,Science,Physics,Hard,An object travels 222 m in 14 s. What is its average speed?,7.928571428571429 m/s,31.714285714285715 m/s,15.857142857142858 m/s,3108 m/s,15.857142857142858 m/s
+10,Science,Physics,Hard,An object travels 242 m in 29 s. What is its average speed?,8.344827586206897 m/s,4.172413793103448 m/s,7018 m/s,16.689655172413794 m/s,8.344827586206897 m/s
+10,Science,Physics,Hard,An object travels 232 m in 11 s. What is its average speed?,2552 m/s,10.545454545454545 m/s,21.09090909090909 m/s,42.18181818181818 m/s,21.09090909090909 m/s
+10,Science,Physics,Hard,An object travels 173 m in 12 s. What is its average speed?,28.833333333333332 m/s,14.416666666666666 m/s,2076 m/s,7.208333333333333 m/s,14.416666666666666 m/s
+10,Science,Physics,Hard,An object travels 327 m in 29 s. What is its average speed?,5.637931034482759 m/s,22.551724137931036 m/s,11.275862068965518 m/s,9483 m/s,11.275862068965518 m/s
+10,Science,Physics,Hard,An object travels 376 m in 13 s. What is its average speed?,4888 m/s,14.461538461538462 m/s,28.923076923076923 m/s,57.84615384615385 m/s,28.923076923076923 m/s
+10,Science,Physics,Hard,An object travels 267 m in 3 s. What is its average speed?,44.5 m/s,178.0 m/s,89.0 m/s,801 m/s,89.0 m/s
+10,Science,Physics,Hard,An object travels 84 m in 1 s. What is its average speed?,42.0 m/s,84 m/s,168.0 m/s,84.0 m/s,84.0 m/s
+10,Science,Physics,Hard,An object travels 411 m in 10 s. What is its average speed?,41.1 m/s,4110 m/s,82.2 m/s,20.55 m/s,41.1 m/s
+10,Science,Physics,Hard,An object travels 84 m in 21 s. What is its average speed?,2.0 m/s,8.0 m/s,1764 m/s,4.0 m/s,4.0 m/s
+10,Science,Physics,Hard,An object travels 279 m in 12 s. What is its average speed?,3348 m/s,11.625 m/s,46.5 m/s,23.25 m/s,23.25 m/s
+10,Science,Physics,Hard,An object travels 47 m in 26 s. What is its average speed?,1.8076923076923077 m/s,0.9038461538461539 m/s,1222 m/s,3.6153846153846154 m/s,1.8076923076923077 m/s
+10,Science,Physics,Hard,An object travels 225 m in 1 s. What is its average speed?,225 m/s,225.0 m/s,450.0 m/s,112.5 m/s,225.0 m/s
+10,Science,Physics,Hard,An object travels 117 m in 44 s. What is its average speed?,1.3295454545454546 m/s,5148 m/s,5.318181818181818 m/s,2.659090909090909 m/s,2.659090909090909 m/s
+10,Science,Physics,Hard,An object of mass 14 kg accelerates at 9 m/s². What net force acts on it?,1134 N,126 N,140 N,112 N,126 N
+10,Science,Physics,Hard,An object travels 206 m in 1 s. What is its average speed?,103.0 m/s,206 m/s,412.0 m/s,206.0 m/s,206.0 m/s
+10,Science,Physics,Hard,An object travels 243 m in 22 s. What is its average speed?,5.5227272727272725 m/s,22.09090909090909 m/s,11.045454545454545 m/s,5346 m/s,11.045454545454545 m/s
+10,Science,Physics,Hard,An object travels 58 m in 21 s. What is its average speed?,1.380952380952381 m/s,1218 m/s,5.523809523809524 m/s,2.761904761904762 m/s,2.761904761904762 m/s
+10,Science,Physics,Hard,An object travels 281 m in 20 s. What is its average speed?,28.1 m/s,5620 m/s,7.025 m/s,14.05 m/s,14.05 m/s
+10,Science,Physics,Hard,An object travels 447 m in 36 s. What is its average speed?,24.833333333333332 m/s,12.416666666666666 m/s,16092 m/s,6.208333333333333 m/s,12.416666666666666 m/s
+10,Science,Physics,Hard,An object travels 421 m in 16 s. What is its average speed?,6736 m/s,52.625 m/s,13.15625 m/s,26.3125 m/s,26.3125 m/s
+10,Science,Physics,Hard,An object travels 164 m in 27 s. What is its average speed?,6.074074074074074 m/s,12.148148148148149 m/s,3.037037037037037 m/s,4428 m/s,6.074074074074074 m/s
+10,Science,Physics,Hard,An object travels 330 m in 50 s. What is its average speed?,16500 m/s,13.2 m/s,3.3 m/s,6.6 m/s,6.6 m/s
+10,Science,Physics,Hard,An object travels 495 m in 42 s. What is its average speed?,5.892857142857143 m/s,23.571428571428573 m/s,20790 m/s,11.785714285714286 m/s,11.785714285714286 m/s
+10,Science,Physics,Hard,An object travels 111 m in 12 s. What is its average speed?,1332 m/s,9.25 m/s,18.5 m/s,4.625 m/s,9.25 m/s
+10,Science,Physics,Hard,An object travels 45 m in 26 s. What is its average speed?,0.8653846153846154 m/s,1.7307692307692308 m/s,1170 m/s,3.4615384615384617 m/s,1.7307692307692308 m/s
+10,Science,Physics,Hard,An object travels 205 m in 49 s. What is its average speed?,8.36734693877551 m/s,4.183673469387755 m/s,2.0918367346938775 m/s,10045 m/s,4.183673469387755 m/s
+10,Science,Physics,Hard,An object travels 416 m in 34 s. What is its average speed?,12.235294117647058 m/s,6.117647058823529 m/s,24.470588235294116 m/s,14144 m/s,12.235294117647058 m/s
+10,Science,Physics,Hard,An object travels 497 m in 28 s. What is its average speed?,8.875 m/s,17.75 m/s,13916 m/s,35.5 m/s,17.75 m/s
+10,Science,Physics,Hard,An object travels 43 m in 33 s. What is its average speed?,0.6515151515151515 m/s,2.606060606060606 m/s,1419 m/s,1.303030303030303 m/s,1.303030303030303 m/s
+10,Science,Physics,Hard,An object travels 432 m in 1 s. What is its average speed?,432 m/s,864.0 m/s,432.0 m/s,216.0 m/s,432.0 m/s
+10,Science,Physics,Hard,An object travels 400 m in 24 s. What is its average speed?,9600 m/s,8.333333333333334 m/s,16.666666666666668 m/s,33.333333333333336 m/s,16.666666666666668 m/s
+10,Science,Physics,Hard,An object travels 392 m in 26 s. What is its average speed?,15.076923076923077 m/s,7.538461538461538 m/s,10192 m/s,30.153846153846153 m/s,15.076923076923077 m/s
+10,Science,Physics,Hard,An object travels 167 m in 17 s. What is its average speed?,2839 m/s,4.911764705882353 m/s,9.823529411764707 m/s,19.647058823529413 m/s,9.823529411764707 m/s
+10,Science,Physics,Hard,An object travels 152 m in 41 s. What is its average speed?,1.853658536585366 m/s,7.414634146341464 m/s,6232 m/s,3.707317073170732 m/s,3.707317073170732 m/s
+10,Science,Physics,Hard,An object travels 208 m in 47 s. What is its average speed?,8.851063829787234 m/s,2.2127659574468086 m/s,4.425531914893617 m/s,9776 m/s,4.425531914893617 m/s
+10,Science,Physics,Hard,An object travels 233 m in 3 s. What is its average speed?,699 m/s,77.66666666666667 m/s,155.33333333333334 m/s,38.833333333333336 m/s,77.66666666666667 m/s
+10,Science,Physics,Hard,An object travels 30 m in 30 s. What is its average speed?,1.0 m/s,2.0 m/s,900 m/s,0.5 m/s,1.0 m/s
+10,Science,Physics,Hard,An object travels 378 m in 5 s. What is its average speed?,151.2 m/s,75.6 m/s,37.8 m/s,1890 m/s,75.6 m/s
+10,Science,Physics,Hard,An object travels 242 m in 37 s. What is its average speed?,6.54054054054054 m/s,3.27027027027027 m/s,13.08108108108108 m/s,8954 m/s,6.54054054054054 m/s
+10,Science,Physics,Hard,An object travels 365 m in 16 s. What is its average speed?,5840 m/s,45.625 m/s,11.40625 m/s,22.8125 m/s,22.8125 m/s
+10,Science,Physics,Hard,An object of mass 7 kg accelerates at 6 m/s². What net force acts on it?,252 N,35 N,42 N,49 N,42 N
+10,Science,Physics,Hard,An object travels 39 m in 17 s. What is its average speed?,2.2941176470588234 m/s,1.1470588235294117 m/s,4.588235294117647 m/s,663 m/s,2.2941176470588234 m/s
+10,Science,Physics,Hard,An object travels 122 m in 31 s. What is its average speed?,7.870967741935484 m/s,3782 m/s,3.935483870967742 m/s,1.967741935483871 m/s,3.935483870967742 m/s
+10,Science,Physics,Hard,An object travels 430 m in 31 s. What is its average speed?,13330 m/s,6.935483870967742 m/s,13.870967741935484 m/s,27.741935483870968 m/s,13.870967741935484 m/s
+10,Science,Physics,Hard,An object travels 190 m in 17 s. What is its average speed?,11.176470588235293 m/s,5.588235294117647 m/s,3230 m/s,22.352941176470587 m/s,11.176470588235293 m/s
+10,Science,Physics,Hard,An object travels 216 m in 43 s. What is its average speed?,10.046511627906977 m/s,9288 m/s,2.511627906976744 m/s,5.023255813953488 m/s,5.023255813953488 m/s
+10,Science,Physics,Hard,An object travels 123 m in 46 s. What is its average speed?,1.3369565217391304 m/s,2.6739130434782608 m/s,5658 m/s,5.3478260869565215 m/s,2.6739130434782608 m/s
+10,Science,Physics,Hard,An object travels 185 m in 27 s. What is its average speed?,4995 m/s,3.425925925925926 m/s,13.703703703703704 m/s,6.851851851851852 m/s,6.851851851851852 m/s
+10,Science,Physics,Hard,An object travels 299 m in 48 s. What is its average speed?,3.1145833333333335 m/s,6.229166666666667 m/s,14352 m/s,12.458333333333334 m/s,6.229166666666667 m/s
+10,Science,Physics,Hard,An object travels 55 m in 48 s. What is its average speed?,1.1458333333333333 m/s,0.5729166666666666 m/s,2640 m/s,2.2916666666666665 m/s,1.1458333333333333 m/s
+10,Science,Physics,Hard,An object travels 216 m in 4 s. What is its average speed?,54.0 m/s,108.0 m/s,864 m/s,27.0 m/s,54.0 m/s
+10,Science,Physics,Hard,An object travels 412 m in 8 s. What is its average speed?,51.5 m/s,3296 m/s,103.0 m/s,25.75 m/s,51.5 m/s
+10,Science,Physics,Hard,An object travels 496 m in 8 s. What is its average speed?,124.0 m/s,3968 m/s,62.0 m/s,31.0 m/s,62.0 m/s
+10,Science,Physics,Hard,An object travels 192 m in 41 s. What is its average speed?,2.341463414634146 m/s,7872 m/s,9.365853658536585 m/s,4.682926829268292 m/s,4.682926829268292 m/s
+10,Science,Physics,Hard,An object of mass 6 kg accelerates at 7 m/s². What net force acts on it?,48 N,36 N,42 N,294 N,42 N
+10,Science,Physics,Hard,An object travels 376 m in 25 s. What is its average speed?,7.52 m/s,9400 m/s,30.08 m/s,15.04 m/s,15.04 m/s
+10,Science,Physics,Hard,An object travels 85 m in 45 s. What is its average speed?,3.7777777777777777 m/s,1.8888888888888888 m/s,3825 m/s,0.9444444444444444 m/s,1.8888888888888888 m/s
+10,Science,Physics,Hard,An object travels 163 m in 18 s. What is its average speed?,4.527777777777778 m/s,9.055555555555555 m/s,18.11111111111111 m/s,2934 m/s,9.055555555555555 m/s
+10,Science,Physics,Hard,An object travels 469 m in 43 s. What is its average speed?,10.906976744186046 m/s,21.813953488372093 m/s,20167 m/s,5.453488372093023 m/s,10.906976744186046 m/s
+10,Science,Physics,Hard,An object travels 72 m in 13 s. What is its average speed?,5.538461538461538 m/s,2.769230769230769 m/s,936 m/s,11.076923076923077 m/s,5.538461538461538 m/s
+10,Science,Physics,Hard,An object travels 336 m in 15 s. What is its average speed?,22.4 m/s,5040 m/s,44.8 m/s,11.2 m/s,22.4 m/s
+10,Science,Physics,Hard,An object travels 180 m in 39 s. What is its average speed?,7020 m/s,2.3076923076923075 m/s,9.23076923076923 m/s,4.615384615384615 m/s,4.615384615384615 m/s
+10,Science,Physics,Hard,An object travels 81 m in 20 s. What is its average speed?,4.05 m/s,8.1 m/s,1620 m/s,2.025 m/s,4.05 m/s
+10,Science,Physics,Hard,An object travels 26 m in 6 s. What is its average speed?,8.666666666666666 m/s,4.333333333333333 m/s,2.1666666666666665 m/s,156 m/s,4.333333333333333 m/s
+10,Science,Physics,Hard,An object travels 130 m in 29 s. What is its average speed?,3770 m/s,8.96551724137931 m/s,2.2413793103448274 m/s,4.482758620689655 m/s,4.482758620689655 m/s
+10,Science,Physics,Hard,An object travels 328 m in 36 s. What is its average speed?,11808 m/s,9.11111111111111 m/s,4.555555555555555 m/s,18.22222222222222 m/s,9.11111111111111 m/s
+10,Science,Physics,Hard,An object of mass 9 kg accelerates at 3 m/s². What net force acts on it?,27 N,18 N,36 N,81 N,27 N
+10,Science,Physics,Hard,An object travels 66 m in 3 s. What is its average speed?,11.0 m/s,22.0 m/s,198 m/s,44.0 m/s,22.0 m/s
+10,Science,Physics,Hard,An object travels 336 m in 21 s. What is its average speed?,8.0 m/s,7056 m/s,32.0 m/s,16.0 m/s,16.0 m/s
+10,Science,Physics,Hard,An object travels 387 m in 27 s. What is its average speed?,10449 m/s,28.666666666666668 m/s,7.166666666666667 m/s,14.333333333333334 m/s,14.333333333333334 m/s
+10,Science,Physics,Hard,An object travels 439 m in 30 s. What is its average speed?,7.316666666666666 m/s,14.633333333333333 m/s,29.266666666666666 m/s,13170 m/s,14.633333333333333 m/s
+10,Science,Physics,Hard,An object travels 124 m in 32 s. What is its average speed?,7.75 m/s,3968 m/s,3.875 m/s,1.9375 m/s,3.875 m/s
+10,Science,Physics,Hard,An object travels 103 m in 25 s. What is its average speed?,2575 m/s,8.24 m/s,2.06 m/s,4.12 m/s,4.12 m/s
+10,Science,Physics,Hard,An object travels 83 m in 15 s. What is its average speed?,11.066666666666666 m/s,2.7666666666666666 m/s,5.533333333333333 m/s,1245 m/s,5.533333333333333 m/s
+10,Science,Physics,Hard,An object travels 275 m in 7 s. What is its average speed?,39.285714285714285 m/s,1925 m/s,19.642857142857142 m/s,78.57142857142857 m/s,39.285714285714285 m/s
+10,Science,Physics,Hard,An object travels 485 m in 41 s. What is its average speed?,5.914634146341464 m/s,19885 m/s,11.829268292682928 m/s,23.658536585365855 m/s,11.829268292682928 m/s
+10,Science,Physics,Hard,An object travels 31 m in 50 s. What is its average speed?,0.31 m/s,0.62 m/s,1550 m/s,1.24 m/s,0.62 m/s
+10,Science,Physics,Hard,An object travels 136 m in 31 s. What is its average speed?,4216 m/s,4.387096774193548 m/s,2.193548387096774 m/s,8.774193548387096 m/s,4.387096774193548 m/s
+10,Science,Physics,Hard,An object travels 134 m in 6 s. What is its average speed?,44.666666666666664 m/s,22.333333333333332 m/s,804 m/s,11.166666666666666 m/s,22.333333333333332 m/s
+10,Science,Physics,Hard,An object travels 323 m in 7 s. What is its average speed?,92.28571428571429 m/s,23.071428571428573 m/s,46.142857142857146 m/s,2261 m/s,46.142857142857146 m/s
+10,Science,Physics,Hard,An object travels 129 m in 29 s. What is its average speed?,2.2241379310344827 m/s,4.448275862068965 m/s,8.89655172413793 m/s,3741 m/s,4.448275862068965 m/s
+10,Science,Physics,Hard,An object travels 484 m in 37 s. What is its average speed?,17908 m/s,6.54054054054054 m/s,26.16216216216216 m/s,13.08108108108108 m/s,13.08108108108108 m/s
+10,Science,Physics,Hard,An object travels 135 m in 48 s. What is its average speed?,5.625 m/s,6480 m/s,1.40625 m/s,2.8125 m/s,2.8125 m/s
+10,Science,Physics,Hard,An object travels 222 m in 35 s. What is its average speed?,6.3428571428571425 m/s,7770 m/s,3.1714285714285713 m/s,12.685714285714285 m/s,6.3428571428571425 m/s
+10,Science,Physics,Hard,An object of mass 13 kg accelerates at 7 m/s². What net force acts on it?,104 N,78 N,91 N,637 N,91 N
+10,Science,Physics,Hard,An object travels 30 m in 27 s. What is its average speed?,810 m/s,2.2222222222222223 m/s,1.1111111111111112 m/s,0.5555555555555556 m/s,1.1111111111111112 m/s
+10,Science,Physics,Hard,An object travels 343 m in 32 s. What is its average speed?,5.359375 m/s,10976 m/s,21.4375 m/s,10.71875 m/s,10.71875 m/s
+10,Science,Physics,Hard,An object travels 152 m in 17 s. What is its average speed?,17.88235294117647 m/s,4.470588235294118 m/s,8.941176470588236 m/s,2584 m/s,8.941176470588236 m/s
+10,Science,Physics,Hard,An object travels 24 m in 32 s. What is its average speed?,0.375 m/s,768 m/s,0.75 m/s,1.5 m/s,0.75 m/s
+10,Science,Physics,Hard,An object travels 449 m in 3 s. What is its average speed?,299.3333333333333 m/s,1347 m/s,149.66666666666666 m/s,74.83333333333333 m/s,149.66666666666666 m/s
+10,Science,Physics,Hard,An object travels 317 m in 38 s. What is its average speed?,4.171052631578948 m/s,8.342105263157896 m/s,12046 m/s,16.68421052631579 m/s,8.342105263157896 m/s
+10,Science,Physics,Hard,An object travels 100 m in 42 s. What is its average speed?,4200 m/s,2.380952380952381 m/s,1.1904761904761905 m/s,4.761904761904762 m/s,2.380952380952381 m/s
+10,Science,Physics,Hard,An object of mass 4 kg accelerates at 7 m/s². What net force acts on it?,24 N,28 N,32 N,196 N,28 N
+10,Science,Physics,Hard,An object travels 131 m in 1 s. What is its average speed?,65.5 m/s,262.0 m/s,131 m/s,131.0 m/s,131.0 m/s
+10,Science,Physics,Hard,An object travels 64 m in 33 s. What is its average speed?,1.9393939393939394 m/s,0.9696969696969697 m/s,2112 m/s,3.878787878787879 m/s,1.9393939393939394 m/s
+10,Science,Physics,Hard,An object travels 480 m in 39 s. What is its average speed?,6.153846153846154 m/s,12.307692307692308 m/s,24.615384615384617 m/s,18720 m/s,12.307692307692308 m/s
+10,Science,Physics,Hard,An object travels 297 m in 25 s. What is its average speed?,7425 m/s,5.94 m/s,23.76 m/s,11.88 m/s,11.88 m/s
+10,Science,Physics,Hard,An object travels 97 m in 18 s. What is its average speed?,1746 m/s,10.777777777777779 m/s,2.6944444444444446 m/s,5.388888888888889 m/s,5.388888888888889 m/s
+10,Science,Physics,Hard,An object travels 61 m in 6 s. What is its average speed?,366 m/s,5.083333333333333 m/s,20.333333333333332 m/s,10.166666666666666 m/s,10.166666666666666 m/s
+10,Science,Physics,Hard,An object travels 153 m in 5 s. What is its average speed?,15.3 m/s,30.6 m/s,61.2 m/s,765 m/s,30.6 m/s
+10,Science,Physics,Hard,An object travels 353 m in 13 s. What is its average speed?,13.576923076923077 m/s,4589 m/s,54.30769230769231 m/s,27.153846153846153 m/s,27.153846153846153 m/s
+10,Science,Physics,Hard,An object travels 80 m in 16 s. What is its average speed?,5.0 m/s,2.5 m/s,1280 m/s,10.0 m/s,5.0 m/s
+10,Science,Physics,Hard,An object travels 485 m in 25 s. What is its average speed?,19.4 m/s,9.7 m/s,12125 m/s,38.8 m/s,19.4 m/s
+10,Science,Physics,Hard,An object travels 325 m in 25 s. What is its average speed?,26.0 m/s,6.5 m/s,8125 m/s,13.0 m/s,13.0 m/s
+10,Science,Physics,Hard,An object travels 241 m in 25 s. What is its average speed?,6025 m/s,4.82 m/s,19.28 m/s,9.64 m/s,9.64 m/s
+10,Science,Physics,Hard,An object travels 19 m in 14 s. What is its average speed?,0.6785714285714286 m/s,1.3571428571428572 m/s,2.7142857142857144 m/s,266 m/s,1.3571428571428572 m/s
+10,Science,Physics,Hard,An object travels 143 m in 38 s. What is its average speed?,7.526315789473684 m/s,5434 m/s,3.763157894736842 m/s,1.881578947368421 m/s,3.763157894736842 m/s
+10,Science,Physics,Hard,An object travels 21 m in 39 s. What is its average speed?,0.5384615384615384 m/s,819 m/s,0.2692307692307692 m/s,1.0769230769230769 m/s,0.5384615384615384 m/s
+10,Science,Physics,Hard,An object travels 234 m in 12 s. What is its average speed?,39.0 m/s,19.5 m/s,9.75 m/s,2808 m/s,19.5 m/s
+10,Science,Physics,Hard,An object travels 320 m in 49 s. What is its average speed?,3.2653061224489797 m/s,15680 m/s,13.061224489795919 m/s,6.530612244897959 m/s,6.530612244897959 m/s
+10,Science,Physics,Hard,An object travels 344 m in 39 s. What is its average speed?,13416 m/s,8.820512820512821 m/s,17.641025641025642 m/s,4.410256410256411 m/s,8.820512820512821 m/s
+10,Science,Physics,Hard,An object travels 261 m in 20 s. What is its average speed?,26.1 m/s,13.05 m/s,6.525 m/s,5220 m/s,13.05 m/s
+10,Science,Physics,Hard,An object travels 300 m in 6 s. What is its average speed?,100.0 m/s,1800 m/s,25.0 m/s,50.0 m/s,50.0 m/s
+10,Science,Physics,Hard,An object travels 483 m in 13 s. What is its average speed?,6279 m/s,74.3076923076923 m/s,18.576923076923077 m/s,37.15384615384615 m/s,37.15384615384615 m/s
+10,Science,Physics,Hard,An object travels 63 m in 11 s. What is its average speed?,5.7272727272727275 m/s,2.8636363636363638 m/s,11.454545454545455 m/s,693 m/s,5.7272727272727275 m/s
+10,Science,Physics,Hard,An object of mass 10 kg accelerates at 2 m/s². What net force acts on it?,10 N,20 N,40 N,30 N,20 N
+10,Science,Physics,Hard,An object travels 241 m in 24 s. What is its average speed?,10.041666666666666 m/s,5784 m/s,5.020833333333333 m/s,20.083333333333332 m/s,10.041666666666666 m/s
+10,Science,Physics,Hard,An object travels 383 m in 22 s. What is its average speed?,8426 m/s,8.704545454545455 m/s,34.81818181818182 m/s,17.40909090909091 m/s,17.40909090909091 m/s
+10,Science,Physics,Hard,An object travels 165 m in 1 s. What is its average speed?,82.5 m/s,165.0 m/s,330.0 m/s,165 m/s,165.0 m/s
+10,Science,Physics,Hard,An object of mass 8 kg accelerates at 7 m/s². What net force acts on it?,392 N,64 N,56 N,48 N,56 N
+10,Science,Physics,Hard,An object travels 167 m in 13 s. What is its average speed?,12.846153846153847 m/s,6.423076923076923 m/s,25.692307692307693 m/s,2171 m/s,12.846153846153847 m/s
+10,Science,Physics,Hard,An object travels 82 m in 36 s. What is its average speed?,1.1388888888888888 m/s,4.555555555555555 m/s,2.2777777777777777 m/s,2952 m/s,2.2777777777777777 m/s
+10,Science,Physics,Hard,An object travels 499 m in 21 s. What is its average speed?,10479 m/s,11.880952380952381 m/s,23.761904761904763 m/s,47.523809523809526 m/s,23.761904761904763 m/s
+10,Science,Physics,Hard,An object travels 255 m in 45 s. What is its average speed?,11475 m/s,2.8333333333333335 m/s,11.333333333333334 m/s,5.666666666666667 m/s,5.666666666666667 m/s
+10,Science,Physics,Hard,An object travels 476 m in 12 s. What is its average speed?,19.833333333333332 m/s,5712 m/s,79.33333333333333 m/s,39.666666666666664 m/s,39.666666666666664 m/s
+10,Science,Physics,Hard,An object travels 434 m in 22 s. What is its average speed?,19.727272727272727 m/s,39.45454545454545 m/s,9.863636363636363 m/s,9548 m/s,19.727272727272727 m/s
+10,Science,Physics,Hard,An object travels 250 m in 45 s. What is its average speed?,11250 m/s,2.7777777777777777 m/s,11.11111111111111 m/s,5.555555555555555 m/s,5.555555555555555 m/s
+10,Science,Physics,Hard,An object travels 115 m in 41 s. What is its average speed?,2.8048780487804876 m/s,5.609756097560975 m/s,1.4024390243902438 m/s,4715 m/s,2.8048780487804876 m/s
+10,Science,Physics,Hard,An object travels 263 m in 8 s. What is its average speed?,16.4375 m/s,2104 m/s,32.875 m/s,65.75 m/s,32.875 m/s
+10,Science,Physics,Hard,An object travels 117 m in 38 s. What is its average speed?,6.157894736842105 m/s,4446 m/s,1.5394736842105263 m/s,3.0789473684210527 m/s,3.0789473684210527 m/s
+10,Science,Physics,Hard,An object travels 349 m in 30 s. What is its average speed?,10470 m/s,5.816666666666666 m/s,23.266666666666666 m/s,11.633333333333333 m/s,11.633333333333333 m/s
+10,Science,Physics,Hard,An object travels 109 m in 14 s. What is its average speed?,15.571428571428571 m/s,1526 m/s,7.785714285714286 m/s,3.892857142857143 m/s,7.785714285714286 m/s
+10,Science,Physics,Hard,An object travels 244 m in 44 s. What is its average speed?,5.545454545454546 m/s,2.772727272727273 m/s,10736 m/s,11.090909090909092 m/s,5.545454545454546 m/s
+10,Science,Physics,Hard,An object travels 382 m in 26 s. What is its average speed?,9932 m/s,7.346153846153846 m/s,29.384615384615383 m/s,14.692307692307692 m/s,14.692307692307692 m/s
+10,Science,Physics,Hard,An object travels 89 m in 14 s. What is its average speed?,3.1785714285714284 m/s,12.714285714285714 m/s,1246 m/s,6.357142857142857 m/s,6.357142857142857 m/s
+10,Science,Physics,Hard,An object of mass 20 kg accelerates at 2 m/s². What net force acts on it?,80 N,60 N,40 N,20 N,40 N
+10,Science,Physics,Hard,An object travels 100 m in 32 s. What is its average speed?,3200 m/s,6.25 m/s,3.125 m/s,1.5625 m/s,3.125 m/s
+10,Science,Physics,Hard,An object travels 68 m in 45 s. What is its average speed?,0.7555555555555555 m/s,3060 m/s,3.022222222222222 m/s,1.511111111111111 m/s,1.511111111111111 m/s
+10,Science,Physics,Hard,An object travels 413 m in 40 s. What is its average speed?,10.325 m/s,16520 m/s,20.65 m/s,5.1625 m/s,10.325 m/s
+10,Science,Physics,Hard,An object travels 415 m in 24 s. What is its average speed?,9960 m/s,17.291666666666668 m/s,8.645833333333334 m/s,34.583333333333336 m/s,17.291666666666668 m/s
+10,Science,Physics,Hard,An object travels 235 m in 36 s. What is its average speed?,6.527777777777778 m/s,13.055555555555555 m/s,8460 m/s,3.263888888888889 m/s,6.527777777777778 m/s
+10,Science,Physics,Hard,An object travels 170 m in 8 s. What is its average speed?,10.625 m/s,42.5 m/s,1360 m/s,21.25 m/s,21.25 m/s
+10,Science,Physics,Hard,An object travels 238 m in 17 s. What is its average speed?,4046 m/s,14.0 m/s,7.0 m/s,28.0 m/s,14.0 m/s
+10,Science,Physics,Hard,An object travels 488 m in 11 s. What is its average speed?,22.181818181818183 m/s,44.36363636363637 m/s,5368 m/s,88.72727272727273 m/s,44.36363636363637 m/s
+10,Science,Physics,Hard,An object travels 142 m in 34 s. What is its average speed?,2.088235294117647 m/s,4.176470588235294 m/s,4828 m/s,8.352941176470589 m/s,4.176470588235294 m/s
+10,Science,Physics,Hard,An object travels 411 m in 48 s. What is its average speed?,4.28125 m/s,8.5625 m/s,17.125 m/s,19728 m/s,8.5625 m/s
+10,Science,Physics,Hard,An object of mass 11 kg accelerates at 5 m/s². What net force acts on it?,66 N,275 N,55 N,44 N,55 N
+10,Science,Physics,Hard,An object travels 294 m in 7 s. What is its average speed?,21.0 m/s,84.0 m/s,2058 m/s,42.0 m/s,42.0 m/s
+10,Science,Physics,Hard,An object travels 432 m in 18 s. What is its average speed?,7776 m/s,12.0 m/s,24.0 m/s,48.0 m/s,24.0 m/s
+10,Science,Physics,Hard,An object travels 306 m in 50 s. What is its average speed?,3.06 m/s,12.24 m/s,6.12 m/s,15300 m/s,6.12 m/s
+10,Science,Physics,Hard,An object travels 170 m in 48 s. What is its average speed?,3.5416666666666665 m/s,8160 m/s,7.083333333333333 m/s,1.7708333333333333 m/s,3.5416666666666665 m/s
+10,Science,Physics,Hard,An object travels 352 m in 19 s. What is its average speed?,9.263157894736842 m/s,6688 m/s,18.526315789473685 m/s,37.05263157894737 m/s,18.526315789473685 m/s
+10,Science,Physics,Hard,An object travels 376 m in 9 s. What is its average speed?,41.77777777777778 m/s,3384 m/s,20.88888888888889 m/s,83.55555555555556 m/s,41.77777777777778 m/s
+10,Science,Physics,Hard,An object travels 41 m in 6 s. What is its average speed?,246 m/s,13.666666666666666 m/s,3.4166666666666665 m/s,6.833333333333333 m/s,6.833333333333333 m/s
+10,Science,Physics,Hard,An object travels 364 m in 21 s. What is its average speed?,34.666666666666664 m/s,8.666666666666666 m/s,17.333333333333332 m/s,7644 m/s,17.333333333333332 m/s
+10,Science,Physics,Hard,An object travels 358 m in 32 s. What is its average speed?,22.375 m/s,11.1875 m/s,11456 m/s,5.59375 m/s,11.1875 m/s
+10,Science,Physics,Hard,An object travels 424 m in 24 s. What is its average speed?,8.833333333333334 m/s,10176 m/s,35.333333333333336 m/s,17.666666666666668 m/s,17.666666666666668 m/s
+10,Science,Physics,Hard,An object travels 95 m in 31 s. What is its average speed?,3.064516129032258 m/s,2945 m/s,1.532258064516129 m/s,6.129032258064516 m/s,3.064516129032258 m/s
+10,Science,Physics,Hard,An object travels 328 m in 28 s. What is its average speed?,5.857142857142857 m/s,9184 m/s,11.714285714285714 m/s,23.428571428571427 m/s,11.714285714285714 m/s
+10,Science,Physics,Hard,An object travels 291 m in 47 s. What is its average speed?,3.095744680851064 m/s,12.382978723404255 m/s,13677 m/s,6.191489361702128 m/s,6.191489361702128 m/s
+10,Science,Physics,Hard,An object travels 286 m in 49 s. What is its average speed?,11.673469387755102 m/s,2.9183673469387754 m/s,5.836734693877551 m/s,14014 m/s,5.836734693877551 m/s
+10,Science,Physics,Hard,An object travels 262 m in 1 s. What is its average speed?,524.0 m/s,262 m/s,262.0 m/s,131.0 m/s,262.0 m/s
+10,Science,Physics,Hard,An object travels 306 m in 9 s. What is its average speed?,17.0 m/s,2754 m/s,34.0 m/s,68.0 m/s,34.0 m/s
+10,Science,Physics,Hard,An object travels 107 m in 25 s. What is its average speed?,2.14 m/s,8.56 m/s,4.28 m/s,2675 m/s,4.28 m/s
+10,Science,Physics,Hard,An object travels 181 m in 7 s. What is its average speed?,25.857142857142858 m/s,12.928571428571429 m/s,51.714285714285715 m/s,1267 m/s,25.857142857142858 m/s
+10,Science,Physics,Hard,An object travels 439 m in 16 s. What is its average speed?,54.875 m/s,7024 m/s,13.71875 m/s,27.4375 m/s,27.4375 m/s
+10,Science,Physics,Hard,An object travels 116 m in 15 s. What is its average speed?,15.466666666666667 m/s,3.8666666666666667 m/s,7.733333333333333 m/s,1740 m/s,7.733333333333333 m/s
+10,Science,Physics,Hard,An object travels 437 m in 30 s. What is its average speed?,7.283333333333333 m/s,14.566666666666666 m/s,29.133333333333333 m/s,13110 m/s,14.566666666666666 m/s
+10,Science,Physics,Hard,An object travels 281 m in 36 s. What is its average speed?,15.61111111111111 m/s,10116 m/s,7.805555555555555 m/s,3.9027777777777777 m/s,7.805555555555555 m/s
+10,Science,Physics,Hard,An object travels 358 m in 36 s. What is its average speed?,19.88888888888889 m/s,9.944444444444445 m/s,12888 m/s,4.972222222222222 m/s,9.944444444444445 m/s
+10,Science,Physics,Hard,An object travels 312 m in 21 s. What is its average speed?,7.428571428571429 m/s,14.857142857142858 m/s,29.714285714285715 m/s,6552 m/s,14.857142857142858 m/s
+10,Science,Physics,Hard,An object travels 282 m in 15 s. What is its average speed?,4230 m/s,9.4 m/s,37.6 m/s,18.8 m/s,18.8 m/s
+10,Science,Physics,Hard,An object travels 118 m in 28 s. What is its average speed?,2.107142857142857 m/s,8.428571428571429 m/s,3304 m/s,4.214285714285714 m/s,4.214285714285714 m/s
+10,Science,Physics,Hard,An object travels 429 m in 35 s. What is its average speed?,12.257142857142858 m/s,15015 m/s,6.128571428571429 m/s,24.514285714285716 m/s,12.257142857142858 m/s
+10,Science,Physics,Hard,An object travels 390 m in 20 s. What is its average speed?,39.0 m/s,19.5 m/s,7800 m/s,9.75 m/s,19.5 m/s

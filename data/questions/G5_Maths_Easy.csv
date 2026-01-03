@@ -1,0 +1,1001 @@
+Grade,Subject,Topic,Difficulty,Question,A,B,C,D,Correct Answer
+5,Maths,Whole Number Operations,Easy,"What is 4,235 + 2,168?","6,303","6,403","6,503","6,603","6,403"
+5,Maths,Multiplication,Easy,What is 12 × 6?,60,66,72,78,72
+5,Maths,Division,Easy,What is 45 ÷ 5?,7,8,9,10,9
+5,Maths,Fractions,Easy,Which fraction is equal to 1/2?,2/3,3/6,4/8,Both B and C,Both B and C
+5,Maths,Whole Number Operations,Easy,"What is 7,000 − 2,845?","4,055","4,155","4,255","4,355","4,155"
+5,Maths,Division,Easy,What is 36 ÷ 4?,7,8,9,10,9
+5,Maths,Fractions,Easy,Which is greater?,1/3,1/4,Equal,Cannot tell,1/3
+5,Maths,Multiplication,Easy,What is 9 × 8?,64,72,81,90,72
+5,Maths,Division,Easy,Compute: 6 × 14,70,94,90,84,84
+5,Maths,Fractions,Easy,Compute: 4 × 9,46,27,40,36,36
+5,Maths,Fractions,Easy,Compute: 125 - 58,57,77,68,67,67
+5,Maths,Fractions,Easy,Compute: 70 ÷ 7,9,12,10,11,10
+5,Maths,Fractions,Easy,Compute: 153 - 113,40,41,50,30,40
+5,Maths,Division,Easy,Compute: 9 × 14,136,135,126,112,126
+5,Maths,Multiplication,Easy,Compute: 20 ÷ 2,12,9,11,10,10
+5,Maths,Multiplication,Easy,Compute: 126 - 49,87,67,78,77,77
+5,Maths,Multiplication,Easy,Compute: 8 × 4,28,32,42,40,32
+5,Maths,Fractions,Easy,Compute: 127 - 68,49,59,69,60,59
+5,Maths,Fractions,Easy,Compute: 39 + 83,132,112,122,123,122
+5,Maths,Fractions,Easy,Compute: 154 + 143,287,307,298,297,297
+5,Maths,Whole Number Operations,Easy,Compute: 98 - 78,21,20,10,30,20
+5,Maths,Fractions,Easy,Compute: 96 ÷ 8,12,11,14,13,12
+5,Maths,Fractions,Easy,Compute: 67 + 157,214,224,234,225,224
+5,Maths,Division,Easy,Compute: 168 - 129,49,29,40,39,39
+5,Maths,Division,Easy,Compute: 14 × 4,56,66,52,70,56
+5,Maths,Whole Number Operations,Easy,Compute: 2 × 9,9,20,28,18,18
+5,Maths,Fractions,Easy,Compute: 195 ÷ 15,15,12,13,14,13
+5,Maths,Multiplication,Easy,Compute: 104 ÷ 8,12,15,14,13,13
+5,Maths,Fractions,Easy,Compute: 192 - 83,119,109,99,110,109
+5,Maths,Fractions,Easy,Compute: 2 × 13,36,26,28,13,26
+5,Maths,Division,Easy,Compute: 187 - 181,7,0,16,6,6
+5,Maths,Fractions,Easy,Compute: 113 + 154,277,257,268,267,267
+5,Maths,Fractions,Easy,Compute: 24 ÷ 6,5,6,4,3,4
+5,Maths,Multiplication,Easy,Compute: 50 ÷ 10,5,4,7,6,5
+5,Maths,Fractions,Easy,Compute: 13 × 4,52,62,65,48,52
+5,Maths,Division,Easy,Compute: 21 + 143,154,164,174,165,164
+5,Maths,Fractions,Easy,Compute: 42 - 29,14,3,23,13,13
+5,Maths,Multiplication,Easy,Compute: 12 × 15,180,192,190,165,180
+5,Maths,Fractions,Easy,Compute: 66 + 130,197,186,206,196,196
+5,Maths,Multiplication,Easy,Compute: 164 - 139,26,15,25,35,25
+5,Maths,Fractions,Easy,Compute: 164 - 93,71,72,81,61,71
+5,Maths,Fractions,Easy,Compute: 195 ÷ 13,14,17,15,16,15
+5,Maths,Fractions,Easy,Compute: 3 × 8,16,34,24,27,24
+5,Maths,Fractions,Easy,Compute: 156 + 123,289,269,280,279,279
+5,Maths,Multiplication,Easy,Compute: 176 + 16,193,192,182,202,192
+5,Maths,Fractions,Easy,Compute: 131 - 114,17,18,27,7,17
+5,Maths,Whole Number Operations,Easy,Compute: 8 ÷ 2,4,3,5,6,4
+5,Maths,Fractions,Easy,Compute: 121 + 111,222,233,242,232,232
+5,Maths,Division,Easy,Compute: 130 ÷ 10,15,14,12,13,13
+5,Maths,Division,Easy,Compute: 25 ÷ 5,7,6,4,5,5
+5,Maths,Multiplication,Easy,Compute: 165 ÷ 11,15,16,14,17,15
+5,Maths,Division,Easy,Compute: 42 ÷ 6,8,7,6,9,7
+5,Maths,Multiplication,Easy,Compute: 79 - 77,12,3,0,2,2
+5,Maths,Division,Easy,Compute: 139 + 138,287,278,277,267,277
+5,Maths,Fractions,Easy,Compute: 24 ÷ 3,9,8,10,7,8
+5,Maths,Division,Easy,Compute: 10 × 4,36,Option 3,50,40,40
+5,Maths,Division,Easy,Compute: 159 + 178,338,327,347,337,337
+5,Maths,Division,Easy,Compute: 12 ÷ 6,2,4,1,3,2
+5,Maths,Division,Easy,Compute: 186 - 103,93,84,73,83,83
+5,Maths,Multiplication,Easy,Compute: 66 - 14,62,53,42,52,52
+5,Maths,Multiplication,Easy,Compute: 12 × 9,99,118,120,108,108
+5,Maths,Multiplication,Easy,Compute: 21 ÷ 7,5,4,3,2,3
+5,Maths,Whole Number Operations,Easy,Compute: 134 - 128,6,16,7,0,6
+5,Maths,Multiplication,Easy,Compute: 147 - 31,126,116,106,117,116
+5,Maths,Fractions,Easy,Compute: 36 + 47,84,73,93,83,83
+5,Maths,Division,Easy,Compute: 14 ÷ 2,9,6,7,8,7
+5,Maths,Division,Easy,Compute: 198 - 3,205,185,195,196,195
+5,Maths,Whole Number Operations,Easy,Compute: 143 + 49,182,193,192,202,192
+5,Maths,Multiplication,Easy,Compute: 66 ÷ 6,13,12,11,10,11
+5,Maths,Division,Easy,Compute: 127 + 53,181,170,190,180,180
+5,Maths,Fractions,Easy,Compute: 4 ÷ 2,1,3,4,2,2
+5,Maths,Multiplication,Easy,Compute: 54 + 3,67,58,57,47,57
+5,Maths,Fractions,Easy,Compute: 5 × 7,40,35,45,28,35
+5,Maths,Multiplication,Easy,Compute: 70 + 170,241,240,230,250,240
+5,Maths,Fractions,Easy,Compute: 12 ÷ 2,8,7,5,6,6
+5,Maths,Division,Easy,Compute: 66 + 96,163,162,152,172,162
+5,Maths,Whole Number Operations,Easy,Compute: 138 + 196,334,335,324,344,334
+5,Maths,Whole Number Operations,Easy,Compute: 6 × 9,45,54,64,60,54
+5,Maths,Multiplication,Easy,Compute: 139 - 38,102,101,91,111,101
+5,Maths,Multiplication,Easy,Compute: 9 × 12,118,108,117,96,108
+5,Maths,Whole Number Operations,Easy,Compute: 44 ÷ 11,4,6,3,5,4
+5,Maths,Fractions,Easy,Compute: 52 + 190,243,242,252,232,242
+5,Maths,Whole Number Operations,Easy,Compute: 15 × 10,160,140,150,165,150
+5,Maths,Whole Number Operations,Easy,Compute: 48 ÷ 6,10,9,7,8,8
+5,Maths,Division,Easy,Compute: 13 × 13,182,169,156,179,169
+5,Maths,Whole Number Operations,Easy,Compute: 88 ÷ 11,10,9,7,8,8
+5,Maths,Division,Easy,Compute: 9 × 8,64,72,82,81,72
+5,Maths,Multiplication,Easy,Compute: 2 × 6,14,6,22,12,12
+5,Maths,Fractions,Easy,Compute: 53 - 14,39,40,49,29,39
+5,Maths,Fractions,Easy,Compute: 14 × 13,169,182,192,196,182
+5,Maths,Fractions,Easy,Compute: 30 ÷ 15,1,2,3,4,2
+5,Maths,Fractions,Easy,Compute: 188 - 47,141,151,142,131,141
+5,Maths,Multiplication,Easy,Compute: 3 × 4,8,12,15,22,12
+5,Maths,Division,Easy,Compute: 143 ÷ 11,15,13,12,14,13
+5,Maths,Whole Number Operations,Easy,Compute: 140 ÷ 10,13,14,15,16,14
+5,Maths,Multiplication,Easy,Compute: 111 + 39,150,140,160,151,150
+5,Maths,Whole Number Operations,Easy,Compute: 2 × 14,28,14,30,38,28
+5,Maths,Multiplication,Easy,Compute: 16 + 90,116,96,107,106,106
+5,Maths,Division,Easy,Compute: 158 - 25,133,134,143,123,133
+5,Maths,Whole Number Operations,Easy,Compute: 115 - 89,26,27,36,16,26
+5,Maths,Whole Number Operations,Easy,Compute: 160 + 97,247,257,258,267,257
+5,Maths,Multiplication,Easy,Compute: 157 - 12,135,145,155,146,145
+5,Maths,Whole Number Operations,Easy,Compute: 8 × 6,56,42,48,58,48
+5,Maths,Division,Easy,Compute: 157 - 0,158,167,157,147,157
+5,Maths,Division,Easy,Compute: 182 - 154,28,38,29,18,28
+5,Maths,Division,Easy,Compute: 15 × 3,60,45,42,55,45
+5,Maths,Whole Number Operations,Easy,Compute: 28 ÷ 4,8,9,6,7,7
+5,Maths,Fractions,Easy,Compute: 118 - 6,112,122,102,113,112
+5,Maths,Division,Easy,Compute: 8 + 38,56,47,36,46,46
+5,Maths,Multiplication,Easy,Compute: 182 ÷ 13,15,16,13,14,14
+5,Maths,Fractions,Easy,Compute: 54 ÷ 9,8,5,7,6,6
+5,Maths,Division,Easy,Compute: 174 + 50,224,234,214,225,224
+5,Maths,Fractions,Easy,Compute: 131 - 125,16,7,0,6,6
+5,Maths,Multiplication,Easy,Compute: 8 × 7,56,49,66,64,56
+5,Maths,Whole Number Operations,Easy,Compute: 173 - 23,151,160,140,150,150
+5,Maths,Division,Easy,Compute: 154 ÷ 14,11,10,12,13,11
+5,Maths,Fractions,Easy,Compute: 85 + 38,133,124,113,123,123
+5,Maths,Division,Easy,Compute: 88 - 25,73,64,63,53,63
+5,Maths,Fractions,Easy,Compute: 126 - 65,61,62,71,51,61
+5,Maths,Multiplication,Easy,Compute: 94 - 59,35,36,25,45,35
+5,Maths,Fractions,Easy,Compute: 173 + 123,286,306,297,296,296
+5,Maths,Multiplication,Easy,Compute: 118 - 91,28,17,27,37,27
+5,Maths,Multiplication,Easy,Compute: 153 - 69,85,74,94,84,84
+5,Maths,Fractions,Easy,Compute: 110 ÷ 10,10,13,12,11,11
+5,Maths,Division,Easy,Compute: 15 × 15,240,210,225,235,225
+5,Maths,Whole Number Operations,Easy,Compute: 11 × 9,99,90,110,109,99
+5,Maths,Whole Number Operations,Easy,Compute: 73 - 49,24,34,14,25,24
+5,Maths,Fractions,Easy,Compute: 44 ÷ 4,11,13,10,12,11
+5,Maths,Fractions,Easy,Compute: 12 × 12,132,154,144,156,144
+5,Maths,Division,Easy,Compute: 4 × 14,42,56,66,60,56
+5,Maths,Multiplication,Easy,Compute: 104 - 7,98,107,97,87,97
+5,Maths,Division,Easy,Compute: 169 + 151,330,310,320,321,320
+5,Maths,Whole Number Operations,Easy,Compute: 163 - 159,14,5,4,0,4
+5,Maths,Division,Easy,Compute: 4 × 4,20,12,26,16,16
+5,Maths,Fractions,Easy,Compute: 12 × 8,106,96,108,88,96
+5,Maths,Fractions,Easy,Compute: 16 ÷ 8,4,3,2,1,2
+5,Maths,Division,Easy,Compute: 92 + 43,125,136,135,145,135
+5,Maths,Whole Number Operations,Easy,Compute: 76 + 135,211,221,201,212,211
+5,Maths,Division,Easy,Compute: 113 - 70,53,43,33,44,43
+5,Maths,Whole Number Operations,Easy,Compute: 51 + 127,188,168,179,178,178
+5,Maths,Multiplication,Easy,Compute: 195 - 136,60,59,49,69,59
+5,Maths,Fractions,Easy,Compute: 4 × 7,21,28,32,38,28
+5,Maths,Division,Easy,Compute: 3 × 9,37,27,30,18,27
+5,Maths,Whole Number Operations,Easy,Compute: 166 - 151,5,16,15,25,15
+5,Maths,Fractions,Easy,Compute: 180 ÷ 12,14,15,17,16,15
+5,Maths,Whole Number Operations,Easy,Compute: 60 ÷ 12,6,7,5,4,5
+5,Maths,Multiplication,Easy,Compute: 169 + 132,311,302,301,291,301
+5,Maths,Division,Easy,Compute: 13 × 3,52,39,49,36,39
+5,Maths,Whole Number Operations,Easy,Compute: 9 ÷ 3,3,2,4,5,3
+5,Maths,Fractions,Easy,Compute: 153 + 29,182,192,183,172,182
+5,Maths,Fractions,Easy,Compute: 79 + 17,106,96,97,86,96
+5,Maths,Multiplication,Easy,Compute: 191 + 42,233,243,223,234,233
+5,Maths,Division,Easy,Compute: 12 × 14,178,168,180,154,168
+5,Maths,Division,Easy,Compute: 165 + 200,375,355,366,365,365
+5,Maths,Division,Easy,Compute: 194 - 88,106,116,107,96,106
+5,Maths,Whole Number Operations,Easy,Compute: 139 + 195,335,344,324,334,334
+5,Maths,Whole Number Operations,Easy,Compute: 181 - 50,131,132,141,121,131
+5,Maths,Division,Easy,Compute: 142 - 109,33,34,23,43,33
+5,Maths,Division,Easy,Compute: 167 + 65,242,232,222,233,232
+5,Maths,Division,Easy,Compute: 5 × 13,70,75,52,65,65
+5,Maths,Multiplication,Easy,Compute: 112 + 148,260,250,261,270,260
+5,Maths,Division,Easy,Compute: 72 ÷ 9,7,8,10,9,8
+5,Maths,Whole Number Operations,Easy,Compute: 22 + 171,194,183,203,193,193
+5,Maths,Whole Number Operations,Easy,Compute: 36 ÷ 12,2,3,4,5,3
+5,Maths,Division,Easy,Compute: 10 × 15,150,135,Option 3,160,150
+5,Maths,Whole Number Operations,Easy,Compute: 81 - 54,27,28,17,37,27
+5,Maths,Fractions,Easy,Compute: 76 + 118,195,204,194,184,194
+5,Maths,Multiplication,Easy,Compute: 192 + 12,204,194,214,205,204
+5,Maths,Division,Easy,Compute: 5 × 9,50,45,55,36,45
+5,Maths,Fractions,Easy,Compute: 157 - 133,14,34,24,25,24
+5,Maths,Whole Number Operations,Easy,Compute: 62 + 134,196,206,186,197,196
+5,Maths,Multiplication,Easy,Compute: 48 ÷ 12,6,5,3,4,4
+5,Maths,Fractions,Easy,Compute: 189 - 95,94,95,104,84,94
+5,Maths,Whole Number Operations,Easy,Compute: 129 - 26,103,93,104,113,103
+5,Maths,Fractions,Easy,Compute: 9 × 11,108,109,99,88,99
+5,Maths,Multiplication,Easy,Compute: 10 × 11,99,110,120,Option 3,110
+5,Maths,Whole Number Operations,Easy,Compute: 9 × 6,64,54,48,63,54
+5,Maths,Fractions,Easy,Compute: 103 + 15,118,128,119,108,118
+5,Maths,Division,Easy,Compute: 136 - 46,91,80,100,90,90
+5,Maths,Whole Number Operations,Easy,Compute: 84 - 61,33,24,13,23,23
+5,Maths,Whole Number Operations,Easy,Compute: 9 + 63,73,62,82,72,72
+5,Maths,Fractions,Easy,Compute: 70 + 0,60,80,70,71,70
+5,Maths,Multiplication,Easy,Compute: 126 ÷ 14,8,9,10,11,9
+5,Maths,Whole Number Operations,Easy,Compute: 15 × 12,190,168,195,180,180
+5,Maths,Whole Number Operations,Easy,Compute: 182 ÷ 14,12,15,14,13,13
+5,Maths,Division,Easy,Compute: 113 - 35,68,88,79,78,78
+5,Maths,Division,Easy,Compute: 160 + 19,169,189,179,180,179
+5,Maths,Whole Number Operations,Easy,Compute: 14 + 56,70,60,71,80,70
+5,Maths,Division,Easy,Compute: 80 - 23,67,57,58,47,57
+5,Maths,Whole Number Operations,Easy,Compute: 112 - 1,111,101,121,112,111
+5,Maths,Division,Easy,Compute: 10 × 14,150,Option 3,126,140,140
+5,Maths,Multiplication,Easy,Compute: 193 + 154,347,348,337,357,347
+5,Maths,Fractions,Easy,Compute: 175 - 168,7,0,8,17,7
+5,Maths,Division,Easy,Compute: 186 - 150,46,37,36,26,36
+5,Maths,Division,Easy,Compute: 113 - 26,77,87,88,97,87
+5,Maths,Division,Easy,Compute: 183 + 150,334,343,333,323,333
+5,Maths,Multiplication,Easy,Compute: 27 - 11,6,16,17,26,16
+5,Maths,Multiplication,Easy,Compute: 11 × 14,154,140,165,164,154
+5,Maths,Division,Easy,Compute: 13 + 182,205,185,195,196,195
+5,Maths,Multiplication,Easy,Compute: 197 + 101,308,288,298,299,298
+5,Maths,Whole Number Operations,Easy,Compute: 52 - 41,11,1,12,21,11
+5,Maths,Whole Number Operations,Easy,Compute: 14 × 9,140,126,136,117,126
+5,Maths,Fractions,Easy,Compute: 124 - 89,36,45,25,35,35
+5,Maths,Division,Easy,Compute: 8 × 14,120,98,122,112,112
+5,Maths,Fractions,Easy,Compute: 173 - 49,124,114,125,134,124
+5,Maths,Multiplication,Easy,Compute: 51 + 182,223,233,243,234,233
+5,Maths,Division,Easy,Compute: 149 + 13,163,172,162,152,162
+5,Maths,Division,Easy,Compute: 26 ÷ 2,13,14,12,15,13
+5,Maths,Division,Easy,Compute: 160 + 114,275,284,274,264,274
+5,Maths,Fractions,Easy,Compute: 50 ÷ 5,10,11,9,12,10
+5,Maths,Fractions,Easy,Compute: 197 - 116,81,82,91,71,81
+5,Maths,Multiplication,Easy,Compute: 182 - 40,142,143,152,132,142
+5,Maths,Fractions,Easy,Compute: 28 ÷ 2,15,13,14,16,14
+5,Maths,Whole Number Operations,Easy,Compute: 124 + 104,238,229,228,218,228
+5,Maths,Division,Easy,Compute: 184 - 132,42,62,52,53,52
+5,Maths,Fractions,Easy,Compute: 75 + 52,117,127,128,137,127
+5,Maths,Division,Easy,Compute: 20 + 21,41,42,31,51,41
+5,Maths,Division,Easy,Compute: 157 + 177,324,334,335,344,334
+5,Maths,Whole Number Operations,Easy,Compute: 5 × 14,80,56,70,75,70
+5,Maths,Whole Number Operations,Easy,Compute: 188 - 123,66,55,75,65,65
+5,Maths,Fractions,Easy,Compute: 162 + 87,239,259,249,250,249
+5,Maths,Division,Easy,Compute: 31 + 111,152,142,132,143,142
+5,Maths,Fractions,Easy,Compute: 20 + 114,124,135,134,144,134
+5,Maths,Fractions,Easy,Compute: 96 ÷ 12,9,7,10,8,8
+5,Maths,Whole Number Operations,Easy,Compute: 7 + 85,102,82,92,93,92
+5,Maths,Fractions,Easy,Compute: 48 ÷ 4,12,13,14,11,12
+5,Maths,Whole Number Operations,Easy,Compute: 128 + 127,255,256,265,245,255
+5,Maths,Division,Easy,Compute: 170 + 170,341,330,350,340,340
+5,Maths,Division,Easy,Compute: 184 - 148,46,36,37,26,36
+5,Maths,Fractions,Easy,Compute: 167 + 178,335,346,355,345,345
+5,Maths,Fractions,Easy,Compute: 7 × 13,91,101,98,78,91
+5,Maths,Fractions,Easy,Compute: 166 + 183,339,350,349,359,349
+5,Maths,Whole Number Operations,Easy,Compute: 39 + 36,65,76,85,75,75
+5,Maths,Whole Number Operations,Easy,Compute: 92 - 77,16,25,15,5,15
+5,Maths,Whole Number Operations,Easy,Compute: 90 - 57,43,23,34,33,33
+5,Maths,Multiplication,Easy,Compute: 9 × 3,36,37,27,24,27
+5,Maths,Division,Easy,Compute: 199 - 5,194,204,195,184,194
+5,Maths,Multiplication,Easy,Compute: 10 × 12,130,120,Option 3,108,120
+5,Maths,Fractions,Easy,Compute: 60 ÷ 6,11,12,10,9,10
+5,Maths,Whole Number Operations,Easy,Compute: 6 × 15,90,96,75,100,90
+5,Maths,Fractions,Easy,Compute: 129 - 6,133,123,113,124,123
+5,Maths,Whole Number Operations,Easy,Compute: 143 ÷ 13,10,13,12,11,11
+5,Maths,Division,Easy,Compute: 72 ÷ 8,11,10,8,9,9
+5,Maths,Multiplication,Easy,Compute: 175 - 43,122,133,132,142,132
+5,Maths,Fractions,Easy,Compute: 12 × 3,46,48,36,33,36
+5,Maths,Division,Easy,Compute: 195 + 191,387,396,376,386,386
+5,Maths,Multiplication,Easy,Compute: 132 ÷ 12,11,10,13,12,11
+5,Maths,Whole Number Operations,Easy,Compute: 125 + 154,269,279,280,289,279
+5,Maths,Whole Number Operations,Easy,Compute: 107 + 7,114,124,104,115,114
+5,Maths,Multiplication,Easy,Compute: 3 × 14,45,42,52,28,42
+5,Maths,Division,Easy,Compute: 13 × 9,108,127,130,117,117
+5,Maths,Multiplication,Easy,Compute: 19 + 143,152,163,162,172,162
+5,Maths,Division,Easy,Compute: 33 ÷ 11,2,5,3,4,3
+5,Maths,Whole Number Operations,Easy,Compute: 3 × 2,6,16,9,4,6
+5,Maths,Division,Easy,Compute: 129 + 117,236,246,247,256,246
+5,Maths,Multiplication,Easy,Compute: 160 + 131,301,292,281,291,291
+5,Maths,Division,Easy,Compute: 29 + 180,209,219,199,210,209
+5,Maths,Multiplication,Easy,Compute: 45 ÷ 5,8,10,9,11,9
+5,Maths,Division,Easy,Compute: 176 - 94,83,82,92,72,82
+5,Maths,Whole Number Operations,Easy,Compute: 99 + 111,210,211,220,200,210
+5,Maths,Fractions,Easy,Compute: 24 ÷ 2,12,13,14,11,12
+5,Maths,Whole Number Operations,Easy,Compute: 12 ÷ 4,2,4,3,5,3
+5,Maths,Multiplication,Easy,Compute: 77 ÷ 11,9,6,7,8,7
+5,Maths,Multiplication,Easy,Compute: 29 - 4,26,35,15,25,25
+5,Maths,Fractions,Easy,Compute: 169 ÷ 13,15,12,14,13,13
+5,Maths,Fractions,Easy,Compute: 8 × 8,74,64,72,56,64
+5,Maths,Division,Easy,Compute: 40 ÷ 5,7,9,8,10,8
+5,Maths,Division,Easy,Compute: 194 - 41,154,153,143,163,153
+5,Maths,Fractions,Easy,Compute: 87 - 44,53,43,44,33,43
+5,Maths,Multiplication,Easy,Compute: 10 × 2,18,20,30,Option 3,20
+5,Maths,Multiplication,Easy,Compute: 7 × 6,42,36,49,52,42
+5,Maths,Whole Number Operations,Easy,Compute: 52 ÷ 13,4,5,3,6,4
+5,Maths,Fractions,Easy,Compute: 191 + 133,334,314,325,324,324
+5,Maths,Division,Easy,Compute: 13 × 15,208,180,205,195,195
+5,Maths,Division,Easy,Compute: 149 - 143,7,6,0,16,6
+5,Maths,Fractions,Easy,Compute: 30 ÷ 10,3,5,2,4,3
+5,Maths,Multiplication,Easy,Compute: 147 - 107,41,40,50,30,40
+5,Maths,Whole Number Operations,Easy,Compute: 140 ÷ 14,11,9,12,10,10
+5,Maths,Multiplication,Easy,Compute: 7 + 0,8,17,7,0,7
+5,Maths,Fractions,Easy,Compute: 200 - 47,153,163,154,143,153
+5,Maths,Fractions,Easy,Compute: 156 ÷ 12,13,12,14,15,13
+5,Maths,Fractions,Easy,Compute: 3 × 10,40,30,33,20,30
+5,Maths,Fractions,Easy,Compute: 165 + 46,221,212,211,201,211
+5,Maths,Fractions,Easy,Compute: 3 × 13,42,49,26,39,39
+5,Maths,Division,Easy,Compute: 225 ÷ 15,17,15,16,14,15
+5,Maths,Division,Easy,Compute: 17 + 128,145,146,155,135,145
+5,Maths,Whole Number Operations,Easy,Compute: 14 × 2,38,28,42,26,28
+5,Maths,Division,Easy,Compute: 170 - 81,89,79,99,90,89
+5,Maths,Multiplication,Easy,Compute: 59 + 131,191,190,180,200,190
+5,Maths,Fractions,Easy,Compute: 90 ÷ 15,6,5,7,8,6
+5,Maths,Whole Number Operations,Easy,Compute: 47 + 93,141,130,150,140,140
+5,Maths,Multiplication,Easy,Compute: 182 - 25,157,147,158,167,157
+5,Maths,Fractions,Easy,Compute: 60 + 176,246,226,236,237,236
+5,Maths,Whole Number Operations,Easy,Compute: 6 × 6,46,42,36,30,36
+5,Maths,Whole Number Operations,Easy,Compute: 152 - 132,21,20,30,10,20
+5,Maths,Division,Easy,Compute: 104 - 28,66,86,77,76,76
+5,Maths,Fractions,Easy,Compute: 55 - 55,0,10,Option 3,1,0
+5,Maths,Multiplication,Easy,Compute: 5 × 4,30,25,20,16,20
+5,Maths,Division,Easy,Compute: 56 - 1,65,55,56,45,55
+5,Maths,Whole Number Operations,Easy,Compute: 11 × 7,70,77,88,87,77
+5,Maths,Division,Easy,Compute: 48 - 37,12,1,21,11,11
+5,Maths,Fractions,Easy,Compute: 195 + 118,323,313,314,303,313
+5,Maths,Division,Easy,Compute: 9 + 97,107,96,116,106,106
+5,Maths,Fractions,Easy,Compute: 174 + 143,327,318,307,317,317
+5,Maths,Division,Easy,Compute: 35 + 155,180,190,191,200,190
+5,Maths,Fractions,Easy,Compute: 6 × 4,34,30,24,20,24
+5,Maths,Whole Number Operations,Easy,Compute: 199 - 187,22,13,12,2,12
+5,Maths,Whole Number Operations,Easy,Compute: 36 ÷ 9,5,6,4,3,4
+5,Maths,Fractions,Easy,Compute: 4 × 11,33,44,48,54,44
+5,Maths,Multiplication,Easy,Compute: 108 - 23,85,75,86,95,85
+5,Maths,Fractions,Easy,Compute: 4 × 8,36,42,24,32,32
+5,Maths,Multiplication,Easy,Compute: 10 × 9,100,81,Option 3,90,90
+5,Maths,Fractions,Easy,Compute: 101 + 149,251,260,240,250,250
+5,Maths,Whole Number Operations,Easy,Compute: 146 + 133,269,289,279,280,279
+5,Maths,Fractions,Easy,Compute: 15 × 9,145,150,135,126,135
+5,Maths,Fractions,Easy,Compute: 8 × 11,96,88,98,77,88
+5,Maths,Whole Number Operations,Easy,Compute: 14 × 5,80,70,84,65,70
+5,Maths,Whole Number Operations,Easy,Compute: 194 + 164,358,368,348,359,358
+5,Maths,Fractions,Easy,Compute: 125 - 85,41,30,50,40,40
+5,Maths,Multiplication,Easy,Compute: 67 + 175,252,243,242,232,242
+5,Maths,Division,Easy,Compute: 183 + 27,210,211,220,200,210
+5,Maths,Division,Easy,Compute: 121 ÷ 11,10,12,11,13,11
+5,Maths,Whole Number Operations,Easy,Compute: 4 × 5,20,24,30,15,20
+5,Maths,Fractions,Easy,Compute: 121 - 47,74,75,64,84,74
+5,Maths,Whole Number Operations,Easy,Compute: 88 + 103,201,181,191,192,191
+5,Maths,Whole Number Operations,Easy,Compute: 46 - 29,7,17,27,18,17
+5,Maths,Multiplication,Easy,Compute: 124 - 90,34,44,24,35,34
+5,Maths,Whole Number Operations,Easy,Compute: 91 - 80,21,1,12,11,11
+5,Maths,Division,Easy,Compute: 42 ÷ 14,3,2,5,4,3
+5,Maths,Multiplication,Easy,Compute: 131 - 108,13,24,33,23,23
+5,Maths,Whole Number Operations,Easy,Compute: 119 - 117,2,0,12,3,2
+5,Maths,Multiplication,Easy,Compute: 108 - 81,28,37,27,17,27
+5,Maths,Division,Easy,Compute: 44 - 21,13,33,23,24,23
+5,Maths,Division,Easy,Compute: 63 ÷ 7,10,8,9,11,9
+5,Maths,Whole Number Operations,Easy,Compute: 132 - 83,50,39,59,49,49
+5,Maths,Fractions,Easy,Compute: 84 ÷ 14,8,5,7,6,6
+5,Maths,Whole Number Operations,Easy,Compute: 120 ÷ 8,16,14,17,15,15
+5,Maths,Division,Easy,Compute: 107 - 107,Option 3,1,0,10,0
+5,Maths,Division,Easy,Compute: 56 ÷ 7,7,9,10,8,8
+5,Maths,Multiplication,Easy,Compute: 16 + 21,37,38,47,27,37
+5,Maths,Multiplication,Easy,Compute: 15 × 13,182,210,195,205,195
+5,Maths,Fractions,Easy,Compute: 4 × 6,28,34,24,18,24
+5,Maths,Fractions,Easy,Compute: 9 × 4,32,45,36,46,36
+5,Maths,Fractions,Easy,Compute: 15 × 11,175,165,180,154,165
+5,Maths,Fractions,Easy,Compute: 78 ÷ 13,8,7,6,5,6
+5,Maths,Division,Easy,Compute: 112 + 9,122,111,131,121,121
+5,Maths,Whole Number Operations,Easy,Compute: 131 + 18,139,149,159,150,149
+5,Maths,Division,Easy,Compute: 179 - 117,72,63,62,52,62
+5,Maths,Division,Easy,Compute: 9 × 5,45,54,40,55,45
+5,Maths,Fractions,Easy,Compute: 1 + 189,190,200,180,191,190
+5,Maths,Fractions,Easy,Compute: 80 ÷ 8,9,10,11,12,10
+5,Maths,Whole Number Operations,Easy,Compute: 85 - 43,42,43,32,52,42
+5,Maths,Division,Easy,Compute: 13 × 10,130,140,120,143,130
+5,Maths,Whole Number Operations,Easy,Compute: 62 - 51,1,21,11,12,11
+5,Maths,Fractions,Easy,Compute: 15 × 4,75,56,70,60,60
+5,Maths,Multiplication,Easy,Compute: 190 + 200,391,380,400,390,390
+5,Maths,Division,Easy,Compute: 102 - 60,42,43,32,52,42
+5,Maths,Division,Easy,Compute: 93 + 96,179,199,190,189,189
+5,Maths,Multiplication,Easy,Compute: 90 ÷ 9,9,12,11,10,10
+5,Maths,Division,Easy,Compute: 159 - 57,103,112,92,102,102
+5,Maths,Whole Number Operations,Easy,Compute: 96 + 128,225,224,234,214,224
+5,Maths,Multiplication,Easy,Compute: 115 - 111,4,5,14,0,4
+5,Maths,Fractions,Easy,Compute: 8 + 53,62,71,61,51,61
+5,Maths,Multiplication,Easy,Compute: 119 + 159,278,288,268,279,278
+5,Maths,Fractions,Easy,Compute: 69 - 42,17,28,27,37,27
+5,Maths,Division,Easy,Compute: 3 × 6,21,28,12,18,18
+5,Maths,Whole Number Operations,Easy,Compute: 7 × 9,70,54,73,63,63
+5,Maths,Multiplication,Easy,Compute: 6 × 5,30,40,36,25,30
+5,Maths,Division,Easy,Compute: 2 × 8,16,18,26,8,16
+5,Maths,Fractions,Easy,Compute: 106 - 14,102,92,93,82,92
+5,Maths,Division,Easy,Compute: 157 + 126,273,283,284,293,283
+5,Maths,Division,Easy,Compute: 186 - 4,183,172,192,182,182
+5,Maths,Whole Number Operations,Easy,Compute: 108 ÷ 9,14,11,12,13,12
+5,Maths,Fractions,Easy,Compute: 108 + 37,135,145,155,146,145
+5,Maths,Multiplication,Easy,Compute: 60 ÷ 15,3,6,5,4,4
+5,Maths,Division,Easy,Compute: 56 ÷ 8,7,8,6,9,7
+5,Maths,Whole Number Operations,Easy,Compute: 32 ÷ 8,6,5,3,4,4
+5,Maths,Multiplication,Easy,Compute: 180 - 179,0,2,1,11,1
+5,Maths,Whole Number Operations,Easy,Compute: 84 ÷ 12,6,8,9,7,7
+5,Maths,Division,Easy,Compute: 158 + 140,308,299,298,288,298
+5,Maths,Division,Easy,Compute: 114 + 112,236,216,227,226,226
+5,Maths,Fractions,Easy,Compute: 175 + 153,338,329,328,318,328
+5,Maths,Whole Number Operations,Easy,Compute: 181 + 2,193,183,184,173,183
+5,Maths,Division,Easy,Compute: 185 - 20,155,175,166,165,165
+5,Maths,Multiplication,Easy,Compute: 121 - 87,24,35,34,44,34
+5,Maths,Whole Number Operations,Easy,Compute: 142 - 107,36,35,45,25,35
+5,Maths,Whole Number Operations,Easy,Compute: 87 - 77,10,0,20,11,10
+5,Maths,Division,Easy,Compute: 12 × 5,72,70,60,55,60
+5,Maths,Multiplication,Easy,Compute: 160 - 52,109,118,108,98,108
+5,Maths,Division,Easy,Compute: 4 × 2,6,12,8,18,8
+5,Maths,Fractions,Easy,Compute: 142 + 167,299,310,309,319,309
+5,Maths,Fractions,Easy,Compute: 39 ÷ 13,2,4,5,3,3
+5,Maths,Fractions,Easy,Compute: 7 × 8,56,48,66,63,56
+5,Maths,Multiplication,Easy,Compute: 210 ÷ 15,16,14,13,15,14
+5,Maths,Multiplication,Easy,Compute: 45 ÷ 15,5,3,4,2,3
+5,Maths,Division,Easy,Compute: 162 + 58,210,230,221,220,220
+5,Maths,Division,Easy,Compute: 171 + 107,288,279,278,268,278
+5,Maths,Multiplication,Easy,Compute: 3 × 11,36,22,33,43,33
+5,Maths,Multiplication,Easy,Compute: 122 - 73,49,59,39,50,49
+5,Maths,Multiplication,Easy,Compute: 188 + 85,263,283,273,274,273
+5,Maths,Multiplication,Easy,Compute: 91 ÷ 7,15,14,12,13,13
+5,Maths,Whole Number Operations,Easy,Compute: 61 - 38,24,23,13,33,23
+5,Maths,Multiplication,Easy,Compute: 87 + 21,118,109,108,98,108
+5,Maths,Fractions,Easy,Compute: 40 ÷ 10,4,5,6,3,4
+5,Maths,Whole Number Operations,Easy,Compute: 104 - 46,59,48,68,58,58
+5,Maths,Division,Easy,Compute: 5 × 10,55,60,40,50,50
+5,Maths,Whole Number Operations,Easy,Compute: 135 ÷ 9,16,15,17,14,15
+5,Maths,Multiplication,Easy,Compute: 93 + 137,220,231,240,230,230
+5,Maths,Fractions,Easy,Compute: 14 × 3,56,52,39,42,42
+5,Maths,Division,Easy,Compute: 24 + 160,174,185,194,184,184
+5,Maths,Multiplication,Easy,Compute: 186 + 167,353,354,363,343,353
+5,Maths,Whole Number Operations,Easy,Compute: 15 + 109,125,134,114,124,124
+5,Maths,Fractions,Easy,Compute: 87 - 75,13,2,12,22,12
+5,Maths,Multiplication,Easy,Compute: 72 - 70,2,3,12,0,2
+5,Maths,Division,Easy,Compute: 8 × 3,21,34,32,24,24
+5,Maths,Division,Easy,Compute: 106 + 85,181,201,191,192,191
+5,Maths,Multiplication,Easy,Compute: 103 + 140,253,233,244,243,243
+5,Maths,Whole Number Operations,Easy,Compute: 148 - 49,99,100,89,109,99
+5,Maths,Fractions,Easy,Compute: 199 - 184,5,25,16,15,15
+5,Maths,Division,Easy,Compute: 39 - 5,35,44,24,34,34
+5,Maths,Whole Number Operations,Easy,Compute: 15 ÷ 3,4,5,6,7,5
+5,Maths,Fractions,Easy,Compute: 91 - 77,14,4,15,24,14
+5,Maths,Fractions,Easy,Compute: 56 + 117,163,174,183,173,173
+5,Maths,Fractions,Easy,Compute: 63 + 62,115,125,135,126,125
+5,Maths,Multiplication,Easy,Compute: 40 + 144,194,185,184,174,184
+5,Maths,Division,Easy,Compute: 27 ÷ 9,2,3,5,4,3
+5,Maths,Whole Number Operations,Easy,Compute: 99 - 48,52,61,41,51,51
+5,Maths,Whole Number Operations,Easy,Compute: 141 - 44,97,87,107,98,97
+5,Maths,Division,Easy,Compute: 139 - 58,91,71,82,81,81
+5,Maths,Fractions,Easy,Compute: 182 - 88,94,84,104,95,94
+5,Maths,Whole Number Operations,Easy,Compute: 147 - 110,27,47,38,37,37
+5,Maths,Division,Easy,Compute: 75 ÷ 15,6,7,5,4,5
+5,Maths,Division,Easy,Compute: 138 - 122,17,6,16,26,16
+5,Maths,Multiplication,Easy,Compute: 13 × 8,104,96,117,114,104
+5,Maths,Multiplication,Easy,Compute: 44 + 75,119,109,120,129,119
+5,Maths,Division,Easy,Compute: 94 - 33,71,51,62,61,61
+5,Maths,Fractions,Easy,Compute: 36 ÷ 4,11,8,9,10,9
+5,Maths,Fractions,Easy,Compute: 63 ÷ 9,8,9,6,7,7
+5,Maths,Fractions,Easy,Compute: 28 + 137,175,166,155,165,165
+5,Maths,Multiplication,Easy,Compute: 191 + 14,215,206,195,205,205
+5,Maths,Whole Number Operations,Easy,Compute: 135 + 165,301,290,310,300,300
+5,Maths,Multiplication,Easy,Compute: 156 - 25,121,131,141,132,131
+5,Maths,Multiplication,Easy,Compute: 74 + 166,241,230,250,240,240
+5,Maths,Fractions,Easy,Compute: 9 × 15,120,135,145,144,135
+5,Maths,Division,Easy,Compute: 145 + 192,337,327,338,347,337
+5,Maths,Whole Number Operations,Easy,Compute: 12 × 7,94,77,96,84,84
+5,Maths,Multiplication,Easy,Compute: 6 + 156,162,163,172,152,162
+5,Maths,Fractions,Easy,Compute: 42 - 36,7,6,16,0,6
+5,Maths,Multiplication,Easy,Compute: 156 - 97,60,49,69,59,59
+5,Maths,Fractions,Easy,Compute: 72 ÷ 6,12,13,14,11,12
+5,Maths,Division,Easy,Compute: 30 ÷ 5,7,5,8,6,6
+5,Maths,Fractions,Easy,Compute: 178 + 179,357,347,358,367,357
+5,Maths,Multiplication,Easy,Compute: 112 + 91,193,213,204,203,203
+5,Maths,Multiplication,Easy,Compute: 24 + 159,173,193,184,183,183
+5,Maths,Whole Number Operations,Easy,Compute: 142 + 195,338,347,337,327,337
+5,Maths,Whole Number Operations,Easy,Compute: 128 - 113,25,5,16,15,15
+5,Maths,Whole Number Operations,Easy,Compute: 71 - 5,76,56,67,66,66
+5,Maths,Fractions,Easy,Compute: 143 + 113,246,257,266,256,256
+5,Maths,Whole Number Operations,Easy,Compute: 20 ÷ 4,6,4,7,5,5
+5,Maths,Whole Number Operations,Easy,Compute: 69 - 26,43,53,33,44,43
+5,Maths,Fractions,Easy,Compute: 186 - 31,155,145,156,165,155
+5,Maths,Division,Easy,Compute: 117 ÷ 13,9,10,8,11,9
+5,Maths,Multiplication,Easy,Compute: 14 + 79,83,94,103,93,93
+5,Maths,Division,Easy,Compute: 170 - 82,98,78,89,88,88
+5,Maths,Division,Easy,Compute: 132 - 111,11,21,22,31,21
+5,Maths,Division,Easy,Compute: 165 - 23,142,152,143,132,142
+5,Maths,Multiplication,Easy,Compute: 147 + 168,315,316,305,325,315
+5,Maths,Division,Easy,Compute: 6 × 13,84,78,88,65,78
+5,Maths,Whole Number Operations,Easy,Compute: 7 × 4,38,35,24,28,28
+5,Maths,Division,Easy,Compute: 156 - 12,134,145,144,154,144
+5,Maths,Whole Number Operations,Easy,Compute: 3 × 5,18,15,10,25,15
+5,Maths,Fractions,Easy,Compute: 7 × 10,77,60,70,80,70
+5,Maths,Whole Number Operations,Easy,Compute: 16 + 170,196,186,176,187,186
+5,Maths,Division,Easy,Compute: 11 × 8,99,88,98,80,88
+5,Maths,Multiplication,Easy,Compute: 97 + 135,233,242,232,222,232
+5,Maths,Multiplication,Easy,Compute: 14 × 10,154,140,150,130,140
+5,Maths,Division,Easy,Compute: 10 ÷ 5,2,4,1,3,2
+5,Maths,Multiplication,Easy,Compute: 85 + 96,182,181,171,191,181
+5,Maths,Fractions,Easy,Compute: 61 - 34,28,37,17,27,27
+5,Maths,Fractions,Easy,Compute: 52 ÷ 4,15,14,13,12,13
+5,Maths,Division,Easy,Compute: 179 - 17,152,172,162,163,162
+5,Maths,Division,Easy,Compute: 188 + 123,321,311,301,312,311
+5,Maths,Multiplication,Easy,Compute: 140 + 177,318,317,327,307,317
+5,Maths,Multiplication,Easy,Compute: 10 × 6,70,Option 3,54,60,60
+5,Maths,Division,Easy,Compute: 3 × 3,19,6,9,12,9
+5,Maths,Whole Number Operations,Easy,Compute: 88 + 165,263,243,253,254,253
+5,Maths,Multiplication,Easy,Compute: 3 × 7,24,31,21,14,21
+5,Maths,Multiplication,Easy,Compute: 90 ÷ 6,15,14,17,16,15
+5,Maths,Whole Number Operations,Easy,Compute: 95 + 93,198,188,178,189,188
+5,Maths,Fractions,Easy,Compute: 94 - 83,12,11,1,21,11
+5,Maths,Multiplication,Easy,Compute: 185 + 78,273,253,264,263,263
+5,Maths,Fractions,Easy,Compute: 25 + 179,204,194,214,205,204
+5,Maths,Multiplication,Easy,Compute: 112 - 64,58,48,49,38,48
+5,Maths,Whole Number Operations,Easy,Compute: 181 - 100,81,71,91,82,81
+5,Maths,Fractions,Easy,Compute: 10 × 8,Option 3,80,72,90,80
+5,Maths,Multiplication,Easy,Compute: 38 + 104,152,143,142,132,142
+5,Maths,Fractions,Easy,Compute: 150 - 137,3,23,13,14,13
+5,Maths,Division,Easy,Compute: 145 - 106,29,49,40,39,39
+5,Maths,Division,Easy,Compute: 174 + 25,209,200,199,189,199
+5,Maths,Division,Easy,Compute: 54 ÷ 6,8,9,10,11,9
+5,Maths,Multiplication,Easy,Compute: 54 + 124,179,168,178,188,178
+5,Maths,Whole Number Operations,Easy,Compute: 181 - 81,110,101,100,90,100
+5,Maths,Fractions,Easy,Compute: 179 + 142,331,311,322,321,321
+5,Maths,Whole Number Operations,Easy,Compute: 9 × 7,63,56,73,72,63
+5,Maths,Division,Easy,Compute: 133 + 46,180,189,179,169,179
+5,Maths,Whole Number Operations,Easy,Compute: 14 + 172,187,176,196,186,186
+5,Maths,Multiplication,Easy,Compute: 14 × 11,168,154,164,143,154
+5,Maths,Fractions,Easy,Compute: 197 + 43,240,250,230,241,240
+5,Maths,Multiplication,Easy,Compute: 13 × 11,156,153,143,132,143
+5,Maths,Division,Easy,Compute: 40 ÷ 8,4,6,5,7,5
+5,Maths,Division,Easy,Compute: 153 + 135,278,289,298,288,288
+5,Maths,Multiplication,Easy,Compute: 138 - 95,44,53,33,43,43
+5,Maths,Multiplication,Easy,Compute: 142 - 62,80,81,90,70,80
+5,Maths,Whole Number Operations,Easy,Compute: 5 × 12,48,60,65,70,60
+5,Maths,Division,Easy,Compute: 6 × 11,76,66,72,55,66
+5,Maths,Division,Easy,Compute: 98 ÷ 7,15,13,14,16,14
+5,Maths,Whole Number Operations,Easy,Compute: 134 + 109,253,243,244,233,243
+5,Maths,Fractions,Easy,Compute: 129 - 125,0,5,14,4,4
+5,Maths,Multiplication,Easy,Compute: 60 ÷ 5,13,12,14,11,12
+5,Maths,Multiplication,Easy,Compute: 145 + 87,242,233,222,232,232
+5,Maths,Division,Easy,Compute: 7 × 12,84,91,94,72,84
+5,Maths,Division,Easy,Compute: 180 ÷ 15,13,12,11,14,12
+5,Maths,Whole Number Operations,Easy,Compute: 11 × 4,40,55,54,44,44
+5,Maths,Fractions,Easy,Compute: 118 - 24,94,84,95,104,94
+5,Maths,Multiplication,Easy,Compute: 89 - 27,52,62,72,63,62
+5,Maths,Multiplication,Easy,Compute: 176 - 60,106,116,126,117,116
+5,Maths,Multiplication,Easy,Compute: 91 + 62,153,163,154,143,153
+5,Maths,Fractions,Easy,Compute: 99 ÷ 11,8,11,10,9,9
+5,Maths,Fractions,Easy,Compute: 6 + 53,60,59,69,49,59
+5,Maths,Division,Easy,Compute: 60 ÷ 10,8,7,6,5,6
+5,Maths,Fractions,Easy,Compute: 192 - 29,173,163,164,153,163
+5,Maths,Fractions,Easy,Compute: 13 × 5,60,65,75,78,65
+5,Maths,Multiplication,Easy,Compute: 40 + 145,175,185,195,186,185
+5,Maths,Whole Number Operations,Easy,Compute: 8 × 9,72,80,63,82,72
+5,Maths,Fractions,Easy,Compute: 143 - 72,61,72,81,71,71
+5,Maths,Multiplication,Easy,Compute: 68 + 139,207,208,217,197,207
+5,Maths,Fractions,Easy,Compute: 139 - 19,110,121,130,120,120
+5,Maths,Fractions,Easy,Compute: 95 + 141,246,237,236,226,236
+5,Maths,Division,Easy,Compute: 28 ÷ 7,3,4,6,5,4
+5,Maths,Division,Easy,Compute: 51 + 153,194,204,205,214,204
+5,Maths,Division,Easy,Compute: 123 - 117,16,0,6,7,6
+5,Maths,Whole Number Operations,Easy,Compute: 33 ÷ 3,13,12,11,10,11
+5,Maths,Whole Number Operations,Easy,Compute: 130 - 120,11,0,20,10,10
+5,Maths,Division,Easy,Compute: 94 + 195,290,279,299,289,289
+5,Maths,Whole Number Operations,Easy,Compute: 156 ÷ 13,12,13,11,14,12
+5,Maths,Multiplication,Easy,Compute: 12 × 11,132,121,142,144,132
+5,Maths,Fractions,Easy,Compute: 16 + 9,25,26,35,15,25
+5,Maths,Division,Easy,Compute: 189 - 83,107,96,106,116,106
+5,Maths,Division,Easy,Compute: 126 ÷ 9,16,15,14,13,14
+5,Maths,Division,Easy,Compute: 130 ÷ 13,11,10,12,9,10
+5,Maths,Multiplication,Easy,Compute: 40 ÷ 4,11,9,10,12,10
+5,Maths,Fractions,Easy,Compute: 13 × 2,36,39,24,26,26
+5,Maths,Division,Easy,Compute: 73 + 90,173,163,153,164,163
+5,Maths,Division,Easy,Compute: 185 - 69,126,106,117,116,116
+5,Maths,Whole Number Operations,Easy,Compute: 14 + 121,136,135,125,145,135
+5,Maths,Fractions,Easy,Compute: 7 × 7,56,42,49,59,49
+5,Maths,Multiplication,Easy,Compute: 12 × 6,66,72,82,84,72
+5,Maths,Division,Easy,Compute: 2 × 15,30,32,40,15,30
+5,Maths,Multiplication,Easy,Compute: 120 ÷ 12,10,11,9,12,10
+5,Maths,Division,Easy,Compute: 103 - 86,17,18,27,7,17
+5,Maths,Division,Easy,Compute: 52 - 27,25,26,15,35,25
+5,Maths,Whole Number Operations,Easy,Compute: 168 - 54,115,104,114,124,114
+5,Maths,Multiplication,Easy,Compute: 112 - 70,32,42,43,52,42
+5,Maths,Division,Easy,Compute: 160 + 115,275,285,276,265,275
+5,Maths,Multiplication,Easy,Compute: 199 - 42,158,147,167,157,157
+5,Maths,Multiplication,Easy,Compute: 26 + 18,34,54,45,44,44
+5,Maths,Fractions,Easy,Compute: 6 × 2,22,10,18,12,12
+5,Maths,Multiplication,Easy,Compute: 196 - 145,41,61,51,52,51
+5,Maths,Division,Easy,Compute: 159 - 140,29,20,9,19,19
+5,Maths,Fractions,Easy,Compute: 106 + 57,163,153,173,164,163
+5,Maths,Fractions,Easy,Compute: 192 + 69,271,261,251,262,261
+5,Maths,Multiplication,Easy,Compute: 81 - 32,50,59,39,49,49
+5,Maths,Multiplication,Easy,Compute: 12 × 10,120,132,130,110,120
+5,Maths,Whole Number Operations,Easy,Compute: 79 + 186,255,265,275,266,265
+5,Maths,Whole Number Operations,Easy,Compute: 67 + 44,111,121,112,101,111
+5,Maths,Fractions,Easy,Compute: 140 - 36,104,94,105,114,104
+5,Maths,Multiplication,Easy,Compute: 177 - 133,44,54,45,34,44
+5,Maths,Division,Easy,Compute: 58 + 168,216,236,226,227,226
+5,Maths,Whole Number Operations,Easy,Compute: 135 - 134,2,0,11,1,1
+5,Maths,Multiplication,Easy,Compute: 16 ÷ 2,8,10,9,7,8
+5,Maths,Whole Number Operations,Easy,Compute: 132 - 55,87,77,78,67,77
+5,Maths,Fractions,Easy,Compute: 65 + 103,169,178,168,158,168
+5,Maths,Whole Number Operations,Easy,Compute: 161 - 28,143,134,133,123,133
+5,Maths,Fractions,Easy,Compute: 55 ÷ 11,4,5,7,6,5
+5,Maths,Fractions,Easy,Compute: 120 ÷ 10,11,12,13,14,12
+5,Maths,Fractions,Easy,Compute: 4 + 41,45,46,35,55,45
+5,Maths,Multiplication,Easy,Compute: 130 + 98,238,218,229,228,228
+5,Maths,Division,Easy,Compute: 131 - 46,86,85,75,95,85
+5,Maths,Fractions,Easy,Compute: 14 × 14,210,196,182,206,196
+5,Maths,Multiplication,Easy,Compute: 91 + 71,172,163,162,152,162
+5,Maths,Division,Easy,Compute: 128 + 153,281,282,271,291,281
+5,Maths,Division,Easy,Compute: 13 × 7,84,101,91,104,91
+5,Maths,Whole Number Operations,Easy,Compute: 196 - 34,163,152,162,172,162
+5,Maths,Multiplication,Easy,Compute: 121 - 61,60,70,50,61,60
+5,Maths,Fractions,Easy,Compute: 71 + 180,251,252,261,241,251
+5,Maths,Multiplication,Easy,Compute: 184 - 166,18,28,19,8,18
+5,Maths,Whole Number Operations,Easy,Compute: 55 ÷ 5,10,13,11,12,11
+5,Maths,Fractions,Easy,Compute: 24 ÷ 12,2,3,1,4,2
+5,Maths,Whole Number Operations,Easy,Compute: 10 + 149,160,149,169,159,159
+5,Maths,Whole Number Operations,Easy,Compute: 165 + 123,278,288,298,289,288
+5,Maths,Division,Easy,Compute: 178 + 170,349,348,338,358,348
+5,Maths,Division,Easy,Compute: 100 + 108,208,198,209,218,208
+5,Maths,Whole Number Operations,Easy,Compute: 109 - 59,51,60,50,40,50
+5,Maths,Whole Number Operations,Easy,Compute: 70 - 18,53,52,42,62,52
+5,Maths,Whole Number Operations,Easy,Compute: 199 + 149,349,348,358,338,348
+5,Maths,Fractions,Easy,Compute: 191 + 17,209,198,218,208,208
+5,Maths,Fractions,Easy,Compute: 187 + 134,311,331,322,321,321
+5,Maths,Fractions,Easy,Compute: 79 + 143,232,212,223,222,222
+5,Maths,Whole Number Operations,Easy,Compute: 4 × 13,62,56,39,52,52
+5,Maths,Multiplication,Easy,Compute: 152 - 78,84,64,74,75,74
+5,Maths,Multiplication,Easy,Compute: 7 × 2,12,24,14,21,14
+5,Maths,Division,Easy,Compute: 72 - 9,53,64,63,73,63
+5,Maths,Fractions,Easy,Compute: 79 + 178,257,267,247,258,257
+5,Maths,Fractions,Easy,Compute: 119 - 101,19,8,18,28,18
+5,Maths,Fractions,Easy,Compute: 45 + 179,214,224,225,234,224
+5,Maths,Whole Number Operations,Easy,Compute: 198 - 69,139,129,119,130,129
+5,Maths,Division,Easy,Compute: 51 + 40,91,81,101,92,91
+5,Maths,Fractions,Easy,Compute: 94 + 183,267,277,287,278,277
+5,Maths,Whole Number Operations,Easy,Compute: 62 + 186,238,249,248,258,248
+5,Maths,Multiplication,Easy,Compute: 109 + 15,134,124,114,125,124
+5,Maths,Multiplication,Easy,Compute: 193 - 178,25,15,16,5,15
+5,Maths,Multiplication,Easy,Compute: 148 - 36,112,122,113,102,112
+5,Maths,Whole Number Operations,Easy,Compute: 157 - 39,119,128,118,108,118
+5,Maths,Division,Easy,Compute: 153 - 80,63,74,83,73,73
+5,Maths,Whole Number Operations,Easy,Compute: 180 + 54,234,224,244,235,234
+5,Maths,Whole Number Operations,Easy,Compute: 6 × 8,48,54,58,40,48
+5,Maths,Fractions,Easy,Compute: 185 + 176,362,371,361,351,361
+5,Maths,Whole Number Operations,Easy,Compute: 70 - 42,29,18,28,38,28
+5,Maths,Fractions,Easy,Compute: 81 - 0,81,82,91,71,81
+5,Maths,Fractions,Easy,Compute: 115 - 88,27,37,17,28,27
+5,Maths,Fractions,Easy,Compute: 5 × 15,85,75,60,80,75
+5,Maths,Fractions,Easy,Compute: 67 + 48,105,115,116,125,115
+5,Maths,Whole Number Operations,Easy,Compute: 131 - 1,130,120,140,131,130
+5,Maths,Division,Easy,Compute: 33 + 107,150,141,140,130,140
+5,Maths,Whole Number Operations,Easy,Compute: 174 - 148,16,36,27,26,26
+5,Maths,Fractions,Easy,Compute: 24 + 100,114,125,124,134,124
+5,Maths,Whole Number Operations,Easy,Compute: 14 × 15,224,220,195,210,210
+5,Maths,Division,Easy,Compute: 15 + 175,191,200,180,190,190
+5,Maths,Division,Easy,Compute: 36 ÷ 3,12,11,14,13,12
+5,Maths,Multiplication,Easy,Compute: 137 - 136,11,1,0,2,1
+5,Maths,Division,Easy,Compute: 173 - 64,110,99,119,109,109
+5,Maths,Multiplication,Easy,Compute: 160 - 125,36,35,25,45,35
+5,Maths,Whole Number Operations,Easy,Compute: 147 - 141,7,16,6,0,6
+5,Maths,Division,Easy,Compute: 92 + 58,160,150,151,140,150
+5,Maths,Fractions,Easy,Compute: 31 + 180,221,211,201,212,211
+5,Maths,Division,Easy,Compute: 106 + 156,263,272,252,262,262
+5,Maths,Multiplication,Easy,Compute: 89 + 25,124,104,114,115,114
+5,Maths,Fractions,Easy,Compute: 6 × 10,50,66,70,60,60
+5,Maths,Fractions,Easy,Compute: 15 × 14,225,196,210,220,210
+5,Maths,Division,Easy,Compute: 1 + 122,133,113,124,123,123
+5,Maths,Whole Number Operations,Easy,Compute: 149 - 94,56,45,55,65,55
+5,Maths,Fractions,Easy,Compute: 197 - 31,176,167,166,156,166
+5,Maths,Fractions,Easy,Compute: 96 - 49,57,48,47,37,47
+5,Maths,Fractions,Easy,Compute: 80 ÷ 10,9,10,8,7,8
+5,Maths,Whole Number Operations,Easy,Compute: 181 - 71,110,100,120,111,110
+5,Maths,Whole Number Operations,Easy,Compute: 24 ÷ 4,8,5,7,6,6
+5,Maths,Whole Number Operations,Easy,Compute: 81 + 26,108,107,117,97,107
+5,Maths,Whole Number Operations,Easy,Compute: 156 + 42,188,198,199,208,198
+5,Maths,Fractions,Easy,Compute: 125 - 104,11,22,21,31,21
+5,Maths,Multiplication,Easy,Compute: 20 + 77,107,98,97,87,97
+5,Maths,Fractions,Easy,Compute: 42 + 181,223,213,233,224,223
+5,Maths,Fractions,Easy,Compute: 170 - 74,106,86,97,96,96
+5,Maths,Fractions,Easy,Compute: 160 - 76,85,94,74,84,84
+5,Maths,Whole Number Operations,Easy,Compute: 26 ÷ 13,2,4,1,3,2
+5,Maths,Fractions,Easy,Compute: 196 + 37,233,234,243,223,233
+5,Maths,Multiplication,Easy,Compute: 179 - 120,59,60,49,69,59
+5,Maths,Multiplication,Easy,Compute: 8 × 15,120,130,105,128,120
+5,Maths,Fractions,Easy,Compute: 150 ÷ 10,15,17,14,16,15
+5,Maths,Multiplication,Easy,Compute: 183 + 156,339,329,340,349,339
+5,Maths,Division,Easy,Compute: 42 + 131,174,163,183,173,173
+5,Maths,Division,Easy,Compute: 153 - 108,45,46,55,35,45
+5,Maths,Fractions,Easy,Compute: 99 - 23,66,77,86,76,76
+5,Maths,Whole Number Operations,Easy,Compute: 105 - 43,72,62,63,52,62
+5,Maths,Division,Easy,Compute: 193 + 103,306,297,286,296,296
+5,Maths,Multiplication,Easy,Compute: 171 + 174,346,345,335,355,345
+5,Maths,Multiplication,Easy,Compute: 134 - 94,40,50,30,41,40
+5,Maths,Division,Easy,Compute: 180 - 171,9,19,10,0,9
+5,Maths,Multiplication,Easy,Compute: 0 + 162,172,163,162,152,162
+5,Maths,Fractions,Easy,Compute: 72 + 102,175,164,174,184,174
+5,Maths,Division,Easy,Compute: 32 + 120,152,142,162,153,152
+5,Maths,Multiplication,Easy,Compute: 1 + 120,122,131,111,121,121
+5,Maths,Fractions,Easy,Compute: 140 + 50,190,191,180,200,190
+5,Maths,Division,Easy,Compute: 106 + 42,138,158,148,149,148
+5,Maths,Fractions,Easy,Compute: 10 × 13,117,Option 3,130,140,130
+5,Maths,Multiplication,Easy,Compute: 149 + 26,175,165,176,185,175
+5,Maths,Division,Easy,Compute: 191 + 121,302,313,322,312,312
+5,Maths,Multiplication,Easy,Compute: 9 + 111,110,130,120,121,120
+5,Maths,Multiplication,Easy,Compute: 70 ÷ 5,14,16,15,13,14
+5,Maths,Division,Easy,Compute: 181 - 56,126,135,115,125,125
+5,Maths,Multiplication,Easy,Compute: 101 + 181,292,272,283,282,282
+5,Maths,Multiplication,Easy,Compute: 5 × 11,60,65,55,44,55
+5,Maths,Whole Number Operations,Easy,Compute: 7 × 11,77,87,66,84,77
+5,Maths,Multiplication,Easy,Compute: 177 - 167,10,11,0,20,10
+5,Maths,Whole Number Operations,Easy,Compute: 117 ÷ 9,14,13,15,12,13
+5,Maths,Whole Number Operations,Easy,Compute: 9 + 48,57,67,47,58,57
+5,Maths,Whole Number Operations,Easy,Compute: 11 × 13,130,143,154,153,143
+5,Maths,Whole Number Operations,Easy,Compute: 116 + 165,281,282,271,291,281
+5,Maths,Fractions,Easy,Compute: 160 - 147,13,23,14,3,13
+5,Maths,Whole Number Operations,Easy,Compute: 144 ÷ 12,12,14,11,13,12
+5,Maths,Fractions,Easy,Compute: 4 × 10,40,50,44,30,40
+5,Maths,Fractions,Easy,Compute: 65 ÷ 13,6,7,4,5,5
+5,Maths,Whole Number Operations,Easy,Compute: 30 + 37,67,77,57,68,67
+5,Maths,Multiplication,Easy,Compute: 1 + 176,178,167,177,187,177
+5,Maths,Division,Easy,Compute: 10 + 195,195,206,205,215,205
+5,Maths,Division,Easy,Compute: 134 - 50,94,84,74,85,84
+5,Maths,Whole Number Operations,Easy,Compute: 2 × 12,34,24,26,12,24
+5,Maths,Division,Easy,Compute: 31 + 68,109,100,89,99,99
+5,Maths,Division,Easy,Compute: 20 ÷ 10,1,4,3,2,2
+5,Maths,Division,Easy,Compute: 78 + 157,225,235,245,236,235
+5,Maths,Division,Easy,Compute: 95 + 82,177,167,187,178,177
+5,Maths,Whole Number Operations,Easy,Compute: 81 - 70,11,1,12,21,11
+5,Maths,Fractions,Easy,Compute: 132 + 181,323,303,313,314,313
+5,Maths,Division,Easy,Compute: 9 × 10,99,100,80,90,90
+5,Maths,Fractions,Easy,Compute: 174 - 137,47,27,38,37,37
+5,Maths,Whole Number Operations,Easy,Compute: 198 - 35,164,163,153,173,163
+5,Maths,Multiplication,Easy,Compute: 48 ÷ 8,8,6,7,5,6
+5,Maths,Fractions,Easy,Compute: 28 + 72,110,90,101,100,100
+5,Maths,Division,Easy,Compute: 72 - 51,11,22,21,31,21
+5,Maths,Fractions,Easy,Compute: 178 + 54,232,222,233,242,232
+5,Maths,Fractions,Easy,Compute: 5 × 6,35,30,40,24,30
+5,Maths,Multiplication,Easy,Compute: 165 ÷ 15,11,12,13,10,11
+5,Maths,Whole Number Operations,Easy,Compute: 154 ÷ 11,16,15,13,14,14
+5,Maths,Fractions,Easy,Compute: 153 + 21,184,174,175,164,174
+5,Maths,Division,Easy,Compute: 42 ÷ 3,14,15,16,13,14
+5,Maths,Fractions,Easy,Compute: 119 - 8,121,101,112,111,111
+5,Maths,Multiplication,Easy,Compute: 24 ÷ 8,5,2,3,4,3
+5,Maths,Fractions,Easy,Compute: 108 ÷ 12,9,8,10,11,9
+5,Maths,Multiplication,Easy,Compute: 188 + 52,230,241,240,250,240
+5,Maths,Multiplication,Easy,Compute: 30 + 99,139,129,119,130,129
+5,Maths,Fractions,Easy,Compute: 110 - 9,101,102,111,91,101
+5,Maths,Whole Number Operations,Easy,Compute: 175 + 92,277,257,268,267,267
+5,Maths,Fractions,Easy,Compute: 70 ÷ 10,9,6,8,7,7
+5,Maths,Division,Easy,Compute: 168 + 39,208,207,217,197,207
+5,Maths,Fractions,Easy,Compute: 43 + 68,101,121,111,112,111
+5,Maths,Fractions,Easy,Compute: 43 - 24,9,29,20,19,19
+5,Maths,Division,Easy,Compute: 168 ÷ 12,14,15,16,13,14
+5,Maths,Whole Number Operations,Easy,Compute: 135 + 115,260,251,250,240,250
+5,Maths,Division,Easy,Compute: 136 + 185,331,311,322,321,321
+5,Maths,Whole Number Operations,Easy,Compute: 30 ÷ 6,4,7,6,5,5
+5,Maths,Division,Easy,Compute: 53 - 48,0,15,5,6,5
+5,Maths,Fractions,Easy,Compute: 36 ÷ 6,6,7,8,5,6
+5,Maths,Multiplication,Easy,Compute: 15 ÷ 5,2,5,3,4,3
+5,Maths,Whole Number Operations,Easy,Compute: 8 × 12,106,104,84,96,96
+5,Maths,Division,Easy,Compute: 14 × 7,108,98,91,112,98
+5,Maths,Division,Easy,Compute: 6 × 3,15,18,28,24,18
+5,Maths,Multiplication,Easy,Compute: 77 ÷ 7,13,10,12,11,11
+5,Maths,Whole Number Operations,Easy,Compute: 193 + 28,222,231,221,211,221
+5,Maths,Multiplication,Easy,Compute: 8 ÷ 4,4,2,3,1,2
+5,Maths,Fractions,Easy,Compute: 90 ÷ 10,8,10,9,11,9
+5,Maths,Division,Easy,Compute: 54 - 46,8,9,18,0,8
+5,Maths,Fractions,Easy,Compute: 171 - 112,59,69,60,49,59
+5,Maths,Whole Number Operations,Easy,Compute: 171 - 49,132,122,123,112,122
+5,Maths,Division,Easy,Compute: 151 + 35,196,176,186,187,186
+5,Maths,Fractions,Easy,Compute: 29 + 82,112,121,111,101,111
+5,Maths,Division,Easy,Compute: 134 - 71,53,73,63,64,63
+5,Maths,Division,Easy,Compute: 88 ÷ 8,11,12,13,10,11
+5,Maths,Multiplication,Easy,Compute: 55 + 9,65,74,54,64,64
+5,Maths,Division,Easy,Compute: 69 - 8,51,61,71,62,61
+5,Maths,Division,Easy,Compute: 1 + 119,120,110,121,130,120
+5,Maths,Division,Easy,Compute: 93 + 17,111,100,120,110,110
+5,Maths,Whole Number Operations,Easy,Compute: 62 + 133,195,196,205,185,195
+5,Maths,Whole Number Operations,Easy,Compute: 93 + 172,275,265,255,266,265
+5,Maths,Multiplication,Easy,Compute: 148 + 97,255,235,246,245,245
+5,Maths,Whole Number Operations,Easy,Compute: 11 × 15,165,175,150,176,165
+5,Maths,Whole Number Operations,Easy,Compute: 68 + 71,129,140,149,139,139
+5,Maths,Fractions,Easy,Compute: 12 × 2,24,34,36,22,24
+5,Maths,Multiplication,Easy,Compute: 41 + 46,77,87,88,97,87
+5,Maths,Multiplication,Easy,Compute: 72 ÷ 12,5,8,6,7,6
+5,Maths,Division,Easy,Compute: 180 - 13,167,168,177,157,167
+5,Maths,Division,Easy,Compute: 147 - 105,42,52,43,32,42
+5,Maths,Whole Number Operations,Easy,Compute: 128 - 57,72,61,81,71,71
+5,Maths,Multiplication,Easy,Compute: 31 - 4,27,37,17,28,27
+5,Maths,Division,Easy,Compute: 129 - 75,44,55,64,54,54
+5,Maths,Multiplication,Easy,Compute: 80 - 16,65,64,74,54,64
+5,Maths,Multiplication,Easy,Compute: 126 - 99,28,37,27,17,27
+5,Maths,Whole Number Operations,Easy,Compute: 17 + 27,44,54,45,34,44
+5,Maths,Whole Number Operations,Easy,Compute: 62 - 7,56,65,45,55,55
+5,Maths,Multiplication,Easy,Compute: 171 - 72,99,100,109,89,99
+5,Maths,Whole Number Operations,Easy,Compute: 139 + 114,253,263,243,254,253
+5,Maths,Fractions,Easy,Compute: 186 - 155,21,32,41,31,31
+5,Maths,Whole Number Operations,Easy,Compute: 48 + 123,172,181,171,161,171
+5,Maths,Whole Number Operations,Easy,Compute: 118 + 86,204,194,205,214,204
+5,Maths,Division,Easy,Compute: 44 - 13,41,32,21,31,31
+5,Maths,Division,Easy,Compute: 10 × 3,27,Option 3,30,40,30
+5,Maths,Division,Easy,Compute: 120 + 103,224,223,233,213,223
+5,Maths,Whole Number Operations,Easy,Compute: 165 + 164,339,330,329,319,329
+5,Maths,Division,Easy,Compute: 7 × 3,18,21,31,28,21
+5,Maths,Whole Number Operations,Easy,Compute: 6 ÷ 2,5,2,4,3,3
+5,Maths,Multiplication,Easy,Compute: 94 + 116,220,211,210,200,210
+5,Maths,Whole Number Operations,Easy,Compute: 20 - 10,0,10,20,11,10
+5,Maths,Division,Easy,Compute: 5 × 2,8,15,10,20,10
+5,Maths,Whole Number Operations,Easy,Compute: 138 - 16,123,122,112,132,122
+5,Maths,Multiplication,Easy,Compute: 73 - 37,37,36,46,26,36
+5,Maths,Multiplication,Easy,Compute: 121 + 110,241,232,231,221,231
+5,Maths,Multiplication,Easy,Compute: 156 - 123,43,33,34,23,33
+5,Maths,Multiplication,Easy,Compute: 68 - 0,78,69,68,58,68
+5,Maths,Multiplication,Easy,Compute: 172 - 66,107,96,116,106,106
+5,Maths,Multiplication,Easy,Compute: 66 - 28,38,39,48,28,38
+5,Maths,Whole Number Operations,Easy,Compute: 196 - 137,69,59,60,49,59
+5,Maths,Whole Number Operations,Easy,Compute: 150 - 23,128,117,137,127,127
+5,Maths,Whole Number Operations,Easy,Compute: 195 + 57,253,262,252,242,252
+5,Maths,Division,Easy,Compute: 55 - 47,18,8,0,9,8
+5,Maths,Multiplication,Easy,Compute: 173 - 13,160,150,170,161,160
+5,Maths,Division,Easy,Compute: 173 - 124,59,49,50,39,49
+5,Maths,Fractions,Easy,Compute: 143 - 21,122,132,112,123,122
+5,Maths,Multiplication,Easy,Compute: 148 - 17,141,131,132,121,131
+5,Maths,Division,Easy,Compute: 61 - 50,11,12,21,1,11
+5,Maths,Multiplication,Easy,Compute: 197 - 138,49,69,60,59,59
+5,Maths,Multiplication,Easy,Compute: 101 + 150,252,251,261,241,251
+5,Maths,Multiplication,Easy,Compute: 41 + 130,171,172,181,161,171
+5,Maths,Multiplication,Easy,Compute: 109 + 193,312,292,302,303,302
+5,Maths,Division,Easy,Compute: 174 - 169,6,5,15,0,5
+5,Maths,Multiplication,Easy,Compute: 169 - 52,118,107,127,117,117
+5,Maths,Multiplication,Easy,Compute: 131 - 27,105,104,94,114,104
+5,Maths,Multiplication,Easy,Compute: 147 - 4,133,143,153,144,143
+5,Maths,Fractions,Easy,Compute: 4 × 12,48,36,52,58,48
+5,Maths,Whole Number Operations,Easy,Compute: 120 ÷ 15,8,9,10,7,8
+5,Maths,Division,Easy,Compute: 127 + 157,284,274,294,285,284
+5,Maths,Division,Easy,Compute: 21 ÷ 3,6,7,9,8,7
+5,Maths,Multiplication,Easy,Compute: 172 + 173,345,346,355,335,345
+5,Maths,Whole Number Operations,Easy,Compute: 24 + 101,126,135,125,115,125
+5,Maths,Whole Number Operations,Easy,Compute: 62 + 166,218,229,238,228,228
+5,Maths,Multiplication,Easy,Compute: 177 + 41,228,208,218,219,218
+5,Maths,Fractions,Easy,Compute: 186 - 108,88,68,78,79,78
+5,Maths,Whole Number Operations,Easy,Compute: 30 + 167,198,197,207,187,197
+5,Maths,Multiplication,Easy,Compute: 128 + 180,308,318,298,309,308
+5,Maths,Division,Easy,Compute: 40 - 12,28,18,29,38,28
+5,Maths,Division,Easy,Compute: 118 - 16,92,103,112,102,102
+5,Maths,Whole Number Operations,Easy,Compute: 164 + 129,294,283,303,293,293
+5,Maths,Multiplication,Easy,Compute: 141 + 106,248,237,247,257,247
+5,Maths,Fractions,Easy,Compute: 39 ÷ 3,13,14,12,15,13
+5,Maths,Whole Number Operations,Easy,Compute: 110 + 179,299,290,279,289,289
+5,Maths,Multiplication,Easy,Compute: 167 + 106,263,274,273,283,273
+5,Maths,Whole Number Operations,Easy,Compute: 10 ÷ 2,4,5,6,7,5
+5,Maths,Whole Number Operations,Easy,Compute: 135 + 49,174,185,194,184,184
+5,Maths,Whole Number Operations,Easy,Compute: 165 - 17,148,158,149,138,148
+5,Maths,Multiplication,Easy,Compute: 163 + 161,324,334,325,314,324
+5,Maths,Multiplication,Easy,Compute: 22 ÷ 11,2,4,3,1,2
+5,Maths,Multiplication,Easy,Compute: 7 × 15,105,115,112,90,105
+5,Maths,Multiplication,Easy,Compute: 85 - 45,50,30,41,40,40
+5,Maths,Multiplication,Easy,Compute: 58 + 98,156,157,146,166,156
+5,Maths,Whole Number Operations,Easy,Compute: 13 × 6,72,88,91,78,78
+5,Maths,Fractions,Easy,Compute: 105 ÷ 7,15,16,17,14,15
+5,Maths,Whole Number Operations,Easy,Compute: 56 ÷ 14,4,5,6,3,4
+5,Maths,Multiplication,Easy,Compute: 16 ÷ 4,3,6,5,4,4
+5,Maths,Multiplication,Easy,Compute: 18 + 195,214,203,213,223,213
+5,Maths,Fractions,Easy,Compute: 174 + 181,356,365,345,355,355
+5,Maths,Division,Easy,Compute: 32 ÷ 4,7,9,10,8,8
+5,Maths,Division,Easy,Compute: 151 + 9,150,160,170,161,160
+5,Maths,Whole Number Operations,Easy,Compute: 30 ÷ 2,17,14,15,16,15
+5,Maths,Fractions,Easy,Compute: 130 + 183,323,303,313,314,313
+5,Maths,Fractions,Easy,Compute: 74 - 66,8,0,9,18,8
+5,Maths,Multiplication,Easy,Compute: 118 + 54,162,172,182,173,172
+5,Maths,Fractions,Easy,Compute: 144 + 53,187,197,198,207,197
+5,Maths,Multiplication,Easy,Compute: 67 + 145,202,222,212,213,212
+5,Maths,Fractions,Easy,Compute: 159 - 4,156,155,145,165,155
+5,Maths,Fractions,Easy,Compute: 185 - 18,167,157,177,168,167
+5,Maths,Division,Easy,Compute: 14 × 8,122,104,112,126,112
+5,Maths,Whole Number Operations,Easy,Compute: 28 + 22,50,40,60,51,50
+5,Maths,Fractions,Easy,Compute: 12 + 155,168,177,157,167,167
+5,Maths,Fractions,Easy,Compute: 172 - 108,65,54,74,64,64
+5,Maths,Division,Easy,Compute: 26 + 69,96,95,85,105,95
+5,Maths,Division,Easy,Compute: 5 × 3,20,12,15,25,15
+5,Maths,Fractions,Easy,Compute: 28 + 115,144,133,153,143,143
+5,Maths,Fractions,Easy,Compute: 96 + 172,258,269,278,268,268
+5,Maths,Whole Number Operations,Easy,Compute: 135 ÷ 15,8,11,9,10,9
+5,Maths,Whole Number Operations,Easy,Compute: 188 + 193,382,381,371,391,381
+5,Maths,Multiplication,Easy,Compute: 78 - 64,4,14,24,15,14
+5,Maths,Multiplication,Easy,Compute: 210 ÷ 14,15,17,14,16,15
+5,Maths,Fractions,Easy,Compute: 154 + 76,231,240,230,220,230
+5,Maths,Fractions,Easy,Compute: 12 × 4,44,58,60,48,48
+5,Maths,Division,Easy,Compute: 13 × 14,182,168,195,192,182
+5,Maths,Fractions,Easy,Compute: 3 × 12,36,46,39,24,36
+5,Maths,Multiplication,Easy,Compute: 197 + 142,329,340,349,339,339
+5,Maths,Whole Number Operations,Easy,Compute: 20 ÷ 5,3,4,6,5,4
+5,Maths,Multiplication,Easy,Compute: 119 + 115,244,224,234,235,234
+5,Maths,Multiplication,Easy,Compute: 10 × 10,100,90,Option 3,110,100
+5,Maths,Whole Number Operations,Easy,Compute: 53 + 156,199,209,210,219,209
+5,Maths,Fractions,Easy,Compute: 105 ÷ 15,9,6,7,8,7
+5,Maths,Multiplication,Easy,Compute: 180 - 80,101,90,110,100,100
+5,Maths,Multiplication,Easy,Compute: 91 ÷ 13,9,8,6,7,7
+5,Maths,Whole Number Operations,Easy,Compute: 79 + 71,160,151,150,140,150
+5,Maths,Multiplication,Easy,Compute: 49 + 177,236,216,227,226,226
+5,Maths,Whole Number Operations,Easy,Compute: 27 ÷ 3,8,10,9,11,9
+5,Maths,Fractions,Easy,Compute: 190 + 22,222,213,202,212,212
+5,Maths,Whole Number Operations,Easy,Compute: 68 + 27,96,85,105,95,95
+5,Maths,Division,Easy,Compute: 144 - 121,23,33,24,13,23
+5,Maths,Multiplication,Easy,Compute: 170 + 83,254,243,253,263,253
+5,Maths,Whole Number Operations,Easy,Compute: 50 + 176,227,236,216,226,226
+5,Maths,Multiplication,Easy,Compute: 11 × 3,33,44,43,30,33
+5,Maths,Fractions,Easy,Compute: 142 + 95,237,227,247,238,237
+5,Maths,Division,Easy,Compute: 96 + 178,284,264,274,275,274
+5,Maths,Multiplication,Easy,Compute: 61 - 51,0,11,20,10,10
+5,Maths,Multiplication,Easy,Compute: 97 + 127,234,224,214,225,224
+5,Maths,Fractions,Easy,Compute: 6 × 7,48,52,42,35,42
+5,Maths,Multiplication,Easy,Compute: 10 × 5,50,45,Option 3,60,50
+5,Maths,Whole Number Operations,Easy,Compute: 8 × 2,16,26,14,24,16
+5,Maths,Fractions,Easy,Compute: 123 + 195,318,308,328,319,318
+5,Maths,Multiplication,Easy,Compute: 149 - 63,76,86,96,87,86
+5,Maths,Division,Easy,Compute: 92 + 94,196,187,176,186,186
+5,Maths,Multiplication,Easy,Compute: 175 - 77,108,99,88,98,98
+5,Maths,Whole Number Operations,Easy,Compute: 110 - 29,82,71,81,91,81
+5,Maths,Whole Number Operations,Easy,Compute: 110 + 194,304,314,294,305,304
+5,Maths,Division,Easy,Compute: 116 - 68,38,49,48,58,48
+5,Maths,Whole Number Operations,Easy,Compute: 166 - 62,105,114,104,94,104
+5,Maths,Whole Number Operations,Easy,Compute: 196 ÷ 14,15,16,13,14,14
+5,Maths,Fractions,Easy,Compute: 177 - 161,26,17,16,6,16
+5,Maths,Whole Number Operations,Easy,Compute: 154 + 177,332,331,321,341,331
+5,Maths,Division,Easy,Compute: 65 ÷ 5,15,12,14,13,13
+5,Maths,Whole Number Operations,Easy,Compute: 84 + 163,237,248,247,257,247
+5,Maths,Multiplication,Easy,Compute: 177 + 171,348,358,349,338,348
+5,Maths,Division,Easy,Compute: 11 + 16,17,37,27,28,27
+5,Maths,Whole Number Operations,Easy,Compute: 189 - 161,29,28,18,38,28
+5,Maths,Division,Easy,Compute: 198 - 27,171,161,172,181,171
+5,Maths,Whole Number Operations,Easy,Compute: 170 - 62,118,98,109,108,108
+5,Maths,Fractions,Easy,Compute: 78 + 107,195,175,186,185,185
+5,Maths,Fractions,Easy,Compute: 178 + 139,318,317,327,307,317
+5,Maths,Whole Number Operations,Easy,Compute: 196 + 130,336,326,316,327,326
+5,Maths,Division,Easy,Compute: 128 - 95,43,34,33,23,33
+5,Maths,Fractions,Easy,Compute: 84 + 189,273,263,283,274,273
+5,Maths,Division,Easy,Compute: 122 + 158,270,280,290,281,280
+5,Maths,Division,Easy,Compute: 8 × 13,114,104,112,91,104
+5,Maths,Whole Number Operations,Easy,Compute: 85 + 125,210,200,211,220,210
+5,Maths,Whole Number Operations,Easy,Compute: 177 - 1,166,176,177,186,176
+5,Maths,Division,Easy,Compute: 135 + 136,281,272,271,261,271
+5,Maths,Whole Number Operations,Easy,Compute: 148 - 118,20,40,30,31,30
+5,Maths,Multiplication,Easy,Compute: 114 - 93,31,21,22,11,21
+5,Maths,Division,Easy,Compute: 74 - 28,47,46,56,36,46
+5,Maths,Fractions,Easy,Compute: 70 ÷ 14,7,4,6,5,5
+5,Maths,Whole Number Operations,Easy,Compute: 127 - 12,116,115,125,105,115
+5,Maths,Division,Easy,Compute: 160 - 33,137,127,117,128,127
+5,Maths,Division,Easy,Compute: 117 + 32,139,150,159,149,149
+5,Maths,Multiplication,Easy,Compute: 81 ÷ 9,8,9,10,11,9
+5,Maths,Fractions,Easy,Compute: 192 + 56,258,238,249,248,248
+5,Maths,Division,Easy,Compute: 161 - 15,146,136,156,147,146
+5,Maths,Multiplication,Easy,Compute: 53 + 141,194,204,195,184,194
+5,Maths,Whole Number Operations,Easy,Compute: 161 - 145,16,26,17,6,16
+5,Maths,Multiplication,Easy,Compute: 165 - 74,81,91,101,92,91
+5,Maths,Fractions,Easy,Compute: 45 + 129,174,164,175,184,174
+5,Maths,Multiplication,Easy,Compute: 148 - 135,13,3,23,14,13
+5,Maths,Multiplication,Easy,Compute: 160 + 41,191,201,211,202,201
+5,Maths,Fractions,Easy,Compute: 160 + 137,287,297,307,298,297
+5,Maths,Whole Number Operations,Easy,Compute: 62 + 98,170,161,150,160,160
+5,Maths,Whole Number Operations,Easy,Compute: 129 + 84,223,214,203,213,213
+5,Maths,Multiplication,Easy,Compute: 51 + 179,230,240,231,220,230
+5,Maths,Whole Number Operations,Easy,Compute: 55 + 6,51,62,71,61,61
+5,Maths,Division,Easy,Compute: 102 + 181,283,293,273,284,283
+5,Maths,Multiplication,Easy,Compute: 111 + 139,250,240,251,260,250
+5,Maths,Multiplication,Easy,Compute: 177 - 26,152,141,161,151,151
+5,Maths,Multiplication,Easy,Compute: 109 - 14,95,105,96,85,95
+5,Maths,Division,Easy,Compute: 3 × 15,48,55,30,45,45
+5,Maths,Fractions,Easy,Compute: 50 + 128,188,178,179,168,178
+5,Maths,Whole Number Operations,Easy,Compute: 152 - 15,127,137,147,138,137
+5,Maths,Division,Easy,Compute: 188 - 58,130,131,120,140,130
+5,Maths,Multiplication,Easy,Compute: 148 + 168,326,316,306,317,316
+5,Maths,Fractions,Easy,Compute: 187 - 85,112,102,92,103,102
+5,Maths,Fractions,Easy,Compute: 80 - 44,36,46,26,37,36
+5,Maths,Multiplication,Easy,Compute: 192 - 120,72,73,82,62,72
+5,Maths,Multiplication,Easy,Compute: 137 + 91,238,218,229,228,228
+5,Maths,Fractions,Easy,Compute: 107 - 48,69,60,59,49,59
+5,Maths,Fractions,Easy,Compute: 42 - 28,14,24,15,4,14
+5,Maths,Whole Number Operations,Easy,Compute: 64 ÷ 8,7,9,10,8,8
+5,Maths,Fractions,Easy,Compute: 74 - 30,54,34,45,44,44
+5,Maths,Multiplication,Easy,Compute: 183 + 165,338,348,358,349,348
+5,Maths,Whole Number Operations,Easy,Compute: 15 × 8,112,130,120,135,120
+5,Maths,Whole Number Operations,Easy,Compute: 165 - 110,45,65,55,56,55
+5,Maths,Whole Number Operations,Easy,Compute: 157 + 137,295,294,284,304,294
+5,Maths,Multiplication,Easy,Compute: 128 + 86,215,224,214,204,214
+5,Maths,Multiplication,Easy,Compute: 155 + 101,246,266,257,256,256
+5,Maths,Multiplication,Easy,Compute: 8 + 27,36,45,25,35,35
+5,Maths,Whole Number Operations,Easy,Compute: 64 - 61,0,13,3,4,3
+5,Maths,Fractions,Easy,Compute: 159 + 33,182,193,192,202,192
+5,Maths,Division,Easy,Compute: 162 - 104,59,48,68,58,58
+5,Maths,Multiplication,Easy,Compute: 161 - 112,50,49,59,39,49
+5,Maths,Multiplication,Easy,Compute: 152 - 145,17,7,8,0,7
+5,Maths,Multiplication,Easy,Compute: 199 - 30,170,159,169,179,169
+5,Maths,Division,Easy,Compute: 59 - 13,47,36,46,56,46
+5,Maths,Fractions,Easy,Compute: 156 + 63,229,209,220,219,219
+5,Maths,Fractions,Easy,Compute: 172 - 172,0,10,Option 3,1,0
+5,Maths,Division,Easy,Compute: 90 + 147,227,238,247,237,237
+5,Maths,Division,Easy,Compute: 180 - 23,167,158,157,147,157
+5,Maths,Fractions,Easy,Compute: 192 + 101,303,283,294,293,293
+5,Maths,Whole Number Operations,Easy,Compute: 102 - 75,37,28,17,27,27
+5,Maths,Whole Number Operations,Easy,Compute: 174 - 60,124,115,104,114,114
+5,Maths,Multiplication,Easy,Compute: 143 - 79,74,65,54,64,64
+5,Maths,Fractions,Easy,Compute: 11 × 2,22,20,32,33,22
+5,Maths,Fractions,Easy,Compute: 174 - 91,93,83,73,84,83
+5,Maths,Fractions,Easy,Compute: 135 - 48,77,88,97,87,87
+5,Maths,Division,Easy,Compute: 115 + 110,215,225,235,226,225
+5,Maths,Whole Number Operations,Easy,Compute: 117 - 76,41,42,31,51,41
+5,Maths,Multiplication,Easy,Compute: 171 - 121,50,40,60,51,50
+5,Maths,Division,Easy,Compute: 30 ÷ 3,10,9,11,12,10
+5,Maths,Multiplication,Easy,Compute: 27 + 194,221,211,231,222,221
+5,Maths,Whole Number Operations,Easy,Compute: 134 - 111,13,24,23,33,23
+5,Maths,Division,Easy,Compute: 4 + 9,13,23,14,3,13
+5,Maths,Whole Number Operations,Easy,Compute: 11 × 11,121,110,131,132,121
+5,Maths,Division,Easy,Compute: 177 - 132,45,35,46,55,45
+5,Maths,Division,Easy,Compute: 158 - 49,99,119,110,109,109
+5,Maths,Multiplication,Easy,Compute: 200 - 167,33,23,43,34,33
+5,Maths,Fractions,Easy,Compute: 58 + 142,210,190,201,200,200

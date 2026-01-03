@@ -1,0 +1,1001 @@
+Grade,Subject,Topic,Difficulty,Question,A,B,C,D,Correct Answer
+10,Maths,Quadratic Expressions,Intermediate,What is the vertex form of y = x^2?,y=(x−1)^2,y=(x+1)^2,y=(x−0)^2,y=x^2+1,y=(x−0)^2
+10,Maths,Linear Systems,Intermediate,Which method uses substitution?,Graphing,Elimination,Replacing one variable,Guessing,Replacing one variable
+10,Maths,Geometry,Intermediate,"What is the distance between (1,2) and (4,6)?",5,4,3,√25,5
+10,Maths,Statistics,Intermediate,Which graph best shows distribution shape?,Pie,Bar,Histogram,Line,Histogram
+10,Maths,Quadratic Expressions,Intermediate,Factor: x^2 + 5x + 6,(x+2)(x+3),(x+1)(x+6),(x+3)(x+3),Prime,(x+2)(x+3)
+10,Maths,Statistics,Intermediate,What does standard deviation measure?,Center,Spread,Frequency,Trend,Spread
+10,Maths,Geometry,Intermediate,What is the Pythagorean theorem?,a+b=c,a²+b²=c²,ab=c,a−b=c,a²+b²=c²
+10,Maths,Linear Systems,Intermediate,"Solve: x + y = 8, y = 3. What is x?",3,4,5,8,5
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-6,2) and (-3,2)?",-0.0,1.0,0.0,-1.0,0.0
+10,Maths,Linear Systems,Intermediate,Compute: 3^4,84,81,27,243,81
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-9,4) and (-6,14)?",2.3333333333333335,-3.3333333333333335,4.333333333333334,3.3333333333333335,3.3333333333333335
+10,Maths,Quadratic Expressions,Intermediate,"For x^2 + (-4)x + (-21) = 0, which is a solution?",71,-7,7,9,7
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (7,6) and (9,-1)?",3.5,-4.5,-3.5,-2.5,-3.5
+10,Maths,Geometry,Intermediate,Compute: 2^4,18,16,8,32,16
+10,Maths,Statistics,Intermediate,Compute: 2^8,512,128,256,258,256
+10,Maths,Statistics,Intermediate,"For x^2 + (7)x + (12) = 0, which is a solution?",3,-1,-3,-31,-3
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-3,-2) and (0,0)?",-0.6666666666666666,0.6666666666666666,-0.33333333333333337,1.6666666666666665,0.6666666666666666
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-9,9) and (-4,3)?",-1.2,-0.19999999999999996,1.2,-2.2,-1.2
+10,Maths,Quadratic Expressions,Intermediate,"For x^2 + (6)x + (-7) = 0, which is a solution?",11,-1,1,3,1
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-7,-7) and (-5,0)?",-3.5,2.5,3.5,4.5,3.5
+10,Maths,Statistics,Intermediate,"For x^2 + (7)x + (-8) = 0, which is a solution?",1,3,-1,11,1
+10,Maths,Quadratic Expressions,Intermediate,Compute: 3^2,3,9,12,27,9
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-2,5) and (1,14)?",2.0,-3.0,3.0,4.0,3.0
+10,Maths,Geometry,Intermediate,Compute: 3^7,729,2187,6561,2190,2187
+10,Maths,Quadratic Expressions,Intermediate,"For x^2 + (-2)x + (-8) = 0, which is a solution?",-4,4,6,41,4
+10,Maths,Quadratic Expressions,Intermediate,"For x^2 + (-1)x + (-56) = 0, which is a solution?",8,10,81,-8,8
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (7,2) and (11,5)?",-0.25,0.75,-0.75,1.75,0.75
+10,Maths,Quadratic Expressions,Intermediate,"For x^2 + (-10)x + (25) = 0, which is a solution?",-5,5,7,51,5
+10,Maths,Quadratic Expressions,Intermediate,Compute: 5^3,625,125,130,25,125
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-7,10) and (-2,17)?",1.4,0.3999999999999999,2.4,-1.4,1.4
+10,Maths,Statistics,Intermediate,"For x^2 + (-11)x + (28) = 0, which is a solution?",71,9,7,-7,7
+10,Maths,Geometry,Intermediate,Compute: 5^5,15625,3130,3125,625,3125
+10,Maths,Geometry,Intermediate,Compute: 5^6,3125,15630,15625,78125,15625
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (0,-1) and (2,1)?",0.0,1.0,-1.0,2.0,1.0
+10,Maths,Statistics,Intermediate,Compute: 3^3,9,81,27,30,27
+10,Maths,Statistics,Intermediate,Compute: 2^3,8,16,10,4,8
+10,Maths,Quadratic Expressions,Intermediate,"For x^2 + (11)x + (18) = 0, which is a solution?",-21,-2,2,0,-2
+10,Maths,Geometry,Intermediate,"For x^2 + (-1)x + (-6) = 0, which is a solution?",31,3,-3,5,3
+10,Maths,Quadratic Expressions,Intermediate,"For x^2 + (-7)x + (10) = 0, which is a solution?",5,7,51,-5,5
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-7,-7) and (-5,-9)?",0.0,1.0,-1.0,-2.0,-1.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-8,8) and (-6,14)?",-3.0,4.0,2.0,3.0,3.0
+10,Maths,Geometry,Intermediate,"For x^2 + (-3)x + (-10) = 0, which is a solution?",5,-5,7,51,5
+10,Maths,Geometry,Intermediate,"For x^2 + (0)x + (-36) = 0, which is a solution?",-61,-4,-6,6,-6
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-5,-3) and (-2,-9)?",-3.0,-2.0,2.0,-1.0,-2.0
+10,Maths,Statistics,Intermediate,"For x^2 + (1)x + (-2) = 0, which is a solution?",2,-21,-2,0,-2
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-6,-2) and (-2,-11)?",-2.25,-3.25,-1.25,2.25,-2.25
+10,Maths,Linear Systems,Intermediate,"For x^2 + (2)x + (-8) = 0, which is a solution?",-2,-4,4,-41,-4
+10,Maths,Geometry,Intermediate,"For x^2 + (10)x + (9) = 0, which is a solution?",9,-91,-9,-7,-9
+10,Maths,Geometry,Intermediate,Compute: 2^2,8,6,4,2,4
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (6,2) and (8,11)?",4.5,-4.5,3.5,5.5,4.5
+10,Maths,Statistics,Intermediate,Compute: 3^6,243,2187,732,729,729
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-3,-4) and (-2,-8)?",-3.0,-4.0,-5.0,4.0,-4.0
+10,Maths,Geometry,Intermediate,Compute: 5^2,125,5,25,30,25
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (3,-2) and (5,3)?",2.5,1.5,3.5,-2.5,2.5
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-6,-1) and (-3,5)?",3.0,2.0,-2.0,1.0,2.0
+10,Maths,Linear Systems,Intermediate,Compute: 2^6,32,128,66,64,64
+10,Maths,Quadratic Expressions,Intermediate,"For x^2 + (-6)x + (9) = 0, which is a solution?",-3,5,31,3,3
+10,Maths,Quadratic Expressions,Intermediate,"For x^2 + (7)x + (0) = 0, which is a solution?",2,01,0,Option 3,0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-10,3) and (-7,-3)?",-3.0,-2.0,-1.0,2.0,-2.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-9,8) and (-5,11)?",-0.25,1.75,-0.75,0.75,0.75
+10,Maths,Quadratic Expressions,Intermediate,"For x^2 + (-9)x + (14) = 0, which is a solution?",21,2,4,-2,2
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-3,-8) and (0,-13)?",-2.666666666666667,-1.6666666666666667,-0.6666666666666667,1.6666666666666667,-1.6666666666666667
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (9,-7) and (12,3)?",2.3333333333333335,-3.3333333333333335,4.333333333333334,3.3333333333333335,3.3333333333333335
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-2,9) and (2,-1)?",-3.5,-1.5,-2.5,2.5,-2.5
+10,Maths,Geometry,Intermediate,Compute: 5^4,3125,125,625,630,625
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-3,-3) and (-1,-11)?",-4.0,4.0,-5.0,-3.0,-4.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-6,2) and (-4,12)?",-5.0,4.0,5.0,6.0,5.0
+10,Maths,Linear Systems,Intermediate,"For x^2 + (-2)x + (-24) = 0, which is a solution?",6,8,-6,61,6
+10,Maths,Linear Systems,Intermediate,"For x^2 + (-2)x + (-3) = 0, which is a solution?",3,31,5,-3,3
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-1,7) and (2,-3)?",3.3333333333333335,-4.333333333333334,-2.3333333333333335,-3.3333333333333335,-3.3333333333333335
+10,Maths,Statistics,Intermediate,"For x^2 + (-6)x + (-7) = 0, which is a solution?",9,7,-7,71,7
+10,Maths,Statistics,Intermediate,Compute: 2^5,64,34,16,32,32
+10,Maths,Geometry,Intermediate,"For x^2 + (5)x + (-36) = 0, which is a solution?",4,41,-4,6,4
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-9,-3) and (-5,-8)?",1.25,-2.25,-1.25,-0.25,-1.25
+10,Maths,Statistics,Intermediate,Compute: 5^7,78125,390625,78130,15625,78125
+10,Maths,Linear Systems,Intermediate,"For x^2 + (-3)x + (-4) = 0, which is a solution?",-1,-11,1,Option 3,-1
+10,Maths,Geometry,Intermediate,"For x^2 + (8)x + (0) = 0, which is a solution?",-8,8,-6,-81,-8
+10,Maths,Statistics,Intermediate,"For x^2 + (15)x + (54) = 0, which is a solution?",-9,-7,-91,9,-9
+10,Maths,Quadratic Expressions,Intermediate,"For x^2 + (8)x + (15) = 0, which is a solution?",-5,5,-3,-51,-5
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-10,0) and (-9,4)?",3.0,5.0,-4.0,4.0,4.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-2,3) and (-1,4)?",2.0,1.0,-1.0,0.0,1.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (1,4) and (2,11)?",6.0,7.0,8.0,-7.0,7.0
+10,Maths,Geometry,Intermediate,"For x^2 + (10)x + (24) = 0, which is a solution?",-41,-2,4,-4,-4
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (0,-6) and (2,-12)?",-4.0,3.0,-2.0,-3.0,-3.0
+10,Maths,Statistics,Intermediate,"For x^2 + (4)x + (-5) = 0, which is a solution?",5,-3,-51,-5,-5
+10,Maths,Quadratic Expressions,Intermediate,"For x^2 + (-8)x + (-9) = 0, which is a solution?",Option 3,1,-1,-11,-1
+10,Maths,Linear Systems,Intermediate,"For x^2 + (-8)x + (12) = 0, which is a solution?",-2,4,2,21,2
+10,Maths,Geometry,Intermediate,"For x^2 + (2)x + (-24) = 0, which is a solution?",4,6,-4,41,4
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-10,-10) and (-5,-15)?",-1.0,0.0,-2.0,1.0,-1.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-2,-6) and (-1,-7)?",-1.0,0.0,-2.0,1.0,-1.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-9,-4) and (-6,-12)?",2.6666666666666665,-2.6666666666666665,-3.6666666666666665,-1.6666666666666665,-2.6666666666666665
+10,Maths,Geometry,Intermediate,"For x^2 + (9)x + (18) = 0, which is a solution?",-31,-3,-1,3,-3
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-4,4) and (0,9)?",2.25,-1.25,0.25,1.25,1.25
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-1,7) and (1,1)?",-2.0,-4.0,3.0,-3.0,-3.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-3,-10) and (-2,-7)?",3.0,4.0,2.0,-3.0,3.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (9,-4) and (13,-10)?",-1.5,-0.5,1.5,-2.5,-1.5
+10,Maths,Statistics,Intermediate,"For x^2 + (-3)x + (-40) = 0, which is a solution?",-8,10,81,8,8
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-2,-6) and (-1,-12)?",-7.0,-6.0,-5.0,6.0,-6.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (3,10) and (8,12)?",0.4,-0.6,1.4,-0.4,0.4
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-6,-6) and (-1,-6)?",-0.0,0.0,1.0,-1.0,0.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-8,-9) and (-6,-14)?",2.5,-2.5,-1.5,-3.5,-2.5
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-10,-6) and (-6,-2)?",0.0,2.0,1.0,-1.0,1.0
+10,Maths,Statistics,Intermediate,"For x^2 + (-7)x + (6) = 0, which is a solution?",6,61,8,-6,6
+10,Maths,Linear Systems,Intermediate,"For x^2 + (12)x + (32) = 0, which is a solution?",-6,-81,-8,8,-8
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-1,-3) and (2,2)?",-1.6666666666666667,1.6666666666666667,2.666666666666667,0.6666666666666667,1.6666666666666667
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (6,-8) and (7,-15)?",7.0,-6.0,-8.0,-7.0,-7.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (9,9) and (13,12)?",-0.25,0.75,1.75,-0.75,0.75
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (0,2) and (3,4)?",-0.33333333333333337,-0.6666666666666666,1.6666666666666665,0.6666666666666666,0.6666666666666666
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-5,8) and (-4,1)?",-6.0,7.0,-8.0,-7.0,-7.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-7,-3) and (-5,-10)?",-4.5,3.5,-3.5,-2.5,-3.5
+10,Maths,Linear Systems,Intermediate,"For x^2 + (3)x + (-28) = 0, which is a solution?",4,41,6,-4,4
+10,Maths,Quadratic Expressions,Intermediate,"For x^2 + (5)x + (-6) = 0, which is a solution?",-1,11,1,3,1
+10,Maths,Geometry,Intermediate,"For x^2 + (-13)x + (42) = 0, which is a solution?",61,8,6,-6,6
+10,Maths,Linear Systems,Intermediate,"For x^2 + (17)x + (72) = 0, which is a solution?",-8,-6,-81,8,-8
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (2,10) and (4,0)?",-6.0,5.0,-4.0,-5.0,-5.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-10,-7) and (-9,-2)?",4.0,-5.0,6.0,5.0,5.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (4,-10) and (5,-17)?",-8.0,7.0,-6.0,-7.0,-7.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-3,8) and (2,1)?",-2.4,-1.4,1.4,-0.3999999999999999,-1.4
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (0,6) and (1,12)?",5.0,-6.0,6.0,7.0,6.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (10,-1) and (14,-4)?",0.25,-1.75,0.75,-0.75,-0.75
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-4,-2) and (1,-7)?",1.0,0.0,-1.0,-2.0,-1.0
+10,Maths,Quadratic Expressions,Intermediate,Compute: 2^7,130,128,256,64,128
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (10,2) and (13,-8)?",-2.3333333333333335,-4.333333333333334,3.3333333333333335,-3.3333333333333335,-3.3333333333333335
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (6,-10) and (11,-15)?",-1.0,1.0,0.0,-2.0,-1.0
+10,Maths,Geometry,Intermediate,Compute: 5^8,390630,390625,78125,1953125,390625
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (8,10) and (13,5)?",1.0,-1.0,-2.0,0.0,-1.0
+10,Maths,Quadratic Expressions,Intermediate,"For x^2 + (8)x + (-9) = 0, which is a solution?",3,1,-1,11,1
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (6,3) and (9,10)?",3.3333333333333335,1.3333333333333335,2.3333333333333335,-2.3333333333333335,2.3333333333333335
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-6,5) and (-4,-4)?",-3.5,-4.5,-5.5,4.5,-4.5
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (4,-1) and (9,5)?",0.19999999999999996,1.2,-1.2,2.2,1.2
+10,Maths,Geometry,Intermediate,"For x^2 + (-10)x + (24) = 0, which is a solution?",6,-6,61,8,6
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (2,-10) and (5,-12)?",-0.6666666666666666,0.6666666666666666,0.33333333333333337,-1.6666666666666665,-0.6666666666666666
+10,Maths,Linear Systems,Intermediate,"For x^2 + (1)x + (0) = 0, which is a solution?",Option 3,2,01,0,0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (0,1) and (4,5)?",1.0,-1.0,0.0,2.0,1.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-10,5) and (-7,0)?",-0.6666666666666667,1.6666666666666667,-2.666666666666667,-1.6666666666666667,-1.6666666666666667
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-3,-7) and (-2,2)?",-9.0,8.0,10.0,9.0,9.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-7,-10) and (-2,-3)?",2.4,1.4,0.3999999999999999,-1.4,1.4
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-9,-5) and (-6,2)?",-2.3333333333333335,2.3333333333333335,1.3333333333333335,3.3333333333333335,2.3333333333333335
+10,Maths,Statistics,Intermediate,Compute: 3^5,81,246,243,729,243
+10,Maths,Quadratic Expressions,Intermediate,"For x^2 + (1)x + (-72) = 0, which is a solution?",-9,-7,9,-91,-9
+10,Maths,Geometry,Intermediate,"For x^2 + (3)x + (2) = 0, which is a solution?",-2,-21,2,0,-2
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-9,-10) and (-7,-3)?",-3.5,3.5,2.5,4.5,3.5
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-9,6) and (-6,9)?",1.0,0.0,-1.0,2.0,1.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (2,1) and (6,-4)?",-0.25,1.25,-1.25,-2.25,-1.25
+10,Maths,Geometry,Intermediate,"For x^2 + (-8)x + (15) = 0, which is a solution?",31,5,3,-3,3
+10,Maths,Linear Systems,Intermediate,"For x^2 + (3)x + (-18) = 0, which is a solution?",-6,-4,-61,6,-6
+10,Maths,Statistics,Intermediate,Compute: 3^8,2187,6561,6564,19683,6561
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-5,4) and (-1,13)?",2.25,3.25,-2.25,1.25,2.25
+10,Maths,Quadratic Expressions,Intermediate,"For x^2 + (-1)x + (-12) = 0, which is a solution?",-31,-3,3,-1,-3
+10,Maths,Linear Systems,Intermediate,"For x^2 + (7)x + (6) = 0, which is a solution?",Option 3,1,-11,-1,-1
+10,Maths,Statistics,Intermediate,"For x^2 + (4)x + (0) = 0, which is a solution?",-4,4,-2,-41,-4
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (8,2) and (10,-7)?",-3.5,-5.5,-4.5,4.5,-4.5
+10,Maths,Statistics,Intermediate,"For x^2 + (-10)x + (9) = 0, which is a solution?",11,-1,3,1,1
+10,Maths,Statistics,Intermediate,"For x^2 + (-8)x + (7) = 0, which is a solution?",11,-1,3,1,1
+10,Maths,Geometry,Intermediate,"For x^2 + (-1)x + (-72) = 0, which is a solution?",-9,91,9,11,9
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-7,6) and (-5,8)?",-1.0,2.0,0.0,1.0,1.0
+10,Maths,Linear Systems,Intermediate,"For x^2 + (8)x + (16) = 0, which is a solution?",-41,4,-4,-2,-4
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (2,0) and (5,2)?",1.6666666666666665,-0.6666666666666666,-0.33333333333333337,0.6666666666666666,0.6666666666666666
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (1,8) and (4,0)?",-2.6666666666666665,-1.6666666666666665,-3.6666666666666665,2.6666666666666665,-2.6666666666666665
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (1,-4) and (4,-6)?",-1.6666666666666665,-0.6666666666666666,0.6666666666666666,0.33333333333333337,-0.6666666666666666
+10,Maths,Geometry,Intermediate,"For x^2 + (4)x + (3) = 0, which is a solution?",-1,1,Option 3,-11,-1
+10,Maths,Linear Systems,Intermediate,"For x^2 + (-13)x + (36) = 0, which is a solution?",6,-4,4,41,4
+10,Maths,Quadratic Expressions,Intermediate,"For x^2 + (-3)x + (-54) = 0, which is a solution?",9,11,91,-9,9
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-9,-7) and (-5,-2)?",-1.25,0.25,1.25,2.25,1.25
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (7,-5) and (10,-13)?",-1.6666666666666665,-3.6666666666666665,2.6666666666666665,-2.6666666666666665,-2.6666666666666665
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-8,-3) and (-7,2)?",-5.0,4.0,6.0,5.0,5.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (10,9) and (15,1)?",-0.6000000000000001,-1.6,-2.6,1.6,-1.6
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-5,9) and (-3,9)?",-0.0,0.0,-1.0,1.0,0.0
+10,Maths,Geometry,Intermediate,"For x^2 + (2)x + (-3) = 0, which is a solution?",-1,3,1,11,1
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-10,-2) and (-5,-7)?",1.0,-1.0,-2.0,0.0,-1.0
+10,Maths,Quadratic Expressions,Intermediate,"For x^2 + (-5)x + (-14) = 0, which is a solution?",71,-7,9,7,7
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (3,3) and (4,-1)?",-3.0,4.0,-4.0,-5.0,-4.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (10,-9) and (12,-7)?",2.0,-1.0,0.0,1.0,1.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-3,2) and (2,-7)?",-0.8,-1.8,-2.8,1.8,-1.8
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-6,-10) and (-3,-12)?",-0.6666666666666666,-1.6666666666666665,0.6666666666666666,0.33333333333333337,-0.6666666666666666
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (7,-5) and (12,5)?",3.0,-2.0,2.0,1.0,2.0
+10,Maths,Quadratic Expressions,Intermediate,"For x^2 + (-5)x + (0) = 0, which is a solution?",51,7,-5,5,5
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-3,2) and (2,-6)?",-2.6,1.6,-0.6000000000000001,-1.6,-1.6
+10,Maths,Statistics,Intermediate,"For x^2 + (18)x + (81) = 0, which is a solution?",-7,-91,9,-9,-9
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (3,5) and (6,12)?",-2.3333333333333335,3.3333333333333335,2.3333333333333335,1.3333333333333335,2.3333333333333335
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (4,-2) and (6,-7)?",-3.5,-1.5,2.5,-2.5,-2.5
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (7,-10) and (9,-5)?",-2.5,1.5,3.5,2.5,2.5
+10,Maths,Statistics,Intermediate,"For x^2 + (-12)x + (32) = 0, which is a solution?",6,-4,41,4,4
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (9,7) and (10,-1)?",-7.0,-9.0,8.0,-8.0,-8.0
+10,Maths,Quadratic Expressions,Intermediate,"For x^2 + (0)x + (-16) = 0, which is a solution?",4,-4,-41,-2,-4
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (6,3) and (9,11)?",1.6666666666666665,3.6666666666666665,-2.6666666666666665,2.6666666666666665,2.6666666666666665
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-1,6) and (0,6)?",-0.0,-1.0,0.0,1.0,0.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (9,-2) and (13,3)?",-1.25,0.25,2.25,1.25,1.25
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (6,-4) and (10,5)?",-2.25,1.25,3.25,2.25,2.25
+10,Maths,Linear Systems,Intermediate,"For x^2 + (0)x + (-9) = 0, which is a solution?",31,3,5,-3,3
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (3,4) and (8,0)?",-1.8,0.19999999999999996,-0.8,0.8,-0.8
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (10,-7) and (13,-5)?",-0.6666666666666666,1.6666666666666665,-0.33333333333333337,0.6666666666666666,0.6666666666666666
+10,Maths,Linear Systems,Intermediate,"For x^2 + (-9)x + (0) = 0, which is a solution?",-9,9,11,91,9
+10,Maths,Linear Systems,Intermediate,"For x^2 + (1)x + (-42) = 0, which is a solution?",61,8,-6,6,6
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (0,5) and (5,1)?",-0.8,0.19999999999999996,-1.8,0.8,-0.8
+10,Maths,Geometry,Intermediate,"For x^2 + (5)x + (-14) = 0, which is a solution?",-2,4,2,21,2
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (7,2) and (12,-1)?",-0.6,-1.6,0.6,0.4,-0.6
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (7,-5) and (9,-14)?",4.5,-3.5,-5.5,-4.5,-4.5
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (8,9) and (12,5)?",0.0,1.0,-1.0,-2.0,-1.0
+10,Maths,Linear Systems,Intermediate,"For x^2 + (2)x + (1) = 0, which is a solution?",-11,Option 3,-1,1,-1
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-6,1) and (-5,-3)?",4.0,-3.0,-4.0,-5.0,-4.0
+10,Maths,Quadratic Expressions,Intermediate,"For x^2 + (4)x + (-12) = 0, which is a solution?",-4,-6,6,-61,-6
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-5,-8) and (-4,-9)?",0.0,-1.0,1.0,-2.0,-1.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-7,-9) and (-5,-1)?",-4.0,3.0,5.0,4.0,4.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (8,-9) and (9,-14)?",5.0,-5.0,-4.0,-6.0,-5.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (4,7) and (5,3)?",4.0,-4.0,-3.0,-5.0,-4.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (3,-2) and (7,-5)?",-0.75,0.75,0.25,-1.75,-0.75
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-1,-10) and (2,-7)?",2.0,0.0,1.0,-1.0,1.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (8,8) and (11,12)?",1.3333333333333333,0.33333333333333326,2.333333333333333,-1.3333333333333333,1.3333333333333333
+10,Maths,Linear Systems,Intermediate,"For x^2 + (0)x + (-49) = 0, which is a solution?",-71,-5,7,-7,-7
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (7,-7) and (12,1)?",1.6,0.6000000000000001,2.6,-1.6,1.6
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (0,4) and (3,0)?",-2.333333333333333,1.3333333333333333,-1.3333333333333333,-0.33333333333333326,-1.3333333333333333
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-1,-3) and (4,-9)?",1.2,-1.2,-0.19999999999999996,-2.2,-1.2
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (1,1) and (6,6)?",-1.0,0.0,2.0,1.0,1.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-7,-2) and (-6,-4)?",-2.0,2.0,-1.0,-3.0,-2.0
+10,Maths,Geometry,Intermediate,"For x^2 + (-10)x + (21) = 0, which is a solution?",3,5,-3,31,3
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-8,8) and (-7,11)?",3.0,-3.0,2.0,4.0,3.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (1,-7) and (2,-12)?",-5.0,-4.0,5.0,-6.0,-5.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (4,-5) and (6,3)?",3.0,5.0,-4.0,4.0,4.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-2,-5) and (3,-10)?",-2.0,1.0,-1.0,0.0,-1.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (7,-3) and (8,6)?",9.0,-9.0,8.0,10.0,9.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (1,-7) and (2,-17)?",-11.0,-10.0,10.0,-9.0,-10.0
+10,Maths,Statistics,Intermediate,"For x^2 + (0)x + (-64) = 0, which is a solution?",-8,-6,-81,8,-8
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (9,-7) and (10,2)?",9.0,-9.0,8.0,10.0,9.0
+10,Maths,Statistics,Intermediate,"For x^2 + (5)x + (-24) = 0, which is a solution?",3,-3,31,5,3
+10,Maths,Geometry,Intermediate,"For x^2 + (-12)x + (35) = 0, which is a solution?",-7,7,9,71,7
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-10,-9) and (-7,-5)?",1.3333333333333333,-1.3333333333333333,0.33333333333333326,2.333333333333333,1.3333333333333333
+10,Maths,Quadratic Expressions,Intermediate,"For x^2 + (1)x + (-12) = 0, which is a solution?",3,5,31,-3,3
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (9,-6) and (11,-2)?",-2.0,2.0,1.0,3.0,2.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (9,-3) and (10,-2)?",-1.0,2.0,0.0,1.0,1.0
+10,Maths,Quadratic Expressions,Intermediate,"For x^2 + (-4)x + (-45) = 0, which is a solution?",91,11,-9,9,9
+10,Maths,Statistics,Intermediate,"For x^2 + (6)x + (5) = 0, which is a solution?",-5,-3,-51,5,-5
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (1,-9) and (6,-13)?",0.19999999999999996,0.8,-0.8,-1.8,-0.8
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-8,5) and (-7,1)?",-4.0,4.0,-3.0,-5.0,-4.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (4,10) and (6,16)?",3.0,2.0,4.0,-3.0,3.0
+10,Maths,Linear Systems,Intermediate,"For x^2 + (-2)x + (-35) = 0, which is a solution?",-3,5,-5,-51,-5
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-7,3) and (-3,12)?",2.25,-2.25,3.25,1.25,2.25
+10,Maths,Statistics,Intermediate,"For x^2 + (0)x + (-1) = 0, which is a solution?",1,Option 3,-1,-11,-1
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-2,-4) and (1,-12)?",-1.6666666666666665,2.6666666666666665,-3.6666666666666665,-2.6666666666666665,-2.6666666666666665
+10,Maths,Statistics,Intermediate,"For x^2 + (-5)x + (-24) = 0, which is a solution?",10,8,-8,81,8
+10,Maths,Statistics,Intermediate,"For x^2 + (-6)x + (8) = 0, which is a solution?",4,2,-2,21,2
+10,Maths,Statistics,Intermediate,"For x^2 + (4)x + (-21) = 0, which is a solution?",3,5,31,-3,3
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-6,-4) and (-4,-9)?",-3.5,-1.5,2.5,-2.5,-2.5
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-2,-8) and (3,-15)?",-1.4,-0.3999999999999999,-2.4,1.4,-1.4
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-9,4) and (-6,6)?",0.6666666666666666,1.6666666666666665,-0.33333333333333337,-0.6666666666666666,0.6666666666666666
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (10,-8) and (11,-7)?",0.0,1.0,-1.0,2.0,1.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-10,-8) and (-7,-13)?",-0.6666666666666667,1.6666666666666667,-2.666666666666667,-1.6666666666666667,-1.6666666666666667
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (1,-2) and (5,-2)?",1.0,0.0,-0.0,-1.0,0.0
+10,Maths,Statistics,Intermediate,"For x^2 + (14)x + (45) = 0, which is a solution?",-5,-51,5,-3,-5
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (9,3) and (13,2)?",-1.25,0.25,-0.25,0.75,-0.25
+10,Maths,Linear Systems,Intermediate,"For x^2 + (-4)x + (3) = 0, which is a solution?",31,-3,5,3,3
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-9,4) and (-5,4)?",0.0,-1.0,1.0,-0.0,0.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (5,2) and (6,-4)?",-5.0,-7.0,-6.0,6.0,-6.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-4,-3) and (0,-11)?",-1.0,-3.0,-2.0,2.0,-2.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-10,9) and (-6,4)?",-0.25,-1.25,-2.25,1.25,-1.25
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-9,-10) and (-5,-19)?",-1.25,-3.25,2.25,-2.25,-2.25
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (4,6) and (6,-2)?",-3.0,-5.0,4.0,-4.0,-4.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-3,4) and (2,-3)?",-0.3999999999999999,1.4,-1.4,-2.4,-1.4
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (2,3) and (6,0)?",-1.75,0.25,0.75,-0.75,-0.75
+10,Maths,Statistics,Intermediate,"For x^2 + (-4)x + (0) = 0, which is a solution?",41,6,4,-4,4
+10,Maths,Statistics,Intermediate,"For x^2 + (-14)x + (45) = 0, which is a solution?",51,5,7,-5,5
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-3,-1) and (2,-6)?",-1.0,0.0,1.0,-2.0,-1.0
+10,Maths,Linear Systems,Intermediate,"For x^2 + (9)x + (8) = 0, which is a solution?",1,Option 3,-1,-11,-1
+10,Maths,Geometry,Intermediate,"For x^2 + (-3)x + (-18) = 0, which is a solution?",8,61,-6,6,6
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (1,-2) and (4,5)?",-2.3333333333333335,3.3333333333333335,2.3333333333333335,1.3333333333333335,2.3333333333333335
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-6,-8) and (-1,1)?",0.8,1.8,2.8,-1.8,1.8
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-5,0) and (0,-5)?",-1.0,-2.0,0.0,1.0,-1.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (6,-9) and (9,-12)?",-1.0,1.0,0.0,-2.0,-1.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-7,-8) and (-6,-18)?",10.0,-10.0,-11.0,-9.0,-10.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (10,-8) and (12,1)?",5.5,-4.5,4.5,3.5,4.5
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-6,-7) and (-1,-11)?",-0.8,0.19999999999999996,-1.8,0.8,-0.8
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (1,7) and (3,-2)?",4.5,-3.5,-4.5,-5.5,-4.5
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (3,-10) and (4,-4)?",7.0,5.0,-6.0,6.0,6.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-10,6) and (-7,6)?",1.0,0.0,-0.0,-1.0,0.0
+10,Maths,Statistics,Intermediate,"For x^2 + (2)x + (-48) = 0, which is a solution?",8,-6,61,6,6
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (3,2) and (5,11)?",4.5,5.5,3.5,-4.5,4.5
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (2,0) and (5,10)?",4.333333333333334,3.3333333333333335,2.3333333333333335,-3.3333333333333335,3.3333333333333335
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (7,0) and (8,4)?",5.0,3.0,4.0,-4.0,4.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (4,1) and (8,0)?",0.75,0.25,-1.25,-0.25,-0.25
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-1,-3) and (2,-5)?",0.6666666666666666,-0.6666666666666666,0.33333333333333337,-1.6666666666666665,-0.6666666666666666
+10,Maths,Geometry,Intermediate,"For x^2 + (1)x + (-56) = 0, which is a solution?",-6,8,-81,-8,-8
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-6,1) and (-2,2)?",0.25,-0.25,1.25,-0.75,0.25
+10,Maths,Geometry,Intermediate,"For x^2 + (1)x + (-6) = 0, which is a solution?",2,4,-2,21,2
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (1,-7) and (6,3)?",-2.0,1.0,3.0,2.0,2.0
+10,Maths,Quadratic Expressions,Intermediate,"For x^2 + (-10)x + (16) = 0, which is a solution?",2,-2,4,21,2
+10,Maths,Quadratic Expressions,Intermediate,"For x^2 + (10)x + (21) = 0, which is a solution?",-71,7,-5,-7,-7
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-8,-1) and (-7,-1)?",0.0,-0.0,1.0,-1.0,0.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (3,1) and (6,7)?",3.0,1.0,-2.0,2.0,2.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (4,4) and (8,-6)?",2.5,-2.5,-3.5,-1.5,-2.5
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (9,-6) and (11,-9)?",1.5,-1.5,-0.5,-2.5,-1.5
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-9,-2) and (-7,-9)?",-2.5,-4.5,3.5,-3.5,-3.5
+10,Maths,Statistics,Intermediate,"For x^2 + (-17)x + (72) = 0, which is a solution?",11,-9,9,91,9
+10,Maths,Linear Systems,Intermediate,"For x^2 + (5)x + (4) = 0, which is a solution?",4,-41,-2,-4,-4
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (2,4) and (5,14)?",4.333333333333334,2.3333333333333335,-3.3333333333333335,3.3333333333333335,3.3333333333333335
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (6,-9) and (11,-5)?",1.8,-0.8,-0.19999999999999996,0.8,0.8
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-8,-8) and (-5,-17)?",-2.0,-4.0,3.0,-3.0,-3.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (6,-2) and (7,-4)?",-3.0,-1.0,2.0,-2.0,-2.0
+10,Maths,Quadratic Expressions,Intermediate,"For x^2 + (8)x + (7) = 0, which is a solution?",-11,Option 3,-1,1,-1
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (1,-4) and (5,3)?",0.75,2.75,-1.75,1.75,1.75
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-6,-7) and (-2,-17)?",-1.5,-2.5,-3.5,2.5,-2.5
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-5,-5) and (-4,-14)?",-10.0,-9.0,-8.0,9.0,-9.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (1,-10) and (2,-18)?",8.0,-9.0,-8.0,-7.0,-8.0
+10,Maths,Statistics,Intermediate,"For x^2 + (10)x + (16) = 0, which is a solution?",-81,-8,-6,8,-8
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (4,5) and (9,11)?",2.2,0.19999999999999996,1.2,-1.2,1.2
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (8,10) and (12,7)?",0.75,0.25,-1.75,-0.75,-0.75
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (9,-2) and (10,0)?",3.0,2.0,1.0,-2.0,2.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (2,-2) and (5,4)?",1.0,2.0,-2.0,3.0,2.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (7,0) and (10,4)?",0.33333333333333326,-1.3333333333333333,1.3333333333333333,2.333333333333333,1.3333333333333333
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (1,3) and (6,-1)?",-1.8,0.8,-0.8,0.19999999999999996,-0.8
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (9,7) and (14,17)?",-2.0,3.0,2.0,1.0,2.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (3,-9) and (5,1)?",6.0,5.0,4.0,-5.0,5.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (5,-6) and (6,-16)?",10.0,-9.0,-11.0,-10.0,-10.0
+10,Maths,Geometry,Intermediate,"For x^2 + (6)x + (0) = 0, which is a solution?",-6,-4,-61,6,-6
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-1,-10) and (0,-19)?",-10.0,-8.0,9.0,-9.0,-9.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-6,9) and (-2,11)?",1.5,Option 3,0.5,-0.5,0.5
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (2,-8) and (6,-13)?",-0.25,-1.25,1.25,-2.25,-1.25
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-9,-8) and (-7,-14)?",3.0,-2.0,-3.0,-4.0,-3.0
+10,Maths,Quadratic Expressions,Intermediate,"For x^2 + (15)x + (56) = 0, which is a solution?",7,-71,-5,-7,-7
+10,Maths,Quadratic Expressions,Intermediate,"For x^2 + (-9)x + (18) = 0, which is a solution?",-6,61,6,8,6
+10,Maths,Geometry,Intermediate,"For x^2 + (4)x + (-45) = 0, which is a solution?",-9,-91,9,-7,-9
+10,Maths,Linear Systems,Intermediate,"For x^2 + (-3)x + (-28) = 0, which is a solution?",4,-4,-41,-2,-4
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (0,-7) and (5,-16)?",-2.8,-1.8,1.8,-0.8,-1.8
+10,Maths,Quadratic Expressions,Intermediate,"For x^2 + (6)x + (8) = 0, which is a solution?",-2,-21,2,0,-2
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (10,-1) and (15,7)?",1.6,2.6,0.6000000000000001,-1.6,1.6
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-8,0) and (-5,0)?",1.0,0.0,-1.0,-0.0,0.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (5,4) and (10,11)?",0.3999999999999999,2.4,1.4,-1.4,1.4
+10,Maths,Geometry,Intermediate,"For x^2 + (-4)x + (-12) = 0, which is a solution?",61,6,-6,8,6
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (1,2) and (3,-7)?",-3.5,-5.5,4.5,-4.5,-4.5
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-6,6) and (-4,6)?",-1.0,-0.0,1.0,0.0,0.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-2,-1) and (-1,-3)?",-2.0,2.0,-3.0,-1.0,-2.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-6,10) and (-2,14)?",1.0,2.0,-1.0,0.0,1.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-2,-10) and (-1,-1)?",9.0,8.0,-9.0,10.0,9.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (4,-6) and (6,-2)?",3.0,-2.0,2.0,1.0,2.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (10,-5) and (12,-12)?",-2.5,-3.5,3.5,-4.5,-3.5
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-9,-10) and (-7,-5)?",2.5,3.5,-2.5,1.5,2.5
+10,Maths,Quadratic Expressions,Intermediate,"For x^2 + (16)x + (63) = 0, which is a solution?",9,-7,-91,-9,-9
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-8,8) and (-6,4)?",-3.0,-1.0,2.0,-2.0,-2.0
+10,Maths,Statistics,Intermediate,"For x^2 + (0)x + (0) = 0, which is a solution?",Option 3,2,0,01,0
+10,Maths,Statistics,Intermediate,"For x^2 + (-2)x + (0) = 0, which is a solution?",Option 3,2,01,0,0
+10,Maths,Statistics,Intermediate,"For x^2 + (-1)x + (-20) = 0, which is a solution?",51,5,-5,7,5
+10,Maths,Statistics,Intermediate,"For x^2 + (13)x + (42) = 0, which is a solution?",-5,-71,-7,7,-7
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (8,-4) and (12,-1)?",-0.25,1.75,0.75,-0.75,0.75
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (3,-8) and (7,-10)?",-1.5,0.5,-0.5,Option 3,-0.5
+10,Maths,Linear Systems,Intermediate,"For x^2 + (3)x + (-40) = 0, which is a solution?",51,7,-5,5,5
+10,Maths,Quadratic Expressions,Intermediate,"For x^2 + (14)x + (49) = 0, which is a solution?",-5,7,-7,-71,-7
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-10,-2) and (-5,-3)?",0.2,0.8,-1.2,-0.2,-0.2
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (2,0) and (7,5)?",1.0,-1.0,2.0,0.0,1.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (5,7) and (8,3)?",1.3333333333333333,-0.33333333333333326,-2.333333333333333,-1.3333333333333333,-1.3333333333333333
+10,Maths,Linear Systems,Intermediate,"For x^2 + (-6)x + (5) = 0, which is a solution?",11,1,-1,3,1
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-2,-10) and (3,-12)?",0.4,-0.4,-1.4,0.6,-0.4
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (7,4) and (12,-4)?",-0.6000000000000001,-2.6,-1.6,1.6,-1.6
+10,Maths,Quadratic Expressions,Intermediate,"For x^2 + (1)x + (-30) = 0, which is a solution?",-4,-61,6,-6,-6
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-2,-4) and (2,-14)?",-3.5,-1.5,2.5,-2.5,-2.5
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (1,1) and (3,-1)?",0.0,-1.0,-2.0,1.0,-1.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-4,-7) and (-1,-11)?",-1.3333333333333333,-0.33333333333333326,-2.333333333333333,1.3333333333333333,-1.3333333333333333
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-6,-7) and (-3,-4)?",0.0,2.0,1.0,-1.0,1.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (6,-9) and (8,-5)?",1.0,-2.0,2.0,3.0,2.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-10,-6) and (-8,-14)?",4.0,-3.0,-5.0,-4.0,-4.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (0,-4) and (4,-1)?",-0.75,1.75,0.75,-0.25,0.75
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (9,2) and (12,-2)?",-1.3333333333333333,-2.333333333333333,-0.33333333333333326,1.3333333333333333,-1.3333333333333333
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-4,7) and (0,17)?",3.5,-2.5,1.5,2.5,2.5
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-7,5) and (-2,11)?",0.19999999999999996,-1.2,1.2,2.2,1.2
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (6,9) and (9,14)?",0.6666666666666667,2.666666666666667,-1.6666666666666667,1.6666666666666667,1.6666666666666667
+10,Maths,Statistics,Intermediate,"For x^2 + (-6)x + (-27) = 0, which is a solution?",11,-9,91,9,9
+10,Maths,Linear Systems,Intermediate,"For x^2 + (-5)x + (6) = 0, which is a solution?",5,3,31,-3,3
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (4,8) and (5,11)?",-3.0,4.0,3.0,2.0,3.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (0,9) and (2,17)?",3.0,4.0,-4.0,5.0,4.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-4,-8) and (-3,-8)?",-0.0,0.0,-1.0,1.0,0.0
+10,Maths,Linear Systems,Intermediate,"For x^2 + (-5)x + (-6) = 0, which is a solution?",8,-6,6,61,6
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-4,8) and (-2,13)?",1.5,3.5,2.5,-2.5,2.5
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (6,2) and (9,6)?",2.333333333333333,-1.3333333333333333,0.33333333333333326,1.3333333333333333,1.3333333333333333
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (1,-10) and (3,-17)?",-4.5,-2.5,-3.5,3.5,-3.5
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (1,0) and (5,-8)?",-1.0,2.0,-3.0,-2.0,-2.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-1,-8) and (1,-10)?",1.0,-1.0,0.0,-2.0,-1.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (9,-4) and (13,-7)?",0.75,0.25,-0.75,-1.75,-0.75
+10,Maths,Geometry,Intermediate,"For x^2 + (9)x + (20) = 0, which is a solution?",5,-51,-3,-5,-5
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (10,-3) and (15,7)?",2.0,1.0,-2.0,3.0,2.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (0,7) and (1,-1)?",-9.0,-7.0,-8.0,8.0,-8.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-2,-8) and (0,-5)?",-1.5,2.5,1.5,0.5,1.5
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-4,4) and (-3,-4)?",-9.0,8.0,-8.0,-7.0,-8.0
+10,Maths,Geometry,Intermediate,"For x^2 + (-7)x + (0) = 0, which is a solution?",71,9,-7,7,7
+10,Maths,Statistics,Intermediate,"For x^2 + (2)x + (0) = 0, which is a solution?",0,2,Option 3,01,0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-9,5) and (-8,14)?",8.0,9.0,-9.0,10.0,9.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (3,8) and (8,16)?",-1.6,1.6,2.6,0.6000000000000001,1.6
+10,Maths,Geometry,Intermediate,"For x^2 + (-6)x + (0) = 0, which is a solution?",0,01,2,Option 3,0
+10,Maths,Linear Systems,Intermediate,"For x^2 + (-15)x + (56) = 0, which is a solution?",71,9,-7,7,7
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (3,-9) and (6,-4)?",1.6666666666666667,2.666666666666667,0.6666666666666667,-1.6666666666666667,1.6666666666666667
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (6,-5) and (7,-12)?",-6.0,-8.0,7.0,-7.0,-7.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-3,5) and (-1,12)?",-3.5,4.5,2.5,3.5,3.5
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-3,10) and (0,19)?",-3.0,2.0,3.0,4.0,3.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (1,4) and (5,6)?",1.5,-0.5,Option 3,0.5,0.5
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (9,1) and (11,-2)?",-1.5,1.5,-2.5,-0.5,-1.5
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (3,-3) and (7,6)?",3.25,2.25,-2.25,1.25,2.25
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-8,-6) and (-7,-16)?",-9.0,-10.0,-11.0,10.0,-10.0
+10,Maths,Geometry,Intermediate,"For x^2 + (12)x + (35) = 0, which is a solution?",5,-3,-51,-5,-5
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-1,7) and (3,4)?",0.25,0.75,-1.75,-0.75,-0.75
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-4,5) and (1,4)?",0.8,-1.2,0.2,-0.2,-0.2
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (10,9) and (15,6)?",0.6,-1.6,0.4,-0.6,-0.6
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (7,-4) and (12,2)?",-1.2,0.19999999999999996,1.2,2.2,1.2
+10,Maths,Linear Systems,Intermediate,"For x^2 + (-7)x + (-18) = 0, which is a solution?",9,-9,11,91,9
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-1,6) and (3,-2)?",-3.0,-2.0,-1.0,2.0,-2.0
+10,Maths,Statistics,Intermediate,"For x^2 + (-11)x + (24) = 0, which is a solution?",81,8,10,-8,8
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-9,-10) and (-8,-16)?",6.0,-7.0,-6.0,-5.0,-6.0
+10,Maths,Quadratic Expressions,Intermediate,"For x^2 + (-7)x + (12) = 0, which is a solution?",-3,5,3,31,3
+10,Maths,Linear Systems,Intermediate,"For x^2 + (-2)x + (-48) = 0, which is a solution?",81,-8,10,8,8
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-1,-9) and (2,-18)?",-4.0,3.0,-2.0,-3.0,-3.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-6,0) and (-4,-3)?",1.5,-0.5,-2.5,-1.5,-1.5
+10,Maths,Statistics,Intermediate,"For x^2 + (-2)x + (1) = 0, which is a solution?",3,-1,1,11,1
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (1,10) and (3,13)?",1.5,-1.5,0.5,2.5,1.5
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-6,-7) and (-4,-1)?",2.0,-3.0,4.0,3.0,3.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-2,-4) and (2,4)?",1.0,2.0,3.0,-2.0,2.0
+10,Maths,Quadratic Expressions,Intermediate,"For x^2 + (9)x + (14) = 0, which is a solution?",-2,0,2,-21,-2
+10,Maths,Quadratic Expressions,Intermediate,"For x^2 + (-6)x + (-16) = 0, which is a solution?",81,8,-8,10,8
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (7,10) and (9,16)?",4.0,2.0,3.0,-3.0,3.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (8,6) and (12,-3)?",2.25,-3.25,-1.25,-2.25,-2.25
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-4,0) and (-3,-10)?",-11.0,-9.0,10.0,-10.0,-10.0
+10,Maths,Quadratic Expressions,Intermediate,"For x^2 + (5)x + (6) = 0, which is a solution?",2,-2,-21,0,-2
+10,Maths,Statistics,Intermediate,"For x^2 + (9)x + (0) = 0, which is a solution?",-9,-91,9,-7,-9
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-3,-5) and (-2,-3)?",1.0,3.0,-2.0,2.0,2.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (2,3) and (5,4)?",1.3333333333333333,-0.3333333333333333,-0.6666666666666667,0.3333333333333333,0.3333333333333333
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-2,-6) and (2,-3)?",-0.25,1.75,-0.75,0.75,0.75
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (9,-6) and (10,0)?",5.0,6.0,-6.0,7.0,6.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (2,0) and (3,3)?",-3.0,3.0,4.0,2.0,3.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (1,-1) and (4,-11)?",-4.333333333333334,-3.3333333333333335,3.3333333333333335,-2.3333333333333335,-3.3333333333333335
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (9,-5) and (14,4)?",1.8,-1.8,0.8,2.8,1.8
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (2,4) and (7,8)?",-0.8,-0.19999999999999996,1.8,0.8,0.8
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-6,-1) and (-1,3)?",0.8,1.8,-0.19999999999999996,-0.8,0.8
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (10,1) and (12,-5)?",3.0,-4.0,-3.0,-2.0,-3.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-6,-1) and (-5,-11)?",-9.0,10.0,-10.0,-11.0,-10.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (4,8) and (6,9)?",Option 3,-0.5,1.5,0.5,0.5
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (5,-7) and (8,-15)?",2.6666666666666665,-2.6666666666666665,-1.6666666666666665,-3.6666666666666665,-2.6666666666666665
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (1,9) and (3,18)?",4.5,-4.5,5.5,3.5,4.5
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (8,4) and (12,-3)?",-1.75,1.75,-0.75,-2.75,-1.75
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (3,7) and (6,0)?",-2.3333333333333335,-3.3333333333333335,2.3333333333333335,-1.3333333333333335,-2.3333333333333335
+10,Maths,Statistics,Intermediate,"For x^2 + (14)x + (48) = 0, which is a solution?",-4,6,-6,-61,-6
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (2,5) and (7,13)?",-1.6,0.6000000000000001,1.6,2.6,1.6
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-2,-7) and (-1,-15)?",-8.0,-7.0,8.0,-9.0,-8.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (8,1) and (13,7)?",-1.2,2.2,1.2,0.19999999999999996,1.2
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-5,-8) and (-3,-7)?",1.5,-0.5,0.5,Option 3,0.5
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-3,-3) and (-1,0)?",2.5,1.5,-1.5,0.5,1.5
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-2,6) and (3,1)?",-2.0,0.0,1.0,-1.0,-1.0
+10,Maths,Quadratic Expressions,Intermediate,"For x^2 + (-1)x + (-30) = 0, which is a solution?",8,61,-6,6,6
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (6,4) and (11,0)?",-1.8,0.19999999999999996,-0.8,0.8,-0.8
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (9,3) and (14,3)?",-0.0,-1.0,1.0,0.0,0.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-7,4) and (-4,11)?",-2.3333333333333335,2.3333333333333335,3.3333333333333335,1.3333333333333335,2.3333333333333335
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-1,-8) and (2,1)?",3.0,2.0,-3.0,4.0,3.0
+10,Maths,Quadratic Expressions,Intermediate,"For x^2 + (-7)x + (-8) = 0, which is a solution?",1,Option 3,-11,-1,-1
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (6,10) and (8,12)?",0.0,-1.0,1.0,2.0,1.0
+10,Maths,Geometry,Intermediate,"For x^2 + (-12)x + (27) = 0, which is a solution?",5,31,3,-3,3
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (9,6) and (12,14)?",3.6666666666666665,-2.6666666666666665,1.6666666666666665,2.6666666666666665,2.6666666666666665
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (4,0) and (6,4)?",3.0,1.0,-2.0,2.0,2.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-3,-6) and (-1,-2)?",1.0,3.0,-2.0,2.0,2.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (9,0) and (10,-4)?",-4.0,-5.0,4.0,-3.0,-4.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-9,-2) and (-6,-11)?",-4.0,-3.0,3.0,-2.0,-3.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (7,1) and (8,-8)?",-9.0,9.0,-10.0,-8.0,-9.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (2,-1) and (5,-11)?",3.3333333333333335,-2.3333333333333335,-4.333333333333334,-3.3333333333333335,-3.3333333333333335
+10,Maths,Linear Systems,Intermediate,"For x^2 + (-2)x + (-15) = 0, which is a solution?",7,51,5,-5,5
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-3,-1) and (1,-3)?",Option 3,-0.5,0.5,-1.5,-0.5
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (5,6) and (9,5)?",0.75,0.25,-1.25,-0.25,-0.25
+10,Maths,Statistics,Intermediate,"For x^2 + (-14)x + (49) = 0, which is a solution?",-7,9,7,71,7
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (4,3) and (8,-3)?",-0.5,1.5,-2.5,-1.5,-1.5
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (9,-10) and (14,0)?",3.0,-2.0,1.0,2.0,2.0
+10,Maths,Statistics,Intermediate,"For x^2 + (11)x + (30) = 0, which is a solution?",-61,-6,6,-4,-6
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (9,-6) and (14,-6)?",-0.0,-1.0,0.0,1.0,0.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (7,-5) and (9,3)?",5.0,-4.0,3.0,4.0,4.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (4,10) and (8,9)?",0.75,-0.25,-1.25,0.25,-0.25
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (5,9) and (9,4)?",-1.25,1.25,-0.25,-2.25,-1.25
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-9,0) and (-7,4)?",3.0,1.0,2.0,-2.0,2.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (1,5) and (6,9)?",-0.19999999999999996,1.8,0.8,-0.8,0.8
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-9,3) and (-7,-5)?",-4.0,-5.0,4.0,-3.0,-4.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-3,10) and (-2,18)?",8.0,-8.0,7.0,9.0,8.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (10,-7) and (15,-3)?",1.8,-0.19999999999999996,0.8,-0.8,0.8
+10,Maths,Quadratic Expressions,Intermediate,"For x^2 + (3)x + (-10) = 0, which is a solution?",2,21,-2,4,2
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (6,5) and (9,0)?",1.6666666666666667,-2.666666666666667,-0.6666666666666667,-1.6666666666666667,-1.6666666666666667
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (6,6) and (11,4)?",0.4,-1.4,0.6,-0.4,-0.4
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-1,10) and (1,7)?",1.5,-2.5,-0.5,-1.5,-1.5
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (7,-8) and (10,-12)?",-2.333333333333333,-0.33333333333333326,1.3333333333333333,-1.3333333333333333,-1.3333333333333333
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-6,-6) and (-3,-13)?",2.3333333333333335,-3.3333333333333335,-2.3333333333333335,-1.3333333333333335,-2.3333333333333335
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (7,0) and (9,-1)?",-1.5,Option 3,0.5,-0.5,-0.5
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (5,7) and (6,12)?",5.0,4.0,-5.0,6.0,5.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-3,-9) and (1,-13)?",0.0,-2.0,-1.0,1.0,-1.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-1,-4) and (3,-14)?",-1.5,-2.5,-3.5,2.5,-2.5
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (2,-10) and (6,-5)?",-1.25,2.25,1.25,0.25,1.25
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (6,-1) and (9,5)?",1.0,3.0,-2.0,2.0,2.0
+10,Maths,Geometry,Intermediate,"For x^2 + (6)x + (-16) = 0, which is a solution?",4,21,2,-2,2
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-5,-1) and (-4,1)?",1.0,2.0,3.0,-2.0,2.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (5,-4) and (7,-4)?",-1.0,0.0,1.0,-0.0,0.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (0,-7) and (3,1)?",2.6666666666666665,1.6666666666666665,3.6666666666666665,-2.6666666666666665,2.6666666666666665
+10,Maths,Quadratic Expressions,Intermediate,"For x^2 + (10)x + (25) = 0, which is a solution?",-3,-5,-51,5,-5
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-10,2) and (-7,9)?",1.3333333333333335,2.3333333333333335,-2.3333333333333335,3.3333333333333335,2.3333333333333335
+10,Maths,Quadratic Expressions,Intermediate,"For x^2 + (8)x + (12) = 0, which is a solution?",-2,-21,2,0,-2
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (5,-4) and (6,1)?",5.0,4.0,-5.0,6.0,5.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-4,5) and (-2,4)?",-0.5,-1.5,0.5,Option 3,-0.5
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (1,4) and (4,4)?",0.0,-0.0,1.0,-1.0,0.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-8,-4) and (-7,-2)?",-2.0,2.0,1.0,3.0,2.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (3,-1) and (5,0)?",0.5,-0.5,Option 3,1.5,0.5
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-8,-3) and (-5,-5)?",0.6666666666666666,-1.6666666666666665,0.33333333333333337,-0.6666666666666666,-0.6666666666666666
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (10,6) and (15,0)?",1.2,-1.2,-2.2,-0.19999999999999996,-1.2
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (7,0) and (11,6)?",0.5,1.5,-1.5,2.5,1.5
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (3,-3) and (8,-2)?",-0.8,-0.2,1.2,0.2,0.2
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (8,10) and (10,3)?",-3.5,3.5,-4.5,-2.5,-3.5
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (1,0) and (5,2)?",Option 3,-0.5,0.5,1.5,0.5
+10,Maths,Statistics,Intermediate,"For x^2 + (1)x + (-20) = 0, which is a solution?",6,4,-4,41,4
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (9,-9) and (14,0)?",0.8,-1.8,1.8,2.8,1.8
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (2,10) and (3,7)?",-4.0,3.0,-3.0,-2.0,-3.0
+10,Maths,Quadratic Expressions,Intermediate,"For x^2 + (0)x + (-81) = 0, which is a solution?",11,-9,9,91,9
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (10,0) and (14,-3)?",0.25,-1.75,0.75,-0.75,-0.75
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (8,-1) and (10,-6)?",-2.5,-3.5,-1.5,2.5,-2.5
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (1,-2) and (5,0)?",Option 3,1.5,-0.5,0.5,0.5
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-3,-9) and (1,0)?",3.25,-2.25,1.25,2.25,2.25
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-5,-9) and (-2,-19)?",-4.333333333333334,3.3333333333333335,-2.3333333333333335,-3.3333333333333335,-3.3333333333333335
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (0,10) and (5,15)?",-1.0,0.0,1.0,2.0,1.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (10,9) and (15,19)?",1.0,-2.0,2.0,3.0,2.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (9,4) and (10,7)?",3.0,-3.0,4.0,2.0,3.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (6,1) and (11,10)?",0.8,1.8,2.8,-1.8,1.8
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (0,-1) and (1,-9)?",-7.0,8.0,-9.0,-8.0,-8.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-9,-5) and (-8,1)?",5.0,7.0,6.0,-6.0,6.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-2,-9) and (-1,1)?",9.0,-10.0,10.0,11.0,10.0
+10,Maths,Linear Systems,Intermediate,"For x^2 + (0)x + (-4) = 0, which is a solution?",-21,0,2,-2,-2
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (7,-10) and (10,-11)?",-1.3333333333333333,0.6666666666666667,0.3333333333333333,-0.3333333333333333,-0.3333333333333333
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-5,2) and (-1,12)?",2.5,1.5,3.5,-2.5,2.5
+10,Maths,Linear Systems,Intermediate,"For x^2 + (2)x + (-35) = 0, which is a solution?",7,-5,-7,-71,-7
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (8,5) and (13,2)?",0.4,0.6,-0.6,-1.6,-0.6
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (6,-7) and (9,-9)?",0.33333333333333337,-0.6666666666666666,0.6666666666666666,-1.6666666666666665,-0.6666666666666666
+10,Maths,Linear Systems,Intermediate,"For x^2 + (-8)x + (0) = 0, which is a solution?",81,10,-8,8,8
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (8,-3) and (11,5)?",2.6666666666666665,-2.6666666666666665,3.6666666666666665,1.6666666666666665,2.6666666666666665
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-9,-1) and (-8,8)?",10.0,9.0,-9.0,8.0,9.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (2,-9) and (3,-3)?",5.0,-6.0,6.0,7.0,6.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (8,8) and (12,-2)?",-3.5,2.5,-1.5,-2.5,-2.5
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-7,-5) and (-2,3)?",-1.6,0.6000000000000001,1.6,2.6,1.6
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-9,2) and (-8,8)?",7.0,5.0,6.0,-6.0,6.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-6,-8) and (-4,-7)?",-0.5,0.5,1.5,Option 3,0.5
+10,Maths,Quadratic Expressions,Intermediate,"For x^2 + (-16)x + (63) = 0, which is a solution?",7,9,-7,71,7
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-9,4) and (-5,10)?",0.5,-1.5,2.5,1.5,1.5
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-4,1) and (-2,6)?",-2.5,1.5,2.5,3.5,2.5
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (10,5) and (13,7)?",0.6666666666666666,-0.33333333333333337,-0.6666666666666666,1.6666666666666665,0.6666666666666666
+10,Maths,Geometry,Intermediate,"For x^2 + (11)x + (28) = 0, which is a solution?",-7,7,-5,-71,-7
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-10,7) and (-5,-1)?",-1.6,1.6,-0.6000000000000001,-2.6,-1.6
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (2,-6) and (4,0)?",4.0,3.0,-3.0,2.0,3.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (8,-5) and (12,-1)?",0.0,1.0,-1.0,2.0,1.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-1,-6) and (2,-12)?",-2.0,2.0,-3.0,-1.0,-2.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (1,-4) and (2,-12)?",-7.0,-8.0,8.0,-9.0,-8.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (0,1) and (4,-6)?",1.75,-2.75,-0.75,-1.75,-1.75
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-10,-10) and (-5,-4)?",0.19999999999999996,-1.2,2.2,1.2,1.2
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (1,-6) and (5,-3)?",-0.75,1.75,-0.25,0.75,0.75
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-8,8) and (-4,5)?",0.75,-0.75,0.25,-1.75,-0.75
+10,Maths,Statistics,Intermediate,"For x^2 + (-5)x + (-36) = 0, which is a solution?",-2,-41,4,-4,-4
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (6,-4) and (9,-14)?",-2.3333333333333335,-4.333333333333334,-3.3333333333333335,3.3333333333333335,-3.3333333333333335
+10,Maths,Geometry,Intermediate,"For x^2 + (-14)x + (48) = 0, which is a solution?",-8,10,81,8,8
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-8,-9) and (-7,-6)?",-3.0,4.0,2.0,3.0,3.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (0,1) and (2,11)?",4.0,-5.0,5.0,6.0,5.0
+10,Maths,Linear Systems,Intermediate,"For x^2 + (-9)x + (8) = 0, which is a solution?",10,-8,8,81,8
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (5,-5) and (6,4)?",-9.0,9.0,8.0,10.0,9.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-1,0) and (0,7)?",7.0,-7.0,6.0,8.0,7.0
+10,Maths,Geometry,Intermediate,"For x^2 + (6)x + (-27) = 0, which is a solution?",-91,-9,9,-7,-9
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (7,7) and (9,-1)?",-3.0,-4.0,4.0,-5.0,-4.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-5,0) and (-1,8)?",2.0,-2.0,3.0,1.0,2.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (8,8) and (9,17)?",9.0,-9.0,8.0,10.0,9.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-7,-7) and (-5,-7)?",-0.0,-1.0,1.0,0.0,0.0
+10,Maths,Linear Systems,Intermediate,"For x^2 + (-4)x + (4) = 0, which is a solution?",2,21,-2,4,2
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-10,2) and (-9,9)?",-7.0,6.0,8.0,7.0,7.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-6,0) and (-3,0)?",1.0,0.0,-1.0,-0.0,0.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-10,-6) and (-7,-15)?",-2.0,-4.0,3.0,-3.0,-3.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (8,4) and (10,5)?",-0.5,0.5,1.5,Option 3,0.5
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (2,4) and (3,11)?",7.0,8.0,-7.0,6.0,7.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (9,-3) and (10,5)?",9.0,8.0,7.0,-8.0,8.0
+10,Maths,Geometry,Intermediate,"For x^2 + (-13)x + (40) = 0, which is a solution?",5,51,7,-5,5
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-6,-8) and (-1,-10)?",0.6,-0.4,-1.4,0.4,-0.4
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-5,6) and (0,0)?",-2.2,-0.19999999999999996,1.2,-1.2,-1.2
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-7,-8) and (-6,-14)?",-7.0,-5.0,6.0,-6.0,-6.0
+10,Maths,Geometry,Intermediate,"For x^2 + (12)x + (27) = 0, which is a solution?",-9,-7,9,-91,-9
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (4,-7) and (7,-5)?",-0.6666666666666666,0.6666666666666666,1.6666666666666665,-0.33333333333333337,0.6666666666666666
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-2,0) and (2,4)?",0.0,-1.0,2.0,1.0,1.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-4,-8) and (1,-10)?",0.4,0.6,-0.4,-1.4,-0.4
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-3,-3) and (-2,5)?",8.0,7.0,-8.0,9.0,8.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (8,0) and (12,-1)?",-0.25,0.75,-1.25,0.25,-0.25
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (7,0) and (8,9)?",10.0,9.0,-9.0,8.0,9.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-8,-1) and (-5,2)?",2.0,0.0,1.0,-1.0,1.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-2,-7) and (1,-17)?",3.3333333333333335,-3.3333333333333335,-2.3333333333333335,-4.333333333333334,-3.3333333333333335
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-2,-5) and (1,2)?",1.3333333333333335,2.3333333333333335,3.3333333333333335,-2.3333333333333335,2.3333333333333335
+10,Maths,Quadratic Expressions,Intermediate,"For x^2 + (-1)x + (-2) = 0, which is a solution?",2,21,4,-2,2
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (4,5) and (6,14)?",5.5,4.5,3.5,-4.5,4.5
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-9,-4) and (-4,-13)?",-0.8,-1.8,1.8,-2.8,-1.8
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-3,9) and (-2,7)?",-2.0,2.0,-1.0,-3.0,-2.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (4,-5) and (9,0)?",2.0,0.0,-1.0,1.0,1.0
+10,Maths,Geometry,Intermediate,"For x^2 + (-3)x + (0) = 0, which is a solution?",31,-3,5,3,3
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-3,6) and (-1,15)?",5.5,-4.5,4.5,3.5,4.5
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-10,8) and (-8,2)?",-2.0,-4.0,-3.0,3.0,-3.0
+10,Maths,Quadratic Expressions,Intermediate,"For x^2 + (-1)x + (-42) = 0, which is a solution?",6,-61,-4,-6,-6
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (0,-7) and (3,-4)?",1.0,2.0,-1.0,0.0,1.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-5,-7) and (-3,1)?",5.0,4.0,-4.0,3.0,4.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-10,2) and (-5,4)?",-0.4,1.4,-0.6,0.4,0.4
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-7,-3) and (-2,6)?",1.8,-1.8,2.8,0.8,1.8
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-6,-2) and (-2,-10)?",2.0,-1.0,-2.0,-3.0,-2.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (4,5) and (8,9)?",2.0,-1.0,1.0,0.0,1.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (3,-5) and (5,-1)?",3.0,-2.0,1.0,2.0,2.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (3,6) and (6,-1)?",2.3333333333333335,-2.3333333333333335,-3.3333333333333335,-1.3333333333333335,-2.3333333333333335
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (0,4) and (5,2)?",0.6,-0.4,-1.4,0.4,-0.4
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (5,-3) and (7,-11)?",-5.0,4.0,-3.0,-4.0,-4.0
+10,Maths,Geometry,Intermediate,"For x^2 + (-8)x + (16) = 0, which is a solution?",-4,6,41,4,4
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (2,2) and (7,4)?",-0.6,0.4,1.4,-0.4,0.4
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-7,-5) and (-3,-12)?",-1.75,-0.75,1.75,-2.75,-1.75
+10,Maths,Quadratic Expressions,Intermediate,"For x^2 + (-4)x + (-32) = 0, which is a solution?",-2,-4,4,-41,-4
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-1,-1) and (4,1)?",-0.6,1.4,-0.4,0.4,0.4
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (10,2) and (12,-5)?",-3.5,-4.5,3.5,-2.5,-3.5
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (8,7) and (13,4)?",0.6,-0.6,0.4,-1.6,-0.6
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-7,-1) and (-3,-7)?",-0.5,-2.5,1.5,-1.5,-1.5
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (7,4) and (9,-6)?",-6.0,-5.0,-4.0,5.0,-5.0
+10,Maths,Linear Systems,Intermediate,"For x^2 + (11)x + (24) = 0, which is a solution?",-1,-31,3,-3,-3
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-6,-2) and (-3,1)?",2.0,0.0,1.0,-1.0,1.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-6,5) and (-4,8)?",0.5,1.5,-1.5,2.5,1.5
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-7,3) and (-2,10)?",0.3999999999999999,1.4,2.4,-1.4,1.4
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-4,-4) and (1,-7)?",-1.6,-0.6,0.6,0.4,-0.6
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-5,-9) and (-4,-10)?",1.0,0.0,-1.0,-2.0,-1.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-3,-8) and (-2,0)?",7.0,9.0,-8.0,8.0,8.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (3,10) and (5,16)?",-3.0,2.0,3.0,4.0,3.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-10,-7) and (-7,-4)?",-1.0,2.0,1.0,0.0,1.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (3,9) and (4,0)?",-8.0,-10.0,-9.0,9.0,-9.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-8,2) and (-6,-8)?",-6.0,5.0,-4.0,-5.0,-5.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (7,-7) and (12,-14)?",-1.4,1.4,-2.4,-0.3999999999999999,-1.4
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-8,6) and (-7,4)?",2.0,-2.0,-1.0,-3.0,-2.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-3,2) and (1,10)?",3.0,2.0,-2.0,1.0,2.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-9,8) and (-4,12)?",-0.19999999999999996,1.8,-0.8,0.8,0.8
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-4,-1) and (0,4)?",2.25,-1.25,1.25,0.25,1.25
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-2,7) and (3,4)?",-1.6,0.6,-0.6,0.4,-0.6
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-5,1) and (0,9)?",1.6,-1.6,2.6,0.6000000000000001,1.6
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-5,-6) and (-1,-14)?",2.0,-1.0,-2.0,-3.0,-2.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-2,0) and (1,7)?",1.3333333333333335,3.3333333333333335,2.3333333333333335,-2.3333333333333335,2.3333333333333335
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-7,-9) and (-2,-7)?",1.4,0.4,-0.6,-0.4,0.4
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-8,-3) and (-3,5)?",1.6,-1.6,0.6000000000000001,2.6,1.6
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-8,5) and (-4,1)?",-1.0,-2.0,1.0,0.0,-1.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (5,2) and (8,0)?",-0.6666666666666666,0.6666666666666666,0.33333333333333337,-1.6666666666666665,-0.6666666666666666
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (3,3) and (5,10)?",2.5,-3.5,3.5,4.5,3.5
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (7,-7) and (11,-11)?",-2.0,1.0,-1.0,0.0,-1.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (4,-9) and (9,-18)?",-1.8,-2.8,-0.8,1.8,-1.8
+10,Maths,Quadratic Expressions,Intermediate,"For x^2 + (3)x + (0) = 0, which is a solution?",-31,-1,-3,3,-3
+10,Maths,Geometry,Intermediate,"For x^2 + (-2)x + (-63) = 0, which is a solution?",91,-9,9,11,9
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-8,4) and (-7,4)?",-1.0,-0.0,0.0,1.0,0.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (3,-2) and (4,3)?",5.0,-5.0,6.0,4.0,5.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (5,10) and (8,9)?",-1.3333333333333333,0.6666666666666667,0.3333333333333333,-0.3333333333333333,-0.3333333333333333
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-1,0) and (1,-10)?",-6.0,-4.0,5.0,-5.0,-5.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (5,4) and (10,-3)?",-2.4,-0.3999999999999999,1.4,-1.4,-1.4
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-9,1) and (-5,-1)?",Option 3,-0.5,0.5,-1.5,-0.5
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (7,-5) and (8,-15)?",-11.0,10.0,-10.0,-9.0,-10.0
+10,Maths,Quadratic Expressions,Intermediate,"For x^2 + (13)x + (40) = 0, which is a solution?",-6,-81,-8,8,-8
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-1,6) and (0,5)?",0.0,1.0,-1.0,-2.0,-1.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (0,-8) and (4,-7)?",-0.25,-0.75,0.25,1.25,0.25
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (2,0) and (3,-7)?",7.0,-8.0,-6.0,-7.0,-7.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (8,-6) and (9,-6)?",-1.0,0.0,1.0,-0.0,0.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (5,-6) and (10,0)?",-1.2,2.2,1.2,0.19999999999999996,1.2
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-6,7) and (-1,12)?",1.0,-1.0,0.0,2.0,1.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-9,10) and (-5,4)?",-0.5,1.5,-2.5,-1.5,-1.5
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (7,9) and (10,9)?",-0.0,0.0,1.0,-1.0,0.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (8,-7) and (9,-10)?",-2.0,-4.0,-3.0,3.0,-3.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (9,7) and (11,-3)?",5.0,-6.0,-5.0,-4.0,-5.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (1,4) and (2,2)?",-1.0,-2.0,-3.0,2.0,-2.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (5,-10) and (10,-6)?",0.8,-0.19999999999999996,-0.8,1.8,0.8
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-9,-8) and (-4,-14)?",-2.2,-0.19999999999999996,1.2,-1.2,-1.2
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-5,0) and (-4,-3)?",-3.0,-2.0,3.0,-4.0,-3.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (6,-4) and (8,-9)?",-1.5,2.5,-3.5,-2.5,-2.5
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (1,3) and (6,10)?",-1.4,0.3999999999999999,1.4,2.4,1.4
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-2,7) and (0,-2)?",-5.5,-4.5,-3.5,4.5,-4.5
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-8,-3) and (-6,-10)?",-2.5,3.5,-4.5,-3.5,-3.5
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-2,-5) and (-1,-14)?",-10.0,-8.0,9.0,-9.0,-9.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-5,10) and (-3,14)?",1.0,2.0,-2.0,3.0,2.0
+10,Maths,Statistics,Intermediate,"For x^2 + (3)x + (-4) = 0, which is a solution?",-1,1,3,11,1
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-5,-3) and (0,-10)?",-1.4,-2.4,1.4,-0.3999999999999999,-1.4
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (8,1) and (13,11)?",1.0,-2.0,2.0,3.0,2.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-7,-2) and (-3,-12)?",-1.5,-2.5,-3.5,2.5,-2.5
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (7,5) and (11,0)?",-0.25,-2.25,-1.25,1.25,-1.25
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (1,9) and (3,0)?",-5.5,-4.5,4.5,-3.5,-4.5
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (1,-7) and (6,-12)?",0.0,1.0,-1.0,-2.0,-1.0
+10,Maths,Geometry,Intermediate,"For x^2 + (-18)x + (81) = 0, which is a solution?",91,-9,11,9,9
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-4,-4) and (-3,2)?",7.0,5.0,-6.0,6.0,6.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (7,6) and (12,4)?",0.4,0.6,-1.4,-0.4,-0.4
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (7,-10) and (9,-13)?",-0.5,-1.5,1.5,-2.5,-1.5
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-8,-5) and (-7,1)?",7.0,5.0,-6.0,6.0,6.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-2,-7) and (1,-9)?",0.33333333333333337,-1.6666666666666665,-0.6666666666666666,0.6666666666666666,-0.6666666666666666
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-7,-4) and (-4,-2)?",1.6666666666666665,-0.6666666666666666,-0.33333333333333337,0.6666666666666666,0.6666666666666666
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (9,8) and (13,6)?",-1.5,0.5,Option 3,-0.5,-0.5
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-3,8) and (-1,3)?",-1.5,-2.5,-3.5,2.5,-2.5
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-2,2) and (-1,5)?",4.0,2.0,3.0,-3.0,3.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (2,3) and (7,4)?",0.2,1.2,-0.8,-0.2,0.2
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-2,3) and (2,12)?",3.25,2.25,1.25,-2.25,2.25
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (4,-7) and (8,-6)?",-0.75,-0.25,0.25,1.25,0.25
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (3,4) and (7,4)?",1.0,0.0,-0.0,-1.0,0.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-2,-3) and (2,-10)?",-0.75,-1.75,-2.75,1.75,-1.75
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-9,-1) and (-7,-1)?",-1.0,1.0,0.0,-0.0,0.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (10,-6) and (15,-14)?",-1.6,1.6,-2.6,-0.6000000000000001,-1.6
+10,Maths,Statistics,Intermediate,"For x^2 + (12)x + (36) = 0, which is a solution?",-6,6,-61,-4,-6
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (2,-2) and (4,-6)?",-3.0,2.0,-1.0,-2.0,-2.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-10,-5) and (-9,-7)?",2.0,-2.0,-1.0,-3.0,-2.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-4,-2) and (-3,-8)?",-7.0,-6.0,-5.0,6.0,-6.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-1,9) and (0,5)?",-4.0,4.0,-5.0,-3.0,-4.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (2,3) and (7,11)?",0.6000000000000001,2.6,-1.6,1.6,1.6
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-2,-1) and (-1,-11)?",10.0,-10.0,-11.0,-9.0,-10.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (9,10) and (10,6)?",-3.0,-5.0,-4.0,4.0,-4.0
+10,Maths,Statistics,Intermediate,"For x^2 + (7)x + (-18) = 0, which is a solution?",-2,2,4,21,2
+10,Maths,Geometry,Intermediate,"For x^2 + (2)x + (-15) = 0, which is a solution?",3,5,-3,31,3
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-1,9) and (1,18)?",5.5,3.5,4.5,-4.5,4.5
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-7,3) and (-4,6)?",-1.0,2.0,1.0,0.0,1.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-10,-7) and (-5,-14)?",-2.4,-0.3999999999999999,1.4,-1.4,-1.4
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (1,-1) and (4,8)?",2.0,3.0,-3.0,4.0,3.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-10,-2) and (-9,3)?",5.0,4.0,-5.0,6.0,5.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-5,9) and (-4,4)?",-6.0,-5.0,5.0,-4.0,-5.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-5,-10) and (-2,-5)?",-1.6666666666666667,2.666666666666667,1.6666666666666667,0.6666666666666667,1.6666666666666667
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-7,2) and (-6,0)?",-2.0,-3.0,2.0,-1.0,-2.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-4,6) and (1,0)?",-1.2,1.2,-2.2,-0.19999999999999996,-1.2
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (3,9) and (8,5)?",-1.8,-0.8,0.8,0.19999999999999996,-0.8
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (9,3) and (14,7)?",-0.8,0.8,-0.19999999999999996,1.8,0.8
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-6,3) and (-3,11)?",1.6666666666666665,2.6666666666666665,-2.6666666666666665,3.6666666666666665,2.6666666666666665
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (0,-5) and (3,-15)?",-2.3333333333333335,-4.333333333333334,-3.3333333333333335,3.3333333333333335,-3.3333333333333335
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-7,-3) and (-3,4)?",0.75,2.75,1.75,-1.75,1.75
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-9,-8) and (-5,0)?",1.0,2.0,3.0,-2.0,2.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (8,-6) and (11,-4)?",0.6666666666666666,-0.33333333333333337,-0.6666666666666666,1.6666666666666665,0.6666666666666666
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-6,0) and (-2,-4)?",-2.0,0.0,-1.0,1.0,-1.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (6,9) and (10,8)?",0.25,-0.25,0.75,-1.25,-0.25
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-6,-9) and (-4,-16)?",-2.5,-3.5,-4.5,3.5,-3.5
+10,Maths,Linear Systems,Intermediate,"For x^2 + (-4)x + (-5) = 0, which is a solution?",1,Option 3,-1,-11,-1
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (0,-8) and (4,2)?",-2.5,3.5,1.5,2.5,2.5
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (5,5) and (7,4)?",0.5,-0.5,-1.5,Option 3,-0.5
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-10,6) and (-7,5)?",0.6666666666666667,0.3333333333333333,-0.3333333333333333,-1.3333333333333333,-0.3333333333333333
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (10,3) and (13,4)?",1.3333333333333333,-0.3333333333333333,0.3333333333333333,-0.6666666666666667,0.3333333333333333
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-9,9) and (-4,1)?",-1.6,1.6,-2.6,-0.6000000000000001,-1.6
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-1,-8) and (2,-4)?",0.33333333333333326,1.3333333333333333,2.333333333333333,-1.3333333333333333,1.3333333333333333
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-1,-6) and (2,-5)?",-0.6666666666666667,1.3333333333333333,0.3333333333333333,-0.3333333333333333,0.3333333333333333
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (2,-8) and (6,-3)?",1.25,0.25,2.25,-1.25,1.25
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-10,6) and (-8,13)?",-3.5,4.5,3.5,2.5,3.5
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-4,1) and (-1,-2)?",-2.0,-1.0,0.0,1.0,-1.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-8,3) and (-7,-3)?",-6.0,-7.0,-5.0,6.0,-6.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-10,4) and (-6,7)?",1.75,-0.75,0.75,-0.25,0.75
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (1,-9) and (5,-5)?",0.0,2.0,1.0,-1.0,1.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-4,5) and (-3,-1)?",-7.0,-6.0,-5.0,6.0,-6.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (4,2) and (7,3)?",-0.6666666666666667,-0.3333333333333333,1.3333333333333333,0.3333333333333333,0.3333333333333333
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (0,10) and (4,4)?",-1.5,-0.5,-2.5,1.5,-1.5
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (3,-9) and (5,-3)?",2.0,-3.0,3.0,4.0,3.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (7,2) and (10,1)?",0.6666666666666667,-1.3333333333333333,-0.3333333333333333,0.3333333333333333,-0.3333333333333333
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-2,-7) and (2,-13)?",-0.5,-1.5,1.5,-2.5,-1.5
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (1,-9) and (3,1)?",5.0,6.0,-5.0,4.0,5.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-10,8) and (-9,12)?",5.0,3.0,4.0,-4.0,4.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-8,9) and (-5,8)?",-0.3333333333333333,-1.3333333333333333,0.3333333333333333,0.6666666666666667,-0.3333333333333333
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-6,0) and (-4,-5)?",-1.5,-2.5,-3.5,2.5,-2.5
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-2,10) and (1,11)?",-0.6666666666666667,0.3333333333333333,1.3333333333333333,-0.3333333333333333,0.3333333333333333
+10,Maths,Statistics,Intermediate,"For x^2 + (16)x + (64) = 0, which is a solution?",-6,-8,8,-81,-8
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (6,-6) and (8,0)?",-3.0,2.0,4.0,3.0,3.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-9,-8) and (-8,-13)?",-5.0,-4.0,-6.0,5.0,-5.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (10,-8) and (14,-3)?",-1.25,1.25,2.25,0.25,1.25
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (3,5) and (5,-5)?",5.0,-5.0,-6.0,-4.0,-5.0
+10,Maths,Quadratic Expressions,Intermediate,"For x^2 + (-11)x + (18) = 0, which is a solution?",9,91,11,-9,9
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (7,1) and (8,-5)?",6.0,-5.0,-6.0,-7.0,-6.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (3,2) and (7,9)?",-1.75,1.75,0.75,2.75,1.75
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-8,-5) and (-4,-9)?",-1.0,0.0,1.0,-2.0,-1.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (3,-6) and (8,1)?",-1.4,1.4,2.4,0.3999999999999999,1.4
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (3,3) and (6,10)?",1.3333333333333335,3.3333333333333335,-2.3333333333333335,2.3333333333333335,2.3333333333333335
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (3,-7) and (7,-8)?",0.25,-1.25,-0.25,0.75,-0.25
+10,Maths,Linear Systems,Intermediate,"For x^2 + (-15)x + (54) = 0, which is a solution?",-6,6,61,8,6
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (1,10) and (4,4)?",-3.0,-1.0,2.0,-2.0,-2.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (6,-9) and (11,-19)?",2.0,-1.0,-3.0,-2.0,-2.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (9,3) and (13,10)?",1.75,2.75,0.75,-1.75,1.75
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-7,5) and (-6,15)?",11.0,-10.0,10.0,9.0,10.0
+10,Maths,Linear Systems,Intermediate,"For x^2 + (3)x + (-54) = 0, which is a solution?",6,61,8,-6,6
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (0,-8) and (4,-18)?",-3.5,2.5,-2.5,-1.5,-2.5
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (6,-1) and (9,6)?",2.3333333333333335,3.3333333333333335,1.3333333333333335,-2.3333333333333335,2.3333333333333335
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (4,1) and (5,-1)?",-3.0,-2.0,-1.0,2.0,-2.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-2,-3) and (2,1)?",2.0,-1.0,1.0,0.0,1.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (0,-3) and (3,1)?",1.3333333333333333,-1.3333333333333333,0.33333333333333326,2.333333333333333,1.3333333333333333
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (7,3) and (12,2)?",-0.2,0.8,0.2,-1.2,-0.2
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-2,-4) and (3,-5)?",-1.2,0.8,-0.2,0.2,-0.2
+10,Maths,Statistics,Intermediate,"For x^2 + (5)x + (0) = 0, which is a solution?",5,-3,-51,-5,-5
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (7,1) and (12,8)?",0.3999999999999999,2.4,-1.4,1.4,1.4
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-3,-6) and (-1,4)?",6.0,5.0,4.0,-5.0,5.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-6,5) and (-1,-1)?",-2.2,1.2,-1.2,-0.19999999999999996,-1.2
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (7,-1) and (9,-6)?",-3.5,-2.5,2.5,-1.5,-2.5
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (0,-2) and (4,6)?",3.0,2.0,-2.0,1.0,2.0
+10,Maths,Statistics,Intermediate,"For x^2 + (4)x + (4) = 0, which is a solution?",-2,-21,0,2,-2
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (8,3) and (9,9)?",-6.0,6.0,7.0,5.0,6.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-4,5) and (0,-5)?",-2.5,2.5,-3.5,-1.5,-2.5
+10,Maths,Statistics,Intermediate,"For x^2 + (7)x + (10) = 0, which is a solution?",-21,2,0,-2,-2
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (0,10) and (3,5)?",-2.666666666666667,-0.6666666666666667,1.6666666666666667,-1.6666666666666667,-1.6666666666666667
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (5,0) and (8,-7)?",-1.3333333333333335,-3.3333333333333335,-2.3333333333333335,2.3333333333333335,-2.3333333333333335
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (1,-4) and (3,0)?",1.0,2.0,-2.0,3.0,2.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-5,8) and (-3,12)?",2.0,1.0,-2.0,3.0,2.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-3,2) and (1,9)?",1.75,2.75,0.75,-1.75,1.75
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-3,0) and (-2,-5)?",-4.0,-5.0,-6.0,5.0,-5.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (8,1) and (9,-7)?",-7.0,-9.0,-8.0,8.0,-8.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-1,5) and (2,9)?",1.3333333333333333,-1.3333333333333333,0.33333333333333326,2.333333333333333,1.3333333333333333
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-3,0) and (-1,-8)?",-3.0,4.0,-4.0,-5.0,-4.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-2,-4) and (1,-9)?",1.6666666666666667,-2.666666666666667,-1.6666666666666667,-0.6666666666666667,-1.6666666666666667
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-3,4) and (-1,10)?",-3.0,4.0,3.0,2.0,3.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-5,-8) and (-2,-17)?",-3.0,-4.0,-2.0,3.0,-3.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-4,-4) and (-2,-11)?",-3.5,3.5,-2.5,-4.5,-3.5
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-1,-4) and (3,-4)?",0.0,1.0,-1.0,-0.0,0.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-7,1) and (-3,7)?",2.5,1.5,-1.5,0.5,1.5
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (7,7) and (11,-1)?",-1.0,2.0,-2.0,-3.0,-2.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (3,-8) and (6,1)?",3.0,-3.0,4.0,2.0,3.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-5,3) and (-3,2)?",Option 3,-0.5,0.5,-1.5,-0.5
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-1,-8) and (4,-6)?",-0.6,-0.4,0.4,1.4,0.4
+10,Maths,Linear Systems,Intermediate,"For x^2 + (-9)x + (20) = 0, which is a solution?",-4,6,41,4,4
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-3,4) and (1,2)?",-1.5,-0.5,Option 3,0.5,-0.5
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (0,1) and (5,-3)?",0.19999999999999996,-0.8,-1.8,0.8,-0.8
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-5,-6) and (0,4)?",1.0,2.0,3.0,-2.0,2.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-10,7) and (-9,17)?",9.0,11.0,10.0,-10.0,10.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (5,2) and (10,8)?",0.19999999999999996,1.2,-1.2,2.2,1.2
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-5,-6) and (0,-6)?",-1.0,1.0,0.0,-0.0,0.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-7,1) and (-2,10)?",1.8,-1.8,2.8,0.8,1.8
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-5,5) and (-4,-5)?",-9.0,-11.0,-10.0,10.0,-10.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (7,9) and (8,8)?",-2.0,0.0,-1.0,1.0,-1.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (9,7) and (13,3)?",-2.0,-1.0,0.0,1.0,-1.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (6,6) and (10,9)?",-0.75,0.75,1.75,-0.25,0.75
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-2,8) and (-1,17)?",10.0,9.0,8.0,-9.0,9.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (6,2) and (9,-1)?",1.0,-1.0,0.0,-2.0,-1.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (10,5) and (15,-2)?",-0.3999999999999999,1.4,-2.4,-1.4,-1.4
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (5,8) and (10,0)?",-2.6,-0.6000000000000001,1.6,-1.6,-1.6
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (0,-5) and (4,2)?",-1.75,1.75,2.75,0.75,1.75
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-8,0) and (-4,-4)?",-1.0,1.0,-2.0,0.0,-1.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-9,9) and (-8,6)?",-4.0,-3.0,3.0,-2.0,-3.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-8,10) and (-4,16)?",2.5,0.5,-1.5,1.5,1.5
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-3,8) and (2,6)?",0.4,-1.4,0.6,-0.4,-0.4
+10,Maths,Statistics,Intermediate,"For x^2 + (2)x + (-63) = 0, which is a solution?",9,-7,-9,-91,-9
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-2,4) and (0,8)?",2.0,-2.0,1.0,3.0,2.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (1,-10) and (3,-20)?",-6.0,-5.0,5.0,-4.0,-5.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (2,4) and (4,2)?",-1.0,-2.0,0.0,1.0,-1.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (4,5) and (6,13)?",5.0,3.0,4.0,-4.0,4.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-1,-7) and (0,3)?",10.0,-10.0,9.0,11.0,10.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-2,3) and (3,2)?",-0.2,0.2,0.8,-1.2,-0.2
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (0,-4) and (2,2)?",2.0,-3.0,3.0,4.0,3.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-3,3) and (-2,4)?",2.0,-1.0,1.0,0.0,1.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-3,-5) and (-2,-11)?",-5.0,6.0,-7.0,-6.0,-6.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (5,-9) and (6,-19)?",10.0,-10.0,-11.0,-9.0,-10.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (1,-3) and (5,-1)?",1.5,-0.5,0.5,Option 3,0.5
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (1,-9) and (3,-7)?",0.0,2.0,1.0,-1.0,1.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-7,-7) and (-4,0)?",3.3333333333333335,-2.3333333333333335,2.3333333333333335,1.3333333333333335,2.3333333333333335
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (7,5) and (8,10)?",6.0,-5.0,5.0,4.0,5.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (5,0) and (7,-6)?",-2.0,3.0,-4.0,-3.0,-3.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (6,-7) and (11,0)?",1.4,0.3999999999999999,-1.4,2.4,1.4
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (1,-6) and (3,-2)?",-2.0,3.0,1.0,2.0,2.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-5,3) and (-1,-4)?",1.75,-2.75,-0.75,-1.75,-1.75
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (4,6) and (9,5)?",0.2,-0.2,0.8,-1.2,-0.2
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (9,-5) and (11,-2)?",2.5,1.5,-1.5,0.5,1.5
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (5,7) and (10,2)?",-1.0,1.0,-2.0,0.0,-1.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (7,-8) and (10,-15)?",2.3333333333333335,-1.3333333333333335,-3.3333333333333335,-2.3333333333333335,-2.3333333333333335
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (8,-2) and (11,3)?",0.6666666666666667,-1.6666666666666667,2.666666666666667,1.6666666666666667,1.6666666666666667
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-6,2) and (-3,4)?",-0.6666666666666666,0.6666666666666666,1.6666666666666665,-0.33333333333333337,0.6666666666666666
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (10,10) and (15,14)?",-0.8,0.8,1.8,-0.19999999999999996,0.8
+10,Maths,Linear Systems,Intermediate,"For x^2 + (0)x + (-25) = 0, which is a solution?",-5,5,-51,-3,-5
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-2,2) and (1,6)?",2.333333333333333,1.3333333333333333,-1.3333333333333333,0.33333333333333326,1.3333333333333333
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (6,-3) and (10,-13)?",-3.5,-2.5,2.5,-1.5,-2.5
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (6,-6) and (10,-11)?",-0.25,-1.25,-2.25,1.25,-1.25
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (2,-9) and (6,-11)?",0.5,-0.5,-1.5,Option 3,-0.5
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (9,10) and (10,17)?",7.0,-7.0,6.0,8.0,7.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (4,-9) and (5,-15)?",-7.0,-5.0,-6.0,6.0,-6.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-1,-6) and (0,-6)?",1.0,-1.0,0.0,-0.0,0.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (7,-9) and (10,-15)?",-1.0,-2.0,2.0,-3.0,-2.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (7,-3) and (9,6)?",5.5,-4.5,4.5,3.5,4.5
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-1,-3) and (4,-1)?",1.4,-0.6,0.4,-0.4,0.4
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-6,2) and (-3,5)?",0.0,-1.0,2.0,1.0,1.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (2,4) and (7,13)?",-1.8,2.8,1.8,0.8,1.8
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (4,10) and (5,20)?",10.0,-10.0,9.0,11.0,10.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-5,5) and (-3,3)?",0.0,-2.0,-1.0,1.0,-1.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (3,-8) and (5,-11)?",1.5,-1.5,-0.5,-2.5,-1.5
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (3,-5) and (6,-3)?",0.6666666666666666,-0.6666666666666666,1.6666666666666665,-0.33333333333333337,0.6666666666666666
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-9,7) and (-4,3)?",0.19999999999999996,-1.8,0.8,-0.8,-0.8
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-2,5) and (0,1)?",2.0,-3.0,-2.0,-1.0,-2.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (0,-6) and (4,-16)?",2.5,-1.5,-3.5,-2.5,-2.5
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (3,6) and (7,0)?",-2.5,-0.5,1.5,-1.5,-1.5
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (10,-6) and (11,-1)?",5.0,6.0,-5.0,4.0,5.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (10,0) and (14,2)?",1.5,0.5,-0.5,Option 3,0.5
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (2,0) and (4,7)?",3.5,4.5,-3.5,2.5,3.5
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-1,1) and (0,5)?",4.0,3.0,5.0,-4.0,4.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-10,-7) and (-9,-4)?",2.0,-3.0,4.0,3.0,3.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (7,0) and (10,-7)?",-3.3333333333333335,2.3333333333333335,-2.3333333333333335,-1.3333333333333335,-2.3333333333333335
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-2,8) and (1,11)?",-1.0,0.0,1.0,2.0,1.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-6,0) and (-5,-8)?",-8.0,8.0,-7.0,-9.0,-8.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (8,3) and (13,-7)?",-2.0,2.0,-1.0,-3.0,-2.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-3,-4) and (1,-14)?",-2.5,2.5,-1.5,-3.5,-2.5
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (8,7) and (9,8)?",0.0,2.0,1.0,-1.0,1.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (5,6) and (8,4)?",0.6666666666666666,0.33333333333333337,-0.6666666666666666,-1.6666666666666665,-0.6666666666666666
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-8,-4) and (-4,3)?",2.75,-1.75,1.75,0.75,1.75
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (0,0) and (3,-1)?",-0.3333333333333333,0.3333333333333333,0.6666666666666667,-1.3333333333333333,-0.3333333333333333
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (10,-3) and (14,-13)?",-1.5,-3.5,-2.5,2.5,-2.5
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (9,-9) and (11,-4)?",-2.5,3.5,1.5,2.5,2.5
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-4,10) and (1,10)?",-0.0,-1.0,0.0,1.0,0.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (2,10) and (5,1)?",-2.0,-3.0,-4.0,3.0,-3.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (1,10) and (6,4)?",-0.19999999999999996,1.2,-2.2,-1.2,-1.2
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-8,7) and (-5,14)?",-2.3333333333333335,2.3333333333333335,3.3333333333333335,1.3333333333333335,2.3333333333333335
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (5,1) and (6,-5)?",-6.0,-5.0,6.0,-7.0,-6.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-9,-3) and (-5,6)?",-2.25,2.25,1.25,3.25,2.25
+10,Maths,Linear Systems,Intermediate,"For x^2 + (-1)x + (0) = 0, which is a solution?",3,11,-1,1,1
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-3,1) and (-1,1)?",-0.0,-1.0,0.0,1.0,0.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-8,7) and (-7,2)?",-5.0,5.0,-4.0,-6.0,-5.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-6,4) and (-2,-4)?",-1.0,2.0,-3.0,-2.0,-2.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-3,-3) and (1,5)?",1.0,2.0,3.0,-2.0,2.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-9,-4) and (-6,-9)?",-1.6666666666666667,-2.666666666666667,-0.6666666666666667,1.6666666666666667,-1.6666666666666667
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (10,-10) and (13,-20)?",-3.3333333333333335,3.3333333333333335,-2.3333333333333335,-4.333333333333334,-3.3333333333333335
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (6,9) and (8,7)?",-1.0,-2.0,0.0,1.0,-1.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-10,-8) and (-6,-12)?",0.0,-2.0,1.0,-1.0,-1.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (8,-5) and (13,0)?",1.0,0.0,2.0,-1.0,1.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-2,8) and (2,5)?",0.25,-0.75,0.75,-1.75,-0.75
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-1,-7) and (2,-14)?",-2.3333333333333335,-3.3333333333333335,2.3333333333333335,-1.3333333333333335,-2.3333333333333335
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (8,0) and (9,7)?",8.0,7.0,6.0,-7.0,7.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-4,-1) and (1,-9)?",-1.6,-0.6000000000000001,1.6,-2.6,-1.6
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (2,7) and (6,13)?",2.5,-1.5,0.5,1.5,1.5
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-4,-1) and (0,-2)?",-0.25,0.75,0.25,-1.25,-0.25
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-4,-9) and (-1,-4)?",0.6666666666666667,1.6666666666666667,2.666666666666667,-1.6666666666666667,1.6666666666666667
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (4,6) and (8,11)?",1.25,-1.25,2.25,0.25,1.25
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-10,5) and (-5,11)?",-1.2,1.2,2.2,0.19999999999999996,1.2
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-5,-5) and (-2,-4)?",0.3333333333333333,-0.6666666666666667,1.3333333333333333,-0.3333333333333333,0.3333333333333333
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (10,-6) and (15,-10)?",0.8,-0.8,-1.8,0.19999999999999996,-0.8
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (2,-3) and (4,-8)?",-2.5,2.5,-1.5,-3.5,-2.5
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (10,4) and (12,12)?",3.0,-4.0,4.0,5.0,4.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (2,10) and (5,18)?",2.6666666666666665,-2.6666666666666665,1.6666666666666665,3.6666666666666665,2.6666666666666665
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-1,7) and (1,15)?",5.0,-4.0,4.0,3.0,4.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-4,-7) and (-3,-8)?",1.0,-1.0,-2.0,0.0,-1.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (5,-5) and (7,-2)?",2.5,-1.5,0.5,1.5,1.5
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (1,1) and (6,1)?",0.0,-1.0,1.0,-0.0,0.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (1,9) and (4,6)?",-2.0,1.0,0.0,-1.0,-1.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (6,0) and (11,3)?",1.6,-0.4,0.6,-0.6,0.6
+10,Maths,Linear Systems,Intermediate,"For x^2 + (-11)x + (30) = 0, which is a solution?",7,5,51,-5,5
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-3,5) and (-1,5)?",-0.0,1.0,-1.0,0.0,0.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (3,-3) and (6,1)?",0.33333333333333326,-1.3333333333333333,2.333333333333333,1.3333333333333333,1.3333333333333333
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-8,-3) and (-6,-6)?",-0.5,-2.5,1.5,-1.5,-1.5
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-10,5) and (-9,2)?",3.0,-4.0,-2.0,-3.0,-3.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (4,-3) and (5,-6)?",-2.0,-3.0,3.0,-4.0,-3.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-7,9) and (-3,18)?",2.25,-2.25,3.25,1.25,2.25
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (0,-4) and (4,-10)?",-0.5,-1.5,-2.5,1.5,-1.5
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (5,4) and (7,5)?",Option 3,0.5,1.5,-0.5,0.5
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-1,-8) and (2,-1)?",-2.3333333333333335,2.3333333333333335,1.3333333333333335,3.3333333333333335,2.3333333333333335
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-5,-3) and (-3,-11)?",-5.0,4.0,-4.0,-3.0,-4.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (3,2) and (8,-1)?",-0.6,-1.6,0.6,0.4,-0.6
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-5,1) and (-3,1)?",-1.0,0.0,-0.0,1.0,0.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-2,-10) and (-1,-12)?",-2.0,-3.0,-1.0,2.0,-2.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (1,-7) and (6,-8)?",-1.2,0.2,-0.2,0.8,-0.2
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-2,1) and (1,-1)?",-1.6666666666666665,-0.6666666666666666,0.33333333333333337,0.6666666666666666,-0.6666666666666666
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-1,-1) and (0,-1)?",-1.0,-0.0,1.0,0.0,0.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (0,-6) and (3,2)?",2.6666666666666665,-2.6666666666666665,3.6666666666666665,1.6666666666666665,2.6666666666666665
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (0,-1) and (5,0)?",-0.2,-0.8,1.2,0.2,0.2
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (1,-10) and (6,-5)?",2.0,0.0,1.0,-1.0,1.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (9,4) and (13,1)?",0.75,-1.75,-0.75,0.25,-0.75
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-7,0) and (-2,3)?",-0.4,-0.6,0.6,1.6,0.6
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-6,-9) and (-4,-4)?",2.5,3.5,1.5,-2.5,2.5
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-6,6) and (-4,13)?",4.5,-3.5,2.5,3.5,3.5
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (5,-2) and (6,-9)?",-8.0,-6.0,-7.0,7.0,-7.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (1,1) and (2,-2)?",-2.0,3.0,-4.0,-3.0,-3.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-1,6) and (2,4)?",-0.6666666666666666,0.6666666666666666,-1.6666666666666665,0.33333333333333337,-0.6666666666666666
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-10,4) and (-5,11)?",1.4,2.4,0.3999999999999999,-1.4,1.4
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-8,10) and (-6,6)?",-1.0,-2.0,2.0,-3.0,-2.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (0,1) and (3,-2)?",-2.0,-1.0,1.0,0.0,-1.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-8,-1) and (-4,-3)?",Option 3,-0.5,-1.5,0.5,-0.5
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-3,-4) and (2,-4)?",-1.0,0.0,-0.0,1.0,0.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (5,5) and (8,-4)?",-2.0,-4.0,-3.0,3.0,-3.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-2,9) and (-1,19)?",11.0,9.0,-10.0,10.0,10.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-9,5) and (-8,-4)?",-9.0,-8.0,-10.0,9.0,-9.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (1,-8) and (4,-10)?",0.33333333333333337,-0.6666666666666666,-1.6666666666666665,0.6666666666666666,-0.6666666666666666
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-10,0) and (-6,2)?",0.5,1.5,Option 3,-0.5,0.5
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-10,10) and (-6,12)?",Option 3,0.5,1.5,-0.5,0.5
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (3,-1) and (5,-6)?",-2.5,2.5,-3.5,-1.5,-2.5
+10,Maths,Statistics,Intermediate,"For x^2 + (-16)x + (64) = 0, which is a solution?",-8,10,81,8,8
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-10,10) and (-7,5)?",-0.6666666666666667,-2.666666666666667,-1.6666666666666667,1.6666666666666667,-1.6666666666666667
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (9,0) and (14,-8)?",-1.6,-2.6,-0.6000000000000001,1.6,-1.6
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-6,5) and (-1,13)?",1.6,-1.6,0.6000000000000001,2.6,1.6
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-6,7) and (-5,16)?",-9.0,9.0,10.0,8.0,9.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (7,6) and (10,8)?",-0.33333333333333337,1.6666666666666665,0.6666666666666666,-0.6666666666666666,0.6666666666666666
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (7,7) and (9,9)?",2.0,1.0,-1.0,0.0,1.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-3,8) and (0,0)?",-2.6666666666666665,-1.6666666666666665,-3.6666666666666665,2.6666666666666665,-2.6666666666666665
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-9,1) and (-8,6)?",-5.0,6.0,4.0,5.0,5.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (8,5) and (11,11)?",2.0,-2.0,3.0,1.0,2.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (6,9) and (9,8)?",0.6666666666666667,-0.3333333333333333,0.3333333333333333,-1.3333333333333333,-0.3333333333333333
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (5,0) and (7,-10)?",-5.0,5.0,-4.0,-6.0,-5.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-6,8) and (-1,17)?",0.8,1.8,2.8,-1.8,1.8
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (5,0) and (9,-7)?",1.75,-2.75,-0.75,-1.75,-1.75
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (6,-1) and (7,8)?",10.0,-9.0,8.0,9.0,9.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-10,-10) and (-7,-15)?",-0.6666666666666667,-1.6666666666666667,-2.666666666666667,1.6666666666666667,-1.6666666666666667
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (6,5) and (10,-2)?",1.75,-0.75,-2.75,-1.75,-1.75
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-3,-1) and (-1,-11)?",5.0,-4.0,-5.0,-6.0,-5.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-1,-8) and (4,0)?",1.6,-1.6,2.6,0.6000000000000001,1.6
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-3,3) and (1,13)?",-2.5,1.5,3.5,2.5,2.5
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-1,8) and (3,8)?",0.0,1.0,-1.0,-0.0,0.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (9,3) and (10,10)?",6.0,7.0,-7.0,8.0,7.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (10,-3) and (14,-10)?",-2.75,-1.75,1.75,-0.75,-1.75
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (10,-1) and (12,3)?",-2.0,2.0,3.0,1.0,2.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-3,8) and (-2,-2)?",10.0,-9.0,-10.0,-11.0,-10.0
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (0,-4) and (5,-9)?",1.0,-1.0,-2.0,0.0,-1.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (-1,10) and (0,2)?",-8.0,-7.0,-9.0,8.0,-8.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-6,-10) and (-5,-2)?",8.0,-8.0,9.0,7.0,8.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (3,4) and (5,-2)?",-4.0,-3.0,-2.0,3.0,-3.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (5,9) and (9,14)?",0.25,2.25,-1.25,1.25,1.25
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (3,-6) and (4,4)?",10.0,11.0,9.0,-10.0,10.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-6,9) and (-1,17)?",2.6,0.6000000000000001,-1.6,1.6,1.6
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (-6,-8) and (-4,2)?",-5.0,6.0,4.0,5.0,5.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (-8,-6) and (-3,-13)?",-1.4,1.4,-0.3999999999999999,-2.4,-1.4
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (8,-5) and (9,1)?",7.0,-6.0,5.0,6.0,6.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (4,-3) and (7,-5)?",0.33333333333333337,-1.6666666666666665,0.6666666666666666,-0.6666666666666666,-0.6666666666666666
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (0,-2) and (5,-10)?",1.6,-0.6000000000000001,-2.6,-1.6,-1.6
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (2,-9) and (6,-17)?",-1.0,-3.0,-2.0,2.0,-2.0
+10,Maths,Linear Systems,Intermediate,"What is the slope of the line through (3,10) and (5,14)?",3.0,-2.0,1.0,2.0,2.0
+10,Maths,Statistics,Intermediate,"What is the slope of the line through (9,8) and (12,1)?",-2.3333333333333335,2.3333333333333335,-1.3333333333333335,-3.3333333333333335,-2.3333333333333335
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (-7,-4) and (-6,1)?",4.0,-5.0,5.0,6.0,5.0
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (6,-4) and (11,0)?",-0.19999999999999996,1.8,-0.8,0.8,0.8
+10,Maths,Quadratic Expressions,Intermediate,"What is the slope of the line through (2,2) and (6,8)?",0.5,-1.5,1.5,2.5,1.5
+10,Maths,Geometry,Intermediate,"What is the slope of the line through (2,-2) and (5,-3)?",-1.3333333333333333,0.3333333333333333,0.6666666666666667,-0.3333333333333333,-0.3333333333333333

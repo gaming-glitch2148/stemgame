@@ -1,0 +1,1001 @@
+Grade,Subject,Topic,Difficulty,Question,A,B,C,D,Correct Answer
+9,Maths,Algebra Basics,Easy,Solve: x + 4 = 10,4,5,6,10,6
+9,Maths,Linear Functions,Easy,Which is a linear equation?,y = x^2,y = 2x + 1,y = 1/x,y = 3^x,y = 2x + 1
+9,Maths,Geometry,Easy,What is the area of a rectangle with length 8 and width 5?,13,20,40,80,40
+9,Maths,Statistics,Easy,Which term describes the most frequent value?,Mean,Median,Mode,Range,Mode
+9,Maths,Algebra Basics,Easy,Simplify: 2x + 3x,5,6x,5x,x,5x
+9,Maths,Geometry,Easy,How many degrees are in a triangle?,90,180,270,360,180
+9,Maths,Statistics,Easy,"What is the mean of 2, 4, 6?",4,6,2,12,4
+9,Maths,Linear Functions,Easy,What is the slope of y = 3x + 2?,2,3,5,1,3
+9,Maths,Algebra Basics,Easy,"For x^2 + (-8)x + (12) = 0, which is a solution?",61,8,-6,6,6
+9,Maths,Statistics,Easy,Compute: 5^8,390630,78125,390625,1953125,390625
+9,Maths,Geometry,Easy,"What is the slope of the line through (8,-10) and (13,-4)?",-1.2,1.2,0.19999999999999996,2.2,1.2
+9,Maths,Statistics,Easy,"What is the slope of the line through (4,6) and (7,0)?",-3.0,2.0,-2.0,-1.0,-2.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-9,3) and (-6,-4)?",-1.3333333333333335,2.3333333333333335,-3.3333333333333335,-2.3333333333333335,-2.3333333333333335
+9,Maths,Statistics,Easy,"What is the slope of the line through (-7,-5) and (-5,-9)?",2.0,-3.0,-1.0,-2.0,-2.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (0,-10) and (2,-11)?",Option 3,-1.5,-0.5,0.5,-0.5
+9,Maths,Geometry,Easy,"What is the slope of the line through (5,2) and (6,-4)?",-5.0,-6.0,-7.0,6.0,-6.0
+9,Maths,Statistics,Easy,"For x^2 + (11)x + (24) = 0, which is a solution?",3,-31,-1,-3,-3
+9,Maths,Linear Functions,Easy,"For x^2 + (-2)x + (-63) = 0, which is a solution?",7,-5,-7,-71,-7
+9,Maths,Linear Functions,Easy,Compute: 5^6,78125,15625,15630,3125,15625
+9,Maths,Geometry,Easy,"For x^2 + (5)x + (-36) = 0, which is a solution?",-7,-91,-9,9,-9
+9,Maths,Statistics,Easy,"For x^2 + (-10)x + (24) = 0, which is a solution?",-6,6,61,8,6
+9,Maths,Geometry,Easy,"What is the slope of the line through (4,2) and (7,5)?",0.0,-1.0,2.0,1.0,1.0
+9,Maths,Statistics,Easy,"For x^2 + (8)x + (-9) = 0, which is a solution?",11,-1,1,3,1
+9,Maths,Algebra Basics,Easy,"For x^2 + (-7)x + (0) = 0, which is a solution?",7,9,71,-7,7
+9,Maths,Algebra Basics,Easy,Compute: 2^8,128,258,512,256,256
+9,Maths,Statistics,Easy,Compute: 5^4,3125,625,125,630,625
+9,Maths,Statistics,Easy,"What is the slope of the line through (-6,1) and (-4,3)?",-1.0,0.0,2.0,1.0,1.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (-10,-5) and (-8,-14)?",-3.5,-4.5,-5.5,4.5,-4.5
+9,Maths,Statistics,Easy,Compute: 2^2,6,4,2,8,4
+9,Maths,Statistics,Easy,"For x^2 + (-2)x + (-48) = 0, which is a solution?",81,-8,8,10,8
+9,Maths,Geometry,Easy,"For x^2 + (10)x + (9) = 0, which is a solution?",-9,-91,9,-7,-9
+9,Maths,Statistics,Easy,"What is the slope of the line through (-9,7) and (-4,11)?",-0.8,0.8,1.8,-0.19999999999999996,0.8
+9,Maths,Statistics,Easy,"For x^2 + (4)x + (-21) = 0, which is a solution?",5,31,-3,3,3
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (8,7) and (11,9)?",0.6666666666666666,1.6666666666666665,-0.6666666666666666,-0.33333333333333337,0.6666666666666666
+9,Maths,Linear Functions,Easy,Compute: 2^5,34,16,32,64,32
+9,Maths,Statistics,Easy,"For x^2 + (-6)x + (0) = 0, which is a solution?",6,-6,8,61,6
+9,Maths,Geometry,Easy,"What is the slope of the line through (3,-5) and (7,-3)?",-0.5,0.5,1.5,Option 3,0.5
+9,Maths,Statistics,Easy,"What is the slope of the line through (5,6) and (9,11)?",2.25,1.25,0.25,-1.25,1.25
+9,Maths,Algebra Basics,Easy,"For x^2 + (-11)x + (30) = 0, which is a solution?",-6,6,8,61,6
+9,Maths,Algebra Basics,Easy,"For x^2 + (-14)x + (49) = 0, which is a solution?",7,71,-7,9,7
+9,Maths,Algebra Basics,Easy,Compute: 3^4,81,84,243,27,81
+9,Maths,Statistics,Easy,"For x^2 + (11)x + (18) = 0, which is a solution?",-2,-21,0,2,-2
+9,Maths,Statistics,Easy,"For x^2 + (1)x + (-12) = 0, which is a solution?",-3,31,5,3,3
+9,Maths,Linear Functions,Easy,"For x^2 + (-4)x + (-32) = 0, which is a solution?",81,10,8,-8,8
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (9,-10) and (14,-17)?",1.4,-2.4,-1.4,-0.3999999999999999,-1.4
+9,Maths,Linear Functions,Easy,Compute: 3^6,243,729,732,2187,729
+9,Maths,Geometry,Easy,"For x^2 + (5)x + (-14) = 0, which is a solution?",21,4,2,-2,2
+9,Maths,Linear Functions,Easy,"For x^2 + (1)x + (0) = 0, which is a solution?",01,0,2,Option 3,0
+9,Maths,Algebra Basics,Easy,"For x^2 + (7)x + (0) = 0, which is a solution?",2,0,Option 3,01,0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (8,6) and (11,1)?",-0.6666666666666667,1.6666666666666667,-1.6666666666666667,-2.666666666666667,-1.6666666666666667
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-1,4) and (2,-6)?",-4.333333333333334,3.3333333333333335,-3.3333333333333335,-2.3333333333333335,-3.3333333333333335
+9,Maths,Linear Functions,Easy,Compute: 3^7,729,6561,2190,2187,2187
+9,Maths,Algebra Basics,Easy,Compute: 2^6,64,66,32,128,64
+9,Maths,Linear Functions,Easy,Compute: 2^7,130,64,256,128,128
+9,Maths,Algebra Basics,Easy,"For x^2 + (9)x + (8) = 0, which is a solution?",-6,-81,8,-8,-8
+9,Maths,Geometry,Easy,"What is the slope of the line through (-2,10) and (2,17)?",-1.75,0.75,1.75,2.75,1.75
+9,Maths,Geometry,Easy,"What is the slope of the line through (-3,-8) and (0,1)?",2.0,4.0,3.0,-3.0,3.0
+9,Maths,Algebra Basics,Easy,Compute: 2^4,16,18,8,32,16
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (4,-6) and (6,2)?",3.0,-4.0,4.0,5.0,4.0
+9,Maths,Linear Functions,Easy,"For x^2 + (8)x + (16) = 0, which is a solution?",4,-4,-2,-41,-4
+9,Maths,Linear Functions,Easy,"For x^2 + (6)x + (-7) = 0, which is a solution?",3,11,1,-1,1
+9,Maths,Linear Functions,Easy,"For x^2 + (7)x + (10) = 0, which is a solution?",5,-3,-5,-51,-5
+9,Maths,Algebra Basics,Easy,"For x^2 + (5)x + (6) = 0, which is a solution?",0,-21,2,-2,-2
+9,Maths,Geometry,Easy,Compute: 5^7,15625,78125,78130,390625,78125
+9,Maths,Geometry,Easy,"What is the slope of the line through (9,-9) and (11,-13)?",2.0,-1.0,-2.0,-3.0,-2.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (2,6) and (3,8)?",1.0,2.0,-2.0,3.0,2.0
+9,Maths,Linear Functions,Easy,"For x^2 + (10)x + (21) = 0, which is a solution?",-3,3,-1,-31,-3
+9,Maths,Algebra Basics,Easy,Compute: 3^5,81,246,243,729,243
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-8,-6) and (-4,-1)?",-1.25,0.25,2.25,1.25,1.25
+9,Maths,Statistics,Easy,"What is the slope of the line through (-5,-5) and (-4,0)?",4.0,6.0,-5.0,5.0,5.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (1,-9) and (6,-10)?",-0.2,-1.2,0.2,0.8,-0.2
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (6,2) and (9,-4)?",-1.0,2.0,-2.0,-3.0,-2.0
+9,Maths,Algebra Basics,Easy,Compute: 5^3,625,25,130,125,125
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (1,10) and (5,4)?",-1.5,-2.5,1.5,-0.5,-1.5
+9,Maths,Geometry,Easy,"What is the slope of the line through (-2,1) and (2,4)?",1.75,0.75,-0.25,-0.75,0.75
+9,Maths,Statistics,Easy,"For x^2 + (-14)x + (45) = 0, which is a solution?",9,91,-9,11,9
+9,Maths,Linear Functions,Easy,"For x^2 + (0)x + (-49) = 0, which is a solution?",-71,7,-5,-7,-7
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-1,9) and (0,0)?",-8.0,9.0,-10.0,-9.0,-9.0
+9,Maths,Statistics,Easy,Compute: 3^8,6564,2187,19683,6561,6561
+9,Maths,Algebra Basics,Easy,Compute: 3^2,12,27,3,9,9
+9,Maths,Statistics,Easy,"For x^2 + (5)x + (0) = 0, which is a solution?",-3,-5,5,-51,-5
+9,Maths,Geometry,Easy,Compute: 5^5,3125,15625,3130,625,3125
+9,Maths,Geometry,Easy,"What is the slope of the line through (-6,5) and (-5,-2)?",-7.0,-8.0,7.0,-6.0,-7.0
+9,Maths,Linear Functions,Easy,"For x^2 + (-7)x + (6) = 0, which is a solution?",61,-6,8,6,6
+9,Maths,Linear Functions,Easy,"For x^2 + (4)x + (-45) = 0, which is a solution?",-7,-91,-9,9,-9
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (9,-3) and (14,-13)?",-2.0,2.0,-3.0,-1.0,-2.0
+9,Maths,Algebra Basics,Easy,"For x^2 + (9)x + (20) = 0, which is a solution?",-51,-3,5,-5,-5
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-8,-1) and (-5,-1)?",1.0,0.0,-0.0,-1.0,0.0
+9,Maths,Geometry,Easy,"For x^2 + (5)x + (-6) = 0, which is a solution?",3,11,-1,1,1
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (7,8) and (11,14)?",0.5,2.5,1.5,-1.5,1.5
+9,Maths,Statistics,Easy,"What is the slope of the line through (0,9) and (5,4)?",0.0,-1.0,1.0,-2.0,-1.0
+9,Maths,Algebra Basics,Easy,"For x^2 + (-1)x + (-56) = 0, which is a solution?",7,-71,-5,-7,-7
+9,Maths,Algebra Basics,Easy,"For x^2 + (3)x + (-18) = 0, which is a solution?",6,-61,-6,-4,-6
+9,Maths,Geometry,Easy,"What is the slope of the line through (-3,-3) and (1,-6)?",-1.75,0.25,0.75,-0.75,-0.75
+9,Maths,Linear Functions,Easy,"For x^2 + (-7)x + (12) = 0, which is a solution?",-3,3,5,31,3
+9,Maths,Algebra Basics,Easy,"For x^2 + (14)x + (48) = 0, which is a solution?",6,-4,-61,-6,-6
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (6,7) and (10,2)?",-1.25,-0.25,1.25,-2.25,-1.25
+9,Maths,Statistics,Easy,"What is the slope of the line through (-10,-2) and (-8,8)?",5.0,4.0,-5.0,6.0,5.0
+9,Maths,Linear Functions,Easy,Compute: 2^3,4,10,8,16,8
+9,Maths,Statistics,Easy,"For x^2 + (2)x + (-3) = 0, which is a solution?",-3,-1,-31,3,-3
+9,Maths,Geometry,Easy,"What is the slope of the line through (7,1) and (11,2)?",-0.25,-0.75,0.25,1.25,0.25
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-9,-7) and (-6,-2)?",1.6666666666666667,0.6666666666666667,2.666666666666667,-1.6666666666666667,1.6666666666666667
+9,Maths,Linear Functions,Easy,"For x^2 + (13)x + (40) = 0, which is a solution?",-51,-5,5,-3,-5
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-3,-2) and (-2,-1)?",1.0,2.0,-1.0,0.0,1.0
+9,Maths,Linear Functions,Easy,"For x^2 + (-6)x + (8) = 0, which is a solution?",4,-4,6,41,4
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-9,8) and (-8,5)?",-3.0,3.0,-4.0,-2.0,-3.0
+9,Maths,Geometry,Easy,"For x^2 + (0)x + (-36) = 0, which is a solution?",61,6,-6,8,6
+9,Maths,Geometry,Easy,"What is the slope of the line through (7,6) and (9,-1)?",-4.5,-3.5,-2.5,3.5,-3.5
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (7,-2) and (11,7)?",1.25,-2.25,3.25,2.25,2.25
+9,Maths,Statistics,Easy,"What is the slope of the line through (-7,2) and (-4,-8)?",-3.3333333333333335,-2.3333333333333335,3.3333333333333335,-4.333333333333334,-3.3333333333333335
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (5,4) and (7,1)?",-1.5,-2.5,1.5,-0.5,-1.5
+9,Maths,Algebra Basics,Easy,"For x^2 + (8)x + (7) = 0, which is a solution?",-5,7,-71,-7,-7
+9,Maths,Algebra Basics,Easy,"For x^2 + (-10)x + (9) = 0, which is a solution?",-1,3,1,11,1
+9,Maths,Geometry,Easy,"What is the slope of the line through (3,7) and (4,13)?",6.0,-6.0,5.0,7.0,6.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-8,-1) and (-7,5)?",5.0,6.0,-6.0,7.0,6.0
+9,Maths,Algebra Basics,Easy,"For x^2 + (0)x + (-9) = 0, which is a solution?",5,3,-3,31,3
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-10,10) and (-9,5)?",5.0,-5.0,-6.0,-4.0,-5.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-8,-4) and (-5,1)?",1.6666666666666667,2.666666666666667,0.6666666666666667,-1.6666666666666667,1.6666666666666667
+9,Maths,Linear Functions,Easy,"For x^2 + (1)x + (-2) = 0, which is a solution?",-2,0,2,-21,-2
+9,Maths,Geometry,Easy,"What is the slope of the line through (4,7) and (9,9)?",-0.6,1.4,0.4,-0.4,0.4
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (1,-3) and (2,-12)?",-9.0,-10.0,9.0,-8.0,-9.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (10,10) and (14,1)?",-3.25,-2.25,-1.25,2.25,-2.25
+9,Maths,Linear Functions,Easy,"For x^2 + (13)x + (42) = 0, which is a solution?",-61,-6,-4,6,-6
+9,Maths,Statistics,Easy,"For x^2 + (-8)x + (7) = 0, which is a solution?",3,1,11,-1,1
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-5,5) and (-2,15)?",-3.3333333333333335,4.333333333333334,3.3333333333333335,2.3333333333333335,3.3333333333333335
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-2,4) and (3,2)?",0.6,-0.4,-1.4,0.4,-0.4
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-6,8) and (-4,15)?",2.5,-3.5,4.5,3.5,3.5
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (1,9) and (5,16)?",0.75,1.75,2.75,-1.75,1.75
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-9,-3) and (-8,7)?",11.0,-10.0,9.0,10.0,10.0
+9,Maths,Algebra Basics,Easy,"For x^2 + (-11)x + (24) = 0, which is a solution?",31,5,-3,3,3
+9,Maths,Geometry,Easy,"What is the slope of the line through (-8,-1) and (-5,7)?",-2.6666666666666665,1.6666666666666665,3.6666666666666665,2.6666666666666665,2.6666666666666665
+9,Maths,Statistics,Easy,"What is the slope of the line through (-10,-10) and (-8,-5)?",2.5,1.5,-2.5,3.5,2.5
+9,Maths,Statistics,Easy,"What is the slope of the line through (-8,1) and (-5,4)?",2.0,0.0,1.0,-1.0,1.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (9,-9) and (13,-16)?",-0.75,1.75,-2.75,-1.75,-1.75
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (2,2) and (7,7)?",1.0,0.0,2.0,-1.0,1.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (-9,8) and (-7,6)?",-2.0,-1.0,0.0,1.0,-1.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (-5,7) and (0,9)?",0.4,-0.4,-0.6,1.4,0.4
+9,Maths,Algebra Basics,Easy,"For x^2 + (8)x + (12) = 0, which is a solution?",-6,-61,-4,6,-6
+9,Maths,Statistics,Easy,"For x^2 + (-10)x + (25) = 0, which is a solution?",-5,7,5,51,5
+9,Maths,Geometry,Easy,"What is the slope of the line through (2,0) and (5,-7)?",-3.3333333333333335,-2.3333333333333335,-1.3333333333333335,2.3333333333333335,-2.3333333333333335
+9,Maths,Statistics,Easy,"What is the slope of the line through (-9,-10) and (-8,-9)?",-1.0,2.0,0.0,1.0,1.0
+9,Maths,Geometry,Easy,"For x^2 + (-7)x + (10) = 0, which is a solution?",-2,2,21,4,2
+9,Maths,Geometry,Easy,"What is the slope of the line through (6,-9) and (11,0)?",0.8,1.8,2.8,-1.8,1.8
+9,Maths,Statistics,Easy,"For x^2 + (-4)x + (3) = 0, which is a solution?",31,5,3,-3,3
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-1,1) and (3,10)?",3.25,2.25,1.25,-2.25,2.25
+9,Maths,Algebra Basics,Easy,"For x^2 + (18)x + (81) = 0, which is a solution?",-7,-91,9,-9,-9
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (1,-3) and (2,5)?",9.0,7.0,-8.0,8.0,8.0
+9,Maths,Statistics,Easy,"For x^2 + (11)x + (30) = 0, which is a solution?",-61,-4,-6,6,-6
+9,Maths,Geometry,Easy,"What is the slope of the line through (7,-3) and (9,-4)?",-0.5,0.5,-1.5,Option 3,-0.5
+9,Maths,Algebra Basics,Easy,"For x^2 + (-2)x + (1) = 0, which is a solution?",11,1,-1,3,1
+9,Maths,Algebra Basics,Easy,"For x^2 + (1)x + (-42) = 0, which is a solution?",-6,6,8,61,6
+9,Maths,Statistics,Easy,"What is the slope of the line through (0,1) and (3,4)?",1.0,-1.0,2.0,0.0,1.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (7,3) and (12,10)?",0.3999999999999999,1.4,2.4,-1.4,1.4
+9,Maths,Linear Functions,Easy,"For x^2 + (4)x + (-5) = 0, which is a solution?",5,-3,-51,-5,-5
+9,Maths,Algebra Basics,Easy,"For x^2 + (12)x + (36) = 0, which is a solution?",-4,-61,-6,6,-6
+9,Maths,Statistics,Easy,"For x^2 + (-2)x + (-35) = 0, which is a solution?",-5,-51,5,-3,-5
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (8,-5) and (10,-3)?",2.0,1.0,0.0,-1.0,1.0
+9,Maths,Algebra Basics,Easy,"For x^2 + (-14)x + (48) = 0, which is a solution?",61,-6,6,8,6
+9,Maths,Algebra Basics,Easy,"For x^2 + (4)x + (-32) = 0, which is a solution?",4,41,-4,6,4
+9,Maths,Linear Functions,Easy,Compute: 5^2,25,5,30,125,25
+9,Maths,Linear Functions,Easy,"For x^2 + (-3)x + (-4) = 0, which is a solution?",4,6,41,-4,4
+9,Maths,Statistics,Easy,"What is the slope of the line through (-5,-10) and (-3,-12)?",-2.0,0.0,-1.0,1.0,-1.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (-6,-6) and (-2,-11)?",-2.25,-1.25,-0.25,1.25,-1.25
+9,Maths,Statistics,Easy,"For x^2 + (12)x + (35) = 0, which is a solution?",-3,-51,-5,5,-5
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (0,0) and (1,-10)?",-11.0,-10.0,10.0,-9.0,-10.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (4,-2) and (9,-6)?",-0.8,0.19999999999999996,-1.8,0.8,-0.8
+9,Maths,Statistics,Easy,"What is the slope of the line through (-8,-5) and (-5,-2)?",2.0,-1.0,0.0,1.0,1.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (2,-8) and (4,-5)?",0.5,-1.5,2.5,1.5,1.5
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-8,2) and (-7,5)?",2.0,4.0,3.0,-3.0,3.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (-7,-5) and (-6,2)?",6.0,8.0,7.0,-7.0,7.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (1,-5) and (4,-15)?",-4.333333333333334,-2.3333333333333335,-3.3333333333333335,3.3333333333333335,-3.3333333333333335
+9,Maths,Statistics,Easy,"For x^2 + (-1)x + (-20) = 0, which is a solution?",5,7,51,-5,5
+9,Maths,Geometry,Easy,"What is the slope of the line through (9,-7) and (11,-15)?",-3.0,-4.0,4.0,-5.0,-4.0
+9,Maths,Algebra Basics,Easy,"For x^2 + (3)x + (0) = 0, which is a solution?",-1,-3,3,-31,-3
+9,Maths,Statistics,Easy,"For x^2 + (-6)x + (5) = 0, which is a solution?",5,7,-5,51,5
+9,Maths,Geometry,Easy,"What is the slope of the line through (8,7) and (11,8)?",-0.3333333333333333,-0.6666666666666667,0.3333333333333333,1.3333333333333333,0.3333333333333333
+9,Maths,Statistics,Easy,"What is the slope of the line through (-4,-1) and (-2,2)?",0.5,2.5,-1.5,1.5,1.5
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-2,-9) and (2,-12)?",0.75,0.25,-0.75,-1.75,-0.75
+9,Maths,Geometry,Easy,"For x^2 + (-13)x + (42) = 0, which is a solution?",-6,8,6,61,6
+9,Maths,Geometry,Easy,"What is the slope of the line through (-2,1) and (-1,5)?",4.0,3.0,5.0,-4.0,4.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (-1,2) and (1,-2)?",-1.0,2.0,-2.0,-3.0,-2.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-7,3) and (-3,3)?",-1.0,-0.0,0.0,1.0,0.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (7,6) and (9,7)?",-0.5,Option 3,0.5,1.5,0.5
+9,Maths,Geometry,Easy,"What is the slope of the line through (-6,1) and (-5,8)?",7.0,6.0,8.0,-7.0,7.0
+9,Maths,Statistics,Easy,"For x^2 + (-1)x + (-30) = 0, which is a solution?",-6,61,8,6,6
+9,Maths,Geometry,Easy,"What is the slope of the line through (5,5) and (9,0)?",-0.25,-1.25,-2.25,1.25,-1.25
+9,Maths,Geometry,Easy,"For x^2 + (2)x + (-48) = 0, which is a solution?",61,6,-6,8,6
+9,Maths,Statistics,Easy,"For x^2 + (-16)x + (64) = 0, which is a solution?",81,8,-8,10,8
+9,Maths,Geometry,Easy,"For x^2 + (4)x + (-12) = 0, which is a solution?",6,-61,-6,-4,-6
+9,Maths,Linear Functions,Easy,"For x^2 + (1)x + (-20) = 0, which is a solution?",4,6,41,-4,4
+9,Maths,Statistics,Easy,"What is the slope of the line through (-4,8) and (-3,4)?",-5.0,-4.0,4.0,-3.0,-4.0
+9,Maths,Statistics,Easy,"For x^2 + (-1)x + (-12) = 0, which is a solution?",6,41,4,-4,4
+9,Maths,Linear Functions,Easy,"For x^2 + (7)x + (-18) = 0, which is a solution?",-7,-9,-91,9,-9
+9,Maths,Statistics,Easy,"For x^2 + (-5)x + (-24) = 0, which is a solution?",8,81,-8,10,8
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-7,2) and (-3,4)?",-0.5,Option 3,1.5,0.5,0.5
+9,Maths,Statistics,Easy,"For x^2 + (-8)x + (16) = 0, which is a solution?",-4,4,6,41,4
+9,Maths,Statistics,Easy,"What is the slope of the line through (0,-9) and (4,-19)?",-1.5,2.5,-2.5,-3.5,-2.5
+9,Maths,Linear Functions,Easy,"For x^2 + (-4)x + (-5) = 0, which is a solution?",1,Option 3,-1,-11,-1
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (4,-1) and (8,-4)?",-0.75,0.75,-1.75,0.25,-0.75
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-5,1) and (0,8)?",1.4,2.4,0.3999999999999999,-1.4,1.4
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (0,0) and (2,10)?",4.0,5.0,6.0,-5.0,5.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (9,3) and (11,9)?",3.0,2.0,-3.0,4.0,3.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-4,-2) and (-1,-8)?",2.0,-3.0,-2.0,-1.0,-2.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-9,-2) and (-8,3)?",5.0,6.0,4.0,-5.0,5.0
+9,Maths,Algebra Basics,Easy,"For x^2 + (-3)x + (-10) = 0, which is a solution?",-21,-2,2,0,-2
+9,Maths,Statistics,Easy,"What is the slope of the line through (10,-8) and (15,1)?",1.8,2.8,-1.8,0.8,1.8
+9,Maths,Geometry,Easy,"What is the slope of the line through (-9,3) and (-6,10)?",3.3333333333333335,1.3333333333333335,-2.3333333333333335,2.3333333333333335,2.3333333333333335
+9,Maths,Algebra Basics,Easy,"For x^2 + (-3)x + (-28) = 0, which is a solution?",7,9,-7,71,7
+9,Maths,Statistics,Easy,"What is the slope of the line through (-8,-1) and (-7,-1)?",0.0,-1.0,1.0,-0.0,0.0
+9,Maths,Geometry,Easy,"For x^2 + (6)x + (-16) = 0, which is a solution?",-8,8,-81,-6,-8
+9,Maths,Statistics,Easy,"What is the slope of the line through (-5,-4) and (-3,-14)?",5.0,-4.0,-6.0,-5.0,-5.0
+9,Maths,Algebra Basics,Easy,Compute: 3^3,9,81,30,27,27
+9,Maths,Geometry,Easy,"For x^2 + (-15)x + (54) = 0, which is a solution?",91,-9,9,11,9
+9,Maths,Geometry,Easy,"What is the slope of the line through (-10,-8) and (-9,-12)?",4.0,-5.0,-4.0,-3.0,-4.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (9,-4) and (12,-7)?",0.0,1.0,-2.0,-1.0,-1.0
+9,Maths,Statistics,Easy,"For x^2 + (-8)x + (0) = 0, which is a solution?",0,Option 3,2,01,0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (0,7) and (5,14)?",-1.4,2.4,0.3999999999999999,1.4,1.4
+9,Maths,Geometry,Easy,"What is the slope of the line through (-8,4) and (-7,-1)?",-5.0,-6.0,-4.0,5.0,-5.0
+9,Maths,Geometry,Easy,"For x^2 + (-8)x + (-9) = 0, which is a solution?",1,Option 3,-1,-11,-1
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (6,-2) and (9,-4)?",-0.6666666666666666,-1.6666666666666665,0.33333333333333337,0.6666666666666666,-0.6666666666666666
+9,Maths,Statistics,Easy,"What is the slope of the line through (5,3) and (6,-1)?",-4.0,-5.0,4.0,-3.0,-4.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (3,-3) and (6,-2)?",0.3333333333333333,1.3333333333333333,-0.3333333333333333,-0.6666666666666667,0.3333333333333333
+9,Maths,Statistics,Easy,"What is the slope of the line through (3,10) and (8,20)?",3.0,-2.0,2.0,1.0,2.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (-4,0) and (-2,1)?",1.5,-0.5,Option 3,0.5,0.5
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (9,-7) and (14,-6)?",-0.2,1.2,0.2,-0.8,0.2
+9,Maths,Statistics,Easy,"What is the slope of the line through (-10,-10) and (-7,-11)?",-1.3333333333333333,-0.3333333333333333,0.6666666666666667,0.3333333333333333,-0.3333333333333333
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (0,6) and (2,16)?",4.0,6.0,-5.0,5.0,5.0
+9,Maths,Statistics,Easy,"For x^2 + (0)x + (-16) = 0, which is a solution?",4,-4,41,6,4
+9,Maths,Algebra Basics,Easy,"For x^2 + (-15)x + (56) = 0, which is a solution?",-7,71,9,7,7
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-7,-1) and (-5,-3)?",1.0,-1.0,0.0,-2.0,-1.0
+9,Maths,Geometry,Easy,"For x^2 + (5)x + (-24) = 0, which is a solution?",-8,8,-6,-81,-8
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-1,-5) and (1,3)?",3.0,5.0,4.0,-4.0,4.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (8,-7) and (12,-2)?",2.25,-1.25,0.25,1.25,1.25
+9,Maths,Statistics,Easy,"For x^2 + (9)x + (14) = 0, which is a solution?",0,-2,2,-21,-2
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (10,-1) and (14,-2)?",-1.25,0.25,0.75,-0.25,-0.25
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (10,2) and (15,7)?",-1.0,1.0,2.0,0.0,1.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (1,3) and (3,-7)?",-5.0,-4.0,5.0,-6.0,-5.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-6,-2) and (-3,2)?",2.333333333333333,-1.3333333333333333,1.3333333333333333,0.33333333333333326,1.3333333333333333
+9,Maths,Statistics,Easy,"What is the slope of the line through (-9,-10) and (-6,-16)?",2.0,-3.0,-1.0,-2.0,-2.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (0,-5) and (5,-3)?",1.4,-0.4,-0.6,0.4,0.4
+9,Maths,Statistics,Easy,"What is the slope of the line through (-5,-1) and (0,-8)?",-2.4,1.4,-0.3999999999999999,-1.4,-1.4
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (10,-8) and (14,-14)?",-0.5,1.5,-1.5,-2.5,-1.5
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-1,-10) and (2,-16)?",-1.0,2.0,-3.0,-2.0,-2.0
+9,Maths,Geometry,Easy,"For x^2 + (6)x + (0) = 0, which is a solution?",6,-6,-61,-4,-6
+9,Maths,Statistics,Easy,"What is the slope of the line through (5,8) and (6,15)?",7.0,-7.0,6.0,8.0,7.0
+9,Maths,Geometry,Easy,"For x^2 + (14)x + (49) = 0, which is a solution?",7,-5,-71,-7,-7
+9,Maths,Statistics,Easy,"What is the slope of the line through (-10,-10) and (-5,-11)?",0.8,-0.2,0.2,-1.2,-0.2
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-1,-2) and (2,2)?",-1.3333333333333333,2.333333333333333,0.33333333333333326,1.3333333333333333,1.3333333333333333
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-6,-6) and (-4,-16)?",-4.0,-5.0,5.0,-6.0,-5.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-5,-4) and (-3,0)?",3.0,2.0,-2.0,1.0,2.0
+9,Maths,Algebra Basics,Easy,"For x^2 + (-6)x + (-7) = 0, which is a solution?",9,-7,7,71,7
+9,Maths,Statistics,Easy,"What is the slope of the line through (2,10) and (7,13)?",-0.6,1.6,0.6,-0.4,0.6
+9,Maths,Geometry,Easy,"What is the slope of the line through (-2,-4) and (1,2)?",2.0,3.0,-2.0,1.0,2.0
+9,Maths,Algebra Basics,Easy,"For x^2 + (3)x + (-10) = 0, which is a solution?",-5,5,-3,-51,-5
+9,Maths,Statistics,Easy,"What is the slope of the line through (9,9) and (11,9)?",0.0,1.0,-0.0,-1.0,0.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-10,6) and (-7,13)?",1.3333333333333335,2.3333333333333335,-2.3333333333333335,3.3333333333333335,2.3333333333333335
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (2,0) and (7,-7)?",-0.3999999999999999,1.4,-2.4,-1.4,-1.4
+9,Maths,Geometry,Easy,"What is the slope of the line through (-9,-6) and (-5,-15)?",-1.25,-3.25,2.25,-2.25,-2.25
+9,Maths,Geometry,Easy,"What is the slope of the line through (-6,3) and (-1,11)?",1.6,0.6000000000000001,-1.6,2.6,1.6
+9,Maths,Geometry,Easy,"For x^2 + (16)x + (64) = 0, which is a solution?",8,-6,-8,-81,-8
+9,Maths,Statistics,Easy,"What is the slope of the line through (-4,-5) and (-1,1)?",3.0,-2.0,2.0,1.0,2.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (10,-5) and (15,-6)?",0.8,-1.2,0.2,-0.2,-0.2
+9,Maths,Statistics,Easy,"For x^2 + (-2)x + (-8) = 0, which is a solution?",2,-2,0,-21,-2
+9,Maths,Linear Functions,Easy,"For x^2 + (8)x + (15) = 0, which is a solution?",-31,-1,3,-3,-3
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-6,-6) and (-5,-3)?",4.0,2.0,-3.0,3.0,3.0
+9,Maths,Geometry,Easy,"For x^2 + (10)x + (24) = 0, which is a solution?",-61,6,-4,-6,-6
+9,Maths,Statistics,Easy,"What is the slope of the line through (-1,-7) and (4,-16)?",-2.8,-0.8,-1.8,1.8,-1.8
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (2,3) and (3,2)?",0.0,-2.0,1.0,-1.0,-1.0
+9,Maths,Linear Functions,Easy,"For x^2 + (7)x + (12) = 0, which is a solution?",-41,-2,4,-4,-4
+9,Maths,Algebra Basics,Easy,"For x^2 + (3)x + (-54) = 0, which is a solution?",-9,-7,9,-91,-9
+9,Maths,Statistics,Easy,"What is the slope of the line through (-2,-4) and (2,-8)?",1.0,0.0,-2.0,-1.0,-1.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (3,10) and (5,7)?",1.5,-0.5,-1.5,-2.5,-1.5
+9,Maths,Statistics,Easy,"What is the slope of the line through (1,-4) and (6,-4)?",0.0,-0.0,-1.0,1.0,0.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (7,-3) and (11,1)?",2.0,0.0,-1.0,1.0,1.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-2,8) and (3,-2)?",-1.0,-3.0,2.0,-2.0,-2.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-2,10) and (-1,6)?",-4.0,4.0,-3.0,-5.0,-4.0
+9,Maths,Linear Functions,Easy,"For x^2 + (12)x + (27) = 0, which is a solution?",-91,-9,9,-7,-9
+9,Maths,Geometry,Easy,"For x^2 + (17)x + (72) = 0, which is a solution?",-91,-7,-9,9,-9
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (3,2) and (4,-8)?",-11.0,10.0,-10.0,-9.0,-10.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (5,-2) and (9,-4)?",-1.5,-0.5,0.5,Option 3,-0.5
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (10,-7) and (14,-5)?",1.5,Option 3,-0.5,0.5,0.5
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (4,-7) and (7,-14)?",-1.3333333333333335,2.3333333333333335,-3.3333333333333335,-2.3333333333333335,-2.3333333333333335
+9,Maths,Linear Functions,Easy,"For x^2 + (-8)x + (15) = 0, which is a solution?",-3,31,5,3,3
+9,Maths,Statistics,Easy,"What is the slope of the line through (5,5) and (8,5)?",0.0,-1.0,-0.0,1.0,0.0
+9,Maths,Algebra Basics,Easy,"For x^2 + (2)x + (-63) = 0, which is a solution?",-7,9,71,7,7
+9,Maths,Geometry,Easy,"What is the slope of the line through (0,-9) and (4,-12)?",-0.75,0.25,0.75,-1.75,-0.75
+9,Maths,Statistics,Easy,"What is the slope of the line through (4,-7) and (9,-2)?",0.0,-1.0,1.0,2.0,1.0
+9,Maths,Linear Functions,Easy,"For x^2 + (1)x + (-30) = 0, which is a solution?",6,-4,-6,-61,-6
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (3,-1) and (8,8)?",2.8,1.8,0.8,-1.8,1.8
+9,Maths,Statistics,Easy,"For x^2 + (-17)x + (72) = 0, which is a solution?",10,-8,8,81,8
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-10,-10) and (-9,-7)?",2.0,-3.0,4.0,3.0,3.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (-8,-10) and (-7,-10)?",0.0,-1.0,-0.0,1.0,0.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (2,-9) and (4,-4)?",1.5,3.5,2.5,-2.5,2.5
+9,Maths,Statistics,Easy,"What is the slope of the line through (0,7) and (1,7)?",-0.0,-1.0,0.0,1.0,0.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-7,-3) and (-6,-13)?",10.0,-9.0,-11.0,-10.0,-10.0
+9,Maths,Algebra Basics,Easy,"For x^2 + (-7)x + (-8) = 0, which is a solution?",8,81,10,-8,8
+9,Maths,Geometry,Easy,"What is the slope of the line through (10,8) and (14,13)?",2.25,-1.25,0.25,1.25,1.25
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-2,-5) and (2,1)?",2.5,0.5,-1.5,1.5,1.5
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-2,-9) and (3,-14)?",0.0,-1.0,-2.0,1.0,-1.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (5,8) and (8,11)?",1.0,2.0,0.0,-1.0,1.0
+9,Maths,Geometry,Easy,"For x^2 + (-1)x + (0) = 0, which is a solution?",-1,1,11,3,1
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (1,8) and (4,10)?",-0.33333333333333337,0.6666666666666666,-0.6666666666666666,1.6666666666666665,0.6666666666666666
+9,Maths,Geometry,Easy,"For x^2 + (-16)x + (63) = 0, which is a solution?",7,9,-7,71,7
+9,Maths,Statistics,Easy,"What is the slope of the line through (-4,8) and (-1,10)?",-0.33333333333333337,-0.6666666666666666,1.6666666666666665,0.6666666666666666,0.6666666666666666
+9,Maths,Geometry,Easy,"What is the slope of the line through (0,-4) and (2,-13)?",-5.5,-3.5,-4.5,4.5,-4.5
+9,Maths,Geometry,Easy,"For x^2 + (-3)x + (2) = 0, which is a solution?",4,21,2,-2,2
+9,Maths,Geometry,Easy,"What is the slope of the line through (-5,-1) and (-2,-5)?",-1.3333333333333333,1.3333333333333333,-0.33333333333333326,-2.333333333333333,-1.3333333333333333
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (9,-3) and (12,-10)?",-3.3333333333333335,2.3333333333333335,-2.3333333333333335,-1.3333333333333335,-2.3333333333333335
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (4,1) and (9,-3)?",-1.8,0.8,-0.8,0.19999999999999996,-0.8
+9,Maths,Geometry,Easy,"What is the slope of the line through (9,-10) and (14,-9)?",-0.8,-0.2,0.2,1.2,0.2
+9,Maths,Statistics,Easy,"For x^2 + (1)x + (-56) = 0, which is a solution?",7,9,71,-7,7
+9,Maths,Algebra Basics,Easy,"For x^2 + (-9)x + (14) = 0, which is a solution?",71,-7,7,9,7
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-3,8) and (2,10)?",1.4,-0.6,-0.4,0.4,0.4
+9,Maths,Statistics,Easy,"What is the slope of the line through (-9,1) and (-5,2)?",1.25,0.25,-0.75,-0.25,0.25
+9,Maths,Statistics,Easy,"What is the slope of the line through (-8,6) and (-3,-3)?",-2.8,-1.8,1.8,-0.8,-1.8
+9,Maths,Geometry,Easy,"What is the slope of the line through (-8,1) and (-5,-6)?",-1.3333333333333335,2.3333333333333335,-2.3333333333333335,-3.3333333333333335,-2.3333333333333335
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-1,-5) and (2,-12)?",2.3333333333333335,-1.3333333333333335,-3.3333333333333335,-2.3333333333333335,-2.3333333333333335
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (5,6) and (8,5)?",0.3333333333333333,-0.3333333333333333,0.6666666666666667,-1.3333333333333333,-0.3333333333333333
+9,Maths,Algebra Basics,Easy,"For x^2 + (-13)x + (36) = 0, which is a solution?",11,9,91,-9,9
+9,Maths,Linear Functions,Easy,"For x^2 + (15)x + (56) = 0, which is a solution?",8,-8,-6,-81,-8
+9,Maths,Linear Functions,Easy,"For x^2 + (-6)x + (-27) = 0, which is a solution?",-9,91,11,9,9
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (7,-10) and (10,-17)?",-2.3333333333333335,2.3333333333333335,-3.3333333333333335,-1.3333333333333335,-2.3333333333333335
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-6,-7) and (-2,-12)?",-1.25,-2.25,-0.25,1.25,-1.25
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-4,6) and (0,6)?",1.0,-0.0,0.0,-1.0,0.0
+9,Maths,Geometry,Easy,"For x^2 + (5)x + (4) = 0, which is a solution?",1,-11,Option 3,-1,-1
+9,Maths,Geometry,Easy,"What is the slope of the line through (-7,-2) and (-6,-3)?",0.0,1.0,-2.0,-1.0,-1.0
+9,Maths,Linear Functions,Easy,"For x^2 + (-2)x + (-3) = 0, which is a solution?",-3,3,31,5,3
+9,Maths,Algebra Basics,Easy,"For x^2 + (10)x + (16) = 0, which is a solution?",8,-81,-8,-6,-8
+9,Maths,Geometry,Easy,"What is the slope of the line through (0,0) and (1,9)?",10.0,-9.0,8.0,9.0,9.0
+9,Maths,Algebra Basics,Easy,"For x^2 + (1)x + (-72) = 0, which is a solution?",8,-8,10,81,8
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (1,7) and (6,10)?",1.6,-0.6,-0.4,0.6,0.6
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (2,-5) and (3,-13)?",8.0,-8.0,-7.0,-9.0,-8.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-9,10) and (-8,3)?",7.0,-6.0,-8.0,-7.0,-7.0
+9,Maths,Linear Functions,Easy,"For x^2 + (0)x + (-64) = 0, which is a solution?",10,81,-8,8,8
+9,Maths,Geometry,Easy,"What is the slope of the line through (-3,6) and (0,-1)?",-1.3333333333333335,-3.3333333333333335,-2.3333333333333335,2.3333333333333335,-2.3333333333333335
+9,Maths,Geometry,Easy,"For x^2 + (-7)x + (-18) = 0, which is a solution?",-21,2,0,-2,-2
+9,Maths,Statistics,Easy,"For x^2 + (4)x + (3) = 0, which is a solution?",-1,-31,3,-3,-3
+9,Maths,Linear Functions,Easy,"For x^2 + (9)x + (0) = 0, which is a solution?",0,2,Option 3,01,0
+9,Maths,Geometry,Easy,"For x^2 + (2)x + (-24) = 0, which is a solution?",4,41,6,-4,4
+9,Maths,Algebra Basics,Easy,"For x^2 + (6)x + (9) = 0, which is a solution?",-31,-3,-1,3,-3
+9,Maths,Statistics,Easy,"What is the slope of the line through (6,0) and (10,5)?",2.25,1.25,0.25,-1.25,1.25
+9,Maths,Geometry,Easy,"For x^2 + (-10)x + (21) = 0, which is a solution?",9,71,7,-7,7
+9,Maths,Geometry,Easy,"What is the slope of the line through (-7,-5) and (-2,-6)?",0.2,-0.2,0.8,-1.2,-0.2
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-10,2) and (-6,-5)?",1.75,-0.75,-2.75,-1.75,-1.75
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (1,2) and (2,-6)?",8.0,-9.0,-8.0,-7.0,-8.0
+9,Maths,Statistics,Easy,"For x^2 + (0)x + (-4) = 0, which is a solution?",4,2,-2,21,2
+9,Maths,Linear Functions,Easy,"For x^2 + (-5)x + (6) = 0, which is a solution?",-2,21,4,2,2
+9,Maths,Statistics,Easy,"What is the slope of the line through (4,4) and (8,-3)?",-1.75,1.75,-2.75,-0.75,-1.75
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-7,-3) and (-4,-9)?",2.0,-2.0,-1.0,-3.0,-2.0
+9,Maths,Statistics,Easy,"For x^2 + (-9)x + (20) = 0, which is a solution?",4,-4,6,41,4
+9,Maths,Linear Functions,Easy,"For x^2 + (-1)x + (-72) = 0, which is a solution?",91,9,11,-9,9
+9,Maths,Statistics,Easy,"For x^2 + (4)x + (4) = 0, which is a solution?",2,-21,0,-2,-2
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-1,9) and (4,6)?",-1.6,0.6,-0.6,0.4,-0.6
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-9,-2) and (-8,-7)?",-5.0,-4.0,-6.0,5.0,-5.0
+9,Maths,Linear Functions,Easy,"For x^2 + (8)x + (0) = 0, which is a solution?",0,01,Option 3,2,0
+9,Maths,Geometry,Easy,"What is the slope of the line through (2,-3) and (4,0)?",0.5,2.5,-1.5,1.5,1.5
+9,Maths,Statistics,Easy,"What is the slope of the line through (1,-3) and (3,-2)?",0.5,-0.5,1.5,Option 3,0.5
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (8,2) and (10,-3)?",-2.5,-1.5,2.5,-3.5,-2.5
+9,Maths,Algebra Basics,Easy,"For x^2 + (-1)x + (-2) = 0, which is a solution?",-11,-1,1,Option 3,-1
+9,Maths,Geometry,Easy,"What is the slope of the line through (-3,-5) and (1,0)?",0.25,-1.25,1.25,2.25,1.25
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (5,-6) and (10,2)?",2.6,-1.6,1.6,0.6000000000000001,1.6
+9,Maths,Statistics,Easy,"For x^2 + (3)x + (-4) = 0, which is a solution?",-41,4,-2,-4,-4
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (7,-3) and (8,-11)?",-9.0,-8.0,-7.0,8.0,-8.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (8,2) and (10,-1)?",-2.5,-0.5,-1.5,1.5,-1.5
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (0,10) and (2,15)?",2.5,-2.5,1.5,3.5,2.5
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-4,3) and (0,-1)?",1.0,-1.0,0.0,-2.0,-1.0
+9,Maths,Algebra Basics,Easy,"For x^2 + (-11)x + (18) = 0, which is a solution?",11,-9,91,9,9
+9,Maths,Algebra Basics,Easy,"For x^2 + (12)x + (32) = 0, which is a solution?",-6,-81,-8,8,-8
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (10,-9) and (11,-11)?",-3.0,-2.0,2.0,-1.0,-2.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (-7,-2) and (-6,7)?",8.0,9.0,10.0,-9.0,9.0
+9,Maths,Algebra Basics,Easy,"For x^2 + (2)x + (1) = 0, which is a solution?",Option 3,1,-1,-11,-1
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-5,0) and (-1,-3)?",0.25,-1.75,-0.75,0.75,-0.75
+9,Maths,Geometry,Easy,"What is the slope of the line through (-3,3) and (-1,7)?",2.0,-2.0,3.0,1.0,2.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (6,-8) and (10,-14)?",-1.5,-0.5,-2.5,1.5,-1.5
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-4,-1) and (-3,0)?",0.0,-1.0,1.0,2.0,1.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (3,-4) and (8,-1)?",-0.4,-0.6,1.6,0.6,0.6
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (10,10) and (13,7)?",-1.0,0.0,1.0,-2.0,-1.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (-7,8) and (-3,3)?",1.25,-2.25,-1.25,-0.25,-1.25
+9,Maths,Statistics,Easy,"For x^2 + (1)x + (-6) = 0, which is a solution?",-31,3,-1,-3,-3
+9,Maths,Linear Functions,Easy,"For x^2 + (3)x + (-28) = 0, which is a solution?",6,4,-4,41,4
+9,Maths,Statistics,Easy,"For x^2 + (2)x + (0) = 0, which is a solution?",2,-21,-2,0,-2
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-5,10) and (-1,15)?",-1.25,1.25,2.25,0.25,1.25
+9,Maths,Algebra Basics,Easy,"For x^2 + (15)x + (54) = 0, which is a solution?",9,-9,-7,-91,-9
+9,Maths,Geometry,Easy,"What is the slope of the line through (-3,5) and (0,-3)?",2.6666666666666665,-2.6666666666666665,-3.6666666666666665,-1.6666666666666665,-2.6666666666666665
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-7,-2) and (-4,-11)?",-2.0,3.0,-4.0,-3.0,-3.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (1,-3) and (2,-13)?",-11.0,-10.0,-9.0,10.0,-10.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (4,2) and (7,8)?",1.0,-2.0,2.0,3.0,2.0
+9,Maths,Linear Functions,Easy,"For x^2 + (6)x + (-27) = 0, which is a solution?",-7,-91,-9,9,-9
+9,Maths,Statistics,Easy,"What is the slope of the line through (2,9) and (7,15)?",-1.2,1.2,2.2,0.19999999999999996,1.2
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (8,9) and (13,18)?",2.8,1.8,-1.8,0.8,1.8
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (0,4) and (4,10)?",0.5,1.5,-1.5,2.5,1.5
+9,Maths,Statistics,Easy,"What is the slope of the line through (6,3) and (11,2)?",0.2,-1.2,-0.2,0.8,-0.2
+9,Maths,Statistics,Easy,"What is the slope of the line through (5,-10) and (9,-6)?",2.0,-1.0,1.0,0.0,1.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (5,8) and (8,6)?",0.6666666666666666,-0.6666666666666666,0.33333333333333337,-1.6666666666666665,-0.6666666666666666
+9,Maths,Statistics,Easy,"What is the slope of the line through (-7,-5) and (-2,3)?",2.6,0.6000000000000001,-1.6,1.6,1.6
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (8,7) and (11,5)?",-1.6666666666666665,-0.6666666666666666,0.6666666666666666,0.33333333333333337,-0.6666666666666666
+9,Maths,Geometry,Easy,"What is the slope of the line through (9,0) and (12,0)?",1.0,-1.0,0.0,-0.0,0.0
+9,Maths,Statistics,Easy,"For x^2 + (-3)x + (-40) = 0, which is a solution?",8,10,81,-8,8
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (5,0) and (8,-5)?",-2.666666666666667,-1.6666666666666667,1.6666666666666667,-0.6666666666666667,-1.6666666666666667
+9,Maths,Statistics,Easy,"For x^2 + (-5)x + (-36) = 0, which is a solution?",-41,-2,-4,4,-4
+9,Maths,Statistics,Easy,"What is the slope of the line through (2,1) and (5,10)?",2.0,-3.0,4.0,3.0,3.0
+9,Maths,Algebra Basics,Easy,"For x^2 + (16)x + (63) = 0, which is a solution?",-7,-91,-9,9,-9
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-2,1) and (3,-1)?",-1.4,0.6,-0.4,0.4,-0.4
+9,Maths,Statistics,Easy,"What is the slope of the line through (-10,4) and (-5,0)?",-0.8,0.19999999999999996,-1.8,0.8,-0.8
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-8,-5) and (-6,-14)?",-5.5,-3.5,-4.5,4.5,-4.5
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-6,-2) and (-4,2)?",-2.0,3.0,2.0,1.0,2.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (9,4) and (11,11)?",2.5,-3.5,3.5,4.5,3.5
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (3,-8) and (8,-16)?",-1.6,-0.6000000000000001,-2.6,1.6,-1.6
+9,Maths,Geometry,Easy,"What is the slope of the line through (4,7) and (6,14)?",2.5,4.5,3.5,-3.5,3.5
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-5,6) and (-1,0)?",-1.5,-0.5,-2.5,1.5,-1.5
+9,Maths,Statistics,Easy,"What is the slope of the line through (-10,4) and (-6,-1)?",1.25,-1.25,-2.25,-0.25,-1.25
+9,Maths,Algebra Basics,Easy,"For x^2 + (-9)x + (0) = 0, which is a solution?",-9,91,9,11,9
+9,Maths,Geometry,Easy,"What is the slope of the line through (3,6) and (6,-4)?",-3.3333333333333335,-4.333333333333334,3.3333333333333335,-2.3333333333333335,-3.3333333333333335
+9,Maths,Geometry,Easy,"For x^2 + (-4)x + (0) = 0, which is a solution?",Option 3,2,0,01,0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-2,-10) and (2,-1)?",1.25,2.25,3.25,-2.25,2.25
+9,Maths,Geometry,Easy,"What is the slope of the line through (3,8) and (8,14)?",-1.2,1.2,2.2,0.19999999999999996,1.2
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-9,2) and (-4,3)?",0.2,-0.2,1.2,-0.8,0.2
+9,Maths,Statistics,Easy,"What is the slope of the line through (-1,4) and (1,-2)?",-4.0,-3.0,-2.0,3.0,-3.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (8,5) and (9,4)?",0.0,-2.0,-1.0,1.0,-1.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (1,-4) and (6,-13)?",1.8,-0.8,-2.8,-1.8,-1.8
+9,Maths,Geometry,Easy,"What is the slope of the line through (-8,-3) and (-3,5)?",-1.6,0.6000000000000001,1.6,2.6,1.6
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-5,10) and (0,6)?",0.8,0.19999999999999996,-1.8,-0.8,-0.8
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-9,10) and (-4,7)?",-0.6,-1.6,0.6,0.4,-0.6
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (4,6) and (7,11)?",0.6666666666666667,1.6666666666666667,-1.6666666666666667,2.666666666666667,1.6666666666666667
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-3,4) and (1,0)?",1.0,-1.0,-2.0,0.0,-1.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-4,1) and (0,-5)?",-2.5,-1.5,-0.5,1.5,-1.5
+9,Maths,Statistics,Easy,"What is the slope of the line through (-4,-7) and (-2,-5)?",0.0,-1.0,2.0,1.0,1.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (0,1) and (2,-7)?",-3.0,4.0,-4.0,-5.0,-4.0
+9,Maths,Linear Functions,Easy,"For x^2 + (-5)x + (-6) = 0, which is a solution?",1,-11,-1,Option 3,-1
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-3,10) and (1,13)?",-0.75,1.75,-0.25,0.75,0.75
+9,Maths,Linear Functions,Easy,"For x^2 + (3)x + (-40) = 0, which is a solution?",5,-5,7,51,5
+9,Maths,Statistics,Easy,"For x^2 + (13)x + (36) = 0, which is a solution?",-41,-2,4,-4,-4
+9,Maths,Statistics,Easy,"What is the slope of the line through (5,-2) and (10,3)?",2.0,1.0,0.0,-1.0,1.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (-5,-3) and (-3,-13)?",5.0,-5.0,-6.0,-4.0,-5.0
+9,Maths,Linear Functions,Easy,"For x^2 + (-18)x + (81) = 0, which is a solution?",91,9,11,-9,9
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-10,7) and (-7,12)?",-1.6666666666666667,0.6666666666666667,2.666666666666667,1.6666666666666667,1.6666666666666667
+9,Maths,Statistics,Easy,"What is the slope of the line through (-2,-3) and (-1,2)?",4.0,-5.0,6.0,5.0,5.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (-2,-9) and (1,-18)?",-2.0,3.0,-3.0,-4.0,-3.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-5,4) and (-2,9)?",0.6666666666666667,1.6666666666666667,2.666666666666667,-1.6666666666666667,1.6666666666666667
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-7,5) and (-6,3)?",-3.0,2.0,-2.0,-1.0,-2.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (-7,9) and (-2,12)?",-0.6,0.6,-0.4,1.6,0.6
+9,Maths,Statistics,Easy,"What is the slope of the line through (7,-9) and (9,0)?",3.5,5.5,-4.5,4.5,4.5
+9,Maths,Statistics,Easy,"What is the slope of the line through (-6,-10) and (-4,-5)?",3.5,-2.5,2.5,1.5,2.5
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-3,-4) and (2,3)?",1.4,2.4,-1.4,0.3999999999999999,1.4
+9,Maths,Geometry,Easy,"What is the slope of the line through (1,10) and (3,7)?",-2.5,-0.5,1.5,-1.5,-1.5
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-8,5) and (-7,2)?",-2.0,3.0,-3.0,-4.0,-3.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (8,8) and (11,18)?",-3.3333333333333335,3.3333333333333335,4.333333333333334,2.3333333333333335,3.3333333333333335
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-5,-4) and (-3,-8)?",-2.0,-3.0,-1.0,2.0,-2.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (-2,5) and (-1,-2)?",7.0,-7.0,-6.0,-8.0,-7.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (4,-10) and (5,-15)?",-6.0,5.0,-4.0,-5.0,-5.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-10,-2) and (-8,2)?",-2.0,1.0,3.0,2.0,2.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (-1,-3) and (2,6)?",-3.0,2.0,3.0,4.0,3.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-6,-3) and (-2,4)?",0.75,1.75,-1.75,2.75,1.75
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-1,1) and (1,8)?",3.5,4.5,-3.5,2.5,3.5
+9,Maths,Geometry,Easy,"What is the slope of the line through (0,9) and (1,18)?",8.0,9.0,-9.0,10.0,9.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (-8,3) and (-7,1)?",-2.0,-1.0,-3.0,2.0,-2.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-10,2) and (-8,-2)?",-1.0,-2.0,-3.0,2.0,-2.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-4,7) and (-3,10)?",3.0,-3.0,4.0,2.0,3.0
+9,Maths,Geometry,Easy,"For x^2 + (-12)x + (32) = 0, which is a solution?",6,-4,4,41,4
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (10,-7) and (15,-5)?",1.4,-0.4,0.4,-0.6,0.4
+9,Maths,Geometry,Easy,"What is the slope of the line through (-9,9) and (-8,10)?",-1.0,1.0,0.0,2.0,1.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-9,-7) and (-4,-7)?",0.0,-0.0,-1.0,1.0,0.0
+9,Maths,Algebra Basics,Easy,"For x^2 + (-12)x + (35) = 0, which is a solution?",-5,5,7,51,5
+9,Maths,Geometry,Easy,"For x^2 + (4)x + (0) = 0, which is a solution?",-2,4,-41,-4,-4
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-10,-2) and (-9,-5)?",-4.0,-2.0,3.0,-3.0,-3.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-4,-2) and (-2,7)?",3.5,5.5,-4.5,4.5,4.5
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-1,7) and (0,13)?",7.0,5.0,6.0,-6.0,6.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-1,-3) and (0,-7)?",4.0,-4.0,-3.0,-5.0,-4.0
+9,Maths,Statistics,Easy,"For x^2 + (-10)x + (16) = 0, which is a solution?",8,-8,81,10,8
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-3,-6) and (1,-5)?",1.25,-0.75,-0.25,0.25,0.25
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-9,3) and (-7,2)?",-1.5,Option 3,-0.5,0.5,-0.5
+9,Maths,Linear Functions,Easy,"For x^2 + (10)x + (25) = 0, which is a solution?",-51,-5,5,-3,-5
+9,Maths,Linear Functions,Easy,"For x^2 + (2)x + (-15) = 0, which is a solution?",31,3,5,-3,3
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-10,2) and (-7,9)?",-2.3333333333333335,2.3333333333333335,1.3333333333333335,3.3333333333333335,2.3333333333333335
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-4,-1) and (1,-9)?",-0.6000000000000001,1.6,-2.6,-1.6,-1.6
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-2,-10) and (3,-10)?",-1.0,-0.0,0.0,1.0,0.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (1,-7) and (4,-2)?",2.666666666666667,1.6666666666666667,0.6666666666666667,-1.6666666666666667,1.6666666666666667
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (10,3) and (12,13)?",-5.0,6.0,5.0,4.0,5.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (10,-8) and (12,-13)?",-2.5,-3.5,-1.5,2.5,-2.5
+9,Maths,Statistics,Easy,"What is the slope of the line through (4,-4) and (6,-9)?",-1.5,2.5,-2.5,-3.5,-2.5
+9,Maths,Statistics,Easy,"What is the slope of the line through (-2,7) and (3,2)?",-2.0,0.0,1.0,-1.0,-1.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-8,-4) and (-5,-5)?",-0.3333333333333333,-1.3333333333333333,0.3333333333333333,0.6666666666666667,-0.3333333333333333
+9,Maths,Statistics,Easy,"What is the slope of the line through (8,1) and (10,4)?",1.5,0.5,2.5,-1.5,1.5
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-6,-2) and (-1,7)?",1.8,-1.8,2.8,0.8,1.8
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-8,10) and (-7,2)?",-7.0,-8.0,-9.0,8.0,-8.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (10,9) and (12,3)?",-3.0,-4.0,3.0,-2.0,-3.0
+9,Maths,Statistics,Easy,"For x^2 + (-11)x + (28) = 0, which is a solution?",-7,7,71,9,7
+9,Maths,Geometry,Easy,"For x^2 + (7)x + (-8) = 0, which is a solution?",-81,-8,-6,8,-8
+9,Maths,Geometry,Easy,"What is the slope of the line through (-7,1) and (-2,-6)?",-0.3999999999999999,-2.4,1.4,-1.4,-1.4
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-1,-2) and (0,-3)?",-1.0,0.0,-2.0,1.0,-1.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (4,8) and (9,13)?",2.0,1.0,0.0,-1.0,1.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-1,5) and (4,8)?",-0.4,-0.6,1.6,0.6,0.6
+9,Maths,Statistics,Easy,"What is the slope of the line through (-8,-3) and (-5,5)?",1.6666666666666665,2.6666666666666665,-2.6666666666666665,3.6666666666666665,2.6666666666666665
+9,Maths,Statistics,Easy,"What is the slope of the line through (2,6) and (3,15)?",8.0,10.0,9.0,-9.0,9.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (2,-1) and (6,-4)?",0.75,-0.75,-1.75,0.25,-0.75
+9,Maths,Geometry,Easy,"What is the slope of the line through (-5,-9) and (-2,-9)?",-0.0,-1.0,1.0,0.0,0.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (-6,8) and (-4,10)?",0.0,-1.0,2.0,1.0,1.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-4,9) and (1,2)?",-1.4,1.4,-2.4,-0.3999999999999999,-1.4
+9,Maths,Geometry,Easy,"For x^2 + (-5)x + (4) = 0, which is a solution?",3,11,1,-1,1
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (4,8) and (5,12)?",-4.0,4.0,3.0,5.0,4.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (9,-6) and (11,-5)?",Option 3,-0.5,1.5,0.5,0.5
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-9,3) and (-5,6)?",0.75,1.75,-0.75,-0.25,0.75
+9,Maths,Statistics,Easy,"For x^2 + (-5)x + (-14) = 0, which is a solution?",-2,0,2,-21,-2
+9,Maths,Statistics,Easy,"What is the slope of the line through (4,3) and (8,2)?",0.25,-1.25,0.75,-0.25,-0.25
+9,Maths,Geometry,Easy,"What is the slope of the line through (9,-6) and (11,-9)?",-1.5,-0.5,-2.5,1.5,-1.5
+9,Maths,Geometry,Easy,"What is the slope of the line through (1,-7) and (6,-4)?",0.6,1.6,-0.6,-0.4,0.6
+9,Maths,Geometry,Easy,"What is the slope of the line through (-3,-8) and (0,-5)?",1.0,-1.0,0.0,2.0,1.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (4,-3) and (9,-13)?",-2.0,-3.0,-1.0,2.0,-2.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-9,-4) and (-5,6)?",1.5,2.5,-2.5,3.5,2.5
+9,Maths,Statistics,Easy,"What is the slope of the line through (10,-5) and (11,0)?",4.0,6.0,5.0,-5.0,5.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (5,-8) and (6,-13)?",5.0,-5.0,-6.0,-4.0,-5.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-4,-10) and (-3,-14)?",-5.0,-3.0,4.0,-4.0,-4.0
+9,Maths,Statistics,Easy,"For x^2 + (0)x + (-25) = 0, which is a solution?",51,5,-5,7,5
+9,Maths,Statistics,Easy,"What is the slope of the line through (1,-3) and (2,-10)?",7.0,-6.0,-7.0,-8.0,-7.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-5,3) and (-1,12)?",-2.25,2.25,1.25,3.25,2.25
+9,Maths,Algebra Basics,Easy,"For x^2 + (3)x + (2) = 0, which is a solution?",1,-1,Option 3,-11,-1
+9,Maths,Geometry,Easy,"For x^2 + (-4)x + (-12) = 0, which is a solution?",-6,61,8,6,6
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-3,-8) and (-2,2)?",-10.0,10.0,11.0,9.0,10.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (-2,10) and (1,7)?",1.0,-2.0,-1.0,0.0,-1.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (8,-6) and (11,-12)?",-2.0,2.0,-3.0,-1.0,-2.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-10,0) and (-5,3)?",0.6,-0.4,-0.6,1.6,0.6
+9,Maths,Geometry,Easy,"What is the slope of the line through (-7,-4) and (-6,-11)?",-6.0,7.0,-8.0,-7.0,-7.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (6,4) and (10,0)?",1.0,-1.0,-2.0,0.0,-1.0
+9,Maths,Linear Functions,Easy,"For x^2 + (-2)x + (-24) = 0, which is a solution?",4,-2,-4,-41,-4
+9,Maths,Geometry,Easy,"What is the slope of the line through (-3,-3) and (-2,3)?",-6.0,6.0,7.0,5.0,6.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (7,4) and (11,12)?",1.0,3.0,2.0,-2.0,2.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (9,0) and (12,-5)?",-0.6666666666666667,1.6666666666666667,-2.666666666666667,-1.6666666666666667,-1.6666666666666667
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-10,0) and (-8,-5)?",-2.5,-1.5,2.5,-3.5,-2.5
+9,Maths,Statistics,Easy,"What is the slope of the line through (10,4) and (12,6)?",2.0,-1.0,1.0,0.0,1.0
+9,Maths,Algebra Basics,Easy,"For x^2 + (-9)x + (8) = 0, which is a solution?",-1,1,11,3,1
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (3,-1) and (5,7)?",5.0,-4.0,4.0,3.0,4.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (-3,2) and (-2,-8)?",10.0,-9.0,-11.0,-10.0,-10.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-7,-7) and (-3,-1)?",2.5,0.5,-1.5,1.5,1.5
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-7,7) and (-5,-1)?",4.0,-4.0,-3.0,-5.0,-4.0
+9,Maths,Algebra Basics,Easy,"For x^2 + (-13)x + (40) = 0, which is a solution?",10,8,81,-8,8
+9,Maths,Statistics,Easy,"What is the slope of the line through (2,-5) and (4,-3)?",2.0,1.0,-1.0,0.0,1.0
+9,Maths,Linear Functions,Easy,"For x^2 + (6)x + (5) = 0, which is a solution?",-5,-3,-51,5,-5
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (10,4) and (11,2)?",-2.0,-1.0,2.0,-3.0,-2.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (-2,3) and (0,-1)?",-2.0,2.0,-1.0,-3.0,-2.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (3,-2) and (4,8)?",10.0,-10.0,9.0,11.0,10.0
+9,Maths,Geometry,Easy,"For x^2 + (-3)x + (-54) = 0, which is a solution?",6,-61,-6,-4,-6
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (1,-1) and (6,4)?",1.0,-1.0,0.0,2.0,1.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (9,-4) and (12,-10)?",-3.0,2.0,-2.0,-1.0,-2.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (1,-7) and (2,-12)?",-4.0,5.0,-5.0,-6.0,-5.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (8,-1) and (9,4)?",4.0,5.0,-5.0,6.0,5.0
+9,Maths,Geometry,Easy,"For x^2 + (-2)x + (0) = 0, which is a solution?",0,Option 3,2,01,0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-8,-1) and (-3,3)?",-0.8,0.8,-0.19999999999999996,1.8,0.8
+9,Maths,Geometry,Easy,"What is the slope of the line through (0,-4) and (4,4)?",1.0,3.0,2.0,-2.0,2.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (-10,6) and (-8,7)?",0.5,-0.5,Option 3,1.5,0.5
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-6,-2) and (-3,-7)?",-1.6666666666666667,-2.666666666666667,1.6666666666666667,-0.6666666666666667,-1.6666666666666667
+9,Maths,Geometry,Easy,"What is the slope of the line through (8,3) and (10,12)?",-4.5,4.5,5.5,3.5,4.5
+9,Maths,Statistics,Easy,"What is the slope of the line through (-9,-6) and (-4,-6)?",0.0,-0.0,1.0,-1.0,0.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (3,-1) and (8,-5)?",0.19999999999999996,-0.8,-1.8,0.8,-0.8
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (5,6) and (7,1)?",-3.5,-2.5,2.5,-1.5,-2.5
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-9,-5) and (-5,-14)?",2.25,-1.25,-3.25,-2.25,-2.25
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (8,2) and (10,-7)?",4.5,-4.5,-3.5,-5.5,-4.5
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (2,2) and (5,5)?",-1.0,0.0,2.0,1.0,1.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (-5,2) and (-3,6)?",1.0,-2.0,2.0,3.0,2.0
+9,Maths,Linear Functions,Easy,"For x^2 + (-9)x + (18) = 0, which is a solution?",6,8,61,-6,6
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-2,-2) and (3,-3)?",0.2,0.8,-0.2,-1.2,-0.2
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-9,-8) and (-5,-8)?",1.0,-0.0,-1.0,0.0,0.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-7,1) and (-6,-1)?",-1.0,-3.0,-2.0,2.0,-2.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-1,2) and (2,11)?",3.0,2.0,-3.0,4.0,3.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (-9,-1) and (-7,-2)?",-0.5,-1.5,Option 3,0.5,-0.5
+9,Maths,Statistics,Easy,"For x^2 + (-4)x + (-45) = 0, which is a solution?",5,-5,-51,-3,-5
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-6,2) and (-5,-1)?",3.0,-2.0,-4.0,-3.0,-3.0
+9,Maths,Algebra Basics,Easy,"For x^2 + (-12)x + (27) = 0, which is a solution?",31,-3,5,3,3
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (9,-6) and (14,4)?",-2.0,2.0,1.0,3.0,2.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (5,-2) and (6,-5)?",-3.0,3.0,-4.0,-2.0,-3.0
+9,Maths,Linear Functions,Easy,"For x^2 + (-1)x + (-6) = 0, which is a solution?",3,31,-3,5,3
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-1,-3) and (1,-4)?",-0.5,0.5,-1.5,Option 3,-0.5
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-5,2) and (-2,-7)?",-2.0,-3.0,3.0,-4.0,-3.0
+9,Maths,Linear Functions,Easy,"For x^2 + (-3)x + (0) = 0, which is a solution?",Option 3,01,2,0,0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (10,-3) and (14,-9)?",-2.5,-1.5,1.5,-0.5,-1.5
+9,Maths,Statistics,Easy,"What is the slope of the line through (1,-5) and (6,-9)?",0.8,-0.8,0.19999999999999996,-1.8,-0.8
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (2,-6) and (6,-13)?",1.75,-2.75,-0.75,-1.75,-1.75
+9,Maths,Geometry,Easy,"What is the slope of the line through (-9,9) and (-4,17)?",0.6000000000000001,1.6,-1.6,2.6,1.6
+9,Maths,Statistics,Easy,"What is the slope of the line through (-7,1) and (-3,10)?",2.25,3.25,1.25,-2.25,2.25
+9,Maths,Geometry,Easy,"For x^2 + (2)x + (-8) = 0, which is a solution?",-2,21,2,4,2
+9,Maths,Statistics,Easy,"What is the slope of the line through (-8,-4) and (-4,1)?",2.25,0.25,1.25,-1.25,1.25
+9,Maths,Geometry,Easy,"For x^2 + (0)x + (0) = 0, which is a solution?",01,2,Option 3,0,0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (2,7) and (7,4)?",0.6,0.4,-0.6,-1.6,-0.6
+9,Maths,Statistics,Easy,"What is the slope of the line through (8,6) and (12,10)?",-1.0,1.0,0.0,2.0,1.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-8,8) and (-3,6)?",-0.4,-1.4,0.6,0.4,-0.4
+9,Maths,Algebra Basics,Easy,"For x^2 + (-3)x + (-18) = 0, which is a solution?",-6,8,61,6,6
+9,Maths,Statistics,Easy,"What is the slope of the line through (-4,-4) and (-1,-12)?",-3.6666666666666665,-1.6666666666666665,2.6666666666666665,-2.6666666666666665,-2.6666666666666665
+9,Maths,Geometry,Easy,"For x^2 + (-2)x + (-15) = 0, which is a solution?",-31,-1,-3,3,-3
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-3,-7) and (-2,3)?",10.0,-10.0,11.0,9.0,10.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-10,-5) and (-7,-2)?",1.0,2.0,-1.0,0.0,1.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (-7,-3) and (-5,-3)?",0.0,-0.0,-1.0,1.0,0.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (7,-5) and (12,-7)?",0.4,-1.4,-0.4,0.6,-0.4
+9,Maths,Geometry,Easy,"What is the slope of the line through (-8,5) and (-7,13)?",8.0,7.0,-8.0,9.0,8.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (9,7) and (11,3)?",-3.0,2.0,-1.0,-2.0,-2.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (2,-2) and (6,-8)?",1.5,-0.5,-2.5,-1.5,-1.5
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (4,-6) and (8,0)?",-1.5,0.5,1.5,2.5,1.5
+9,Maths,Statistics,Easy,"What is the slope of the line through (4,-6) and (7,-16)?",-2.3333333333333335,3.3333333333333335,-3.3333333333333335,-4.333333333333334,-3.3333333333333335
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (8,-4) and (9,-5)?",0.0,-2.0,1.0,-1.0,-1.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (4,0) and (7,0)?",-1.0,1.0,-0.0,0.0,0.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (8,9) and (10,2)?",-2.5,-3.5,3.5,-4.5,-3.5
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-6,8) and (-3,9)?",0.3333333333333333,1.3333333333333333,-0.6666666666666667,-0.3333333333333333,0.3333333333333333
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-6,-7) and (-5,-3)?",5.0,-4.0,3.0,4.0,4.0
+9,Maths,Geometry,Easy,"For x^2 + (0)x + (-1) = 0, which is a solution?",-1,-11,1,Option 3,-1
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-6,4) and (-1,-1)?",0.0,1.0,-2.0,-1.0,-1.0
+9,Maths,Linear Functions,Easy,"For x^2 + (-6)x + (-16) = 0, which is a solution?",-8,8,10,81,8
+9,Maths,Statistics,Easy,"What is the slope of the line through (2,6) and (3,7)?",2.0,-1.0,1.0,0.0,1.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (3,-2) and (5,8)?",-5.0,4.0,6.0,5.0,5.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (3,3) and (6,-5)?",-3.6666666666666665,2.6666666666666665,-1.6666666666666665,-2.6666666666666665,-2.6666666666666665
+9,Maths,Statistics,Easy,"What is the slope of the line through (1,0) and (6,-9)?",-1.8,-2.8,-0.8,1.8,-1.8
+9,Maths,Geometry,Easy,"What is the slope of the line through (2,2) and (4,3)?",Option 3,-0.5,1.5,0.5,0.5
+9,Maths,Geometry,Easy,"What is the slope of the line through (-9,-3) and (-5,1)?",-1.0,1.0,2.0,0.0,1.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (-4,3) and (-2,-6)?",-5.5,4.5,-4.5,-3.5,-4.5
+9,Maths,Statistics,Easy,"What is the slope of the line through (-4,-2) and (-2,1)?",2.5,1.5,0.5,-1.5,1.5
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-2,-6) and (0,-6)?",-0.0,0.0,1.0,-1.0,0.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (-5,-5) and (-2,4)?",4.0,2.0,3.0,-3.0,3.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (7,0) and (12,9)?",-1.8,0.8,2.8,1.8,1.8
+9,Maths,Geometry,Easy,"What is the slope of the line through (7,9) and (8,18)?",10.0,-9.0,8.0,9.0,9.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (-6,-10) and (-3,-15)?",-0.6666666666666667,1.6666666666666667,-1.6666666666666667,-2.666666666666667,-1.6666666666666667
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-10,-3) and (-6,-5)?",-1.5,-0.5,0.5,Option 3,-0.5
+9,Maths,Statistics,Easy,"What is the slope of the line through (-4,-4) and (0,-2)?",Option 3,1.5,0.5,-0.5,0.5
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (7,-4) and (9,0)?",3.0,2.0,-2.0,1.0,2.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (0,8) and (2,4)?",-3.0,-1.0,-2.0,2.0,-2.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (-6,5) and (-2,2)?",-1.75,-0.75,0.75,0.25,-0.75
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-9,-3) and (-5,2)?",-1.25,1.25,2.25,0.25,1.25
+9,Maths,Statistics,Easy,"What is the slope of the line through (7,-3) and (9,-12)?",-4.5,-5.5,4.5,-3.5,-4.5
+9,Maths,Geometry,Easy,"What is the slope of the line through (-10,6) and (-9,8)?",3.0,2.0,1.0,-2.0,2.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (4,10) and (7,7)?",0.0,-1.0,-2.0,1.0,-1.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (-7,3) and (-5,10)?",3.5,2.5,-3.5,4.5,3.5
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-7,0) and (-5,1)?",1.5,-0.5,Option 3,0.5,0.5
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-1,-3) and (2,-10)?",-3.3333333333333335,2.3333333333333335,-1.3333333333333335,-2.3333333333333335,-2.3333333333333335
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-5,5) and (-1,8)?",0.75,-0.25,1.75,-0.75,0.75
+9,Maths,Statistics,Easy,"What is the slope of the line through (3,-4) and (4,2)?",5.0,7.0,-6.0,6.0,6.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (0,1) and (5,5)?",-0.8,0.8,-0.19999999999999996,1.8,0.8
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-10,-2) and (-7,-11)?",-2.0,-4.0,-3.0,3.0,-3.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (1,3) and (6,-3)?",-1.2,-0.19999999999999996,-2.2,1.2,-1.2
+9,Maths,Geometry,Easy,"What is the slope of the line through (7,9) and (12,6)?",-1.6,0.4,0.6,-0.6,-0.6
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-9,10) and (-4,2)?",-1.6,1.6,-2.6,-0.6000000000000001,-1.6
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-10,1) and (-7,-6)?",-2.3333333333333335,-1.3333333333333335,2.3333333333333335,-3.3333333333333335,-2.3333333333333335
+9,Maths,Statistics,Easy,"What is the slope of the line through (0,-3) and (3,-2)?",-0.3333333333333333,-0.6666666666666667,1.3333333333333333,0.3333333333333333,0.3333333333333333
+9,Maths,Statistics,Easy,"What is the slope of the line through (-2,-2) and (-1,-6)?",-4.0,-3.0,-5.0,4.0,-4.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (6,-9) and (7,-1)?",-8.0,7.0,9.0,8.0,8.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (3,-9) and (8,-9)?",0.0,1.0,-1.0,-0.0,0.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-8,9) and (-7,3)?",-6.0,6.0,-7.0,-5.0,-6.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-3,-4) and (2,-4)?",-1.0,1.0,-0.0,0.0,0.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-10,-3) and (-9,-3)?",-1.0,-0.0,1.0,0.0,0.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (10,-4) and (13,-3)?",-0.3333333333333333,-0.6666666666666667,1.3333333333333333,0.3333333333333333,0.3333333333333333
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-1,4) and (0,6)?",2.0,3.0,1.0,-2.0,2.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (-4,-4) and (0,-5)?",-0.25,-1.25,0.25,0.75,-0.25
+9,Maths,Statistics,Easy,"What is the slope of the line through (4,-10) and (6,-4)?",3.0,-3.0,4.0,2.0,3.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (9,-9) and (10,-2)?",8.0,6.0,-7.0,7.0,7.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (8,7) and (12,3)?",-2.0,0.0,-1.0,1.0,-1.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (7,3) and (10,-7)?",3.3333333333333335,-3.3333333333333335,-4.333333333333334,-2.3333333333333335,-3.3333333333333335
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-9,-5) and (-8,-8)?",-4.0,3.0,-3.0,-2.0,-3.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (-6,7) and (-3,1)?",-1.0,-3.0,-2.0,2.0,-2.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (6,-9) and (8,-10)?",-1.5,-0.5,0.5,Option 3,-0.5
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (8,2) and (9,10)?",-8.0,7.0,8.0,9.0,8.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-8,9) and (-3,7)?",-0.4,0.4,-1.4,0.6,-0.4
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-7,10) and (-5,20)?",-5.0,6.0,4.0,5.0,5.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (-1,-5) and (3,-8)?",-1.75,0.75,-0.75,0.25,-0.75
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-10,7) and (-7,6)?",0.6666666666666667,-0.3333333333333333,0.3333333333333333,-1.3333333333333333,-0.3333333333333333
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-8,2) and (-5,-8)?",-3.3333333333333335,-4.333333333333334,3.3333333333333335,-2.3333333333333335,-3.3333333333333335
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-1,8) and (3,8)?",0.0,-1.0,-0.0,1.0,0.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (-3,9) and (1,3)?",-1.5,-2.5,-0.5,1.5,-1.5
+9,Maths,Geometry,Easy,"What is the slope of the line through (5,-5) and (7,-13)?",-3.0,-5.0,4.0,-4.0,-4.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (8,-1) and (9,2)?",4.0,-3.0,2.0,3.0,3.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-5,4) and (0,1)?",-1.6,-0.6,0.6,0.4,-0.6
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-3,-1) and (1,-6)?",-1.25,-0.25,1.25,-2.25,-1.25
+9,Maths,Geometry,Easy,"What is the slope of the line through (8,1) and (11,4)?",-1.0,2.0,1.0,0.0,1.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (8,3) and (9,-4)?",-7.0,-8.0,-6.0,7.0,-7.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-3,6) and (-2,-3)?",-9.0,-10.0,9.0,-8.0,-9.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (-6,4) and (-5,0)?",-5.0,-4.0,-3.0,4.0,-4.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-5,-5) and (-3,-9)?",-3.0,-1.0,2.0,-2.0,-2.0
+9,Maths,Statistics,Easy,"For x^2 + (9)x + (18) = 0, which is a solution?",-61,6,-4,-6,-6
+9,Maths,Geometry,Easy,"What is the slope of the line through (5,5) and (7,15)?",-5.0,6.0,4.0,5.0,5.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (8,-3) and (10,6)?",4.5,3.5,-4.5,5.5,4.5
+9,Maths,Geometry,Easy,"What is the slope of the line through (5,0) and (7,-7)?",-3.5,-4.5,3.5,-2.5,-3.5
+9,Maths,Geometry,Easy,"What is the slope of the line through (-9,-6) and (-4,-15)?",-2.8,1.8,-1.8,-0.8,-1.8
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-1,10) and (4,10)?",-1.0,1.0,-0.0,0.0,0.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (0,6) and (5,11)?",1.0,0.0,2.0,-1.0,1.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (1,-1) and (6,0)?",-0.8,1.2,-0.2,0.2,0.2
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-2,-2) and (-1,2)?",5.0,4.0,-4.0,3.0,4.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (0,2) and (1,3)?",2.0,1.0,-1.0,0.0,1.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-4,2) and (1,-1)?",-1.6,0.4,0.6,-0.6,-0.6
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-3,-2) and (1,4)?",0.5,2.5,1.5,-1.5,1.5
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (7,4) and (8,11)?",-7.0,7.0,6.0,8.0,7.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (-5,-4) and (-2,-13)?",-2.0,3.0,-3.0,-4.0,-3.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (-8,-10) and (-3,-9)?",-0.8,1.2,-0.2,0.2,0.2
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (6,9) and (11,10)?",0.2,-0.8,1.2,-0.2,0.2
+9,Maths,Statistics,Easy,"What is the slope of the line through (-1,0) and (3,-9)?",-1.25,-3.25,-2.25,2.25,-2.25
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-10,1) and (-6,10)?",2.25,-2.25,3.25,1.25,2.25
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (7,9) and (10,6)?",-1.0,0.0,-2.0,1.0,-1.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (-4,9) and (-2,12)?",0.5,-1.5,2.5,1.5,1.5
+9,Maths,Geometry,Easy,"What is the slope of the line through (-6,1) and (-5,0)?",1.0,-2.0,-1.0,0.0,-1.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-8,0) and (-7,9)?",-9.0,9.0,8.0,10.0,9.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (1,-3) and (4,-6)?",0.0,-2.0,-1.0,1.0,-1.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (4,0) and (8,-9)?",-3.25,-1.25,2.25,-2.25,-2.25
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (6,-10) and (7,-5)?",4.0,6.0,-5.0,5.0,5.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (7,-9) and (12,-14)?",-2.0,0.0,1.0,-1.0,-1.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (9,-4) and (12,6)?",4.333333333333334,-3.3333333333333335,2.3333333333333335,3.3333333333333335,3.3333333333333335
+9,Maths,Statistics,Easy,"What is the slope of the line through (8,-7) and (11,-17)?",-4.333333333333334,-3.3333333333333335,-2.3333333333333335,3.3333333333333335,-3.3333333333333335
+9,Maths,Statistics,Easy,"What is the slope of the line through (-2,3) and (-1,10)?",-7.0,7.0,6.0,8.0,7.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (3,-8) and (5,-10)?",1.0,-1.0,-2.0,0.0,-1.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (-2,-5) and (3,4)?",0.8,-1.8,1.8,2.8,1.8
+9,Maths,Statistics,Easy,"What is the slope of the line through (2,-6) and (3,-7)?",0.0,-1.0,1.0,-2.0,-1.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (3,-7) and (7,-11)?",1.0,0.0,-2.0,-1.0,-1.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-8,10) and (-6,14)?",3.0,1.0,-2.0,2.0,2.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (4,9) and (7,12)?",1.0,-1.0,0.0,2.0,1.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (0,-5) and (2,3)?",4.0,3.0,-4.0,5.0,4.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (0,-5) and (1,-9)?",-5.0,4.0,-3.0,-4.0,-4.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (1,-6) and (5,-10)?",0.0,1.0,-1.0,-2.0,-1.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-8,0) and (-7,2)?",3.0,2.0,-2.0,1.0,2.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (10,-5) and (11,-4)?",-1.0,2.0,1.0,0.0,1.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (-8,-10) and (-5,-4)?",3.0,2.0,1.0,-2.0,2.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (5,1) and (7,-2)?",-1.5,1.5,-0.5,-2.5,-1.5
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-5,8) and (-1,16)?",-2.0,3.0,2.0,1.0,2.0
+9,Maths,Algebra Basics,Easy,"For x^2 + (-4)x + (4) = 0, which is a solution?",21,4,2,-2,2
+9,Maths,Geometry,Easy,"For x^2 + (-4)x + (-21) = 0, which is a solution?",-31,-1,3,-3,-3
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (1,7) and (2,7)?",1.0,-1.0,-0.0,0.0,0.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (7,3) and (8,-3)?",-6.0,-7.0,6.0,-5.0,-6.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (1,3) and (4,1)?",0.33333333333333337,0.6666666666666666,-0.6666666666666666,-1.6666666666666665,-0.6666666666666666
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (5,-3) and (8,0)?",1.0,2.0,-1.0,0.0,1.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (-10,4) and (-8,-3)?",-3.5,-4.5,3.5,-2.5,-3.5
+9,Maths,Statistics,Easy,"What is the slope of the line through (7,-8) and (8,1)?",8.0,10.0,-9.0,9.0,9.0
+9,Maths,Algebra Basics,Easy,"For x^2 + (-1)x + (-42) = 0, which is a solution?",7,9,-7,71,7
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (3,10) and (5,17)?",2.5,-3.5,3.5,4.5,3.5
+9,Maths,Statistics,Easy,"What is the slope of the line through (9,8) and (11,8)?",0.0,1.0,-0.0,-1.0,0.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-2,-10) and (3,-15)?",0.0,1.0,-1.0,-2.0,-1.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (5,5) and (6,5)?",-1.0,-0.0,1.0,0.0,0.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (6,-4) and (11,-13)?",-2.8,1.8,-0.8,-1.8,-1.8
+9,Maths,Geometry,Easy,"What is the slope of the line through (-2,3) and (3,9)?",2.2,1.2,-1.2,0.19999999999999996,1.2
+9,Maths,Geometry,Easy,"What is the slope of the line through (1,8) and (2,7)?",0.0,-1.0,1.0,-2.0,-1.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (5,3) and (7,11)?",-4.0,3.0,5.0,4.0,4.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (6,-7) and (9,-1)?",2.0,3.0,1.0,-2.0,2.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (3,-2) and (5,-2)?",1.0,-1.0,-0.0,0.0,0.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (-2,-2) and (0,3)?",-2.5,1.5,2.5,3.5,2.5
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (4,2) and (9,10)?",1.6,0.6000000000000001,2.6,-1.6,1.6
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (5,10) and (10,19)?",0.8,1.8,2.8,-1.8,1.8
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-5,4) and (-3,11)?",2.5,3.5,-3.5,4.5,3.5
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-8,-8) and (-7,-8)?",1.0,0.0,-0.0,-1.0,0.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (-6,-1) and (-4,0)?",0.5,1.5,Option 3,-0.5,0.5
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (7,-5) and (11,-7)?",Option 3,-0.5,0.5,-1.5,-0.5
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (6,-8) and (11,-14)?",-1.2,1.2,-2.2,-0.19999999999999996,-1.2
+9,Maths,Geometry,Easy,"What is the slope of the line through (-7,-10) and (-5,-16)?",-4.0,3.0,-3.0,-2.0,-3.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (9,10) and (14,12)?",-0.4,1.4,0.4,-0.6,0.4
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (10,-8) and (14,-11)?",0.75,-1.75,-0.75,0.25,-0.75
+9,Maths,Statistics,Easy,"What is the slope of the line through (9,0) and (10,-6)?",-5.0,-7.0,6.0,-6.0,-6.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-5,-10) and (-2,-18)?",-1.6666666666666665,-3.6666666666666665,2.6666666666666665,-2.6666666666666665,-2.6666666666666665
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-7,7) and (-6,3)?",-4.0,-3.0,4.0,-5.0,-4.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (-4,-9) and (0,-2)?",1.75,0.75,-1.75,2.75,1.75
+9,Maths,Statistics,Easy,"What is the slope of the line through (-5,6) and (-3,10)?",1.0,-2.0,3.0,2.0,2.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (9,3) and (12,10)?",-2.3333333333333335,3.3333333333333335,2.3333333333333335,1.3333333333333335,2.3333333333333335
+9,Maths,Statistics,Easy,"What is the slope of the line through (9,5) and (13,6)?",-0.75,1.25,0.25,-0.25,0.25
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (10,-9) and (11,-15)?",-5.0,6.0,-7.0,-6.0,-6.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (2,1) and (7,-7)?",-1.6,1.6,-2.6,-0.6000000000000001,-1.6
+9,Maths,Statistics,Easy,"What is the slope of the line through (0,3) and (2,6)?",2.5,-1.5,0.5,1.5,1.5
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-5,-2) and (-2,3)?",0.6666666666666667,2.666666666666667,-1.6666666666666667,1.6666666666666667,1.6666666666666667
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-3,-2) and (-2,-9)?",-7.0,7.0,-8.0,-6.0,-7.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-6,-3) and (-1,-13)?",-2.0,-3.0,-1.0,2.0,-2.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (7,-2) and (9,5)?",2.5,4.5,3.5,-3.5,3.5
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (7,-3) and (9,-9)?",-4.0,3.0,-3.0,-2.0,-3.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-3,7) and (0,3)?",-1.3333333333333333,-0.33333333333333326,1.3333333333333333,-2.333333333333333,-1.3333333333333333
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (6,5) and (7,13)?",8.0,-8.0,7.0,9.0,8.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (6,-9) and (9,-12)?",1.0,0.0,-1.0,-2.0,-1.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (9,-8) and (12,-11)?",1.0,0.0,-1.0,-2.0,-1.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (9,2) and (11,2)?",-0.0,0.0,-1.0,1.0,0.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (4,-2) and (6,-7)?",2.5,-2.5,-3.5,-1.5,-2.5
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-6,0) and (-2,-1)?",0.75,-0.25,0.25,-1.25,-0.25
+9,Maths,Statistics,Easy,"What is the slope of the line through (-5,9) and (-4,14)?",6.0,5.0,-5.0,4.0,5.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (-1,0) and (3,-5)?",1.25,-2.25,-1.25,-0.25,-1.25
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (4,1) and (5,-3)?",4.0,-4.0,-5.0,-3.0,-4.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (-7,0) and (-4,-1)?",-0.3333333333333333,0.3333333333333333,0.6666666666666667,-1.3333333333333333,-0.3333333333333333
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (10,-9) and (14,-2)?",1.75,0.75,-1.75,2.75,1.75
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (2,4) and (4,14)?",5.0,-5.0,4.0,6.0,5.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (10,0) and (14,-7)?",-2.75,-1.75,-0.75,1.75,-1.75
+9,Maths,Statistics,Easy,"What is the slope of the line through (6,10) and (11,17)?",-1.4,0.3999999999999999,2.4,1.4,1.4
+9,Maths,Statistics,Easy,"What is the slope of the line through (8,0) and (9,-6)?",-7.0,6.0,-5.0,-6.0,-6.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (-1,7) and (3,1)?",-2.5,-1.5,1.5,-0.5,-1.5
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (2,3) and (5,2)?",0.6666666666666667,-1.3333333333333333,-0.3333333333333333,0.3333333333333333,-0.3333333333333333
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-8,0) and (-6,-3)?",-1.5,-0.5,-2.5,1.5,-1.5
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-5,-7) and (-3,-13)?",-2.0,-4.0,3.0,-3.0,-3.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (-1,-1) and (1,7)?",3.0,-4.0,4.0,5.0,4.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-2,5) and (2,13)?",3.0,1.0,2.0,-2.0,2.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (5,7) and (6,-3)?",-11.0,10.0,-9.0,-10.0,-10.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (6,-1) and (9,3)?",0.33333333333333326,-1.3333333333333333,2.333333333333333,1.3333333333333333,1.3333333333333333
+9,Maths,Statistics,Easy,"What is the slope of the line through (8,7) and (11,11)?",0.33333333333333326,-1.3333333333333333,2.333333333333333,1.3333333333333333,1.3333333333333333
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-7,-2) and (-5,0)?",2.0,0.0,-1.0,1.0,1.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (5,-8) and (7,-7)?",0.5,Option 3,-0.5,1.5,0.5
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (2,8) and (6,6)?",0.5,-1.5,Option 3,-0.5,-0.5
+9,Maths,Statistics,Easy,"What is the slope of the line through (-3,1) and (-1,9)?",3.0,5.0,-4.0,4.0,4.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (-10,-2) and (-8,3)?",2.5,1.5,-2.5,3.5,2.5
+9,Maths,Statistics,Easy,"What is the slope of the line through (0,0) and (5,-4)?",-0.8,-1.8,0.8,0.19999999999999996,-0.8
+9,Maths,Geometry,Easy,"What is the slope of the line through (7,0) and (12,-3)?",-1.6,-0.6,0.6,0.4,-0.6
+9,Maths,Statistics,Easy,"What is the slope of the line through (3,9) and (8,8)?",0.8,0.2,-0.2,-1.2,-0.2
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (10,-2) and (15,-1)?",0.2,-0.2,-0.8,1.2,0.2
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-7,0) and (-6,4)?",5.0,-4.0,3.0,4.0,4.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (1,-3) and (2,-5)?",2.0,-2.0,-3.0,-1.0,-2.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (9,6) and (11,6)?",-0.0,-1.0,1.0,0.0,0.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (5,3) and (10,3)?",1.0,0.0,-1.0,-0.0,0.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (9,-10) and (10,-20)?",-11.0,-9.0,-10.0,10.0,-10.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (8,2) and (11,-7)?",-3.0,-2.0,-4.0,3.0,-3.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (-7,2) and (-2,-6)?",-2.6,-1.6,1.6,-0.6000000000000001,-1.6
+9,Maths,Geometry,Easy,"What is the slope of the line through (6,-10) and (7,-7)?",-3.0,4.0,2.0,3.0,3.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (3,5) and (6,7)?",-0.33333333333333337,1.6666666666666665,0.6666666666666666,-0.6666666666666666,0.6666666666666666
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (8,8) and (13,16)?",2.6,0.6000000000000001,1.6,-1.6,1.6
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (7,-10) and (9,-3)?",3.5,2.5,-3.5,4.5,3.5
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-10,4) and (-8,1)?",-2.5,-0.5,-1.5,1.5,-1.5
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (0,-8) and (5,-1)?",2.4,1.4,-1.4,0.3999999999999999,1.4
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (6,-4) and (8,-9)?",-2.5,-3.5,-1.5,2.5,-2.5
+9,Maths,Geometry,Easy,"What is the slope of the line through (1,6) and (4,16)?",2.3333333333333335,3.3333333333333335,4.333333333333334,-3.3333333333333335,3.3333333333333335
+9,Maths,Geometry,Easy,"What is the slope of the line through (1,9) and (2,18)?",8.0,-9.0,9.0,10.0,9.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-4,2) and (-2,12)?",-5.0,5.0,4.0,6.0,5.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-8,-6) and (-7,-13)?",-8.0,7.0,-6.0,-7.0,-7.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (-2,-2) and (0,-11)?",-4.5,-5.5,-3.5,4.5,-4.5
+9,Maths,Geometry,Easy,"What is the slope of the line through (6,-10) and (9,-20)?",-3.3333333333333335,-2.3333333333333335,-4.333333333333334,3.3333333333333335,-3.3333333333333335
+9,Maths,Statistics,Easy,"What is the slope of the line through (-6,6) and (-4,-3)?",-3.5,4.5,-4.5,-5.5,-4.5
+9,Maths,Statistics,Easy,"What is the slope of the line through (2,9) and (6,17)?",1.0,3.0,2.0,-2.0,2.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (4,0) and (5,3)?",-3.0,2.0,3.0,4.0,3.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (5,9) and (7,10)?",Option 3,-0.5,0.5,1.5,0.5
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-8,-10) and (-7,0)?",10.0,9.0,11.0,-10.0,10.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (-1,8) and (0,3)?",-5.0,-4.0,-6.0,5.0,-5.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-7,8) and (-3,2)?",1.5,-0.5,-1.5,-2.5,-1.5
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (5,6) and (8,10)?",0.33333333333333326,2.333333333333333,1.3333333333333333,-1.3333333333333333,1.3333333333333333
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-6,-4) and (-3,-12)?",-3.6666666666666665,-2.6666666666666665,2.6666666666666665,-1.6666666666666665,-2.6666666666666665
+9,Maths,Geometry,Easy,"What is the slope of the line through (-4,3) and (-1,8)?",-1.6666666666666667,0.6666666666666667,2.666666666666667,1.6666666666666667,1.6666666666666667
+9,Maths,Algebra Basics,Easy,"For x^2 + (7)x + (6) = 0, which is a solution?",6,-61,-4,-6,-6
+9,Maths,Geometry,Easy,"What is the slope of the line through (-1,10) and (3,15)?",0.25,1.25,-1.25,2.25,1.25
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-7,-8) and (-4,-2)?",3.0,2.0,1.0,-2.0,2.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (0,8) and (5,2)?",-0.19999999999999996,-2.2,1.2,-1.2,-1.2
+9,Maths,Geometry,Easy,"What is the slope of the line through (0,7) and (3,8)?",0.3333333333333333,-0.6666666666666667,-0.3333333333333333,1.3333333333333333,0.3333333333333333
+9,Maths,Statistics,Easy,"What is the slope of the line through (-8,-4) and (-6,-3)?",-0.5,1.5,Option 3,0.5,0.5
+9,Maths,Statistics,Easy,"What is the slope of the line through (3,-6) and (8,-11)?",0.0,-2.0,-1.0,1.0,-1.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (8,0) and (12,4)?",-1.0,1.0,0.0,2.0,1.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-7,-9) and (-4,-4)?",-1.6666666666666667,1.6666666666666667,2.666666666666667,0.6666666666666667,1.6666666666666667
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-5,7) and (-3,-1)?",-4.0,4.0,-5.0,-3.0,-4.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (9,-2) and (14,-5)?",0.6,-1.6,-0.6,0.4,-0.6
+9,Maths,Statistics,Easy,"What is the slope of the line through (9,-2) and (11,-8)?",-2.0,-3.0,-4.0,3.0,-3.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-1,2) and (0,3)?",1.0,0.0,-1.0,2.0,1.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (4,3) and (7,12)?",2.0,4.0,-3.0,3.0,3.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (-3,-5) and (-1,-15)?",-5.0,-4.0,-6.0,5.0,-5.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (7,4) and (11,-5)?",2.25,-3.25,-2.25,-1.25,-2.25
+9,Maths,Geometry,Easy,"What is the slope of the line through (-5,5) and (-2,3)?",0.33333333333333337,0.6666666666666666,-0.6666666666666666,-1.6666666666666665,-0.6666666666666666
+9,Maths,Geometry,Easy,"What is the slope of the line through (-1,6) and (3,10)?",2.0,1.0,0.0,-1.0,1.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (-1,10) and (1,9)?",-1.5,-0.5,0.5,Option 3,-0.5
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (7,6) and (9,14)?",4.0,5.0,3.0,-4.0,4.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (0,10) and (3,8)?",0.6666666666666666,0.33333333333333337,-1.6666666666666665,-0.6666666666666666,-0.6666666666666666
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (1,-10) and (3,-15)?",-3.5,-2.5,2.5,-1.5,-2.5
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (1,0) and (5,-5)?",-2.25,-1.25,-0.25,1.25,-1.25
+9,Maths,Statistics,Easy,"What is the slope of the line through (4,-7) and (5,-16)?",-9.0,-8.0,-10.0,9.0,-9.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-5,4) and (-3,6)?",0.0,2.0,1.0,-1.0,1.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (-6,9) and (-1,2)?",-2.4,1.4,-0.3999999999999999,-1.4,-1.4
+9,Maths,Statistics,Easy,"What is the slope of the line through (-5,0) and (-1,0)?",-0.0,-1.0,0.0,1.0,0.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (-9,4) and (-6,-2)?",-2.0,-3.0,-1.0,2.0,-2.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (6,-10) and (8,-11)?",-0.5,-1.5,Option 3,0.5,-0.5
+9,Maths,Statistics,Easy,"What is the slope of the line through (-5,-2) and (0,-7)?",0.0,-1.0,-2.0,1.0,-1.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (2,-5) and (6,-2)?",-0.25,-0.75,0.75,1.75,0.75
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-2,-3) and (1,-6)?",1.0,0.0,-1.0,-2.0,-1.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (2,1) and (3,-7)?",-7.0,-9.0,8.0,-8.0,-8.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (10,0) and (14,8)?",2.0,-2.0,3.0,1.0,2.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (1,-1) and (3,-11)?",-6.0,-5.0,-4.0,5.0,-5.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-10,-7) and (-9,-4)?",-3.0,4.0,3.0,2.0,3.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (10,-6) and (13,-10)?",1.3333333333333333,-1.3333333333333333,-0.33333333333333326,-2.333333333333333,-1.3333333333333333
+9,Maths,Geometry,Easy,"What is the slope of the line through (-4,10) and (-2,5)?",-1.5,-2.5,-3.5,2.5,-2.5
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-2,-7) and (-1,-11)?",-5.0,-4.0,-3.0,4.0,-4.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (-2,-4) and (0,1)?",-2.5,3.5,1.5,2.5,2.5
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (3,10) and (6,11)?",-0.3333333333333333,1.3333333333333333,-0.6666666666666667,0.3333333333333333,0.3333333333333333
+9,Maths,Statistics,Easy,"What is the slope of the line through (-9,-10) and (-8,-1)?",-9.0,10.0,9.0,8.0,9.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (2,8) and (4,12)?",-2.0,2.0,1.0,3.0,2.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (5,3) and (8,-3)?",-2.0,-3.0,-1.0,2.0,-2.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (3,-8) and (5,-17)?",4.5,-5.5,-4.5,-3.5,-4.5
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-8,6) and (-6,6)?",-0.0,-1.0,0.0,1.0,0.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (4,-8) and (8,-5)?",1.75,0.75,-0.25,-0.75,0.75
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (0,0) and (3,10)?",-3.3333333333333335,4.333333333333334,3.3333333333333335,2.3333333333333335,3.3333333333333335
+9,Maths,Geometry,Easy,"What is the slope of the line through (-2,4) and (-1,-1)?",-4.0,-6.0,5.0,-5.0,-5.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (10,4) and (13,-2)?",-1.0,-2.0,-3.0,2.0,-2.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-10,-10) and (-5,-10)?",0.0,-0.0,-1.0,1.0,0.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-6,-10) and (-4,-9)?",-0.5,0.5,Option 3,1.5,0.5
+9,Maths,Geometry,Easy,"What is the slope of the line through (8,-6) and (13,-13)?",-2.4,-1.4,-0.3999999999999999,1.4,-1.4
+9,Maths,Geometry,Easy,"What is the slope of the line through (-2,-6) and (3,-9)?",0.4,-1.6,-0.6,0.6,-0.6
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-7,3) and (-3,1)?",0.5,-1.5,-0.5,Option 3,-0.5
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-4,4) and (-2,8)?",1.0,-2.0,2.0,3.0,2.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (8,7) and (10,11)?",2.0,1.0,3.0,-2.0,2.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (0,9) and (1,3)?",-7.0,-6.0,-5.0,6.0,-6.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (9,-10) and (12,-9)?",1.3333333333333333,-0.6666666666666667,0.3333333333333333,-0.3333333333333333,0.3333333333333333
+9,Maths,Statistics,Easy,"What is the slope of the line through (1,4) and (2,-6)?",-11.0,10.0,-9.0,-10.0,-10.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (1,2) and (4,11)?",2.0,-3.0,3.0,4.0,3.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-7,-1) and (-2,8)?",0.8,-1.8,2.8,1.8,1.8
+9,Maths,Geometry,Easy,"What is the slope of the line through (4,3) and (7,6)?",1.0,2.0,0.0,-1.0,1.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (-4,9) and (-2,8)?",Option 3,0.5,-1.5,-0.5,-0.5
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-3,8) and (1,17)?",1.25,2.25,3.25,-2.25,2.25
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (0,8) and (4,6)?",Option 3,-1.5,-0.5,0.5,-0.5
+9,Maths,Algebra Basics,Easy,"For x^2 + (0)x + (-81) = 0, which is a solution?",9,11,-9,91,9
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (0,3) and (1,-2)?",-6.0,-4.0,-5.0,5.0,-5.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (4,1) and (7,-1)?",0.33333333333333337,0.6666666666666666,-0.6666666666666666,-1.6666666666666665,-0.6666666666666666
+9,Maths,Geometry,Easy,"What is the slope of the line through (0,8) and (4,-2)?",-2.5,-3.5,2.5,-1.5,-2.5
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-2,-8) and (-1,-10)?",-3.0,-2.0,-1.0,2.0,-2.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-10,-9) and (-9,-13)?",-3.0,4.0,-5.0,-4.0,-4.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (-4,-9) and (1,-5)?",-0.19999999999999996,0.8,-0.8,1.8,0.8
+9,Maths,Algebra Basics,Easy,"For x^2 + (2)x + (-35) = 0, which is a solution?",51,-5,5,7,5
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (5,10) and (6,11)?",0.0,2.0,1.0,-1.0,1.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-7,3) and (-3,6)?",0.75,-0.25,1.75,-0.75,0.75
+9,Maths,Algebra Basics,Easy,"For x^2 + (-5)x + (0) = 0, which is a solution?",5,-5,51,7,5
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-9,5) and (-6,10)?",-1.6666666666666667,0.6666666666666667,2.666666666666667,1.6666666666666667,1.6666666666666667
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-10,8) and (-7,18)?",2.3333333333333335,-3.3333333333333335,4.333333333333334,3.3333333333333335,3.3333333333333335
+9,Maths,Statistics,Easy,"What is the slope of the line through (-9,-3) and (-5,-4)?",-1.25,-0.25,0.25,0.75,-0.25
+9,Maths,Geometry,Easy,"What is the slope of the line through (3,-7) and (6,-17)?",3.3333333333333335,-2.3333333333333335,-4.333333333333334,-3.3333333333333335,-3.3333333333333335
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-2,-7) and (-1,-3)?",5.0,3.0,4.0,-4.0,4.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-6,3) and (-2,-3)?",-1.5,1.5,-2.5,-0.5,-1.5
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-5,-4) and (-2,-10)?",-3.0,2.0,-1.0,-2.0,-2.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (10,0) and (14,9)?",3.25,-2.25,2.25,1.25,2.25
+9,Maths,Geometry,Easy,"What is the slope of the line through (8,2) and (11,6)?",1.3333333333333333,-1.3333333333333333,2.333333333333333,0.33333333333333326,1.3333333333333333
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-2,10) and (0,2)?",-4.0,-3.0,4.0,-5.0,-4.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-7,-4) and (-6,-7)?",3.0,-2.0,-3.0,-4.0,-3.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-9,7) and (-4,14)?",2.4,1.4,0.3999999999999999,-1.4,1.4
+9,Maths,Statistics,Easy,"What is the slope of the line through (-4,-4) and (-1,-9)?",-2.666666666666667,-0.6666666666666667,1.6666666666666667,-1.6666666666666667,-1.6666666666666667
+9,Maths,Statistics,Easy,"What is the slope of the line through (5,9) and (6,-1)?",-11.0,-10.0,10.0,-9.0,-10.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (6,-7) and (10,-1)?",-1.5,0.5,2.5,1.5,1.5
+9,Maths,Statistics,Easy,"What is the slope of the line through (3,9) and (6,5)?",-2.333333333333333,1.3333333333333333,-0.33333333333333326,-1.3333333333333333,-1.3333333333333333
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-2,-2) and (2,4)?",-1.5,0.5,1.5,2.5,1.5
+9,Maths,Linear Functions,Easy,"For x^2 + (-12)x + (36) = 0, which is a solution?",8,61,-6,6,6
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-5,-9) and (-4,-16)?",-8.0,-7.0,7.0,-6.0,-7.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (4,-9) and (7,-7)?",-0.33333333333333337,-0.6666666666666666,1.6666666666666665,0.6666666666666666,0.6666666666666666
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (9,-5) and (11,0)?",1.5,2.5,3.5,-2.5,2.5
+9,Maths,Geometry,Easy,"What is the slope of the line through (3,-7) and (6,-15)?",-3.6666666666666665,2.6666666666666665,-1.6666666666666665,-2.6666666666666665,-2.6666666666666665
+9,Maths,Statistics,Easy,"What is the slope of the line through (-1,1) and (2,-9)?",-3.3333333333333335,-2.3333333333333335,3.3333333333333335,-4.333333333333334,-3.3333333333333335
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (0,2) and (1,2)?",-0.0,0.0,1.0,-1.0,0.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (3,10) and (5,12)?",2.0,1.0,-1.0,0.0,1.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (5,2) and (6,3)?",-1.0,2.0,1.0,0.0,1.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (8,-6) and (9,-4)?",2.0,-2.0,3.0,1.0,2.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (-1,-7) and (2,-13)?",2.0,-3.0,-1.0,-2.0,-2.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (3,3) and (8,-5)?",-0.6000000000000001,-2.6,-1.6,1.6,-1.6
+9,Maths,Geometry,Easy,"What is the slope of the line through (4,-3) and (8,-8)?",-0.25,-1.25,1.25,-2.25,-1.25
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (0,-9) and (2,-19)?",5.0,-5.0,-6.0,-4.0,-5.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (7,2) and (9,9)?",2.5,3.5,-3.5,4.5,3.5
+9,Maths,Statistics,Easy,"What is the slope of the line through (-9,-8) and (-4,1)?",-1.8,1.8,0.8,2.8,1.8
+9,Maths,Geometry,Easy,"What is the slope of the line through (-3,-6) and (2,-14)?",-1.6,1.6,-0.6000000000000001,-2.6,-1.6
+9,Maths,Geometry,Easy,"What is the slope of the line through (-1,-1) and (3,-7)?",1.5,-1.5,-2.5,-0.5,-1.5
+9,Maths,Statistics,Easy,"What is the slope of the line through (8,6) and (13,2)?",-0.8,0.8,-1.8,0.19999999999999996,-0.8
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (3,7) and (6,4)?",-2.0,-1.0,1.0,0.0,-1.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (0,7) and (4,-1)?",-2.0,-1.0,-3.0,2.0,-2.0
+9,Maths,Geometry,Easy,"For x^2 + (-6)x + (9) = 0, which is a solution?",5,-3,3,31,3
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-6,-10) and (-3,-9)?",-0.3333333333333333,0.3333333333333333,1.3333333333333333,-0.6666666666666667,0.3333333333333333
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-3,-4) and (-1,-6)?",0.0,-2.0,-1.0,1.0,-1.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (8,-8) and (11,-13)?",1.6666666666666667,-0.6666666666666667,-1.6666666666666667,-2.666666666666667,-1.6666666666666667
+9,Maths,Geometry,Easy,"What is the slope of the line through (-8,5) and (-3,-2)?",-2.4,-1.4,1.4,-0.3999999999999999,-1.4
+9,Maths,Geometry,Easy,"What is the slope of the line through (-1,10) and (0,8)?",2.0,-2.0,-1.0,-3.0,-2.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (4,-4) and (5,4)?",8.0,7.0,9.0,-8.0,8.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-7,-6) and (-2,-6)?",-0.0,1.0,-1.0,0.0,0.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (8,3) and (12,5)?",-0.5,0.5,Option 3,1.5,0.5
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-9,5) and (-4,-3)?",-0.6000000000000001,-2.6,1.6,-1.6,-1.6
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (2,-6) and (4,-5)?",0.5,Option 3,1.5,-0.5,0.5
+9,Maths,Geometry,Easy,"What is the slope of the line through (-7,1) and (-2,-1)?",-1.4,0.4,-0.4,0.6,-0.4
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-2,-5) and (-1,-8)?",3.0,-4.0,-3.0,-2.0,-3.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (2,3) and (5,5)?",1.6666666666666665,-0.33333333333333337,-0.6666666666666666,0.6666666666666666,0.6666666666666666
+9,Maths,Geometry,Easy,"What is the slope of the line through (4,-1) and (9,-10)?",1.8,-1.8,-0.8,-2.8,-1.8
+9,Maths,Geometry,Easy,"What is the slope of the line through (-5,-3) and (-4,-12)?",9.0,-9.0,-8.0,-10.0,-9.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (1,-4) and (5,-1)?",-0.75,0.75,1.75,-0.25,0.75
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (4,-4) and (5,-5)?",-2.0,-1.0,0.0,1.0,-1.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (3,-7) and (8,-9)?",0.6,0.4,-1.4,-0.4,-0.4
+9,Maths,Geometry,Easy,"What is the slope of the line through (10,0) and (15,6)?",0.19999999999999996,-1.2,1.2,2.2,1.2
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-1,-1) and (2,-3)?",-1.6666666666666665,0.6666666666666666,0.33333333333333337,-0.6666666666666666,-0.6666666666666666
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (1,0) and (3,-10)?",-5.0,-6.0,-4.0,5.0,-5.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (6,10) and (7,5)?",5.0,-5.0,-4.0,-6.0,-5.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-6,2) and (-2,-1)?",-0.75,0.75,0.25,-1.75,-0.75
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (2,9) and (6,1)?",2.0,-2.0,-3.0,-1.0,-2.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (-3,10) and (-1,14)?",2.0,1.0,3.0,-2.0,2.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-7,-4) and (-2,3)?",0.3999999999999999,-1.4,2.4,1.4,1.4
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (7,0) and (9,-2)?",-2.0,0.0,-1.0,1.0,-1.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (7,8) and (12,15)?",2.4,0.3999999999999999,-1.4,1.4,1.4
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (7,-1) and (11,-11)?",2.5,-3.5,-1.5,-2.5,-2.5
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (4,-9) and (8,-6)?",-0.25,0.75,1.75,-0.75,0.75
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-3,10) and (2,19)?",0.8,1.8,-1.8,2.8,1.8
+9,Maths,Geometry,Easy,"What is the slope of the line through (-9,5) and (-5,4)?",0.25,0.75,-1.25,-0.25,-0.25
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-8,2) and (-4,10)?",1.0,3.0,2.0,-2.0,2.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (4,2) and (9,-8)?",-2.0,-3.0,2.0,-1.0,-2.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-7,-1) and (-3,-4)?",0.25,-0.75,-1.75,0.75,-0.75
+9,Maths,Geometry,Easy,"What is the slope of the line through (5,-10) and (8,-8)?",0.6666666666666666,-0.33333333333333337,-0.6666666666666666,1.6666666666666665,0.6666666666666666
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-6,2) and (-5,-6)?",-7.0,-9.0,-8.0,8.0,-8.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (4,8) and (5,6)?",-1.0,2.0,-2.0,-3.0,-2.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (-4,-8) and (0,-16)?",-2.0,-1.0,2.0,-3.0,-2.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (-6,6) and (-1,-3)?",1.8,-1.8,-0.8,-2.8,-1.8
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (2,7) and (3,-1)?",-9.0,-8.0,-7.0,8.0,-8.0
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (10,9) and (15,10)?",-0.2,0.2,-0.8,1.2,0.2
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-1,-4) and (3,-1)?",-0.25,0.75,1.75,-0.75,0.75
+9,Maths,Geometry,Easy,"What is the slope of the line through (4,0) and (9,4)?",0.8,-0.8,1.8,-0.19999999999999996,0.8
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (5,4) and (9,2)?",-0.5,-1.5,Option 3,0.5,-0.5
+9,Maths,Geometry,Easy,"What is the slope of the line through (-3,0) and (0,-1)?",-0.3333333333333333,-1.3333333333333333,0.3333333333333333,0.6666666666666667,-0.3333333333333333
+9,Maths,Geometry,Easy,"What is the slope of the line through (5,-4) and (6,-7)?",-4.0,-2.0,-3.0,3.0,-3.0
+9,Maths,Statistics,Easy,"What is the slope of the line through (-10,5) and (-7,3)?",-0.6666666666666666,0.33333333333333337,0.6666666666666666,-1.6666666666666665,-0.6666666666666666
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (-5,10) and (0,17)?",2.4,-1.4,1.4,0.3999999999999999,1.4
+9,Maths,Statistics,Easy,"What is the slope of the line through (-9,9) and (-8,5)?",4.0,-4.0,-3.0,-5.0,-4.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (8,-9) and (10,-7)?",0.0,2.0,1.0,-1.0,1.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (10,9) and (12,10)?",0.5,Option 3,1.5,-0.5,0.5
+9,Maths,Statistics,Easy,"What is the slope of the line through (-9,10) and (-5,15)?",1.25,0.25,-1.25,2.25,1.25
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (3,6) and (7,7)?",-0.25,1.25,-0.75,0.25,0.25
+9,Maths,Statistics,Easy,"What is the slope of the line through (8,10) and (11,13)?",0.0,-1.0,2.0,1.0,1.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (7,-9) and (11,-19)?",-1.5,-2.5,-3.5,2.5,-2.5
+9,Maths,Linear Functions,Easy,"What is the slope of the line through (4,-10) and (8,-17)?",-2.75,1.75,-0.75,-1.75,-1.75
+9,Maths,Geometry,Easy,"What is the slope of the line through (-4,-9) and (1,-16)?",-0.3999999999999999,-2.4,1.4,-1.4,-1.4
+9,Maths,Geometry,Easy,"What is the slope of the line through (10,8) and (12,-2)?",-5.0,-4.0,-6.0,5.0,-5.0
+9,Maths,Geometry,Easy,"What is the slope of the line through (2,-7) and (5,-4)?",1.0,-1.0,2.0,0.0,1.0
+9,Maths,Algebra Basics,Easy,"What is the slope of the line through (-7,-1) and (-6,8)?",9.0,8.0,-9.0,10.0,9.0
