@@ -34,8 +34,7 @@ export default function Game() {
   const [question, setQuestion] = useState<any>(null);
   const [loading, setLoading] = useState(false);
   const [isPremium, setIsPremium] = useState(false);
-  const [selectedAnswer, setSelectedAnswer] = useState<string | null>(null);
-  const [isCorrect, setIsCorrect] = useState<boolean | null>(null);
+  const [isCorrect, setIsCorrect] = useState<boolean>(false);
   const [showLevelDropdown, setShowLevelDropdown] = useState(false);
   const [showSubjectDropdown, setShowSubjectDropdown] = useState(false);
   const [history, setHistory] = useState<string[]>([]);
@@ -118,8 +117,7 @@ export default function Game() {
 
   const fetchQuestion = async (selectedLevel = level, currentSubject = subject.name, currentScore = score, currentDiff = difficulty) => {
     setLoading(true);
-    setSelectedAnswer(null);
-    setIsCorrect(null);
+    setIsCorrect(false);
     setHint(null);
     setWrongAnswers([]);
     setFeedback(null);
@@ -145,9 +143,8 @@ export default function Game() {
   };
 
   const handleAnswer = (answer: string) => {
-    if (wrongAnswers.includes(answer) || isCorrect || !question) return;
+    if (isCorrect || wrongAnswers.includes(answer) || !question) return;
     
-    // Robust Matching: Trim whitespace and ignore case
     const cleanUserAnswer = answer.trim().toLowerCase();
     const cleanCorrectAnswer = question.correctAnswer.trim().toLowerCase();
 
@@ -159,10 +156,32 @@ export default function Game() {
       setTimeout(() => fetchQuestion(), 2500);
     } else {
       setWrongAnswers(prev => [...prev, answer]);
-      setFeedback("Not quite! Try again. 🤔");
+      setFeedback("Try again! 🤔");
       setScore(prev => Math.max(0, prev - 2));
       setTimeout(() => setFeedback(null), 2000);
     }
+  };
+
+  const startAdReward = () => {
+    setShowAdFullscreen(true);
+    setAdTimer(40);
+    if (timerRef.current) clearInterval(timerRef.current);
+    timerRef.current = setInterval(() => {
+      setAdTimer(prev => {
+        if (prev && prev > 1) return prev - 1;
+        if (timerRef.current) clearInterval(timerRef.current);
+        setShowAdFullscreen(false);
+        handleGetHint(true);
+        return null;
+      });
+    }, 1000);
+  };
+
+  const confirmExitAd = () => {
+    if (timerRef.current) clearInterval(timerRef.current);
+    setAdTimer(null);
+    setShowAdFullscreen(false);
+    setShowAdExitConfirm(false);
   };
 
   const confirmReset = () => {
@@ -205,7 +224,7 @@ export default function Game() {
       <AnimatePresence>
         {showAdFullscreen && (
           <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} className="absolute inset-0 z-[200] bg-black flex flex-col items-center justify-center p-8 text-center text-white">
-            <button onClick={() => setShowAdExitConfirm(true)} className="absolute top-8 right-8 p-3 bg-white/10 rounded-full text-white"><X className="w-6 h-6" /></button>
+            <button onClick={() => setShowAdExitConfirm(true)} className="absolute top-8 right-8 p-3 bg-white/10 rounded-full text-white hover:bg-white/20"><X className="w-6 h-6" /></button>
             <PlayCircle className="w-20 h-20 text-purple-500 animate-pulse mb-6" />
             <div className="text-4xl font-black text-purple-400 mb-4">{adTimer}s</div>
             {showAdExitConfirm && (
@@ -230,8 +249,8 @@ export default function Game() {
               <h3 className="text-xl font-black mb-2 text-zinc-900 dark:text-zinc-50">Change Game Settings?</h3>
               <p className="text-zinc-500 mb-6">This will reset your current session progress.</p>
               <div className="flex flex-col gap-3">
-                <button onClick={confirmReset} className="w-full py-4 rounded-2xl bg-orange-600 text-white font-bold">Reset & Continue</button>
-                <button onClick={() => setShowResetConfirm(false)} className="w-full py-4 rounded-2xl bg-zinc-100 dark:bg-zinc-700 font-bold">Cancel</button>
+                <button onClick={confirmReset} className="w-full py-4 rounded-2xl bg-orange-600 text-white font-bold hover:bg-orange-700">Reset & Continue</button>
+                <button onClick={() => setShowResetConfirm(false)} className="w-full py-4 rounded-2xl bg-zinc-100 dark:bg-zinc-700 text-zinc-700 dark:text-zinc-300 font-bold hover:bg-zinc-200 dark:hover:bg-zinc-600">Cancel</button>
               </div>
             </div>
           </motion.div>
@@ -246,12 +265,12 @@ export default function Game() {
               <Trophy className="w-5 h-5 text-yellow-600" />
               <span className="font-bold text-yellow-700 dark:text-yellow-300">{score}</span>
             </div>
-            <button onClick={handleSignOut} className="p-2 bg-zinc-100 dark:bg-zinc-800 rounded-full text-zinc-600"><LogOut className="w-4 h-4" /></button>
+            <button onClick={handleSignOut} className="p-2 bg-zinc-100 dark:bg-zinc-800 rounded-full text-zinc-600 hover:bg-red-50 dark:hover:bg-red-900/30 transition-all"><LogOut className="w-4 h-4" /></button>
           </div>
           {gameState === 'playing' && (
             <div className="flex items-center gap-2">
               <div className={`px-3 py-1 rounded-full text-[10px] font-black border uppercase ${subject.color} border-current bg-white dark:bg-zinc-900`}>{subject.name}</div>
-              <button onClick={() => setShowResetConfirm(true)} className="p-2 text-zinc-400 hover:bg-zinc-100 rounded-full"><RefreshCw className="w-4 h-4" /></button>
+              <button onClick={() => setShowResetConfirm(true)} className="p-2 text-zinc-400 dark:text-zinc-500 hover:bg-zinc-100 dark:hover:bg-zinc-800 rounded-full"><RefreshCw className="w-4 h-4" /></button>
             </div>
           )}
         </div>
@@ -263,7 +282,7 @@ export default function Game() {
           {gameState === 'grade-selection' && (
             <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="flex flex-col gap-8 text-center">
               <h1 className="text-3xl font-black text-zinc-900 dark:text-zinc-50">Choose Grade</h1>
-              <div className="grid gap-3 max-h-[400px] overflow-y-auto pr-2">
+              <div className="grid gap-3 max-h-[400px] overflow-y-auto pr-2 custom-scrollbar">
                 {LEVELS.map(lvl => <button key={lvl} onClick={() => { setLevel(lvl); setGameState('subject-selection'); }} className="p-5 rounded-3xl border-2 font-bold hover:border-blue-400 bg-white dark:bg-zinc-800 text-zinc-700 dark:text-zinc-200">{lvl}</button>)}
               </div>
             </motion.div>
@@ -302,15 +321,15 @@ export default function Game() {
                     {question.options.map((opt: string, i: number) => {
                       const isWrong = wrongAnswers.includes(opt);
                       const isFound = isCorrect && opt.trim().toLowerCase() === question.correctAnswer.trim().toLowerCase();
-                      let variant = "bg-white dark:bg-zinc-800 border-zinc-100 dark:border-zinc-700 text-zinc-700 dark:text-zinc-200";
+                      let variant = "bg-white dark:bg-zinc-800 border-zinc-100 dark:border-zinc-700 text-zinc-700 dark:text-zinc-200 hover:border-blue-300 dark:hover:border-blue-500";
                       if (isFound) variant = "bg-green-500 border-green-600 text-white shadow-lg shadow-green-500/30";
-                      else if (isWrong) variant = "bg-zinc-50 dark:bg-zinc-900/50 text-zinc-300 dark:text-zinc-600 opacity-60";
+                      else if (isWrong) variant = "bg-zinc-50 dark:bg-zinc-900/50 border-zinc-100 dark:border-zinc-800 text-zinc-300 dark:text-zinc-600 scale-[0.98] opacity-60";
                       return <button key={i} onClick={() => handleAnswer(opt)} className={`p-5 rounded-2xl font-bold text-lg border-2 transition-all text-left ${variant}`}>{opt}</button>;
                     })}
                   </div>
                   <div className="mt-8 flex gap-3 pb-4">
-                    <button onClick={() => handleGetHint()} disabled={!!hint} className="flex-1 p-4 bg-yellow-400 text-yellow-900 rounded-2xl font-black text-xs hover:bg-yellow-500 disabled:opacity-50">50 PTS HINT</button>
-                    {!isPremium && <button onClick={() => startAdReward()} className="flex-1 p-4 bg-purple-600 text-white rounded-2xl font-black text-xs hover:bg-purple-700">AD HINT</button>}
+                    <button onClick={() => handleGetHint()} disabled={!!hint || isCorrect} className="flex-1 p-4 bg-yellow-400 text-yellow-900 rounded-2xl font-black text-xs hover:bg-yellow-500 disabled:opacity-50">50 PTS HINT</button>
+                    {!isPremium && <button onClick={() => startAdReward()} disabled={isCorrect} className="flex-1 p-4 bg-purple-600 text-white rounded-2xl font-black text-xs hover:bg-purple-700 disabled:opacity-50">AD HINT</button>}
                   </div>
                 </>
               )}
