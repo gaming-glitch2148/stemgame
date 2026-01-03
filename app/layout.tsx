@@ -21,6 +21,7 @@ export const metadata: Metadata = {
   manifest: "/manifest.json",
 };
 
+// Production Build: 2024-01-03
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -29,7 +30,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
-        {/* Google AdSense - Using raw script tag to avoid data-nscript attribute issue */}
+        {/* Google AdSense - Raw script for verification compatibility */}
         <script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9141375569651908"
