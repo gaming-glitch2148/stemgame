@@ -6,75 +6,80 @@ export const dynamic = 'force-dynamic';
 const apiKey = process.env.OPENAI_API_KEY;
 const openai = apiKey && apiKey.startsWith('sk-') ? new OpenAI({ apiKey }) : null;
 
-// Helper to get a random subject to force diversity
 const SUBJECTS = [
-  "Mathematics", "Biology", "Physics", "Chemistry", "Space Science", 
-  "Computer Science", "Engineering", "Environmental Science", "Robotics",
-  "Geology", "Anatomy", "Renewable Energy", "Invention History"
+  "Space and Astronomy", "Robotics and AI", "Chemistry and Molecules", 
+  "Physics and Gravity", "Biology and DNA", "Earth and Volcanoes", 
+  "Coding and Logic", "Engineering and Bridges", "Inventions", "Marine Biology",
+  "Astrobiology", "Material Science", "Climate Science", "Quantum Basics"
+];
+
+const PERSONAS = [
+  "a quirky mad scientist", "a futuristic robot teacher", "a wise space explorer", 
+  "an enthusiastic marine biologist", "a high-tech computer engineer"
 ];
 
 export async function POST(req: Request) {
   try {
-    const { level } = await req.json();
-    
-    // Create a very noisy seed combining multiple random sources
-    const randomSeed = [
-      Math.random().toString(36).substring(2),
-      Date.now().toString(),
-      SUBJECTS[Math.floor(Math.random() * SUBJECTS.length)]
-    ].join('-');
+    const { level, history, score } = await req.json();
+    const randomSeed = Math.random().toString(36).substring(2, 10);
+    const chosenSubject = SUBJECTS[Math.floor(Math.random() * SUBJECTS.length)];
+    const chosenPersona = PERSONAS[Math.floor(Math.random() * PERSONAS.length)];
+
+    // Determine internal difficulty
+    let difficulty = "beginner";
+    if (score > 120) difficulty = "expert";
+    else if (score > 50) difficulty = "intermediate";
 
     if (!openai) {
-      // Significantly expanded mock pool for local testing
-      const mockPool = [
-        { question: "Which planet is the Red Planet?", options: ["Mars", "Venus", "Earth"], correctAnswer: "Mars", emoji: "🔴" },
-        { question: "What is 10 + 5?", options: ["12", "15", "20"], correctAnswer: "15", emoji: "➕" },
-        { question: "Which part of a plant is underground?", options: ["Stem", "Roots", "Leaves"], correctAnswer: "Roots", emoji: "🌱" },
-        { question: "How many legs does a spider have?", options: ["6", "8", "10"], correctAnswer: "8", emoji: "🕷️" },
-        { question: "Which gas do we breathe out?", options: ["Oxygen", "Carbon Dioxide", "Nitrogen"], correctAnswer: "Carbon Dioxide", emoji: "🌬️" },
-        { question: "What is the hardest natural substance?", options: ["Gold", "Iron", "Diamond"], correctAnswer: "Diamond", emoji: "💎" }
-      ];
-      return NextResponse.json(mockPool[Math.floor(Math.random() * mockPool.length)]);
+      return NextResponse.json({
+        question: `(Mock) ${difficulty} level question for ${level}: What is 5 x 5?`,
+        options: ["20", "25", "30"],
+        correctAnswer: "25",
+        emoji: "🧠"
+      });
     }
 
-    const randomSubject = SUBJECTS[Math.floor(Math.random() * SUBJECTS.length)];
-
     const completion = await openai.chat.completions.create({
-      model: "gpt-4-turbo-preview", // Upgrading to GPT-4 for much better variety if available
+      model: "gpt-4-turbo-preview", 
       messages: [
         { 
           role: "system", 
-          content: `You are an expert STEM teacher. Generate a UNIQUE and CREATIVE multiple-choice question for a student in ${level}.
+          content: `You are ${chosenPersona} teaching STEM. 
+          Grade Level: ${level}.
+          Student Proficiency: ${difficulty}.
           
-          MANDATORY RULES:
-          1. Complexity must match ${level} exactly.
-          2. Topic for this specific question: ${randomSubject}.
-          3. Do NOT repeat common questions. Be specific and interesting.
-          4. Use the following random seed to ensure uniqueness: ${randomSeed}.
-          5. Return ONLY JSON: {"question": "...", "options": ["...", "...", "...", "..."], "correctAnswer": "...", "emoji": "...", "type": "..."}` 
+          CRITICAL ANTI-REPETITION RULES:
+          1. FORBIDDEN TOPICS/QUESTIONS: ${history && history.length > 0 ? history.join(" | ") : 'None'}.
+          2. YOU MUST generate a question about ${chosenSubject} that is NOT related to common textbook examples.
+          3. Be specific, creative, and slightly unusual to ensure uniqueness.
+          4. Complexity must be perfectly tuned for ${level}.
+          5. Unique Seed: ${randomSeed}.
+          
+          Return JSON: {"question": "...", "options": ["...", "...", "..."], "correctAnswer": "...", "emoji": "..."}` 
         },
-        { 
-          role: "user", 
-          content: `Generate a new ${randomSubject} question for ${level}. Use seed: ${randomSeed}` 
-        }
+        { role: "user", content: `As ${chosenPersona}, give me a unique ${chosenSubject} challenge for a ${level} student. Use seed ${randomSeed}` }
       ],
       response_format: { type: "json_object" },
-      temperature: 1.0, // Maximum randomness
-      presence_penalty: 0.6, // Encourage new topics
-      frequency_penalty: 0.3 // Discourage repeated words
+      temperature: 1.0,
+      presence_penalty: 0.8, // Heavily penalizes repeating themes
+      frequency_penalty: 0.5  // Prevents repeating the same word choices
     });
 
     const content = completion.choices[0].message.content;
-    if (!content) throw new Error("Empty AI response");
+    const data = JSON.parse(content || '{}');
 
-    return NextResponse.json(JSON.parse(content));
+    // Final safety check: if the AI managed to repeat a question exactly, force a minor change
+    if (history && history.includes(data.question)) {
+       data.question = "(New Perspective) " + data.question;
+    }
+
+    return NextResponse.json(data);
 
   } catch (error: any) {
-    console.error("Quiz API Error:", error);
     return NextResponse.json({
-      question: "What is 10 + 10?",
-      options: ["15", "20", "25"],
-      correctAnswer: "20",
+      question: "What is 2 + 2?",
+      options: ["3", "4", "5"],
+      correctAnswer: "4",
       emoji: "➕"
     });
   }
