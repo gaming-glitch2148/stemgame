@@ -3,6 +3,7 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import Script from "next/script";
 import "./globals.css";
+import { AuthProvider } from "@/components/AuthProvider";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -28,18 +29,23 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
-        {/* Google AdSense Verification Script */}
+        {/* Google AdSense */}
         <Script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9141375569651908"
           crossOrigin="anonymous"
           strategy="afterInteractive"
         />
+        {/* Google Pay API */}
+        <Script
+          src="https://pay.google.com/gp/p/js/pay.js"
+          strategy="beforeInteractive"
+        />
       </head>
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
-        {children}
+      <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
+        <AuthProvider>
+          {children}
+        </AuthProvider>
       </body>
     </html>
   );
