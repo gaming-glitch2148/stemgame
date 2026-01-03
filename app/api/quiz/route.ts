@@ -30,7 +30,7 @@ export async function POST(req: Request) {
     if (difficulty === 'Intermediate') diffKey = 'Intermediate';
     else if (difficulty === 'Expert') diffKey = 'Hard';
 
-    // 4. Construct file path: Grade_Subject_Difficulty.csv (e.g., K_Maths_Easy.csv)
+    // 4. Construct file path
     const fileName = `${gradeKey}_${subjectKey}_${diffKey}.csv`;
     const filePath = path.join(process.cwd(), 'data', 'questions', fileName);
 
@@ -41,7 +41,8 @@ export async function POST(req: Request) {
       
       const parsedData = Papa.parse(fileContent, {
         header: true,
-        skipEmptyLines: true
+        skipEmptyLines: true,
+        transform: (value) => value.trim() // TRIM ALL INCOMING DATA
       });
 
       let questions = parsedData.data as any[];
@@ -56,17 +57,31 @@ export async function POST(req: Request) {
 
       const randomQ = questions[Math.floor(Math.random() * questions.length)];
 
+      // LOGIC: Handle CSVs where 'Correct Ans' is a letter (A, B, C, D)
+      let correctAnswer = randomQ['Correct Ans'] || "";
+      const optionsMap: Record<string, string> = {
+        'A': randomQ['A'],
+        'B': randomQ['B'],
+        'C': randomQ['C'],
+        'D': randomQ['D']
+      };
+
+      const upperAns = correctAnswer.toUpperCase();
+      if (optionsMap[upperAns]) {
+        correctAnswer = optionsMap[upperAns];
+      }
+
       return NextResponse.json({
         question: randomQ['Question'],
         options: [randomQ['A'], randomQ['B'], randomQ['C'], randomQ['D']].filter(Boolean),
-        correctAnswer: randomQ['Correct Ans'],
+        correctAnswer: correctAnswer,
         emoji: "🧠",
         type: randomQ['Topic'] || subject,
         source: 'csv'
       });
 
     } catch (fileErr: any) {
-      console.error(`FILE NOT FOUND: ${fileName}`);
+      console.error(`FILE NOT FOUND OR EMPTY: ${fileName}`);
       return NextResponse.json({
         question: `Curriculum update in progress! The ${difficulty} challenges for ${level} ${subject} are coming soon.`,
         options: ["Try another subject", "Go Back"],
