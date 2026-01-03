@@ -29,13 +29,12 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
-        {/* Google AdSense */}
-        <Script
+        {/* Google AdSense - Using raw script tag to avoid data-nscript attribute issue */}
+        <script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9141375569651908"
           crossOrigin="anonymous"
-          strategy="afterInteractive"
-        />
+        ></script>
         {/* Google Pay API */}
         <Script
           src="https://pay.google.com/gp/p/js/pay.js"
