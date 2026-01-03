@@ -10,6 +10,7 @@ export async function POST(req: Request) {
     const { level, subject, difficulty, history } = await req.json();
 
     // 1. Map Grade to File Format
+    // We try 'K' first (from image) then 'kindergarten' (from text)
     let gradeKey = level === 'Kindergarten' ? 'K' : (level.match(/\d+/) ? `G${level.match(/\d+/)[0]}` : level);
     let subjectKey = subject.replace('Mathematics', 'Maths').replace('Space & Physics', 'SpacePhysics').replace('Coding & Logic', 'CodingLogic');
     
@@ -17,81 +18,96 @@ export async function POST(req: Request) {
     if (difficulty === 'Intermediate') diffKey = 'Intermediate';
     else if (difficulty === 'Expert' || difficulty === 'Hard') diffKey = 'Hard';
 
-    const fileName = `${gradeKey}_${subjectKey}_${diffKey}.csv`;
-    const filePath = path.join(process.cwd(), 'data', 'questions', fileName);
+    let fileName = `${gradeKey}_${subjectKey}_${diffKey}.csv`;
+    let filePath = path.join(process.cwd(), 'data', 'questions', fileName);
 
     console.log("--- FETCH REQUEST START ---");
-    console.log("Target File:", fileName);
+    console.log("Primary Target File:", fileName);
 
+    let fileContent;
     try {
-      const fileContent = await fs.readFile(filePath, 'utf8');
-      
-      // PapaParse with better config to handle hidden characters
-      const parsedData = Papa.parse(fileContent.trim(), { 
-        header: true, 
-        skipEmptyLines: true,
-        transformHeader: (h) => h.trim().toLowerCase() // Normalize headers to lowercase/trimmed
-      });
-      
-      let questions = parsedData.data as any[];
-      if (questions.length > 0) {
-        console.log("Available Normalized Headers:", Object.keys(questions[0]).join(", "));
+      fileContent = await fs.readFile(filePath, 'utf8');
+    } catch (e) {
+      // Try fallback for Kindergarten if K didn't work
+      if (level === 'Kindergarten') {
+        fileName = `kindergarten_${subjectKey}_${diffKey}.csv`;
+        filePath = path.join(process.cwd(), 'data', 'questions', fileName);
+        console.log("Retrying with fallback filename:", fileName);
+        fileContent = await fs.readFile(filePath, 'utf8');
+      } else {
+        throw e;
       }
-
-      // Filter out history
-      if (history && history.length > 0) {
-        const unseen = questions.filter(q => {
-          const qText = q['question'];
-          return !history.includes(qText);
-        });
-        if (unseen.length > 0) questions = unseen;
-      }
-
-      const randomQ = questions[Math.floor(Math.random() * questions.length)];
-      if (!randomQ) throw new Error("Question selection failed");
-
-      // Robust extraction based on normalized headers
-      // Headers in CSV: Grade, Subject, Topic, Difficulty, Question, A, B, C, D, Correct Answer
-      const questionText = randomQ['question'] || "";
-      const optA = randomQ['a'] || "";
-      const optB = randomQ['b'] || "";
-      const optC = randomQ['c'] || "";
-      const optD = randomQ['d'] || "";
-      
-      // Look for "correct answer" specifically as provided by user
-      let correct = randomQ['correct answer'] || randomQ['correct ans'] || randomQ['correctans'] || randomQ['answer'] || "";
-
-      // Logic: If 'Correct Answer' matches a header name (A, B, C, D), use that choice's text
-      const choiceMap: any = { 'a': optA, 'b': optB, 'c': optC, 'd': optD };
-      const normalizedCorrect = correct.toString().trim().toLowerCase();
-      
-      if (choiceMap[normalizedCorrect]) {
-        console.log(`Mapping Letter Answer '${correct}' to Text: '${choiceMap[normalizedCorrect]}'`);
-        correct = choiceMap[normalizedCorrect];
-      }
-
-      console.log("FINAL SERVER QUESTION:", questionText);
-      console.log("FINAL SERVER CORRECT ANSWER:", correct);
-      console.log("--- FETCH REQUEST END ---");
-
-      return NextResponse.json({
-        question: questionText.replace(/^[A-Z]?\d+[:.]\s*/i, '').trim(),
-        options: [optA, optB, optC, optD].filter(o => o && o.toString().trim().length > 0),
-        correctAnswer: correct.toString().trim(),
-        emoji: "🧠",
-        type: randomQ['topic'] || subject
-      });
-
-    } catch (fileErr: any) {
-      console.error(`SERVER FILE ERROR: ${fileName}`, fileErr.message);
-      return NextResponse.json({
-        question: `Curriculum check: ${fileName} not found.`,
-        options: ["Go Back"],
-        correctAnswer: "Go Back",
-        emoji: "🛠️"
-      });
     }
+
+    // 2. Parse CSV
+    const parsedData = Papa.parse(fileContent.trim(), { 
+      header: true, 
+      skipEmptyLines: true,
+      transformHeader: (h) => h.trim().toLowerCase() // Crucial for matching "Correct Answer"
+    });
+    
+    let questions = parsedData.data as any[];
+    if (questions.length === 0) throw new Error("File is empty");
+
+    // Log headers to debug "Correct Answer" column
+    console.log("Parsed Headers (normalized):", Object.keys(questions[0]).join(", "));
+
+    // 3. Filter History
+    if (history && history.length > 0) {
+      const unseen = questions.filter(q => {
+        const qText = q['question'];
+        return !history.includes(qText);
+      });
+      if (unseen.length > 0) questions = unseen;
+    }
+
+    const randomQ = questions[Math.floor(Math.random() * questions.length)];
+
+    // 4. Robust Value Extraction
+    // We look for 'correct answer' based on the user's reconfirmation
+    const questionText = randomQ['question'] || "";
+    const optA = randomQ['a'] || "";
+    const optB = randomQ['b'] || "";
+    const optC = randomQ['c'] || "";
+    const optD = randomQ['d'] || "";
+    let correctValue = randomQ['correct answer'] || randomQ['correct ans'] || randomQ['answer'] || "";
+
+    // 5. Letter-to-Text Mapping
+    // If CSV says "A" but UI clicked "Mars", we must return "Mars"
+    const choiceMap: Record<string, string> = { 
+      'a': optA, 
+      'b': optB, 
+      'c': optC, 
+      'd': optD 
+    };
+    
+    const normalizedCorrect = correctValue.toString().trim().toLowerCase();
+    let finalCorrectAnswer = correctValue;
+
+    if (choiceMap[normalizedCorrect]) {
+      console.log(`Mapped letter '${correctValue}' to full text: '${choiceMap[normalizedCorrect]}'`);
+      finalCorrectAnswer = choiceMap[normalizedCorrect];
+    }
+
+    console.log("Sending Question:", questionText);
+    console.log("Sending Correct Ans:", finalCorrectAnswer);
+    console.log("--- FETCH REQUEST END ---");
+
+    return NextResponse.json({
+      question: questionText.replace(/^[A-Z]?\d+[:.]\s*/i, '').trim(),
+      options: [optA, optB, optC, optD].filter(o => o && o.toString().trim().length > 0),
+      correctAnswer: finalCorrectAnswer.toString().trim(),
+      emoji: "🧠",
+      type: randomQ['topic'] || subject
+    });
+
   } catch (error: any) {
-    return NextResponse.json({ error: error.message }, { status: 500 });
+    console.error("Quiz API Error:", error.message);
+    return NextResponse.json({
+      question: `Coming Soon: ${subject} curriculum for this level!`,
+      options: ["Go Back", "Change Level"],
+      correctAnswer: "Go Back",
+      emoji: "🛠️"
+    });
   }
 }
