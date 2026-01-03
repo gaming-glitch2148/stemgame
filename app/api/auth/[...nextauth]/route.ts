@@ -2,19 +2,15 @@ import NextAuth, { NextAuthOptions } from "next-auth";
 import GoogleProvider from "next-auth/providers/google";
 import FacebookProvider from "next-auth/providers/facebook";
 
-if (!process.env.NEXTAUTH_SECRET) {
-  console.error("CRITICAL ERROR: NEXTAUTH_SECRET is not defined in environment variables.");
-}
-
-if (!process.env.GOOGLE_CLIENT_SECRET) {
-  console.error("CRITICAL ERROR: GOOGLE_CLIENT_SECRET is not defined in environment variables.");
-}
+// FALLBACK SECRET FOR TROUBLESHOOTING
+// In production, this SHOULD be set via Vercel Environment Variables as NEXTAUTH_SECRET
+const AUTH_SECRET = process.env.NEXTAUTH_SECRET || "temporary_development_secret_change_me_in_vercel";
 
 export const authOptions: NextAuthOptions = {
   providers: [
     GoogleProvider({
       clientId: "538949501638-soq5mj0gnqubhl9uvkdmj5d4bmoldq2p.apps.googleusercontent.com",
-      clientSecret: process.env.GOOGLE_CLIENT_SECRET || "",
+      clientSecret: process.env.GOOGLE_CLIENT_SECRET || "missing_secret",
     }),
     ...(process.env.FACEBOOK_CLIENT_ID && process.env.FACEBOOK_CLIENT_SECRET
       ? [
@@ -25,8 +21,8 @@ export const authOptions: NextAuthOptions = {
         ]
       : []),
   ],
-  secret: process.env.NEXTAUTH_SECRET,
-  debug: true, // This will print detailed error messages in Vercel Logs
+  secret: AUTH_SECRET,
+  debug: true,
   session: {
     strategy: "jwt",
   },
