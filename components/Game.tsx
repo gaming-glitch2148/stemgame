@@ -24,8 +24,14 @@ const SUBJECTS = [
 
 const DIFFICULTIES: Difficulty[] = ['Beginner', 'Intermediate', 'Expert'];
 
-// Robust matching helper
-const normalize = (s: string) => (s || "").toLowerCase().trim().replace(/\s+/g, ' ');
+// Aggressive matching helper: removes punctuation, multiple spaces, and case differences
+const normalize = (s: string) => {
+  return (s || "")
+    .toLowerCase()
+    .trim()
+    .replace(/[^\w\s]/g, '') // Remove punctuation (e.g. '.', '!', '?')
+    .replace(/\s+/g, ' ');   // Collapse multiple spaces to one
+};
 
 export default function Game() {
   const { data: session, status } = useSession();
@@ -95,7 +101,7 @@ export default function Game() {
       });
       const data = await res.json();
       if (data && data.question) {
-        // Advanced Cleanup: Remove Q1:, 318., etc. from the start of questions
+        // Clean prefixes like Q318: or 318.
         data.question = data.question.replace(/^[A-Z]?\d+[:.]\s*/i, '').trim();
         setQuestion(data);
         setHistory(prev => [...prev, data.question]);
@@ -106,10 +112,7 @@ export default function Game() {
   const handleAnswer = (answer: string) => {
     if (isCorrect || !question || wrongAnswers.includes(answer)) return;
     
-    const userChoice = normalize(answer);
-    const correctAns = normalize(question.correctAnswer);
-
-    if (userChoice === correctAns) {
+    if (normalize(answer) === normalize(question.correctAnswer)) {
       setIsCorrect(true);
       setFeedback("Correct! 🌟");
       confetti({ particleCount: 100, spread: 70, origin: { y: 0.6 } });
@@ -117,10 +120,17 @@ export default function Game() {
       setTimeout(() => fetchQuestion(), 2500);
     } else {
       setWrongAnswers(prev => [...prev, answer]);
-      setFeedback("Not quite! Try again. 🤔");
+      setFeedback("Try again! 🤔");
       setScore(prev => Math.max(0, prev - 2));
       setTimeout(() => setFeedback(null), 2000);
     }
+  };
+
+  const handleGetHint = (forced = false) => {
+    if (!question) return;
+    if (!forced && !isPremium && score < 50) return;
+    if (!forced && !isPremium) setScore(prev => prev - 50);
+    setHint(`Psst! It starts with "${question.correctAnswer.trim().substring(0, 2)}..."`);
   };
 
   const startAdReward = () => {
@@ -137,13 +147,6 @@ export default function Game() {
         return null;
       });
     }, 1000);
-  };
-
-  const handleGetHint = (forced = false) => {
-    if (!question) return;
-    if (!forced && !isPremium && score < 50) return;
-    if (!forced && !isPremium) setScore(prev => prev - 50);
-    setHint(`Psst! It starts with "${question.correctAnswer.trim().substring(0, 2)}..."`);
   };
 
   const confirmExitAd = () => {
@@ -166,6 +169,19 @@ export default function Game() {
     signOut();
   };
 
+  const handleCheckout = async (planType: 'monthly' | 'yearly') => {
+    const priceId = planType === 'monthly' ? process.env.NEXT_PUBLIC_STRIPE_MONTHLY_PRICE_ID : process.env.NEXT_PUBLIC_STRIPE_YEARLY_PRICE_ID;
+    try {
+      const res = await fetch('/api/checkout', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ priceId, email: session?.user?.email }),
+      });
+      const data = await res.json();
+      if (data.url) window.location.href = data.url;
+    } catch (err) { console.error(err); }
+  };
+
   const renderAuthGate = () => (
     <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="flex flex-col gap-10 text-center py-10">
       <div className="space-y-4">
@@ -173,7 +189,7 @@ export default function Game() {
         <h1 className="text-4xl font-black text-zinc-900 dark:text-zinc-50 tracking-tight">STEM BLAST!</h1>
         <p className="text-zinc-500 dark:text-zinc-400 font-medium px-10">Sign in to challenge your brain and track your score.</p>
       </div>
-      <div className="px-6"><button onClick={() => signIn('google')} className="w-full py-5 bg-white dark:bg-zinc-800 border-2 border-zinc-100 dark:border-zinc-700 rounded-3xl flex items-center justify-center gap-4 font-bold text-zinc-700 dark:text-zinc-200 hover:bg-zinc-50 transition-all"><img src="https://www.google.com/favicon.ico" className="w-5 h-5" alt="Google" /> Continue with Google</button></div>
+      <div className="px-6"><button onClick={() => signIn('google')} className="w-full py-5 bg-white dark:bg-zinc-800 border-2 border-zinc-100 dark:border-zinc-700 rounded-3xl flex items-center justify-center gap-4 font-bold text-zinc-700 dark:text-zinc-200 transition-all hover:bg-zinc-50 shadow-sm"><img src="https://www.google.com/favicon.ico" className="w-5 h-5" alt="Google" /> Continue with Google</button></div>
     </motion.div>
   );
 
@@ -210,17 +226,17 @@ export default function Game() {
         )}
       </AnimatePresence>
 
-      {/* HUD */}
+      {/* HUD (z-60) */}
       {gameState !== 'auth-gate' && (
         <div className="flex justify-between items-center p-6 pb-2 relative z-[60]">
           <div className="flex items-center gap-3">
             <div className="flex items-center gap-2 bg-yellow-100 dark:bg-yellow-900/30 px-4 py-2 rounded-full border border-yellow-200 dark:border-yellow-700/50 shadow-sm"><Trophy className="w-5 h-5 text-yellow-600 dark:text-yellow-400" /><span className="font-bold text-yellow-700 dark:text-yellow-300">{score}</span></div>
-            <button onClick={handleSignOut} className="p-2 bg-zinc-100 dark:bg-zinc-800 rounded-full text-zinc-600 dark:text-zinc-400 hover:bg-red-50 dark:hover:bg-red-900/30 transition-all"><LogOut className="w-4 h-4" /></button>
+            <button onClick={handleSignOut} className="p-2 bg-zinc-100 dark:bg-zinc-800 rounded-full text-zinc-600 dark:text-zinc-400 hover:bg-red-50 dark:hover:bg-red-900/30 transition-all shadow-sm"><LogOut className="w-4 h-4" /></button>
           </div>
           {gameState === 'playing' && (
             <div className="flex items-center gap-2">
               <div className={`px-3 py-1 rounded-full text-[10px] font-black border uppercase ${subject.color} border-current bg-white dark:bg-zinc-900 shadow-sm`}>{subject.name}</div>
-              <button onClick={() => setShowResetConfirm(true)} className="p-2 text-zinc-400 dark:text-zinc-500 hover:bg-zinc-100 dark:hover:bg-zinc-800 rounded-full transition-all"><RefreshCw className="w-4 h-4" /></button>
+              <button onClick={() => setShowResetConfirm(true)} className="p-2 text-zinc-400 dark:text-zinc-500 hover:bg-zinc-100 dark:hover:bg-zinc-800 rounded-full transition-all shadow-sm"><RefreshCw className="w-4 h-4" /></button>
             </div>
           )}
         </div>
@@ -258,7 +274,7 @@ export default function Game() {
               {loading || !question ? <div className="flex-1 flex flex-col items-center justify-center gap-4 py-20 animate-pulse"><RefreshCw className="animate-spin text-blue-500" size={48} /> <p className="text-sm font-bold text-zinc-400 uppercase tracking-widest text-[10px]">Consulting AI...</p></div> : (
                 <>
                   <div className="bg-white dark:bg-zinc-800 rounded-3xl p-8 shadow-sm mb-6 text-center border-2 border-zinc-50 dark:border-zinc-700/50 min-h-[220px] flex flex-col justify-center items-center relative overflow-hidden">
-                    <AnimatePresence>{feedback && <motion.div initial={{ opacity: 0, y: -20 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }} className="absolute top-4 w-full text-center font-black text-blue-500 uppercase tracking-widest text-sm z-10 pointer-events-none">{feedback}</motion.div>}</AnimatePresence>
+                    <AnimatePresence>{feedback && <motion.div initial={{ opacity: 0, y: -20 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }} className="absolute top-4 w-full text-center font-black text-blue-500 uppercase tracking-widest text-xs z-10 pointer-events-none">{feedback}</motion.div>}</AnimatePresence>
                     <span className="text-7xl mb-4 filter drop-shadow-md">{question.emoji}</span>
                     <h2 className="text-2xl font-bold leading-tight text-zinc-800 dark:text-zinc-100">{question.question}</h2>
                     {hint && <div className="mt-4 p-3 bg-yellow-50 dark:bg-yellow-900/20 text-yellow-700 dark:text-yellow-400 text-xs font-bold rounded-xl border border-yellow-100 dark:border-yellow-800 shadow-sm animate-bounce-slow">💡 Hint: {hint}</div>}
@@ -290,7 +306,21 @@ export default function Game() {
         </div>
       )}
 
-      {/* Payment Modal remains same */}
+      <AnimatePresence>
+        {showPaymentModal && (
+          <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="absolute inset-0 z-[110] bg-black/70 backdrop-blur-xl flex items-center justify-center p-6">
+            <div className="bg-white dark:bg-zinc-800 rounded-[2.5rem] p-8 w-full max-w-sm shadow-2xl text-center border border-white/10">
+              <Star className="w-8 h-8 text-blue-600 mx-auto mb-4" />
+              <h2 className="text-2xl font-black mb-2 text-zinc-900 dark:text-zinc-50 uppercase tracking-tighter">Premium</h2>
+              <div className="space-y-4 my-8">
+                <button onClick={() => handleCheckout('monthly')} className="w-full p-5 rounded-2xl border-2 dark:border-zinc-700 flex items-center justify-between font-bold dark:text-zinc-200 hover:border-blue-500 transition-all text-zinc-700 dark:text-zinc-200 shadow-sm"><p>Monthly</p> <span className="text-blue-600">$0.99</span></button>
+                <button onClick={() => handleCheckout('yearly')} className="w-full p-5 rounded-2xl border-2 border-blue-500 bg-blue-50 dark:bg-blue-900/20 flex items-center justify-between font-bold dark:text-zinc-200 hover:scale-[1.02] transition-all shadow-sm"><p>Yearly</p> <span className="text-blue-600 font-black">$10.00</span></button>
+              </div>
+              <button onClick={() => setShowPaymentModal(false)} className="text-zinc-400 dark:text-zinc-500 text-sm font-bold hover:text-zinc-600 transition-colors uppercase tracking-widest">Close</button>
+            </div>
+          </motion.div>
+        )}
+      </AnimatePresence>
     </div>
   );
 }
