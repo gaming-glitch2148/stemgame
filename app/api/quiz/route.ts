@@ -25,21 +25,23 @@ export async function POST(req: Request) {
 
     try {
       const fileContent = await fs.readFile(filePath, 'utf8');
-      const parsedData = Papa.parse(fileContent, { 
+      
+      // PapaParse with better config to handle hidden characters
+      const parsedData = Papa.parse(fileContent.trim(), { 
         header: true, 
         skipEmptyLines: true,
-        transform: (value) => value.trim()
+        transformHeader: (h) => h.trim().toLowerCase() // Normalize headers to lowercase/trimmed
       });
       
       let questions = parsedData.data as any[];
       if (questions.length > 0) {
-        console.log("Found Columns:", Object.keys(questions[0]).join(", "));
+        console.log("Available Normalized Headers:", Object.keys(questions[0]).join(", "));
       }
 
       // Filter out history
       if (history && history.length > 0) {
         const unseen = questions.filter(q => {
-          const qText = q['Question'] || q['question'];
+          const qText = q['question'];
           return !history.includes(qText);
         });
         if (unseen.length > 0) questions = unseen;
@@ -48,40 +50,36 @@ export async function POST(req: Request) {
       const randomQ = questions[Math.floor(Math.random() * questions.length)];
       if (!randomQ) throw new Error("Question selection failed");
 
-      // Helper to safely get value by key name (case insensitive)
-      const getVal = (row: any, ...keys: string[]) => {
-        const rowKeys = Object.keys(row);
-        for (const k of keys) {
-          const found = rowKeys.find(rk => rk.toLowerCase().trim() === k.toLowerCase().trim());
-          if (found) return row[found];
-        }
-        return "";
-      };
+      // Robust extraction based on normalized headers
+      // Headers in CSV: Grade, Subject, Topic, Difficulty, Question, A, B, C, D, Correct Answer
+      const questionText = randomQ['question'] || "";
+      const optA = randomQ['a'] || "";
+      const optB = randomQ['b'] || "";
+      const optC = randomQ['c'] || "";
+      const optD = randomQ['d'] || "";
+      
+      // Look for "correct answer" specifically as provided by user
+      let correct = randomQ['correct answer'] || randomQ['correct ans'] || randomQ['correctans'] || randomQ['answer'] || "";
 
-      const questionText = getVal(randomQ, 'Question');
-      const optA = getVal(randomQ, 'A');
-      const optB = getVal(randomQ, 'B');
-      const optC = getVal(randomQ, 'C');
-      const optD = getVal(randomQ, 'D');
-      let correct = getVal(randomQ, 'Correct Ans', 'CorrectAns', 'Answer');
-
-      // Map A, B, C, D to actual text if necessary
-      const map: any = { 'A': optA, 'B': optB, 'C': optC, 'D': optD };
-      const cleanCorrect = correct.trim().toUpperCase();
-      if (map[cleanCorrect]) {
-        correct = map[cleanCorrect];
+      // Logic: If 'Correct Answer' matches a header name (A, B, C, D), use that choice's text
+      const choiceMap: any = { 'a': optA, 'b': optB, 'c': optC, 'd': optD };
+      const normalizedCorrect = correct.toString().trim().toLowerCase();
+      
+      if (choiceMap[normalizedCorrect]) {
+        console.log(`Mapping Letter Answer '${correct}' to Text: '${choiceMap[normalizedCorrect]}'`);
+        correct = choiceMap[normalizedCorrect];
       }
 
-      console.log("SERVER SELECTED QUESTION:", questionText);
-      console.log("SERVER CORRECT ANSWER:", correct);
+      console.log("FINAL SERVER QUESTION:", questionText);
+      console.log("FINAL SERVER CORRECT ANSWER:", correct);
       console.log("--- FETCH REQUEST END ---");
 
       return NextResponse.json({
         question: questionText.replace(/^[A-Z]?\d+[:.]\s*/i, '').trim(),
-        options: [optA, optB, optC, optD].filter(o => o && o.length > 0),
-        correctAnswer: correct,
+        options: [optA, optB, optC, optD].filter(o => o && o.toString().trim().length > 0),
+        correctAnswer: correct.toString().trim(),
         emoji: "🧠",
-        type: getVal(randomQ, 'Topic') || subject
+        type: randomQ['topic'] || subject
       });
 
     } catch (fileErr: any) {
