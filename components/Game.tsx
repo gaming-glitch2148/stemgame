@@ -1,8 +1,8 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Trophy, Star, Lock, Zap, RefreshCw, ChevronDown, CheckCircle2, AlertCircle, BookOpen, FlaskConical, Code, Atom, LogIn, LogOut, Lightbulb, PlayCircle, XCircle } from 'lucide-react';
+import { Trophy, Star, Lock, Zap, RefreshCw, ChevronDown, CheckCircle2, AlertCircle, BookOpen, FlaskConical, Code, Atom, LogIn, LogOut, Lightbulb, PlayCircle, XCircle, X } from 'lucide-react';
 import confetti from 'canvas-confetti';
 import { useSession, signIn, signOut } from "next-auth/react";
 
@@ -43,7 +43,11 @@ export default function Game() {
   const [showPaymentModal, setShowPaymentModal] = useState(false);
   const [hint, setHint] = useState<string | null>(null);
   const [adTimer, setAdTimer] = useState<number | null>(null);
+  const [showAdFullscreen, setShowAdFullscreen] = useState(false);
+  const [showAdExitConfirm, setShowAdExitConfirm] = useState(false);
   const [wrongAnswers, setWrongAnswers] = useState<string[]>([]);
+  
+  const timerRef = useRef<NodeJS.Timeout | null>(null);
 
   useEffect(() => {
     try {
@@ -53,7 +57,6 @@ export default function Game() {
   }, [gameState, isPremium, subject]);
 
   const loadGooglePay = async (amount: string) => {
-    // Logic for production Google Pay
     const paymentsClient = new (window as any).google.payments.api.PaymentsClient({ 
       environment: 'PRODUCTION',
       merchantInfo: { merchantId: 'BCR2DN5T72R5HQTW', merchantName: 'Stem Blast Game' }
@@ -109,18 +112,32 @@ export default function Game() {
   };
 
   const startAdReward = () => {
+    setShowAdFullscreen(true);
     setAdTimer(40);
-    const interval = setInterval(() => {
+    
+    if (timerRef.current) clearInterval(timerRef.current);
+    
+    timerRef.current = setInterval(() => {
       setAdTimer(prev => {
         if (prev && prev > 1) return prev - 1;
-        clearInterval(interval);
+        if (timerRef.current) clearInterval(timerRef.current);
+        // Grant reward automatically when timer hits 0
+        setShowAdFullscreen(false);
+        handleGetHint(true);
         return null;
       });
     }, 1000);
+  };
 
-    setTimeout(() => {
-      handleGetHint(true);
-    }, 40000);
+  const handleExitAdRequest = () => {
+    setShowAdExitConfirm(true);
+  };
+
+  const confirmExitAd = () => {
+    if (timerRef.current) clearInterval(timerRef.current);
+    setAdTimer(null);
+    setShowAdFullscreen(false);
+    setShowAdExitConfirm(false);
   };
 
   const handleGetHint = (forced = false) => {
@@ -131,8 +148,6 @@ export default function Game() {
     }
     
     if (!forced && !isPremium) setScore(prev => prev - 50);
-    
-    // Logic: Highlight the correct answer or remove one wrong option
     setHint(`Psst! The answer is related to ${question.correctAnswer.substring(0, 3)}...`);
   };
 
@@ -146,78 +161,95 @@ export default function Game() {
       setTimeout(() => fetchQuestion(), 2500);
     } else {
       setWrongAnswers(prev => [...prev, answer]);
-      // Points penalty for wrong answer
       setScore(prev => Math.max(0, prev - 2));
     }
   };
 
-  const renderGradeSelection = () => (
-    <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="flex flex-col gap-8 text-center">
-      <div className="space-y-2">
-        <h1 className="text-4xl font-black text-zinc-900">STEM BLAST!</h1>
-        <p className="text-zinc-500 font-bold uppercase tracking-widest text-[10px]">Step 1: Choose Your Grade</p>
-      </div>
-      <div className="grid grid-cols-1 gap-3 max-h-[400px] overflow-y-auto pr-2">
-        {LEVELS.map((lvl) => (
-          <button 
-            key={lvl} 
-            onClick={() => { setLevel(lvl); setGameState('subject-selection'); }}
-            className={`p-5 rounded-3xl border-2 font-bold text-lg transition-all ${level === lvl ? 'bg-blue-600 border-blue-600 text-white' : 'bg-white border-zinc-100 text-zinc-700 hover:border-blue-400'}`}
-          >
-            {lvl}
-          </button>
-        ))}
-      </div>
-    </motion.div>
-  );
-
-  const renderSubjectSelection = () => (
-    <motion.div initial={{ x: 50, opacity: 0 }} animate={{ x: 0, opacity: 1 }} className="flex flex-col gap-8 text-center">
-      <div className="space-y-2">
-        <button onClick={() => setGameState('grade-selection')} className="text-blue-600 font-bold text-xs underline">← Back to Grade</button>
-        <h2 className="text-3xl font-black text-zinc-900">{level}</h2>
-        <p className="text-zinc-500 font-bold uppercase tracking-widest text-[10px]">Step 2: Pick Your Path</p>
-      </div>
-      <div className="grid grid-cols-2 gap-4">
-        {SUBJECTS.map((sub) => (
-          <button 
-            key={sub.id} 
-            onClick={() => { setSubject(sub); setGameState('difficulty-selection'); }}
-            className={`p-6 rounded-[2rem] border-2 flex flex-col items-center gap-3 transition-all ${subject.id === sub.id ? 'bg-zinc-900 border-zinc-900 text-white' : 'bg-white border-zinc-100 text-zinc-600 hover:border-zinc-300'}`}
-          >
-            <sub.icon className={`w-8 h-8 ${subject.id === sub.id ? 'text-white' : sub.color}`} />
-            <span className="font-bold text-sm">{sub.name}</span>
-          </button>
-        ))}
-      </div>
-    </motion.div>
-  );
-
-  const renderDifficultySelection = () => (
-    <motion.div initial={{ x: 50, opacity: 0 }} animate={{ x: 0, opacity: 1 }} className="flex flex-col gap-8 text-center">
-      <div className="space-y-2">
-        <button onClick={() => setGameState('subject-selection')} className="text-blue-600 font-bold text-xs underline">← Back to Subject</button>
-        <h2 className="text-3xl font-black text-zinc-900">{subject.name}</h2>
-        <p className="text-zinc-500 font-bold uppercase tracking-widest text-[10px]">Step 3: Level of Challenge</p>
-      </div>
-      <div className="space-y-4">
-        {DIFFICULTIES.map((diff) => (
-          <button 
-            key={diff} 
-            onClick={() => { setDifficulty(diff); setGameState('playing'); fetchQuestion(); }}
-            className={`w-full p-6 rounded-3xl border-2 font-black text-xl transition-all flex items-center justify-between group ${difficulty === diff ? 'bg-blue-600 border-blue-600 text-white shadow-xl' : 'bg-white border-zinc-100 text-zinc-700 hover:border-blue-400'}`}
-          >
-            {diff}
-            <ChevronDown className="w-5 h-5 -rotate-90 opacity-0 group-hover:opacity-100 transition-opacity" />
-          </button>
-        ))}
-      </div>
-    </motion.div>
-  );
+  const confirmReset = () => {
+    setScore(0);
+    setHistory([]);
+    setGameState('grade-selection');
+    setShowResetConfirm(false);
+  };
 
   return (
     <div className="w-full max-w-md mx-auto h-full flex flex-col relative overflow-hidden bg-white/95 dark:bg-zinc-900/95 backdrop-blur-2xl rounded-[2.5rem] shadow-2xl border border-white/20">
       
+      {/* Fullscreen Ad Experience */}
+      <AnimatePresence>
+        {showAdFullscreen && (
+          <motion.div 
+            initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}
+            className="absolute inset-0 z-[200] bg-black flex flex-col items-center justify-center p-8 text-center"
+          >
+            <button 
+              onClick={handleExitAdRequest}
+              className="absolute top-8 right-8 p-3 bg-white/10 rounded-full text-white hover:bg-white/20"
+            >
+              <X className="w-6 h-6" />
+            </button>
+            
+            <div className="space-y-6">
+              <PlayCircle className="w-20 h-20 text-purple-500 mx-auto animate-pulse" />
+              <div className="space-y-2">
+                <h2 className="text-2xl font-black text-white uppercase tracking-tighter">Sponsor Message</h2>
+                <p className="text-zinc-400 text-sm">Watch until the end to unlock your free hint!</p>
+              </div>
+              
+              <div className="relative w-32 h-32 flex items-center justify-center mx-auto">
+                <svg className="w-full h-full -rotate-90">
+                  <circle cx="64" cy="64" r="60" stroke="currentColor" strokeWidth="8" fill="transparent" className="text-zinc-800" />
+                  <motion.circle 
+                    cx="64" cy="64" r="60" stroke="currentColor" strokeWidth="8" fill="transparent"
+                    className="text-purple-500"
+                    initial={{ strokeDasharray: "377 377", strokeDashoffset: 377 }}
+                    animate={{ strokeDashoffset: 0 }}
+                    transition={{ duration: 40, ease: "linear" }}
+                  />
+                </svg>
+                <span className="absolute text-3xl font-black text-white">{adTimer}</span>
+              </div>
+            </div>
+
+            {/* Ad Exit Confirmation */}
+            <AnimatePresence>
+              {showAdExitConfirm && (
+                <motion.div 
+                  initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }}
+                  className="absolute inset-0 z-[210] bg-black/90 flex items-center justify-center p-6"
+                >
+                  <div className="bg-zinc-900 rounded-[2rem] p-8 border border-white/10 max-w-xs shadow-2xl">
+                    <AlertCircle className="w-12 h-12 text-orange-500 mx-auto mb-4" />
+                    <h3 className="text-lg font-bold text-white mb-2">Wait! No Reward?</h3>
+                    <p className="text-zinc-400 text-sm mb-6">If you close now, you won't get your free hint.</p>
+                    <div className="flex flex-col gap-3">
+                      <button onClick={() => setShowAdExitConfirm(false)} className="w-full py-4 rounded-xl bg-purple-600 text-white font-bold">Keep Watching</button>
+                      <button onClick={confirmExitAd} className="w-full py-4 rounded-xl bg-zinc-800 text-zinc-400 font-bold">Exit & Forfeit</button>
+                    </div>
+                  </div>
+                </motion.div>
+              )}
+            </AnimatePresence>
+          </motion.div>
+        )}
+      </AnimatePresence>
+
+      <AnimatePresence>
+        {showResetConfirm && (
+          <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} className="absolute inset-0 z-[100] bg-black/60 backdrop-blur-md flex items-center justify-center p-6">
+            <div className="bg-white rounded-[2rem] p-8 text-center max-w-sm">
+              <AlertCircle className="w-12 h-12 text-orange-600 mx-auto mb-4" />
+              <h3 className="text-xl font-black mb-2">Change Game Settings?</h3>
+              <p className="text-zinc-500 mb-6 font-medium">This will reset your current session progress.</p>
+              <div className="flex flex-col gap-3">
+                <button onClick={confirmReset} className="w-full py-4 rounded-2xl bg-orange-600 text-white font-bold">Reset & Continue</button>
+                <button onClick={() => setShowResetConfirm(false)} className="w-full py-4 rounded-2xl bg-zinc-100 font-bold">Cancel</button>
+              </div>
+            </div>
+          </motion.div>
+        )}
+      </AnimatePresence>
+
       {/* HUD */}
       <div className="flex justify-between items-center p-6 pb-2">
         <div className="flex items-center gap-3">
@@ -225,7 +257,7 @@ export default function Game() {
             <Trophy className="w-5 h-5 text-yellow-600" />
             <span className="font-bold text-yellow-700">{score}</span>
           </div>
-          {session ? <button onClick={() => signOut()} className="p-2 bg-zinc-100 rounded-full"><LogOut className="w-4 h-4" /></button> : <button onClick={() => signIn()} className="p-2 bg-blue-100 rounded-full"><LogIn className="w-4 h-4" /></button>}
+          {session ? <button onClick={() => signOut()} className="p-2 bg-zinc-100 rounded-full"><LogOut className="w-4 h-4 text-zinc-600" /></button> : <button onClick={() => signIn()} className="p-2 bg-blue-100 rounded-full"><LogIn className="w-4 h-4 text-blue-600" /></button>}
         </div>
         
         {gameState === 'playing' && (
@@ -275,10 +307,10 @@ export default function Game() {
                     })}
                   </div>
 
-                  <div className="mt-8 flex gap-3">
+                  <div className="mt-8 flex gap-3 pb-4">
                     <button 
                       onClick={() => handleGetHint()}
-                      disabled={!!hint || adTimer !== null}
+                      disabled={!!hint}
                       className="flex-1 p-4 bg-yellow-400 text-yellow-900 rounded-2xl font-black text-xs flex items-center justify-center gap-2 hover:bg-yellow-500 disabled:opacity-50"
                     >
                       <Lightbulb className="w-4 h-4" /> 50 PTS HINT
@@ -286,10 +318,9 @@ export default function Game() {
                     {!isPremium && (
                       <button 
                         onClick={startAdReward}
-                        disabled={adTimer !== null}
-                        className="flex-1 p-4 bg-purple-600 text-white rounded-2xl font-black text-xs flex items-center justify-center gap-2 hover:bg-purple-700 disabled:bg-zinc-400"
+                        className="flex-1 p-4 bg-purple-600 text-white rounded-2xl font-black text-xs flex items-center justify-center gap-2 hover:bg-purple-700"
                       >
-                        {adTimer ? `AD: ${adTimer}s` : <><PlayCircle className="w-4 h-4" /> AD HINT</>}
+                        <PlayCircle className="w-4 h-4" /> AD HINT
                       </button>
                     )}
                   </div>
@@ -300,7 +331,6 @@ export default function Game() {
         </AnimatePresence>
       </div>
 
-      {/* Payment and Reset Modals Omitted for brevity but kept in final logic */}
       {!isPremium && gameState === 'grade-selection' && (
         <div className="p-4 bg-zinc-50 border-t border-zinc-100">
           <button onClick={() => setShowPaymentModal(true)} className="w-full py-4 rounded-2xl bg-zinc-900 text-white font-bold text-xs flex items-center justify-center gap-2">
@@ -309,7 +339,6 @@ export default function Game() {
         </div>
       )}
 
-      {/* Logic for Reset Confirmation and Payment Modal remains same as previous */}
       <AnimatePresence>
         {showPaymentModal && (
           <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="absolute inset-0 z-[110] bg-black/70 backdrop-blur-xl flex items-center justify-center p-6">
@@ -321,22 +350,6 @@ export default function Game() {
                 <button onClick={() => loadGooglePay('10.00')} className="w-full p-5 rounded-2xl border-2 border-blue-500 bg-blue-50 flex items-center justify-between font-bold"><p>Yearly</p> <span>$10.00</span></button>
               </div>
               <button onClick={() => setShowPaymentModal(false)} className="text-zinc-400 text-sm font-bold">Close</button>
-            </div>
-          </motion.div>
-        )}
-      </AnimatePresence>
-
-      <AnimatePresence>
-        {showResetConfirm && (
-          <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="absolute inset-0 z-[100] bg-black/60 backdrop-blur-md flex items-center justify-center p-6">
-            <div className="bg-white rounded-[2rem] p-8 text-center max-w-sm">
-              <AlertCircle className="w-12 h-12 text-orange-600 mx-auto mb-4" />
-              <h3 className="text-xl font-black mb-2">Change Game Settings?</h3>
-              <p className="text-zinc-500 mb-6 font-medium">This will reset your current session progress.</p>
-              <div className="flex flex-col gap-3">
-                <button onClick={confirmReset} className="w-full py-4 rounded-2xl bg-orange-600 text-white font-bold">Reset & Continue</button>
-                <button onClick={() => setShowResetConfirm(false)} className="w-full py-4 rounded-2xl bg-zinc-100 font-bold">Cancel</button>
-              </div>
             </div>
           </motion.div>
         )}
