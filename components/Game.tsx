@@ -49,6 +49,7 @@ export default function Game() {
   
   const timerRef = useRef<NodeJS.Timeout | null>(null);
 
+  // Persistence: Load saved progress
   useEffect(() => {
     if (status === "authenticated") {
       const savedLevel = localStorage.getItem('stem_level');
@@ -70,6 +71,7 @@ export default function Game() {
     }
   }, [status]);
 
+  // Persistence: Save progress on changes
   useEffect(() => {
     if (gameState === 'playing') {
       localStorage.setItem('stem_level', level);
@@ -201,16 +203,16 @@ export default function Game() {
     <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="flex flex-col gap-10 text-center py-10">
       <div className="space-y-4">
         <div className="w-24 h-24 bg-blue-600 rounded-[2rem] mx-auto flex items-center justify-center shadow-2xl shadow-blue-500/40">
-          <Zap className="w-12 h-12 text-white fill-current" />
+          < Zap className="w-12 h-12 text-white fill-current" />
         </div>
         <h1 className="text-4xl font-black text-zinc-900 dark:text-zinc-50 tracking-tight">STEM BLAST!</h1>
         <p className="text-zinc-500 dark:text-zinc-400 font-medium px-10">Sign in to track your score and challenge your brain.</p>
       </div>
       <div className="flex flex-col gap-4 px-6">
-        <button onClick={() => signIn('google')} className="w-full py-5 bg-white dark:bg-zinc-800 border-2 border-zinc-100 dark:border-zinc-700 rounded-3xl flex items-center justify-center gap-4 font-bold text-zinc-700 dark:text-zinc-200">
+        <button onClick={() => signIn('google')} className="w-full py-5 bg-white dark:bg-zinc-800 border-2 border-zinc-100 dark:border-zinc-700 rounded-3xl flex items-center justify-center gap-4 font-bold text-zinc-700 dark:text-zinc-200 transition-all hover:bg-zinc-50">
           <img src="https://www.google.com/favicon.ico" className="w-5 h-5" alt="Google" /> Continue with Google
         </button>
-        <button onClick={() => signIn('facebook')} className="w-full py-5 bg-[#1877F2] text-white rounded-3xl flex items-center justify-center gap-4 font-bold">
+        <button onClick={() => signIn('facebook')} className="w-full py-5 bg-[#1877F2] text-white rounded-3xl flex items-center justify-center gap-4 font-bold transition-all hover:bg-[#166fe5]">
           <img src="https://www.facebook.com/favicon.ico" className="w-5 h-5 brightness-0 invert" alt="Facebook" /> Continue with Facebook
         </button>
       </div>
@@ -247,10 +249,10 @@ export default function Game() {
             <div className="bg-white dark:bg-zinc-800 rounded-[2rem] p-8 text-center border border-white/10 shadow-2xl">
               <AlertCircle className="w-12 h-12 text-orange-600 mx-auto mb-4" />
               <h3 className="text-xl font-black mb-2 text-zinc-900 dark:text-zinc-50">Change Game Settings?</h3>
-              <p className="text-zinc-500 mb-6">This will reset your current session progress.</p>
+              <p className="text-zinc-500 dark:text-zinc-400 mb-6 font-medium">This will reset your session progress.</p>
               <div className="flex flex-col gap-3">
                 <button onClick={confirmReset} className="w-full py-4 rounded-2xl bg-orange-600 text-white font-bold hover:bg-orange-700">Reset & Continue</button>
-                <button onClick={() => setShowResetConfirm(false)} className="w-full py-4 rounded-2xl bg-zinc-100 dark:bg-zinc-700 text-zinc-700 dark:text-zinc-300 font-bold hover:bg-zinc-200 dark:hover:bg-zinc-600">Cancel</button>
+                <button onClick={() => setShowResetConfirm(false)} className="w-full py-4 rounded-2xl bg-zinc-100 dark:bg-zinc-700 text-zinc-700 dark:text-zinc-300 font-bold hover:bg-zinc-200">Cancel</button>
               </div>
             </div>
           </motion.div>
@@ -262,10 +264,10 @@ export default function Game() {
         <div className="flex justify-between items-center p-6 pb-2">
           <div className="flex items-center gap-3">
             <div className="flex items-center gap-2 bg-yellow-100 dark:bg-yellow-900/30 px-4 py-2 rounded-full border border-yellow-200 dark:border-yellow-700/50">
-              <Trophy className="w-5 h-5 text-yellow-600" />
+              <Trophy className="w-5 h-5 text-yellow-600 dark:text-yellow-400" />
               <span className="font-bold text-yellow-700 dark:text-yellow-300">{score}</span>
             </div>
-            <button onClick={handleSignOut} className="p-2 bg-zinc-100 dark:bg-zinc-800 rounded-full text-zinc-600 hover:bg-red-50 dark:hover:bg-red-900/30 transition-all"><LogOut className="w-4 h-4" /></button>
+            <button onClick={handleSignOut} className="p-2 bg-zinc-100 dark:bg-zinc-800 rounded-full text-zinc-600 dark:text-zinc-400 hover:bg-red-50 dark:hover:bg-red-900/30 transition-all"><LogOut className="w-4 h-4" /></button>
           </div>
           {gameState === 'playing' && (
             <div className="flex items-center gap-2">
@@ -283,7 +285,7 @@ export default function Game() {
             <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="flex flex-col gap-8 text-center">
               <h1 className="text-3xl font-black text-zinc-900 dark:text-zinc-50">Choose Grade</h1>
               <div className="grid gap-3 max-h-[400px] overflow-y-auto pr-2 custom-scrollbar">
-                {LEVELS.map(lvl => <button key={lvl} onClick={() => { setLevel(lvl); setGameState('subject-selection'); }} className="p-5 rounded-3xl border-2 font-bold hover:border-blue-400 bg-white dark:bg-zinc-800 text-zinc-700 dark:text-zinc-200">{lvl}</button>)}
+                {LEVELS.map(lvl => <button key={lvl} onClick={() => { setLevel(lvl); setGameState('subject-selection'); }} className="p-5 rounded-3xl border-2 font-bold hover:border-blue-400 bg-white dark:bg-zinc-800 text-zinc-700 dark:text-zinc-200 transition-all">{lvl}</button>)}
               </div>
             </motion.div>
           )}
@@ -305,7 +307,7 @@ export default function Game() {
           )}
           {gameState === 'playing' && (
             <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="flex flex-col h-full">
-              {loading || !question ? <div className="flex-1 flex flex-col items-center justify-center gap-4 py-20"><RefreshCw className="animate-spin text-blue-500" size={48} /> <p className="text-sm font-bold text-zinc-400">Consulting AI...</p></div> : (
+              {loading || !question ? <div className="flex-1 flex flex-col items-center justify-center gap-4 py-20"><RefreshCw className="animate-spin text-blue-500" size={48} /> <p className="text-sm font-bold text-zinc-400 animate-pulse">Consulting AI Assistant...</p></div> : (
                 <>
                   <div className="bg-white dark:bg-zinc-800 rounded-3xl p-8 shadow-sm mb-6 text-center border-2 border-zinc-50 dark:border-zinc-700/50 min-h-[220px] flex flex-col justify-center items-center relative overflow-hidden">
                     <AnimatePresence>
@@ -319,17 +321,18 @@ export default function Game() {
                   </div>
                   <div className="grid gap-3">
                     {question.options.map((opt: string, i: number) => {
-                      const isWrong = wrongAnswers.includes(opt);
                       const isFound = isCorrect && opt.trim().toLowerCase() === question.correctAnswer.trim().toLowerCase();
+                      const isWrong = wrongAnswers.includes(opt);
                       let variant = "bg-white dark:bg-zinc-800 border-zinc-100 dark:border-zinc-700 text-zinc-700 dark:text-zinc-200 hover:border-blue-300 dark:hover:border-blue-500";
-                      if (isFound) variant = "bg-green-500 border-green-600 text-white shadow-lg shadow-green-500/30";
-                      else if (isWrong) variant = "bg-zinc-50 dark:bg-zinc-900/50 border-zinc-100 dark:border-zinc-800 text-zinc-300 dark:text-zinc-600 scale-[0.98] opacity-60";
+                      if (isFound) variant = "bg-green-500 border-green-600 text-white shadow-lg";
+                      else if (isWrong) variant = "bg-zinc-50 dark:bg-zinc-900/50 text-zinc-300 dark:text-zinc-600 opacity-60 pointer-events-none";
+                      
                       return <button key={i} onClick={() => handleAnswer(opt)} className={`p-5 rounded-2xl font-bold text-lg border-2 transition-all text-left ${variant}`}>{opt}</button>;
                     })}
                   </div>
                   <div className="mt-8 flex gap-3 pb-4">
-                    <button onClick={() => handleGetHint()} disabled={!!hint || isCorrect} className="flex-1 p-4 bg-yellow-400 text-yellow-900 rounded-2xl font-black text-xs hover:bg-yellow-500 disabled:opacity-50">50 PTS HINT</button>
-                    {!isPremium && <button onClick={() => startAdReward()} disabled={isCorrect} className="flex-1 p-4 bg-purple-600 text-white rounded-2xl font-black text-xs hover:bg-purple-700 disabled:opacity-50">AD HINT</button>}
+                    <button onClick={() => handleGetHint()} disabled={!!hint || isCorrect} className="flex-1 p-4 bg-yellow-400 text-yellow-900 rounded-2xl font-black text-xs hover:bg-yellow-500 active:scale-95 transition-all disabled:opacity-50">50 PTS HINT</button>
+                    {!isPremium && <button onClick={startAdReward} disabled={isCorrect} className="flex-1 p-4 bg-purple-600 text-white rounded-2xl font-black text-xs hover:bg-purple-700 active:scale-95 transition-all disabled:opacity-50">AD HINT</button>}
                   </div>
                 </>
               )}
@@ -340,7 +343,7 @@ export default function Game() {
 
       {!isPremium && gameState !== 'auth-gate' && (
         <div className="p-4 bg-zinc-50 dark:bg-zinc-950 border-t border-zinc-100 dark:border-zinc-800">
-          <button onClick={() => setShowPaymentModal(true)} className="w-full py-4 rounded-2xl bg-zinc-900 dark:bg-zinc-100 text-white dark:text-zinc-900 font-bold text-xs flex items-center justify-center gap-2 transition-all hover:opacity-90">
+          <button onClick={() => setShowPaymentModal(true)} className="w-full py-4 rounded-2xl bg-zinc-900 dark:bg-zinc-100 text-white dark:text-zinc-900 font-bold text-xs flex items-center justify-center gap-2 hover:opacity-90 active:scale-[0.98] transition-all">
             <Lock className="w-4 h-4" /> GO AD-FREE ($0.99/mo or $10/yr)
           </button>
         </div>
@@ -354,7 +357,7 @@ export default function Game() {
               <h2 className="text-2xl font-black mb-2 text-zinc-900 dark:text-zinc-50">Upgrade to Premium</h2>
               <div className="space-y-4 my-8">
                 <button onClick={() => handleCheckout('monthly')} className="w-full p-5 rounded-2xl border-2 dark:border-zinc-700 flex items-center justify-between font-bold hover:border-blue-500 transition-all text-zinc-700 dark:text-zinc-200"><p>Monthly</p> <span className="text-blue-600">$0.99</span></button>
-                <button onClick={() => handleCheckout('yearly')} className="w-full p-5 rounded-2xl border-2 border-blue-500 bg-blue-50 dark:bg-blue-900/20 flex items-center justify-between font-bold text-zinc-700 dark:text-zinc-200 hover:scale-[1.02] transition-all"><p>Yearly</p> <span className="text-blue-600 font-black">$10.00</span></button>
+                <button onClick={() => handleCheckout('yearly')} className="w-full p-5 rounded-2xl border-2 border-blue-500 bg-blue-50 dark:bg-blue-900/20 flex items-center justify-between font-bold dark:text-zinc-200 hover:scale-[1.02] transition-all"><p>Yearly</p> <span className="text-blue-600 font-black">$10.00</span></button>
               </div>
               <button onClick={() => setShowPaymentModal(false)} className="text-zinc-400 dark:text-zinc-500 text-sm font-bold hover:text-zinc-600 transition-colors">Maybe Later</button>
             </div>
