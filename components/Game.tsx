@@ -50,35 +50,41 @@ export default function Game() {
   const timerRef = useRef<NodeJS.Timeout | null>(null);
 
   useEffect(() => {
-    try {
-      // @ts-ignore
-      (window.adsbygoogle = window.adsbygoogle || []).push({});
-    } catch (e) {}
-  }, [gameState, isPremium, subject]);
-
-  const loadGooglePay = async (amount: string) => {
-    const paymentsClient = new (window as any).google.payments.api.PaymentsClient({ 
-      environment: 'PRODUCTION',
-      merchantInfo: { merchantId: 'BCR2DN5T72R5HQTW', merchantName: 'Stem Blast Game' }
-    });
-    
-    const request = {
-      apiVersion: 2, apiVersionMinor: 0,
-      allowedPaymentMethods: [{
-        type: 'CARD',
-        parameters: { allowedAuthMethods: ["PAN_ONLY", "CRYPTOGRAM_3DS"], allowedCardNetworks: ["MASTERCARD", "VISA"] },
-        tokenizationSpecification: { type: 'PAYMENT_GATEWAY', parameters: { 'gateway': 'stripe', 'stripe:version': '2018-10-31', 'stripe:publishableKey': process.env.NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY || '' } }
-      }],
-      transactionInfo: { totalPriceStatus: 'FINAL', totalPrice: amount, currencyCode: 'USD', countryCode: 'US' },
-      merchantInfo: { merchantId: 'BCR2DN5T72R5HQTW', merchantName: 'Stem Blast Game' }
-    };
-
-    try {
-      const paymentData = await paymentsClient.loadPaymentData(request);
+    // Check if coming back from successful payment
+    const query = new URLSearchParams(window.location.search);
+    if (query.get('success')) {
       setIsPremium(true);
-      setShowPaymentModal(false);
-      alert("Payment Successful! Ads removed.");
-    } catch (err) { console.error(err); }
+      alert("Subscription activated! Welcome to Premium.");
+    }
+  }, []);
+
+  const handleCheckout = async (planType: 'monthly' | 'yearly') => {
+    const priceId = planType === 'monthly' 
+      ? process.env.NEXT_PUBLIC_STRIPE_MONTHLY_PRICE_ID 
+      : process.env.NEXT_PUBLIC_STRIPE_YEARLY_PRICE_ID;
+
+    if (!priceId) {
+      alert("Payment system configuration missing. Check environment variables.");
+      return;
+    }
+
+    try {
+      const res = await fetch('/api/checkout', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ 
+          priceId, 
+          email: session?.user?.email || 'guest@example.com' 
+        }),
+      });
+      const data = await res.json();
+      if (data.url) {
+        window.location.href = data.url; // Redirect to Stripe Checkout
+      }
+    } catch (err) {
+      console.error(err);
+      alert("Failed to start checkout. Try again later.");
+    }
   };
 
   const fetchQuestion = async (selectedLevel = level, currentSubject = subject.name, currentScore = score) => {
@@ -114,23 +120,16 @@ export default function Game() {
   const startAdReward = () => {
     setShowAdFullscreen(true);
     setAdTimer(40);
-    
     if (timerRef.current) clearInterval(timerRef.current);
-    
     timerRef.current = setInterval(() => {
       setAdTimer(prev => {
         if (prev && prev > 1) return prev - 1;
         if (timerRef.current) clearInterval(timerRef.current);
-        // Grant reward automatically when timer hits 0
         setShowAdFullscreen(false);
         handleGetHint(true);
         return null;
       });
     }, 1000);
-  };
-
-  const handleExitAdRequest = () => {
-    setShowAdExitConfirm(true);
   };
 
   const confirmExitAd = () => {
@@ -146,14 +145,12 @@ export default function Game() {
       alert("Not enough points! Watch a 40s ad for a free hint.");
       return;
     }
-    
     if (!forced && !isPremium) setScore(prev => prev - 50);
     setHint(`Psst! The answer is related to ${question.correctAnswer.substring(0, 3)}...`);
   };
 
   const handleAnswer = (answer: string) => {
     if (wrongAnswers.includes(answer) || isCorrect) return;
-    
     if (answer === question.correctAnswer) {
       setIsCorrect(true);
       confetti({ particleCount: 100, spread: 70, origin: { y: 0.6 } });
@@ -172,64 +169,83 @@ export default function Game() {
     setShowResetConfirm(false);
   };
 
+  const renderGradeSelection = () => (
+    <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="flex flex-col gap-8 text-center">
+      <div className="space-y-2">
+        <h1 className="text-4xl font-black text-zinc-900">STEM BLAST!</h1>
+        <p className="text-zinc-500 font-bold uppercase tracking-widest text-[10px]">Step 1: Choose Your Grade</p>
+      </div>
+      <div className="grid grid-cols-1 gap-3 max-h-[400px] overflow-y-auto pr-2">
+        {LEVELS.map((lvl) => (
+          <button key={lvl} onClick={() => { setLevel(lvl); setGameState('subject-selection'); }} className={`p-5 rounded-3xl border-2 font-bold text-lg transition-all ${level === lvl ? 'bg-blue-600 border-blue-600 text-white' : 'bg-white border-zinc-100 text-zinc-700 hover:border-blue-400'}`}>{lvl}</button>
+        ))}
+      </div>
+    </motion.div>
+  );
+
+  const renderSubjectSelection = () => (
+    <motion.div initial={{ x: 50, opacity: 0 }} animate={{ x: 0, opacity: 1 }} className="flex flex-col gap-8 text-center">
+      <div className="space-y-2">
+        <button onClick={() => setGameState('grade-selection')} className="text-blue-600 font-bold text-xs underline">← Back to Grade</button>
+        <h2 className="text-3xl font-black text-zinc-900">{level}</h2>
+        <p className="text-zinc-500 font-bold uppercase tracking-widest text-[10px]">Step 2: Pick Your Path</p>
+      </div>
+      <div className="grid grid-cols-2 gap-4">
+        {SUBJECTS.map((sub) => (
+          <button key={sub.id} onClick={() => { setSubject(sub); setGameState('difficulty-selection'); }} className={`p-6 rounded-[2rem] border-2 flex flex-col items-center gap-3 transition-all ${subject.id === sub.id ? 'bg-zinc-900 border-zinc-900 text-white' : 'bg-white border-zinc-100 text-zinc-600 hover:border-zinc-300'}`}>
+            <sub.icon className={`w-8 h-8 ${subject.id === sub.id ? 'text-white' : sub.color}`} />
+            <span className="font-bold text-sm">{sub.name}</span>
+          </button>
+        ))}
+      </div>
+    </motion.div>
+  );
+
+  const renderDifficultySelection = () => (
+    <motion.div initial={{ x: 50, opacity: 0 }} animate={{ x: 0, opacity: 1 }} className="flex flex-col gap-8 text-center">
+      <div className="space-y-2">
+        <button onClick={() => setGameState('subject-selection')} className="text-blue-600 font-bold text-xs underline">← Back to Subject</button>
+        <h2 className="text-3xl font-black text-zinc-900">{subject.name}</h2>
+        <p className="text-zinc-500 font-bold uppercase tracking-widest text-[10px]">Step 3: Level of Challenge</p>
+      </div>
+      <div className="space-y-4">
+        {DIFFICULTIES.map((diff) => (
+          <button key={diff} onClick={() => { setDifficulty(diff); setGameState('playing'); fetchQuestion(); }} className={`w-full p-6 rounded-3xl border-2 font-black text-xl transition-all flex items-center justify-between group ${difficulty === diff ? 'bg-blue-600 border-blue-600 text-white shadow-xl' : 'bg-white border-zinc-100 text-zinc-700 hover:border-blue-400'}`}>
+            {diff}
+            <ChevronDown className="w-5 h-5 -rotate-90 opacity-0 group-hover:opacity-100 transition-opacity" />
+          </button>
+        ))}
+      </div>
+    </motion.div>
+  );
+
   return (
     <div className="w-full max-w-md mx-auto h-full flex flex-col relative overflow-hidden bg-white/95 dark:bg-zinc-900/95 backdrop-blur-2xl rounded-[2.5rem] shadow-2xl border border-white/20">
       
       {/* Fullscreen Ad Experience */}
       <AnimatePresence>
         {showAdFullscreen && (
-          <motion.div 
-            initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}
-            className="absolute inset-0 z-[200] bg-black flex flex-col items-center justify-center p-8 text-center"
-          >
-            <button 
-              onClick={handleExitAdRequest}
-              className="absolute top-8 right-8 p-3 bg-white/10 rounded-full text-white hover:bg-white/20"
-            >
-              <X className="w-6 h-6" />
-            </button>
-            
+          <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} className="absolute inset-0 z-[200] bg-black flex flex-col items-center justify-center p-8 text-center">
+            <button onClick={() => setShowAdExitConfirm(true)} className="absolute top-8 right-8 p-3 bg-white/10 rounded-full text-white"><X className="w-6 h-6" /></button>
             <div className="space-y-6">
               <PlayCircle className="w-20 h-20 text-purple-500 mx-auto animate-pulse" />
-              <div className="space-y-2">
-                <h2 className="text-2xl font-black text-white uppercase tracking-tighter">Sponsor Message</h2>
-                <p className="text-zinc-400 text-sm">Watch until the end to unlock your free hint!</p>
-              </div>
-              
+              <h2 className="text-2xl font-black text-white uppercase">Sponsor Message</h2>
               <div className="relative w-32 h-32 flex items-center justify-center mx-auto">
-                <svg className="w-full h-full -rotate-90">
-                  <circle cx="64" cy="64" r="60" stroke="currentColor" strokeWidth="8" fill="transparent" className="text-zinc-800" />
-                  <motion.circle 
-                    cx="64" cy="64" r="60" stroke="currentColor" strokeWidth="8" fill="transparent"
-                    className="text-purple-500"
-                    initial={{ strokeDasharray: "377 377", strokeDashoffset: 377 }}
-                    animate={{ strokeDashoffset: 0 }}
-                    transition={{ duration: 40, ease: "linear" }}
-                  />
-                </svg>
+                <svg className="w-full h-full -rotate-90"><circle cx="64" cy="64" r="60" stroke="currentColor" strokeWidth="8" fill="transparent" className="text-zinc-800" /><motion.circle cx="64" cy="64" r="60" stroke="currentColor" strokeWidth="8" fill="transparent" className="text-purple-500" initial={{ strokeDasharray: "377 377", strokeDashoffset: 377 }} animate={{ strokeDashoffset: 0 }} transition={{ duration: 40, ease: "linear" }} /></svg>
                 <span className="absolute text-3xl font-black text-white">{adTimer}</span>
               </div>
             </div>
-
-            {/* Ad Exit Confirmation */}
-            <AnimatePresence>
-              {showAdExitConfirm && (
-                <motion.div 
-                  initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }}
-                  className="absolute inset-0 z-[210] bg-black/90 flex items-center justify-center p-6"
-                >
-                  <div className="bg-zinc-900 rounded-[2rem] p-8 border border-white/10 max-w-xs shadow-2xl">
-                    <AlertCircle className="w-12 h-12 text-orange-500 mx-auto mb-4" />
-                    <h3 className="text-lg font-bold text-white mb-2">Wait! No Reward?</h3>
-                    <p className="text-zinc-400 text-sm mb-6">If you close now, you won't get your free hint.</p>
-                    <div className="flex flex-col gap-3">
-                      <button onClick={() => setShowAdExitConfirm(false)} className="w-full py-4 rounded-xl bg-purple-600 text-white font-bold">Keep Watching</button>
-                      <button onClick={confirmExitAd} className="w-full py-4 rounded-xl bg-zinc-800 text-zinc-400 font-bold">Exit & Forfeit</button>
-                    </div>
-                  </div>
-                </motion.div>
-              )}
-            </AnimatePresence>
+            {showAdExitConfirm && (
+              <div className="absolute inset-0 z-[210] bg-black/90 flex items-center justify-center p-6">
+                <div className="bg-zinc-900 rounded-[2rem] p-8 border border-white/10 max-w-xs text-center">
+                  <AlertCircle className="w-12 h-12 text-orange-500 mx-auto mb-4" />
+                  <h3 className="text-lg font-bold text-white">Wait! No Reward?</h3>
+                  <p className="text-zinc-400 text-sm mb-6">If you close now, you won't get your free hint.</p>
+                  <button onClick={() => setShowAdExitConfirm(false)} className="w-full py-4 rounded-xl bg-purple-600 text-white font-bold mb-3">Keep Watching</button>
+                  <button onClick={confirmExitAd} className="w-full py-4 rounded-xl bg-zinc-800 text-zinc-400 font-bold">Exit & Forfeit</button>
+                </div>
+              </div>
+            )}
           </motion.div>
         )}
       </AnimatePresence>
@@ -296,33 +312,13 @@ export default function Game() {
                       let variant = "bg-white border-zinc-100 text-zinc-700";
                       if (isFound) variant = "bg-green-500 border-green-600 text-white shadow-lg";
                       else if (isWrong) variant = "bg-zinc-50 border-zinc-100 text-zinc-300 scale-95 opacity-50 cursor-not-allowed";
-                      
-                      return (
-                        <button key={i} onClick={() => handleAnswer(opt)} className={`p-5 rounded-2xl font-bold text-lg border-2 transition-all text-left flex items-center justify-between ${variant}`}>
-                          {opt}
-                          {isWrong && <XCircle className="w-5 h-5 text-red-400" />}
-                          {isFound && <CheckCircle2 className="w-5 h-5 text-white" />}
-                        </button>
-                      );
+                      return (<button key={i} onClick={() => handleAnswer(opt)} className={`p-5 rounded-2xl font-bold text-lg border-2 transition-all text-left flex items-center justify-between ${variant}`}>{opt}{isWrong && <XCircle className="w-5 h-5 text-red-400" />}{isFound && <CheckCircle2 className="w-5 h-5 text-white" />}</button>);
                     })}
                   </div>
 
                   <div className="mt-8 flex gap-3 pb-4">
-                    <button 
-                      onClick={() => handleGetHint()}
-                      disabled={!!hint}
-                      className="flex-1 p-4 bg-yellow-400 text-yellow-900 rounded-2xl font-black text-xs flex items-center justify-center gap-2 hover:bg-yellow-500 disabled:opacity-50"
-                    >
-                      <Lightbulb className="w-4 h-4" /> 50 PTS HINT
-                    </button>
-                    {!isPremium && (
-                      <button 
-                        onClick={startAdReward}
-                        className="flex-1 p-4 bg-purple-600 text-white rounded-2xl font-black text-xs flex items-center justify-center gap-2 hover:bg-purple-700"
-                      >
-                        <PlayCircle className="w-4 h-4" /> AD HINT
-                      </button>
-                    )}
+                    <button onClick={() => handleGetHint()} disabled={!!hint} className="flex-1 p-4 bg-yellow-400 text-yellow-900 rounded-2xl font-black text-xs flex items-center justify-center gap-2 hover:bg-yellow-500 disabled:opacity-50"><Lightbulb className="w-4 h-4" /> 50 PTS HINT</button>
+                    {!isPremium && (<button onClick={startAdReward} className="flex-1 p-4 bg-purple-600 text-white rounded-2xl font-black text-xs flex items-center justify-center gap-2 hover:bg-purple-700"><PlayCircle className="w-4 h-4" /> AD HINT</button>)}
                   </div>
                 </>
               )}
@@ -346,8 +342,8 @@ export default function Game() {
               <Star className="w-8 h-8 text-blue-600 mx-auto mb-4" />
               <h2 className="text-2xl font-black mb-2">Upgrade to Premium</h2>
               <div className="space-y-4 my-8">
-                <button onClick={() => loadGooglePay('0.99')} className="w-full p-5 rounded-2xl border-2 flex items-center justify-between font-bold"><p>Monthly</p> <span>$0.99</span></button>
-                <button onClick={() => loadGooglePay('10.00')} className="w-full p-5 rounded-2xl border-2 border-blue-500 bg-blue-50 flex items-center justify-between font-bold"><p>Yearly</p> <span>$10.00</span></button>
+                <button onClick={() => handleCheckout('monthly')} className="w-full p-5 rounded-2xl border-2 flex items-center justify-between font-bold hover:border-blue-500"><p>Monthly</p> <span>$0.99</span></button>
+                <button onClick={() => handleCheckout('yearly')} className="w-full p-5 rounded-2xl border-2 border-blue-500 bg-blue-50 flex items-center justify-between font-bold"><p>Yearly</p> <span>$10.00</span></button>
               </div>
               <button onClick={() => setShowPaymentModal(false)} className="text-zinc-400 text-sm font-bold">Close</button>
             </div>
