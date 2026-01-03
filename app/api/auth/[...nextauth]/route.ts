@@ -2,15 +2,21 @@ import NextAuth, { NextAuthOptions } from "next-auth";
 import GoogleProvider from "next-auth/providers/google";
 import FacebookProvider from "next-auth/providers/facebook";
 
-// FALLBACK SECRET FOR TROUBLESHOOTING
-// In production, this SHOULD be set via Vercel Environment Variables as NEXTAUTH_SECRET
 const AUTH_SECRET = process.env.NEXTAUTH_SECRET || "temporary_development_secret_change_me_in_vercel";
 
 export const authOptions: NextAuthOptions = {
   providers: [
     GoogleProvider({
       clientId: "538949501638-soq5mj0gnqubhl9uvkdmj5d4bmoldq2p.apps.googleusercontent.com",
-      clientSecret: process.env.GOOGLE_CLIENT_SECRET || "missing_secret",
+      clientSecret: process.env.GOOGLE_CLIENT_SECRET as string,
+      // PKCE flow is more robust for Google login
+      authorization: {
+        params: {
+          prompt: "consent",
+          access_type: "offline",
+          response_type: "code"
+        }
+      }
     }),
     ...(process.env.FACEBOOK_CLIENT_ID && process.env.FACEBOOK_CLIENT_SECRET
       ? [
@@ -27,9 +33,6 @@ export const authOptions: NextAuthOptions = {
     strategy: "jwt",
   },
   callbacks: {
-    async jwt({ token, user }) {
-      return { ...token, ...user };
-    },
     async session({ session, token }) {
       if (session.user) {
         (session.user as any).id = token.sub;
