@@ -5,7 +5,7 @@ import FacebookProvider from "next-auth/providers/facebook";
 const handler = NextAuth({
   providers: [
     GoogleProvider({
-      clientId: process.env.GOOGLE_CLIENT_ID || "",
+      clientId: "538949501638-soq5mj0gnqubhl9uvkdmj5d4bmoldq2p.apps.googleusercontent.com",
       clientSecret: process.env.GOOGLE_CLIENT_SECRET || "",
     }),
     FacebookProvider({
