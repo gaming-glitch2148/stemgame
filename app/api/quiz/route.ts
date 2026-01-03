@@ -9,88 +9,65 @@ export async function POST(req: Request) {
   try {
     const { level, subject, difficulty, history } = await req.json();
 
-    // 1. Map Grade to File Format (K, G1, G2...)
-    let gradeKey = level;
-    if (level === 'Kindergarten') {
-      gradeKey = 'K';
-    } else if (level.includes('Grade')) {
-      const match = level.match(/\d+/);
-      if (match) gradeKey = `G${match[0]}`;
-    }
+    let gradeKey = level === 'Kindergarten' ? 'K' : (level.match(/\d+/) ? `G${level.match(/\d+/)[0]}` : level);
+    let subjectKey = subject.replace('Mathematics', 'Maths').replace('Space & Physics', 'SpacePhysics').replace('Coding & Logic', 'CodingLogic');
+    let diffKey = difficulty === 'Intermediate' ? 'Intermediate' : (difficulty === 'Expert' ? 'Hard' : 'Easy');
 
-    // 2. Map Subject to File Format
-    let subjectKey = subject;
-    if (subject === 'Mathematics') subjectKey = 'Maths';
-    else if (subject === 'Science') subjectKey = 'Science';
-    else if (subject === 'Coding & Logic') subjectKey = 'CodingLogic';
-    else if (subject === 'Space & Physics') subjectKey = 'SpacePhysics';
-
-    // 3. Map Difficulty to File Format (Easy, Intermediate, Hard)
-    let diffKey = 'Easy';
-    if (difficulty === 'Intermediate') diffKey = 'Intermediate';
-    else if (difficulty === 'Expert') diffKey = 'Hard';
-
-    // 4. Construct file path
     const fileName = `${gradeKey}_${subjectKey}_${diffKey}.csv`;
     const filePath = path.join(process.cwd(), 'data', 'questions', fileName);
 
-    console.log(`Loading Question File: ${fileName}`);
-
     try {
       const fileContent = await fs.readFile(filePath, 'utf8');
-      
-      const parsedData = Papa.parse(fileContent, {
-        header: true,
-        skipEmptyLines: true,
-        transform: (value) => value.trim() // TRIM ALL INCOMING DATA
-      });
-
+      const parsedData = Papa.parse(fileContent, { header: true, skipEmptyLines: true });
       let questions = parsedData.data as any[];
 
-      // Filter out questions already seen in this session
       if (history && history.length > 0) {
-        const unseen = questions.filter(q => !history.includes(q['Question']));
+        const unseen = questions.filter(q => !history.includes(Object.values(q)[4])); // Assuming Question is 5th col
         if (unseen.length > 0) questions = unseen;
       }
 
-      if (questions.length === 0) throw new Error("No questions available.");
-
       const randomQ = questions[Math.floor(Math.random() * questions.length)];
-
-      // LOGIC: Handle CSVs where 'Correct Ans' is a letter (A, B, C, D)
-      let correctAnswer = randomQ['Correct Ans'] || "";
-      const optionsMap: Record<string, string> = {
-        'A': randomQ['A'],
-        'B': randomQ['B'],
-        'C': randomQ['C'],
-        'D': randomQ['D']
+      
+      // DYNAMIC HEADER MATCHING
+      const getVal = (row: any, ...keys: string[]) => {
+        const rowKeys = Object.keys(row);
+        for (const k of keys) {
+          const found = rowKeys.find(rk => rk.toLowerCase().trim() === k.toLowerCase().trim());
+          if (found) return row[found];
+        }
+        return "";
       };
 
-      const upperAns = correctAnswer.toUpperCase();
-      if (optionsMap[upperAns]) {
-        correctAnswer = optionsMap[upperAns];
+      const questionText = getVal(randomQ, 'Question');
+      const optA = getVal(randomQ, 'A');
+      const optB = getVal(randomQ, 'B');
+      const optC = getVal(randomQ, 'C');
+      const optD = getVal(randomQ, 'D');
+      let correct = getVal(randomQ, 'Correct Ans', 'CorrectAns', 'Answer');
+
+      // If Correct Ans is a letter, map it to the choice text
+      const map: any = { 'A': optA, 'B': optB, 'C': optC, 'D': optD };
+      if (map[correct.trim().toUpperCase()]) {
+        correct = map[correct.trim().toUpperCase()];
       }
 
       return NextResponse.json({
-        question: randomQ['Question'],
-        options: [randomQ['A'], randomQ['B'], randomQ['C'], randomQ['D']].filter(Boolean),
-        correctAnswer: correctAnswer,
+        question: questionText.replace(/^[A-Z]?\d+[:.]\s*/i, '').trim(),
+        options: [optA, optB, optC, optD].filter(o => o && o.trim()),
+        correctAnswer: correct.trim(),
         emoji: "🧠",
-        type: randomQ['Topic'] || subject,
+        type: getVal(randomQ, 'Topic') || subject,
         source: 'csv'
       });
 
     } catch (fileErr: any) {
-      console.error(`FILE NOT FOUND OR EMPTY: ${fileName}`);
       return NextResponse.json({
-        question: `Curriculum update in progress! The ${difficulty} challenges for ${level} ${subject} are coming soon.`,
+        question: `Preparing new challenges for ${level} ${subject}!`,
         options: ["Try another subject", "Go Back"],
         correctAnswer: "Try another subject",
-        emoji: "🛠️",
-        type: "System"
+        emoji: "🛠️"
       });
     }
-
   } catch (error: any) {
     return NextResponse.json({ error: error.message }, { status: 500 });
   }
