@@ -1,0 +1,1001 @@
+Grade,Subject,Topic,Difficulty,Question,A,B,C,D,Correct Answer
+11,Maths,Algebra,Easy,Q1: Compute 2^2,4,8,6,2,4
+11,Maths,Functions,Easy,"Q2: What is the slope through (-8,-7) and (-6,-10)?",1.5,-1.5,-2.5,-0.5,-1.5
+11,Maths,Geometry,Easy,"Q3: For x^2 + (6)x + (-7) = 0, which is a solution?",-6,1,-7,7,-7
+11,Maths,Statistics,Easy,Q4: Compute 2^5,32,64,34,16,32
+11,Maths,Algebra,Easy,"Q5: What is the slope through (-2,2) and (3,-1)?",-1.6,0.4,-0.6,0.6,-0.6
+11,Maths,Functions,Easy,"Q6: For x^2 + (7)x + (12) = 0, which is a solution?",-3,-4,Option 3,4,-4
+11,Maths,Geometry,Easy,Q7: Compute 2^8,256,512,258,128,256
+11,Maths,Statistics,Easy,"Q8: What is the slope through (4,-10) and (7,-13)?",1.0,-1.0,0.0,-2.0,-1.0
+11,Maths,Algebra,Easy,"Q9: For x^2 + (8)x + (7) = 0, which is a solution?",-7,0,-1,1,-1
+11,Maths,Functions,Easy,Q10: Compute 2^3,8,4,10,16,8
+11,Maths,Geometry,Easy,"Q11: What is the slope through (10,-1) and (11,-4)?",3.0,-3.0,-4.0,-2.0,-3.0
+11,Maths,Statistics,Easy,"Q12: For x^2 + (-10)x + (16) = 0, which is a solution?",2,-2,8,3,2
+11,Maths,Algebra,Easy,Q13: Compute 2^6,64,32,66,128,64
+11,Maths,Functions,Easy,"Q14: What is the slope through (-5,8) and (-1,5)?",-0.75,0.75,-1.75,0.25,-0.75
+11,Maths,Geometry,Easy,"Q15: For x^2 + (-9)x + (20) = 0, which is a solution?",4,-5,6,5,5
+11,Maths,Statistics,Easy,Q16: Compute 2^9,514,1024,256,512,512
+11,Maths,Algebra,Easy,"Q17: What is the slope through (1,-4) and (3,-7)?",-2.5,-1.5,1.5,-0.5,-1.5
+11,Maths,Functions,Easy,"Q18: For x^2 + (-8)x + (0) = 0, which is a solution?",9,0,-8,8,8
+11,Maths,Geometry,Easy,Q19: Compute 2^4,8,32,18,16,16
+11,Maths,Statistics,Easy,"Q20: What is the slope through (7,5) and (12,2)?",0.6,0.4,-0.6,-1.6,-0.6
+11,Maths,Algebra,Easy,"Q21: For x^2 + (12)x + (32) = 0, which is a solution?",-7,8,-8,-4,-8
+11,Maths,Functions,Easy,Q22: Compute 2^7,128,130,64,256,128
+11,Maths,Geometry,Easy,"Q23: What is the slope through (-8,-7) and (-5,-10)?",1.0,-1.0,-2.0,0.0,-1.0
+11,Maths,Statistics,Easy,"Q24: For x^2 + (13)x + (40) = 0, which is a solution?",5,-4,-5,-8,-5
+11,Maths,Algebra,Easy,Q25: Compute 2^2,2,4,8,6,4
+11,Maths,Functions,Easy,"Q26: What is the slope through (-2,2) and (-1,-1)?",3.0,-3.0,-4.0,-2.0,-3.0
+11,Maths,Geometry,Easy,"Q27: For x^2 + (-5)x + (-14) = 0, which is a solution?",-1,2,7,-2,-2
+11,Maths,Statistics,Easy,Q28: Compute 2^5,64,32,16,34,32
+11,Maths,Algebra,Easy,"Q29: What is the slope through (4,-10) and (8,-13)?",-0.75,0.25,-1.75,0.75,-0.75
+11,Maths,Functions,Easy,"Q30: For x^2 + (-4)x + (3) = 0, which is a solution?",-1,2,3,1,1
+11,Maths,Geometry,Easy,Q31: Compute 2^8,128,258,512,256,256
+11,Maths,Statistics,Easy,"Q32: What is the slope through (10,-1) and (12,-4)?",1.5,-0.5,-2.5,-1.5,-1.5
+11,Maths,Algebra,Easy,"Q33: For x^2 + (-3)x + (-4) = 0, which is a solution?",5,4,-4,-1,4
+11,Maths,Functions,Easy,Q34: Compute 2^3,16,4,8,10,8
+11,Maths,Geometry,Easy,"Q35: What is the slope through (-5,8) and (0,5)?",-1.6,0.4,-0.6,0.6,-0.6
+11,Maths,Statistics,Easy,"Q36: For x^2 + (-2)x + (-35) = 0, which is a solution?",7,8,-5,-7,7
+11,Maths,Algebra,Easy,Q37: Compute 2^6,128,64,66,32,64
+11,Maths,Functions,Easy,"Q38: What is the slope through (1,-4) and (4,-7)?",1.0,0.0,-1.0,-2.0,-1.0
+11,Maths,Geometry,Easy,"Q39: For x^2 + (18)x + (81) = 0, which is a solution?",-8,Option 3,9,-9,-9
+11,Maths,Statistics,Easy,Q40: Compute 2^9,512,514,256,1024,512
+11,Maths,Algebra,Easy,"Q41: What is the slope through (7,5) and (8,2)?",-3.0,3.0,-4.0,-2.0,-3.0
+11,Maths,Functions,Easy,"Q42: For x^2 + (0)x + (-36) = 0, which is a solution?",-5,6,-6,Option 3,-6
+11,Maths,Geometry,Easy,Q43: Compute 2^4,18,16,32,8,16
+11,Maths,Statistics,Easy,"Q44: What is the slope through (-8,-7) and (-4,-10)?",0.75,0.25,-0.75,-1.75,-0.75
+11,Maths,Algebra,Easy,"Q45: For x^2 + (1)x + (-6) = 0, which is a solution?",-3,-2,2,3,-3
+11,Maths,Functions,Easy,Q46: Compute 2^7,130,64,256,128,128
+11,Maths,Geometry,Easy,"Q47: What is the slope through (-2,2) and (0,-1)?",-2.5,-0.5,1.5,-1.5,-1.5
+11,Maths,Statistics,Easy,"Q48: For x^2 + (2)x + (0) = 0, which is a solution?",0,Option 3,1,-2,0
+11,Maths,Algebra,Easy,Q49: Compute 2^2,8,6,2,4,4
+11,Maths,Functions,Easy,"Q50: What is the slope through (4,-10) and (9,-13)?",0.6,-1.6,0.4,-0.6,-0.6
+11,Maths,Geometry,Easy,"Q51: For x^2 + (3)x + (-18) = 0, which is a solution?",-6,4,-3,3,3
+11,Maths,Statistics,Easy,Q52: Compute 2^5,64,32,16,34,32
+11,Maths,Algebra,Easy,"Q53: What is the slope through (10,-1) and (13,-4)?",-2.0,0.0,-1.0,1.0,-1.0
+11,Maths,Functions,Easy,"Q54: For x^2 + (-15)x + (54) = 0, which is a solution?",6,-6,9,7,6
+11,Maths,Geometry,Easy,Q55: Compute 2^8,256,258,512,128,256
+11,Maths,Statistics,Easy,"Q56: What is the slope through (-5,8) and (-4,5)?",3.0,-2.0,-4.0,-3.0,-3.0
+11,Maths,Algebra,Easy,"Q57: For x^2 + (-14)x + (45) = 0, which is a solution?",-9,5,10,9,9
+11,Maths,Functions,Easy,Q58: Compute 2^3,16,8,10,4,8
+11,Maths,Geometry,Easy,"Q59: What is the slope through (1,-4) and (5,-7)?",-1.75,0.25,-0.75,0.75,-0.75
+11,Maths,Statistics,Easy,"Q60: For x^2 + (6)x + (-7) = 0, which is a solution?",-7,1,7,-6,-7
+11,Maths,Algebra,Easy,Q61: Compute 2^6,128,32,64,66,64
+11,Maths,Functions,Easy,"Q62: What is the slope through (7,5) and (9,2)?",-1.5,-2.5,1.5,-0.5,-1.5
+11,Maths,Geometry,Easy,"Q63: For x^2 + (7)x + (12) = 0, which is a solution?",-3,-4,Option 3,4,-4
+11,Maths,Statistics,Easy,Q64: Compute 2^9,512,514,1024,256,512
+11,Maths,Algebra,Easy,"Q65: What is the slope through (-8,-7) and (-3,-10)?",0.6,0.4,-1.6,-0.6,-0.6
+11,Maths,Functions,Easy,"Q66: For x^2 + (8)x + (7) = 0, which is a solution?",-1,1,0,-7,-1
+11,Maths,Geometry,Easy,Q67: Compute 2^4,32,16,18,8,16
+11,Maths,Statistics,Easy,"Q68: What is the slope through (-2,2) and (1,-1)?",1.0,-2.0,0.0,-1.0,-1.0
+11,Maths,Algebra,Easy,"Q69: For x^2 + (-10)x + (16) = 0, which is a solution?",2,-2,8,3,2
+11,Maths,Functions,Easy,Q70: Compute 2^7,128,130,64,256,128
+11,Maths,Geometry,Easy,"Q71: What is the slope through (4,-10) and (5,-13)?",-3.0,3.0,-2.0,-4.0,-3.0
+11,Maths,Statistics,Easy,"Q72: For x^2 + (-9)x + (20) = 0, which is a solution?",6,-5,5,4,5
+11,Maths,Algebra,Easy,Q73: Compute 2^2,6,2,8,4,4
+11,Maths,Functions,Easy,"Q74: What is the slope through (10,-1) and (14,-4)?",-1.75,0.75,0.25,-0.75,-0.75
+11,Maths,Geometry,Easy,"Q75: For x^2 + (-8)x + (0) = 0, which is a solution?",8,9,-8,0,8
+11,Maths,Statistics,Easy,Q76: Compute 2^5,64,34,16,32,32
+11,Maths,Algebra,Easy,"Q77: What is the slope through (-5,8) and (-3,5)?",-2.5,-0.5,-1.5,1.5,-1.5
+11,Maths,Functions,Easy,"Q78: For x^2 + (12)x + (32) = 0, which is a solution?",-4,-8,-7,8,-8
+11,Maths,Geometry,Easy,Q79: Compute 2^8,512,256,258,128,256
+11,Maths,Statistics,Easy,"Q80: What is the slope through (1,-4) and (6,-7)?",0.6,-0.6,0.4,-1.6,-0.6
+11,Maths,Algebra,Easy,"Q81: For x^2 + (13)x + (40) = 0, which is a solution?",-4,-8,5,-5,-5
+11,Maths,Functions,Easy,Q82: Compute 2^3,4,16,10,8,8
+11,Maths,Geometry,Easy,"Q83: What is the slope through (7,5) and (10,2)?",0.0,-2.0,1.0,-1.0,-1.0
+11,Maths,Statistics,Easy,"Q84: For x^2 + (-5)x + (-14) = 0, which is a solution?",-2,7,-1,2,-2
+11,Maths,Algebra,Easy,Q85: Compute 2^6,32,128,66,64,64
+11,Maths,Functions,Easy,"Q86: What is the slope through (-8,-7) and (-7,-10)?",-3.0,-2.0,3.0,-4.0,-3.0
+11,Maths,Geometry,Easy,"Q87: For x^2 + (-4)x + (3) = 0, which is a solution?",3,-1,1,2,1
+11,Maths,Statistics,Easy,Q88: Compute 2^9,1024,512,256,514,512
+11,Maths,Algebra,Easy,"Q89: What is the slope through (-2,2) and (2,-1)?",-0.75,-1.75,0.25,0.75,-0.75
+11,Maths,Functions,Easy,"Q90: For x^2 + (-3)x + (-4) = 0, which is a solution?",4,5,-4,-1,4
+11,Maths,Geometry,Easy,Q91: Compute 2^4,32,16,8,18,16
+11,Maths,Statistics,Easy,"Q92: What is the slope through (4,-10) and (6,-13)?",-1.5,-2.5,1.5,-0.5,-1.5
+11,Maths,Algebra,Easy,"Q93: For x^2 + (-2)x + (-35) = 0, which is a solution?",-5,7,-7,8,7
+11,Maths,Functions,Easy,Q94: Compute 2^7,256,130,128,64,128
+11,Maths,Geometry,Easy,"Q95: What is the slope through (10,-1) and (15,-4)?",-1.6,0.4,0.6,-0.6,-0.6
+11,Maths,Statistics,Easy,"Q96: For x^2 + (18)x + (81) = 0, which is a solution?",-8,9,Option 3,-9,-9
+11,Maths,Algebra,Easy,Q97: Compute 2^2,2,6,8,4,4
+11,Maths,Functions,Easy,"Q98: What is the slope through (-5,8) and (-2,5)?",0.0,-1.0,-2.0,1.0,-1.0
+11,Maths,Geometry,Easy,"Q99: For x^2 + (0)x + (-36) = 0, which is a solution?",Option 3,-6,6,-5,-6
+11,Maths,Statistics,Easy,Q100: Compute 2^5,16,34,64,32,32
+11,Maths,Algebra,Easy,"Q101: What is the slope through (1,-4) and (2,-7)?",-4.0,-3.0,3.0,-2.0,-3.0
+11,Maths,Functions,Easy,"Q102: For x^2 + (1)x + (-6) = 0, which is a solution?",-2,2,3,-3,-3
+11,Maths,Geometry,Easy,Q103: Compute 2^8,128,258,256,512,256
+11,Maths,Statistics,Easy,"Q104: What is the slope through (7,5) and (11,2)?",-1.75,0.75,0.25,-0.75,-0.75
+11,Maths,Algebra,Easy,"Q105: For x^2 + (2)x + (0) = 0, which is a solution?",-2,0,Option 3,1,0
+11,Maths,Functions,Easy,Q106: Compute 2^3,10,8,4,16,8
+11,Maths,Geometry,Easy,"Q107: What is the slope through (-8,-7) and (-6,-10)?",-2.5,-0.5,-1.5,1.5,-1.5
+11,Maths,Statistics,Easy,"Q108: For x^2 + (3)x + (-18) = 0, which is a solution?",3,-3,-6,4,3
+11,Maths,Algebra,Easy,Q109: Compute 2^6,128,64,32,66,64
+11,Maths,Functions,Easy,"Q110: What is the slope through (-2,2) and (3,-1)?",0.6,-1.6,-0.6,0.4,-0.6
+11,Maths,Geometry,Easy,"Q111: For x^2 + (-15)x + (54) = 0, which is a solution?",-6,7,9,6,6
+11,Maths,Statistics,Easy,Q112: Compute 2^9,256,512,1024,514,512
+11,Maths,Algebra,Easy,"Q113: What is the slope through (4,-10) and (7,-13)?",1.0,-2.0,-1.0,0.0,-1.0
+11,Maths,Functions,Easy,"Q114: For x^2 + (-14)x + (45) = 0, which is a solution?",9,5,10,-9,9
+11,Maths,Geometry,Easy,Q115: Compute 2^4,32,8,18,16,16
+11,Maths,Statistics,Easy,"Q116: What is the slope through (10,-1) and (11,-4)?",-2.0,-4.0,3.0,-3.0,-3.0
+11,Maths,Algebra,Easy,"Q117: For x^2 + (6)x + (-7) = 0, which is a solution?",1,-7,-6,7,-7
+11,Maths,Functions,Easy,Q118: Compute 2^7,64,130,128,256,128
+11,Maths,Geometry,Easy,"Q119: What is the slope through (-5,8) and (-1,5)?",0.75,-0.75,-1.75,0.25,-0.75
+11,Maths,Statistics,Easy,"Q120: For x^2 + (7)x + (12) = 0, which is a solution?",-3,Option 3,-4,4,-4
+11,Maths,Algebra,Easy,Q121: Compute 2^2,8,2,6,4,4
+11,Maths,Functions,Easy,"Q122: What is the slope through (1,-4) and (3,-7)?",-2.5,-1.5,1.5,-0.5,-1.5
+11,Maths,Geometry,Easy,"Q123: For x^2 + (8)x + (7) = 0, which is a solution?",0,-1,1,-7,-1
+11,Maths,Statistics,Easy,Q124: Compute 2^5,32,16,64,34,32
+11,Maths,Algebra,Easy,"Q125: What is the slope through (7,5) and (12,2)?",0.6,0.4,-1.6,-0.6,-0.6
+11,Maths,Functions,Easy,"Q126: For x^2 + (-10)x + (16) = 0, which is a solution?",8,3,2,-2,2
+11,Maths,Geometry,Easy,Q127: Compute 2^8,128,258,256,512,256
+11,Maths,Statistics,Easy,"Q128: What is the slope through (-8,-7) and (-5,-10)?",0.0,1.0,-1.0,-2.0,-1.0
+11,Maths,Algebra,Easy,"Q129: For x^2 + (-9)x + (20) = 0, which is a solution?",6,5,4,-5,5
+11,Maths,Functions,Easy,Q130: Compute 2^3,16,4,10,8,8
+11,Maths,Geometry,Easy,"Q131: What is the slope through (-2,2) and (-1,-1)?",-3.0,-4.0,-2.0,3.0,-3.0
+11,Maths,Statistics,Easy,"Q132: For x^2 + (-8)x + (0) = 0, which is a solution?",9,-8,8,0,8
+11,Maths,Algebra,Easy,Q133: Compute 2^6,32,128,64,66,64
+11,Maths,Functions,Easy,"Q134: What is the slope through (4,-10) and (8,-13)?",0.75,0.25,-1.75,-0.75,-0.75
+11,Maths,Geometry,Easy,"Q135: For x^2 + (12)x + (32) = 0, which is a solution?",-7,-4,8,-8,-8
+11,Maths,Statistics,Easy,Q136: Compute 2^9,512,1024,514,256,512
+11,Maths,Algebra,Easy,"Q137: What is the slope through (10,-1) and (12,-4)?",-0.5,-2.5,-1.5,1.5,-1.5
+11,Maths,Functions,Easy,"Q138: For x^2 + (13)x + (40) = 0, which is a solution?",-8,-5,5,-4,-5
+11,Maths,Geometry,Easy,Q139: Compute 2^4,16,8,32,18,16
+11,Maths,Statistics,Easy,"Q140: What is the slope through (-5,8) and (0,5)?",0.4,0.6,-1.6,-0.6,-0.6
+11,Maths,Algebra,Easy,"Q141: For x^2 + (-5)x + (-14) = 0, which is a solution?",7,-2,-1,2,-2
+11,Maths,Functions,Easy,Q142: Compute 2^7,128,64,256,130,128
+11,Maths,Geometry,Easy,"Q143: What is the slope through (1,-4) and (4,-7)?",0.0,-1.0,1.0,-2.0,-1.0
+11,Maths,Statistics,Easy,"Q144: For x^2 + (-4)x + (3) = 0, which is a solution?",-1,1,3,2,1
+11,Maths,Algebra,Easy,Q145: Compute 2^2,8,2,4,6,4
+11,Maths,Functions,Easy,"Q146: What is the slope through (7,5) and (8,2)?",-2.0,3.0,-4.0,-3.0,-3.0
+11,Maths,Geometry,Easy,"Q147: For x^2 + (-3)x + (-4) = 0, which is a solution?",4,-4,5,-1,4
+11,Maths,Statistics,Easy,Q148: Compute 2^5,34,64,16,32,32
+11,Maths,Algebra,Easy,"Q149: What is the slope through (-8,-7) and (-4,-10)?",-1.75,0.25,-0.75,0.75,-0.75
+11,Maths,Functions,Easy,"Q150: For x^2 + (-2)x + (-35) = 0, which is a solution?",8,-7,-5,7,7
+11,Maths,Geometry,Easy,Q151: Compute 2^8,128,512,258,256,256
+11,Maths,Statistics,Easy,"Q152: What is the slope through (-2,2) and (0,-1)?",1.5,-0.5,-2.5,-1.5,-1.5
+11,Maths,Algebra,Easy,"Q153: For x^2 + (18)x + (81) = 0, which is a solution?",9,-9,Option 3,-8,-9
+11,Maths,Functions,Easy,Q154: Compute 2^3,16,10,8,4,8
+11,Maths,Geometry,Easy,"Q155: What is the slope through (4,-10) and (9,-13)?",0.6,-1.6,-0.6,0.4,-0.6
+11,Maths,Statistics,Easy,"Q156: For x^2 + (0)x + (-36) = 0, which is a solution?",Option 3,6,-6,-5,-6
+11,Maths,Algebra,Easy,Q157: Compute 2^6,66,32,128,64,64
+11,Maths,Functions,Easy,"Q158: What is the slope through (10,-1) and (13,-4)?",0.0,1.0,-1.0,-2.0,-1.0
+11,Maths,Geometry,Easy,"Q159: For x^2 + (1)x + (-6) = 0, which is a solution?",-2,3,-3,2,-3
+11,Maths,Statistics,Easy,Q160: Compute 2^9,1024,512,256,514,512
+11,Maths,Algebra,Easy,"Q161: What is the slope through (-5,8) and (-4,5)?",-2.0,-3.0,3.0,-4.0,-3.0
+11,Maths,Functions,Easy,"Q162: For x^2 + (2)x + (0) = 0, which is a solution?",1,-2,Option 3,0,0
+11,Maths,Geometry,Easy,Q163: Compute 2^4,16,8,18,32,16
+11,Maths,Statistics,Easy,"Q164: What is the slope through (1,-4) and (5,-7)?",-0.75,0.25,0.75,-1.75,-0.75
+11,Maths,Algebra,Easy,"Q165: For x^2 + (3)x + (-18) = 0, which is a solution?",-3,3,4,-6,3
+11,Maths,Functions,Easy,Q166: Compute 2^7,130,256,128,64,128
+11,Maths,Geometry,Easy,"Q167: What is the slope through (7,5) and (9,2)?",-1.5,1.5,-0.5,-2.5,-1.5
+11,Maths,Statistics,Easy,"Q168: For x^2 + (-15)x + (54) = 0, which is a solution?",-6,7,9,6,6
+11,Maths,Algebra,Easy,Q169: Compute 2^2,6,8,4,2,4
+11,Maths,Functions,Easy,"Q170: What is the slope through (-8,-7) and (-3,-10)?",0.4,0.6,-0.6,-1.6,-0.6
+11,Maths,Geometry,Easy,"Q171: For x^2 + (-14)x + (45) = 0, which is a solution?",9,10,-9,5,9
+11,Maths,Statistics,Easy,Q172: Compute 2^5,32,64,16,34,32
+11,Maths,Algebra,Easy,"Q173: What is the slope through (-2,2) and (1,-1)?",0.0,1.0,-1.0,-2.0,-1.0
+11,Maths,Functions,Easy,"Q174: For x^2 + (6)x + (-7) = 0, which is a solution?",-6,1,-7,7,-7
+11,Maths,Geometry,Easy,Q175: Compute 2^8,256,128,258,512,256
+11,Maths,Statistics,Easy,"Q176: What is the slope through (4,-10) and (5,-13)?",3.0,-2.0,-3.0,-4.0,-3.0
+11,Maths,Algebra,Easy,"Q177: For x^2 + (7)x + (12) = 0, which is a solution?",Option 3,-4,-3,4,-4
+11,Maths,Functions,Easy,Q178: Compute 2^3,10,16,4,8,8
+11,Maths,Geometry,Easy,"Q179: What is the slope through (10,-1) and (14,-4)?",0.25,-0.75,-1.75,0.75,-0.75
+11,Maths,Statistics,Easy,"Q180: For x^2 + (8)x + (7) = 0, which is a solution?",-7,0,-1,1,-1
+11,Maths,Algebra,Easy,Q181: Compute 2^6,64,66,128,32,64
+11,Maths,Functions,Easy,"Q182: What is the slope through (-5,8) and (-3,5)?",-1.5,-2.5,1.5,-0.5,-1.5
+11,Maths,Geometry,Easy,"Q183: For x^2 + (-10)x + (16) = 0, which is a solution?",3,2,8,-2,2
+11,Maths,Statistics,Easy,Q184: Compute 2^9,512,514,1024,256,512
+11,Maths,Algebra,Easy,"Q185: What is the slope through (1,-4) and (6,-7)?",-0.6,-1.6,0.4,0.6,-0.6
+11,Maths,Functions,Easy,"Q186: For x^2 + (-9)x + (20) = 0, which is a solution?",4,-5,6,5,5
+11,Maths,Geometry,Easy,Q187: Compute 2^4,8,32,16,18,16
+11,Maths,Statistics,Easy,"Q188: What is the slope through (7,5) and (10,2)?",-2.0,1.0,-1.0,0.0,-1.0
+11,Maths,Algebra,Easy,"Q189: For x^2 + (-8)x + (0) = 0, which is a solution?",-8,8,9,0,8
+11,Maths,Functions,Easy,Q190: Compute 2^7,64,256,128,130,128
+11,Maths,Geometry,Easy,"Q191: What is the slope through (-8,-7) and (-7,-10)?",-2.0,-4.0,-3.0,3.0,-3.0
+11,Maths,Statistics,Easy,"Q192: For x^2 + (12)x + (32) = 0, which is a solution?",-4,-8,8,-7,-8
+11,Maths,Algebra,Easy,Q193: Compute 2^2,8,4,2,6,4
+11,Maths,Functions,Easy,"Q194: What is the slope through (-2,2) and (2,-1)?",-1.75,0.25,0.75,-0.75,-0.75
+11,Maths,Geometry,Easy,"Q195: For x^2 + (13)x + (40) = 0, which is a solution?",5,-5,-4,-8,-5
+11,Maths,Statistics,Easy,Q196: Compute 2^5,32,16,64,34,32
+11,Maths,Algebra,Easy,"Q197: What is the slope through (4,-10) and (6,-13)?",1.5,-2.5,-1.5,-0.5,-1.5
+11,Maths,Functions,Easy,"Q198: For x^2 + (-5)x + (-14) = 0, which is a solution?",7,-1,-2,2,-2
+11,Maths,Geometry,Easy,Q199: Compute 2^8,256,258,512,128,256
+11,Maths,Statistics,Easy,"Q200: What is the slope through (10,-1) and (15,-4)?",-1.6,-0.6,0.4,0.6,-0.6
+11,Maths,Algebra,Easy,"Q201: For x^2 + (-4)x + (3) = 0, which is a solution?",-1,3,2,1,1
+11,Maths,Functions,Easy,Q202: Compute 2^3,10,16,4,8,8
+11,Maths,Geometry,Easy,"Q203: What is the slope through (-5,8) and (-2,5)?",-2.0,1.0,0.0,-1.0,-1.0
+11,Maths,Statistics,Easy,"Q204: For x^2 + (-3)x + (-4) = 0, which is a solution?",5,4,-4,-1,4
+11,Maths,Algebra,Easy,Q205: Compute 2^6,64,66,128,32,64
+11,Maths,Functions,Easy,"Q206: What is the slope through (1,-4) and (2,-7)?",-3.0,-2.0,3.0,-4.0,-3.0
+11,Maths,Geometry,Easy,"Q207: For x^2 + (-2)x + (-35) = 0, which is a solution?",8,7,-5,-7,7
+11,Maths,Statistics,Easy,Q208: Compute 2^9,1024,514,512,256,512
+11,Maths,Algebra,Easy,"Q209: What is the slope through (7,5) and (11,2)?",-0.75,0.25,-1.75,0.75,-0.75
+11,Maths,Functions,Easy,"Q210: For x^2 + (18)x + (81) = 0, which is a solution?",9,-8,Option 3,-9,-9
+11,Maths,Geometry,Easy,Q211: Compute 2^4,32,16,18,8,16
+11,Maths,Statistics,Easy,"Q212: What is the slope through (-8,-7) and (-6,-10)?",-0.5,1.5,-2.5,-1.5,-1.5
+11,Maths,Algebra,Easy,"Q213: For x^2 + (0)x + (-36) = 0, which is a solution?",-6,-5,Option 3,6,-6
+11,Maths,Functions,Easy,Q214: Compute 2^7,128,130,64,256,128
+11,Maths,Geometry,Easy,"Q215: What is the slope through (-2,2) and (3,-1)?",0.6,-0.6,0.4,-1.6,-0.6
+11,Maths,Statistics,Easy,"Q216: For x^2 + (1)x + (-6) = 0, which is a solution?",-2,2,3,-3,-3
+11,Maths,Algebra,Easy,Q217: Compute 2^2,8,2,6,4,4
+11,Maths,Functions,Easy,"Q218: What is the slope through (4,-10) and (7,-13)?",1.0,0.0,-1.0,-2.0,-1.0
+11,Maths,Geometry,Easy,"Q219: For x^2 + (2)x + (0) = 0, which is a solution?",Option 3,-2,0,1,0
+11,Maths,Statistics,Easy,Q220: Compute 2^5,64,34,16,32,32
+11,Maths,Algebra,Easy,"Q221: What is the slope through (10,-1) and (11,-4)?",-4.0,-2.0,3.0,-3.0,-3.0
+11,Maths,Functions,Easy,"Q222: For x^2 + (3)x + (-18) = 0, which is a solution?",-3,4,3,-6,3
+11,Maths,Geometry,Easy,Q223: Compute 2^8,128,512,256,258,256
+11,Maths,Statistics,Easy,"Q224: What is the slope through (-5,8) and (-1,5)?",0.75,-0.75,-1.75,0.25,-0.75
+11,Maths,Algebra,Easy,"Q225: For x^2 + (-15)x + (54) = 0, which is a solution?",7,-6,6,9,6
+11,Maths,Functions,Easy,Q226: Compute 2^3,4,16,8,10,8
+11,Maths,Geometry,Easy,"Q227: What is the slope through (1,-4) and (3,-7)?",1.5,-2.5,-0.5,-1.5,-1.5
+11,Maths,Statistics,Easy,"Q228: For x^2 + (-14)x + (45) = 0, which is a solution?",5,10,9,-9,9
+11,Maths,Algebra,Easy,Q229: Compute 2^6,66,128,32,64,64
+11,Maths,Functions,Easy,"Q230: What is the slope through (7,5) and (12,2)?",0.6,0.4,-0.6,-1.6,-0.6
+11,Maths,Geometry,Easy,"Q231: For x^2 + (6)x + (-7) = 0, which is a solution?",-7,-6,7,1,-7
+11,Maths,Statistics,Easy,Q232: Compute 2^9,514,1024,256,512,512
+11,Maths,Algebra,Easy,"Q233: What is the slope through (-8,-7) and (-5,-10)?",0.0,1.0,-1.0,-2.0,-1.0
+11,Maths,Functions,Easy,"Q234: For x^2 + (7)x + (12) = 0, which is a solution?",Option 3,-3,4,-4,-4
+11,Maths,Geometry,Easy,Q235: Compute 2^4,18,32,16,8,16
+11,Maths,Statistics,Easy,"Q236: What is the slope through (-2,2) and (-1,-1)?",3.0,-4.0,-2.0,-3.0,-3.0
+11,Maths,Algebra,Easy,"Q237: For x^2 + (8)x + (7) = 0, which is a solution?",1,-1,-7,0,-1
+11,Maths,Functions,Easy,Q238: Compute 2^7,130,128,64,256,128
+11,Maths,Geometry,Easy,"Q239: What is the slope through (4,-10) and (8,-13)?",0.25,-1.75,0.75,-0.75,-0.75
+11,Maths,Statistics,Easy,"Q240: For x^2 + (-10)x + (16) = 0, which is a solution?",-2,8,2,3,2
+11,Maths,Algebra,Easy,Q241: Compute 2^2,8,6,2,4,4
+11,Maths,Functions,Easy,"Q242: What is the slope through (10,-1) and (12,-4)?",1.5,-0.5,-2.5,-1.5,-1.5
+11,Maths,Geometry,Easy,"Q243: For x^2 + (-9)x + (20) = 0, which is a solution?",6,5,4,-5,5
+11,Maths,Statistics,Easy,Q244: Compute 2^5,32,34,64,16,32
+11,Maths,Algebra,Easy,"Q245: What is the slope through (-5,8) and (0,5)?",0.6,-1.6,-0.6,0.4,-0.6
+11,Maths,Functions,Easy,"Q246: For x^2 + (-8)x + (0) = 0, which is a solution?",8,0,9,-8,8
+11,Maths,Geometry,Easy,Q247: Compute 2^8,256,258,128,512,256
+11,Maths,Statistics,Easy,"Q248: What is the slope through (1,-4) and (4,-7)?",0.0,1.0,-2.0,-1.0,-1.0
+11,Maths,Algebra,Easy,"Q249: For x^2 + (12)x + (32) = 0, which is a solution?",8,-7,-8,-4,-8
+11,Maths,Functions,Easy,Q250: Compute 2^3,4,8,10,16,8
+11,Maths,Geometry,Easy,"Q251: What is the slope through (7,5) and (8,2)?",-2.0,-4.0,-3.0,3.0,-3.0
+11,Maths,Statistics,Easy,"Q252: For x^2 + (13)x + (40) = 0, which is a solution?",-8,5,-4,-5,-5
+11,Maths,Algebra,Easy,Q253: Compute 2^6,66,32,64,128,64
+11,Maths,Functions,Easy,"Q254: What is the slope through (-8,-7) and (-4,-10)?",0.75,0.25,-0.75,-1.75,-0.75
+11,Maths,Geometry,Easy,"Q255: For x^2 + (-5)x + (-14) = 0, which is a solution?",2,-2,-1,7,-2
+11,Maths,Statistics,Easy,Q256: Compute 2^9,256,1024,512,514,512
+11,Maths,Algebra,Easy,"Q257: What is the slope through (-2,2) and (0,-1)?",-1.5,-0.5,1.5,-2.5,-1.5
+11,Maths,Functions,Easy,"Q258: For x^2 + (-4)x + (3) = 0, which is a solution?",-1,3,1,2,1
+11,Maths,Geometry,Easy,Q259: Compute 2^4,18,8,32,16,16
+11,Maths,Statistics,Easy,"Q260: What is the slope through (4,-10) and (9,-13)?",0.6,0.4,-0.6,-1.6,-0.6
+11,Maths,Algebra,Easy,"Q261: For x^2 + (-3)x + (-4) = 0, which is a solution?",-4,5,4,-1,4
+11,Maths,Functions,Easy,Q262: Compute 2^7,256,130,128,64,128
+11,Maths,Geometry,Easy,"Q263: What is the slope through (10,-1) and (13,-4)?",1.0,0.0,-2.0,-1.0,-1.0
+11,Maths,Statistics,Easy,"Q264: For x^2 + (-2)x + (-35) = 0, which is a solution?",-7,7,-5,8,7
+11,Maths,Algebra,Easy,Q265: Compute 2^2,8,6,4,2,4
+11,Maths,Functions,Easy,"Q266: What is the slope through (-5,8) and (-4,5)?",-2.0,-4.0,3.0,-3.0,-3.0
+11,Maths,Geometry,Easy,"Q267: For x^2 + (18)x + (81) = 0, which is a solution?",Option 3,-8,9,-9,-9
+11,Maths,Statistics,Easy,Q268: Compute 2^5,16,34,32,64,32
+11,Maths,Algebra,Easy,"Q269: What is the slope through (1,-4) and (5,-7)?",0.25,-0.75,0.75,-1.75,-0.75
+11,Maths,Functions,Easy,"Q270: For x^2 + (0)x + (-36) = 0, which is a solution?",Option 3,-6,-5,6,-6
+11,Maths,Geometry,Easy,Q271: Compute 2^8,256,512,128,258,256
+11,Maths,Statistics,Easy,"Q272: What is the slope through (7,5) and (9,2)?",1.5,-1.5,-2.5,-0.5,-1.5
+11,Maths,Algebra,Easy,"Q273: For x^2 + (1)x + (-6) = 0, which is a solution?",-3,-2,2,3,-3
+11,Maths,Functions,Easy,Q274: Compute 2^3,10,8,4,16,8
+11,Maths,Geometry,Easy,"Q275: What is the slope through (-8,-7) and (-3,-10)?",0.6,-0.6,-1.6,0.4,-0.6
+11,Maths,Statistics,Easy,"Q276: For x^2 + (2)x + (0) = 0, which is a solution?",0,1,Option 3,-2,0
+11,Maths,Algebra,Easy,Q277: Compute 2^6,128,32,64,66,64
+11,Maths,Functions,Easy,"Q278: What is the slope through (-2,2) and (1,-1)?",0.0,1.0,-1.0,-2.0,-1.0
+11,Maths,Geometry,Easy,"Q279: For x^2 + (3)x + (-18) = 0, which is a solution?",-6,-3,4,3,3
+11,Maths,Statistics,Easy,Q280: Compute 2^9,514,512,1024,256,512
+11,Maths,Algebra,Easy,"Q281: What is the slope through (4,-10) and (5,-13)?",3.0,-4.0,-2.0,-3.0,-3.0
+11,Maths,Functions,Easy,"Q282: For x^2 + (-15)x + (54) = 0, which is a solution?",9,7,-6,6,6
+11,Maths,Geometry,Easy,Q283: Compute 2^4,8,32,16,18,16
+11,Maths,Statistics,Easy,"Q284: What is the slope through (10,-1) and (14,-4)?",0.75,-1.75,0.25,-0.75,-0.75
+11,Maths,Algebra,Easy,"Q285: For x^2 + (-14)x + (45) = 0, which is a solution?",-9,5,9,10,9
+11,Maths,Functions,Easy,Q286: Compute 2^7,64,256,128,130,128
+11,Maths,Geometry,Easy,"Q287: What is the slope through (-5,8) and (-3,5)?",-2.5,-1.5,1.5,-0.5,-1.5
+11,Maths,Statistics,Easy,"Q288: For x^2 + (6)x + (-7) = 0, which is a solution?",-6,7,-7,1,-7
+11,Maths,Algebra,Easy,Q289: Compute 2^2,4,6,8,2,4
+11,Maths,Functions,Easy,"Q290: What is the slope through (1,-4) and (6,-7)?",-0.6,-1.6,0.4,0.6,-0.6
+11,Maths,Geometry,Easy,"Q291: For x^2 + (7)x + (12) = 0, which is a solution?",-3,4,-4,Option 3,-4
+11,Maths,Statistics,Easy,Q292: Compute 2^5,64,34,16,32,32
+11,Maths,Algebra,Easy,"Q293: What is the slope through (7,5) and (10,2)?",-1.0,1.0,0.0,-2.0,-1.0
+11,Maths,Functions,Easy,"Q294: For x^2 + (8)x + (7) = 0, which is a solution?",0,1,-7,-1,-1
+11,Maths,Geometry,Easy,Q295: Compute 2^8,256,258,512,128,256
+11,Maths,Statistics,Easy,"Q296: What is the slope through (-8,-7) and (-7,-10)?",-2.0,-4.0,-3.0,3.0,-3.0
+11,Maths,Algebra,Easy,"Q297: For x^2 + (-10)x + (16) = 0, which is a solution?",3,-2,8,2,2
+11,Maths,Functions,Easy,Q298: Compute 2^3,16,4,10,8,8
+11,Maths,Geometry,Easy,"Q299: What is the slope through (-2,2) and (2,-1)?",0.25,-0.75,0.75,-1.75,-0.75
+11,Maths,Statistics,Easy,"Q300: For x^2 + (-9)x + (20) = 0, which is a solution?",-5,4,6,5,5
+11,Maths,Algebra,Easy,Q301: Compute 2^6,32,66,128,64,64
+11,Maths,Functions,Easy,"Q302: What is the slope through (4,-10) and (6,-13)?",-0.5,-1.5,-2.5,1.5,-1.5
+11,Maths,Geometry,Easy,"Q303: For x^2 + (-8)x + (0) = 0, which is a solution?",0,9,8,-8,8
+11,Maths,Statistics,Easy,Q304: Compute 2^9,514,1024,512,256,512
+11,Maths,Algebra,Easy,"Q305: What is the slope through (10,-1) and (15,-4)?",0.4,-1.6,-0.6,0.6,-0.6
+11,Maths,Functions,Easy,"Q306: For x^2 + (12)x + (32) = 0, which is a solution?",-7,-8,8,-4,-8
+11,Maths,Geometry,Easy,Q307: Compute 2^4,18,16,8,32,16
+11,Maths,Statistics,Easy,"Q308: What is the slope through (-5,8) and (-2,5)?",-1.0,-2.0,0.0,1.0,-1.0
+11,Maths,Algebra,Easy,"Q309: For x^2 + (13)x + (40) = 0, which is a solution?",-8,5,-5,-4,-5
+11,Maths,Functions,Easy,Q310: Compute 2^7,128,130,64,256,128
+11,Maths,Geometry,Easy,"Q311: What is the slope through (1,-4) and (2,-7)?",3.0,-2.0,-4.0,-3.0,-3.0
+11,Maths,Statistics,Easy,"Q312: For x^2 + (-5)x + (-14) = 0, which is a solution?",2,-2,-1,7,-2
+11,Maths,Algebra,Easy,Q313: Compute 2^2,8,2,6,4,4
+11,Maths,Functions,Easy,"Q314: What is the slope through (7,5) and (11,2)?",0.75,-1.75,0.25,-0.75,-0.75
+11,Maths,Geometry,Easy,"Q315: For x^2 + (-4)x + (3) = 0, which is a solution?",2,3,-1,1,1
+11,Maths,Statistics,Easy,Q316: Compute 2^5,32,16,34,64,32
+11,Maths,Algebra,Easy,"Q317: What is the slope through (-8,-7) and (-6,-10)?",-0.5,1.5,-2.5,-1.5,-1.5
+11,Maths,Functions,Easy,"Q318: For x^2 + (-3)x + (-4) = 0, which is a solution?",4,5,-4,-1,4
+11,Maths,Geometry,Easy,Q319: Compute 2^8,258,256,128,512,256
+11,Maths,Statistics,Easy,"Q320: What is the slope through (-2,2) and (3,-1)?",0.4,0.6,-0.6,-1.6,-0.6
+11,Maths,Algebra,Easy,"Q321: For x^2 + (-2)x + (-35) = 0, which is a solution?",8,7,-7,-5,7
+11,Maths,Functions,Easy,Q322: Compute 2^3,4,16,8,10,8
+11,Maths,Geometry,Easy,"Q323: What is the slope through (4,-10) and (7,-13)?",-2.0,1.0,-1.0,0.0,-1.0
+11,Maths,Statistics,Easy,"Q324: For x^2 + (18)x + (81) = 0, which is a solution?",Option 3,9,-8,-9,-9
+11,Maths,Algebra,Easy,Q325: Compute 2^6,64,66,128,32,64
+11,Maths,Functions,Easy,"Q326: What is the slope through (10,-1) and (11,-4)?",-4.0,-2.0,3.0,-3.0,-3.0
+11,Maths,Geometry,Easy,"Q327: For x^2 + (0)x + (-36) = 0, which is a solution?",-5,-6,6,Option 3,-6
+11,Maths,Statistics,Easy,Q328: Compute 2^9,256,1024,512,514,512
+11,Maths,Algebra,Easy,"Q329: What is the slope through (-5,8) and (-1,5)?",-1.75,-0.75,0.75,0.25,-0.75
+11,Maths,Functions,Easy,"Q330: For x^2 + (1)x + (-6) = 0, which is a solution?",3,-3,-2,2,-3
+11,Maths,Geometry,Easy,Q331: Compute 2^4,32,18,8,16,16
+11,Maths,Statistics,Easy,"Q332: What is the slope through (1,-4) and (3,-7)?",-2.5,-0.5,-1.5,1.5,-1.5
+11,Maths,Algebra,Easy,"Q333: For x^2 + (2)x + (0) = 0, which is a solution?",Option 3,1,0,-2,0
+11,Maths,Functions,Easy,Q334: Compute 2^7,64,128,130,256,128
+11,Maths,Geometry,Easy,"Q335: What is the slope through (7,5) and (12,2)?",-1.6,0.6,-0.6,0.4,-0.6
+11,Maths,Statistics,Easy,"Q336: For x^2 + (3)x + (-18) = 0, which is a solution?",-3,-6,4,3,3
+11,Maths,Algebra,Easy,Q337: Compute 2^2,8,4,2,6,4
+11,Maths,Functions,Easy,"Q338: What is the slope through (-8,-7) and (-5,-10)?",0.0,-2.0,1.0,-1.0,-1.0
+11,Maths,Geometry,Easy,"Q339: For x^2 + (-15)x + (54) = 0, which is a solution?",-6,7,6,9,6
+11,Maths,Statistics,Easy,Q340: Compute 2^5,16,34,64,32,32
+11,Maths,Algebra,Easy,"Q341: What is the slope through (-2,2) and (-1,-1)?",-4.0,3.0,-3.0,-2.0,-3.0
+11,Maths,Functions,Easy,"Q342: For x^2 + (-14)x + (45) = 0, which is a solution?",10,9,-9,5,9
+11,Maths,Geometry,Easy,Q343: Compute 2^8,258,128,256,512,256
+11,Maths,Statistics,Easy,"Q344: What is the slope through (4,-10) and (8,-13)?",-0.75,0.25,-1.75,0.75,-0.75
+11,Maths,Algebra,Easy,"Q345: For x^2 + (6)x + (-7) = 0, which is a solution?",-7,1,-6,7,-7
+11,Maths,Functions,Easy,Q346: Compute 2^3,10,8,16,4,8
+11,Maths,Geometry,Easy,"Q347: What is the slope through (10,-1) and (12,-4)?",-2.5,-0.5,1.5,-1.5,-1.5
+11,Maths,Statistics,Easy,"Q348: For x^2 + (7)x + (12) = 0, which is a solution?",-3,Option 3,4,-4,-4
+11,Maths,Algebra,Easy,Q349: Compute 2^6,128,64,66,32,64
+11,Maths,Functions,Easy,"Q350: What is the slope through (-5,8) and (0,5)?",0.4,-1.6,0.6,-0.6,-0.6
+11,Maths,Geometry,Easy,"Q351: For x^2 + (8)x + (7) = 0, which is a solution?",-7,1,0,-1,-1
+11,Maths,Statistics,Easy,Q352: Compute 2^9,256,512,1024,514,512
+11,Maths,Algebra,Easy,"Q353: What is the slope through (1,-4) and (4,-7)?",-1.0,1.0,-2.0,0.0,-1.0
+11,Maths,Functions,Easy,"Q354: For x^2 + (-10)x + (16) = 0, which is a solution?",3,8,-2,2,2
+11,Maths,Geometry,Easy,Q355: Compute 2^4,18,16,8,32,16
+11,Maths,Statistics,Easy,"Q356: What is the slope through (7,5) and (8,2)?",-4.0,-3.0,-2.0,3.0,-3.0
+11,Maths,Algebra,Easy,"Q357: For x^2 + (-9)x + (20) = 0, which is a solution?",5,6,4,-5,5
+11,Maths,Functions,Easy,Q358: Compute 2^7,128,130,64,256,128
+11,Maths,Geometry,Easy,"Q359: What is the slope through (-8,-7) and (-4,-10)?",0.25,-1.75,-0.75,0.75,-0.75
+11,Maths,Statistics,Easy,"Q360: For x^2 + (-8)x + (0) = 0, which is a solution?",8,-8,0,9,8
+11,Maths,Algebra,Easy,Q361: Compute 2^2,2,8,4,6,4
+11,Maths,Functions,Easy,"Q362: What is the slope through (-2,2) and (0,-1)?",1.5,-1.5,-2.5,-0.5,-1.5
+11,Maths,Geometry,Easy,"Q363: For x^2 + (12)x + (32) = 0, which is a solution?",8,-8,-4,-7,-8
+11,Maths,Statistics,Easy,Q364: Compute 2^5,64,16,34,32,32
+11,Maths,Algebra,Easy,"Q365: What is the slope through (4,-10) and (9,-13)?",-0.6,0.6,-1.6,0.4,-0.6
+11,Maths,Functions,Easy,"Q366: For x^2 + (13)x + (40) = 0, which is a solution?",-5,5,-8,-4,-5
+11,Maths,Geometry,Easy,Q367: Compute 2^8,258,512,128,256,256
+11,Maths,Statistics,Easy,"Q368: What is the slope through (10,-1) and (13,-4)?",-2.0,-1.0,0.0,1.0,-1.0
+11,Maths,Algebra,Easy,"Q369: For x^2 + (-5)x + (-14) = 0, which is a solution?",7,2,-2,-1,-2
+11,Maths,Functions,Easy,Q370: Compute 2^3,10,8,4,16,8
+11,Maths,Geometry,Easy,"Q371: What is the slope through (-5,8) and (-4,5)?",-2.0,3.0,-3.0,-4.0,-3.0
+11,Maths,Statistics,Easy,"Q372: For x^2 + (-4)x + (3) = 0, which is a solution?",-1,1,2,3,1
+11,Maths,Algebra,Easy,Q373: Compute 2^6,66,32,128,64,64
+11,Maths,Functions,Easy,"Q374: What is the slope through (1,-4) and (5,-7)?",-0.75,0.75,-1.75,0.25,-0.75
+11,Maths,Geometry,Easy,"Q375: For x^2 + (-3)x + (-4) = 0, which is a solution?",-1,-4,4,5,4
+11,Maths,Statistics,Easy,Q376: Compute 2^9,256,514,1024,512,512
+11,Maths,Algebra,Easy,"Q377: What is the slope through (7,5) and (9,2)?",-1.5,-2.5,-0.5,1.5,-1.5
+11,Maths,Functions,Easy,"Q378: For x^2 + (-2)x + (-35) = 0, which is a solution?",-7,-5,8,7,7
+11,Maths,Geometry,Easy,Q379: Compute 2^4,8,32,16,18,16
+11,Maths,Statistics,Easy,"Q380: What is the slope through (-8,-7) and (-3,-10)?",0.6,0.4,-0.6,-1.6,-0.6
+11,Maths,Algebra,Easy,"Q381: For x^2 + (18)x + (81) = 0, which is a solution?",-8,-9,Option 3,9,-9
+11,Maths,Functions,Easy,Q382: Compute 2^7,64,128,256,130,128
+11,Maths,Geometry,Easy,"Q383: What is the slope through (-2,2) and (1,-1)?",0.0,1.0,-1.0,-2.0,-1.0
+11,Maths,Statistics,Easy,"Q384: For x^2 + (0)x + (-36) = 0, which is a solution?",6,Option 3,-6,-5,-6
+11,Maths,Algebra,Easy,Q385: Compute 2^2,2,8,4,6,4
+11,Maths,Functions,Easy,"Q386: What is the slope through (4,-10) and (5,-13)?",-4.0,3.0,-2.0,-3.0,-3.0
+11,Maths,Geometry,Easy,"Q387: For x^2 + (1)x + (-6) = 0, which is a solution?",-2,-3,2,3,-3
+11,Maths,Statistics,Easy,Q388: Compute 2^5,32,64,34,16,32
+11,Maths,Algebra,Easy,"Q389: What is the slope through (10,-1) and (14,-4)?",0.75,-1.75,0.25,-0.75,-0.75
+11,Maths,Functions,Easy,"Q390: For x^2 + (2)x + (0) = 0, which is a solution?",1,0,-2,Option 3,0
+11,Maths,Geometry,Easy,Q391: Compute 2^8,128,256,512,258,256
+11,Maths,Statistics,Easy,"Q392: What is the slope through (-5,8) and (-3,5)?",1.5,-1.5,-0.5,-2.5,-1.5
+11,Maths,Algebra,Easy,"Q393: For x^2 + (3)x + (-18) = 0, which is a solution?",-3,4,3,-6,3
+11,Maths,Functions,Easy,Q394: Compute 2^3,16,8,4,10,8
+11,Maths,Geometry,Easy,"Q395: What is the slope through (1,-4) and (6,-7)?",0.6,-0.6,0.4,-1.6,-0.6
+11,Maths,Statistics,Easy,"Q396: For x^2 + (-15)x + (54) = 0, which is a solution?",6,-6,9,7,6
+11,Maths,Algebra,Easy,Q397: Compute 2^6,66,64,32,128,64
+11,Maths,Functions,Easy,"Q398: What is the slope through (7,5) and (10,2)?",1.0,0.0,-2.0,-1.0,-1.0
+11,Maths,Geometry,Easy,"Q399: For x^2 + (-14)x + (45) = 0, which is a solution?",5,10,-9,9,9
+11,Maths,Statistics,Easy,Q400: Compute 2^9,512,256,1024,514,512
+11,Maths,Algebra,Easy,"Q401: What is the slope through (-8,-7) and (-7,-10)?",-2.0,3.0,-3.0,-4.0,-3.0
+11,Maths,Functions,Easy,"Q402: For x^2 + (6)x + (-7) = 0, which is a solution?",7,1,-7,-6,-7
+11,Maths,Geometry,Easy,Q403: Compute 2^4,8,18,32,16,16
+11,Maths,Statistics,Easy,"Q404: What is the slope through (-2,2) and (2,-1)?",-0.75,0.25,-1.75,0.75,-0.75
+11,Maths,Algebra,Easy,"Q405: For x^2 + (7)x + (12) = 0, which is a solution?",-4,Option 3,4,-3,-4
+11,Maths,Functions,Easy,Q406: Compute 2^7,256,64,128,130,128
+11,Maths,Geometry,Easy,"Q407: What is the slope through (4,-10) and (6,-13)?",-2.5,1.5,-1.5,-0.5,-1.5
+11,Maths,Statistics,Easy,"Q408: For x^2 + (8)x + (7) = 0, which is a solution?",0,1,-1,-7,-1
+11,Maths,Algebra,Easy,Q409: Compute 2^2,8,2,4,6,4
+11,Maths,Functions,Easy,"Q410: What is the slope through (10,-1) and (15,-4)?",-0.6,0.4,-1.6,0.6,-0.6
+11,Maths,Geometry,Easy,"Q411: For x^2 + (-10)x + (16) = 0, which is a solution?",3,8,2,-2,2
+11,Maths,Statistics,Easy,Q412: Compute 2^5,32,16,64,34,32
+11,Maths,Algebra,Easy,"Q413: What is the slope through (-5,8) and (-2,5)?",-2.0,-1.0,1.0,0.0,-1.0
+11,Maths,Functions,Easy,"Q414: For x^2 + (-9)x + (20) = 0, which is a solution?",4,-5,5,6,5
+11,Maths,Geometry,Easy,Q415: Compute 2^8,256,512,258,128,256
+11,Maths,Statistics,Easy,"Q416: What is the slope through (1,-4) and (2,-7)?",-3.0,-2.0,3.0,-4.0,-3.0
+11,Maths,Algebra,Easy,"Q417: For x^2 + (-8)x + (0) = 0, which is a solution?",-8,8,0,9,8
+11,Maths,Functions,Easy,Q418: Compute 2^3,4,8,10,16,8
+11,Maths,Geometry,Easy,"Q419: What is the slope through (7,5) and (11,2)?",0.75,-1.75,0.25,-0.75,-0.75
+11,Maths,Statistics,Easy,"Q420: For x^2 + (12)x + (32) = 0, which is a solution?",8,-7,-4,-8,-8
+11,Maths,Algebra,Easy,Q421: Compute 2^6,32,66,128,64,64
+11,Maths,Functions,Easy,"Q422: What is the slope through (-8,-7) and (-6,-10)?",-0.5,-1.5,1.5,-2.5,-1.5
+11,Maths,Geometry,Easy,"Q423: For x^2 + (13)x + (40) = 0, which is a solution?",5,-8,-5,-4,-5
+11,Maths,Statistics,Easy,Q424: Compute 2^9,512,514,1024,256,512
+11,Maths,Algebra,Easy,"Q425: What is the slope through (-2,2) and (3,-1)?",-1.6,0.4,0.6,-0.6,-0.6
+11,Maths,Functions,Easy,"Q426: For x^2 + (-5)x + (-14) = 0, which is a solution?",-1,7,2,-2,-2
+11,Maths,Geometry,Easy,Q427: Compute 2^4,16,32,8,18,16
+11,Maths,Statistics,Easy,"Q428: What is the slope through (4,-10) and (7,-13)?",0.0,-2.0,1.0,-1.0,-1.0
+11,Maths,Algebra,Easy,"Q429: For x^2 + (-4)x + (3) = 0, which is a solution?",3,1,2,-1,1
+11,Maths,Functions,Easy,Q430: Compute 2^7,64,128,130,256,128
+11,Maths,Geometry,Easy,"Q431: What is the slope through (10,-1) and (11,-4)?",-2.0,-3.0,3.0,-4.0,-3.0
+11,Maths,Statistics,Easy,"Q432: For x^2 + (-3)x + (-4) = 0, which is a solution?",5,4,-1,-4,4
+11,Maths,Algebra,Easy,Q433: Compute 2^2,8,6,2,4,4
+11,Maths,Functions,Easy,"Q434: What is the slope through (-5,8) and (-1,5)?",0.25,-1.75,-0.75,0.75,-0.75
+11,Maths,Geometry,Easy,"Q435: For x^2 + (-2)x + (-35) = 0, which is a solution?",-5,-7,8,7,7
+11,Maths,Statistics,Easy,Q436: Compute 2^5,16,32,64,34,32
+11,Maths,Algebra,Easy,"Q437: What is the slope through (1,-4) and (3,-7)?",-1.5,-0.5,1.5,-2.5,-1.5
+11,Maths,Functions,Easy,"Q438: For x^2 + (18)x + (81) = 0, which is a solution?",Option 3,9,-8,-9,-9
+11,Maths,Geometry,Easy,Q439: Compute 2^8,258,512,128,256,256
+11,Maths,Statistics,Easy,"Q440: What is the slope through (7,5) and (12,2)?",0.4,-1.6,0.6,-0.6,-0.6
+11,Maths,Algebra,Easy,"Q441: For x^2 + (0)x + (-36) = 0, which is a solution?",Option 3,6,-5,-6,-6
+11,Maths,Functions,Easy,Q442: Compute 2^3,4,8,16,10,8
+11,Maths,Geometry,Easy,"Q443: What is the slope through (-8,-7) and (-5,-10)?",0.0,1.0,-1.0,-2.0,-1.0
+11,Maths,Statistics,Easy,"Q444: For x^2 + (1)x + (-6) = 0, which is a solution?",2,3,-2,-3,-3
+11,Maths,Algebra,Easy,Q445: Compute 2^6,128,66,64,32,64
+11,Maths,Functions,Easy,"Q446: What is the slope through (-2,2) and (-1,-1)?",-2.0,-3.0,3.0,-4.0,-3.0
+11,Maths,Geometry,Easy,"Q447: For x^2 + (2)x + (0) = 0, which is a solution?",0,1,Option 3,-2,0
+11,Maths,Statistics,Easy,Q448: Compute 2^9,512,1024,514,256,512
+11,Maths,Algebra,Easy,"Q449: What is the slope through (4,-10) and (8,-13)?",0.25,0.75,-1.75,-0.75,-0.75
+11,Maths,Functions,Easy,"Q450: For x^2 + (3)x + (-18) = 0, which is a solution?",-3,4,-6,3,3
+11,Maths,Geometry,Easy,Q451: Compute 2^4,16,18,32,8,16
+11,Maths,Statistics,Easy,"Q452: What is the slope through (10,-1) and (12,-4)?",-2.5,1.5,-1.5,-0.5,-1.5
+11,Maths,Algebra,Easy,"Q453: For x^2 + (-15)x + (54) = 0, which is a solution?",7,9,6,-6,6
+11,Maths,Functions,Easy,Q454: Compute 2^7,130,256,64,128,128
+11,Maths,Geometry,Easy,"Q455: What is the slope through (-5,8) and (0,5)?",0.6,-1.6,-0.6,0.4,-0.6
+11,Maths,Statistics,Easy,"Q456: For x^2 + (-14)x + (45) = 0, which is a solution?",5,10,-9,9,9
+11,Maths,Algebra,Easy,Q457: Compute 2^2,8,6,2,4,4
+11,Maths,Functions,Easy,"Q458: What is the slope through (1,-4) and (4,-7)?",1.0,-2.0,0.0,-1.0,-1.0
+11,Maths,Geometry,Easy,"Q459: For x^2 + (6)x + (-7) = 0, which is a solution?",7,-7,1,-6,-7
+11,Maths,Statistics,Easy,Q460: Compute 2^5,64,32,34,16,32
+11,Maths,Algebra,Easy,"Q461: What is the slope through (7,5) and (8,2)?",-4.0,3.0,-3.0,-2.0,-3.0
+11,Maths,Functions,Easy,"Q462: For x^2 + (7)x + (12) = 0, which is a solution?",4,-4,Option 3,-3,-4
+11,Maths,Geometry,Easy,Q463: Compute 2^8,258,512,128,256,256
+11,Maths,Statistics,Easy,"Q464: What is the slope through (-8,-7) and (-4,-10)?",-1.75,0.25,0.75,-0.75,-0.75
+11,Maths,Algebra,Easy,"Q465: For x^2 + (8)x + (7) = 0, which is a solution?",1,-7,-1,0,-1
+11,Maths,Functions,Easy,Q466: Compute 2^3,10,4,16,8,8
+11,Maths,Geometry,Easy,"Q467: What is the slope through (-2,2) and (0,-1)?",-2.5,1.5,-1.5,-0.5,-1.5
+11,Maths,Statistics,Easy,"Q468: For x^2 + (-10)x + (16) = 0, which is a solution?",-2,2,8,3,2
+11,Maths,Algebra,Easy,Q469: Compute 2^6,64,32,66,128,64
+11,Maths,Functions,Easy,"Q470: What is the slope through (4,-10) and (9,-13)?",0.4,-0.6,-1.6,0.6,-0.6
+11,Maths,Geometry,Easy,"Q471: For x^2 + (-9)x + (20) = 0, which is a solution?",4,-5,6,5,5
+11,Maths,Statistics,Easy,Q472: Compute 2^9,514,256,1024,512,512
+11,Maths,Algebra,Easy,"Q473: What is the slope through (10,-1) and (13,-4)?",0.0,-1.0,1.0,-2.0,-1.0
+11,Maths,Functions,Easy,"Q474: For x^2 + (-8)x + (0) = 0, which is a solution?",-8,8,9,0,8
+11,Maths,Geometry,Easy,Q475: Compute 2^4,16,8,18,32,16
+11,Maths,Statistics,Easy,"Q476: What is the slope through (-5,8) and (-4,5)?",-4.0,-2.0,3.0,-3.0,-3.0
+11,Maths,Algebra,Easy,"Q477: For x^2 + (12)x + (32) = 0, which is a solution?",-4,-7,-8,8,-8
+11,Maths,Functions,Easy,Q478: Compute 2^7,64,256,130,128,128
+11,Maths,Geometry,Easy,"Q479: What is the slope through (1,-4) and (5,-7)?",0.75,0.25,-1.75,-0.75,-0.75
+11,Maths,Statistics,Easy,"Q480: For x^2 + (13)x + (40) = 0, which is a solution?",-4,5,-5,-8,-5
+11,Maths,Algebra,Easy,Q481: Compute 2^2,6,8,2,4,4
+11,Maths,Functions,Easy,"Q482: What is the slope through (7,5) and (9,2)?",-2.5,1.5,-0.5,-1.5,-1.5
+11,Maths,Geometry,Easy,"Q483: For x^2 + (-5)x + (-14) = 0, which is a solution?",2,-1,-2,7,-2
+11,Maths,Statistics,Easy,Q484: Compute 2^5,64,16,32,34,32
+11,Maths,Algebra,Easy,"Q485: What is the slope through (-8,-7) and (-3,-10)?",-0.6,0.6,-1.6,0.4,-0.6
+11,Maths,Functions,Easy,"Q486: For x^2 + (-4)x + (3) = 0, which is a solution?",3,2,1,-1,1
+11,Maths,Geometry,Easy,Q487: Compute 2^8,258,512,128,256,256
+11,Maths,Statistics,Easy,"Q488: What is the slope through (-2,2) and (1,-1)?",-2.0,-1.0,1.0,0.0,-1.0
+11,Maths,Algebra,Easy,"Q489: For x^2 + (-3)x + (-4) = 0, which is a solution?",-4,4,-1,5,4
+11,Maths,Functions,Easy,Q490: Compute 2^3,16,8,10,4,8
+11,Maths,Geometry,Easy,"Q491: What is the slope through (4,-10) and (5,-13)?",-2.0,-3.0,-4.0,3.0,-3.0
+11,Maths,Statistics,Easy,"Q492: For x^2 + (-2)x + (-35) = 0, which is a solution?",-5,-7,7,8,7
+11,Maths,Algebra,Easy,Q493: Compute 2^6,32,128,64,66,64
+11,Maths,Functions,Easy,"Q494: What is the slope through (10,-1) and (14,-4)?",0.75,-1.75,0.25,-0.75,-0.75
+11,Maths,Geometry,Easy,"Q495: For x^2 + (18)x + (81) = 0, which is a solution?",Option 3,-8,9,-9,-9
+11,Maths,Statistics,Easy,Q496: Compute 2^9,1024,256,514,512,512
+11,Maths,Algebra,Easy,"Q497: What is the slope through (-5,8) and (-3,5)?",1.5,-0.5,-2.5,-1.5,-1.5
+11,Maths,Functions,Easy,"Q498: For x^2 + (0)x + (-36) = 0, which is a solution?",Option 3,-5,6,-6,-6
+11,Maths,Geometry,Easy,Q499: Compute 2^4,16,32,18,8,16
+11,Maths,Statistics,Easy,"Q500: What is the slope through (1,-4) and (6,-7)?",0.4,-1.6,-0.6,0.6,-0.6
+11,Maths,Algebra,Easy,"Q501: For x^2 + (1)x + (-6) = 0, which is a solution?",3,2,-2,-3,-3
+11,Maths,Functions,Easy,Q502: Compute 2^7,64,128,256,130,128
+11,Maths,Geometry,Easy,"Q503: What is the slope through (7,5) and (10,2)?",-2.0,-1.0,1.0,0.0,-1.0
+11,Maths,Statistics,Easy,"Q504: For x^2 + (2)x + (0) = 0, which is a solution?",-2,1,0,Option 3,0
+11,Maths,Algebra,Easy,Q505: Compute 2^2,4,2,8,6,4
+11,Maths,Functions,Easy,"Q506: What is the slope through (-8,-7) and (-7,-10)?",-2.0,-4.0,-3.0,3.0,-3.0
+11,Maths,Geometry,Easy,"Q507: For x^2 + (3)x + (-18) = 0, which is a solution?",-6,3,4,-3,3
+11,Maths,Statistics,Easy,Q508: Compute 2^5,64,16,32,34,32
+11,Maths,Algebra,Easy,"Q509: What is the slope through (-2,2) and (2,-1)?",-0.75,-1.75,0.75,0.25,-0.75
+11,Maths,Functions,Easy,"Q510: For x^2 + (-15)x + (54) = 0, which is a solution?",7,9,-6,6,6
+11,Maths,Geometry,Easy,Q511: Compute 2^8,256,258,512,128,256
+11,Maths,Statistics,Easy,"Q512: What is the slope through (4,-10) and (6,-13)?",-2.5,-1.5,-0.5,1.5,-1.5
+11,Maths,Algebra,Easy,"Q513: For x^2 + (-14)x + (45) = 0, which is a solution?",5,-9,10,9,9
+11,Maths,Functions,Easy,Q514: Compute 2^3,4,16,10,8,8
+11,Maths,Geometry,Easy,"Q515: What is the slope through (10,-1) and (15,-4)?",0.4,-1.6,-0.6,0.6,-0.6
+11,Maths,Statistics,Easy,"Q516: For x^2 + (6)x + (-7) = 0, which is a solution?",1,-7,7,-6,-7
+11,Maths,Algebra,Easy,Q517: Compute 2^6,64,66,32,128,64
+11,Maths,Functions,Easy,"Q518: What is the slope through (-5,8) and (-2,5)?",0.0,1.0,-2.0,-1.0,-1.0
+11,Maths,Geometry,Easy,"Q519: For x^2 + (7)x + (12) = 0, which is a solution?",-4,Option 3,-3,4,-4
+11,Maths,Statistics,Easy,Q520: Compute 2^9,1024,512,514,256,512
+11,Maths,Algebra,Easy,"Q521: What is the slope through (1,-4) and (2,-7)?",3.0,-3.0,-2.0,-4.0,-3.0
+11,Maths,Functions,Easy,"Q522: For x^2 + (8)x + (7) = 0, which is a solution?",0,-7,-1,1,-1
+11,Maths,Geometry,Easy,Q523: Compute 2^4,32,18,8,16,16
+11,Maths,Statistics,Easy,"Q524: What is the slope through (7,5) and (11,2)?",-0.75,0.75,0.25,-1.75,-0.75
+11,Maths,Algebra,Easy,"Q525: For x^2 + (-10)x + (16) = 0, which is a solution?",2,-2,3,8,2
+11,Maths,Functions,Easy,Q526: Compute 2^7,130,128,256,64,128
+11,Maths,Geometry,Easy,"Q527: What is the slope through (-8,-7) and (-6,-10)?",1.5,-2.5,-0.5,-1.5,-1.5
+11,Maths,Statistics,Easy,"Q528: For x^2 + (-9)x + (20) = 0, which is a solution?",-5,4,5,6,5
+11,Maths,Algebra,Easy,Q529: Compute 2^2,4,8,6,2,4
+11,Maths,Functions,Easy,"Q530: What is the slope through (-2,2) and (3,-1)?",0.6,0.4,-0.6,-1.6,-0.6
+11,Maths,Geometry,Easy,"Q531: For x^2 + (-8)x + (0) = 0, which is a solution?",0,8,9,-8,8
+11,Maths,Statistics,Easy,Q532: Compute 2^5,64,16,34,32,32
+11,Maths,Algebra,Easy,"Q533: What is the slope through (4,-10) and (7,-13)?",0.0,-2.0,1.0,-1.0,-1.0
+11,Maths,Functions,Easy,"Q534: For x^2 + (12)x + (32) = 0, which is a solution?",-7,-4,8,-8,-8
+11,Maths,Geometry,Easy,Q535: Compute 2^8,128,512,258,256,256
+11,Maths,Statistics,Easy,"Q536: What is the slope through (10,-1) and (11,-4)?",-3.0,-2.0,-4.0,3.0,-3.0
+11,Maths,Algebra,Easy,"Q537: For x^2 + (13)x + (40) = 0, which is a solution?",-4,5,-8,-5,-5
+11,Maths,Functions,Easy,Q538: Compute 2^3,8,10,16,4,8
+11,Maths,Geometry,Easy,"Q539: What is the slope through (-5,8) and (-1,5)?",0.25,-0.75,-1.75,0.75,-0.75
+11,Maths,Statistics,Easy,"Q540: For x^2 + (-5)x + (-14) = 0, which is a solution?",-1,-2,2,7,-2
+11,Maths,Algebra,Easy,Q541: Compute 2^6,64,32,128,66,64
+11,Maths,Functions,Easy,"Q542: What is the slope through (1,-4) and (3,-7)?",1.5,-0.5,-1.5,-2.5,-1.5
+11,Maths,Geometry,Easy,"Q543: For x^2 + (-4)x + (3) = 0, which is a solution?",3,-1,2,1,1
+11,Maths,Statistics,Easy,Q544: Compute 2^9,256,512,1024,514,512
+11,Maths,Algebra,Easy,"Q545: What is the slope through (7,5) and (12,2)?",0.6,0.4,-1.6,-0.6,-0.6
+11,Maths,Functions,Easy,"Q546: For x^2 + (-3)x + (-4) = 0, which is a solution?",-4,5,4,-1,4
+11,Maths,Geometry,Easy,Q547: Compute 2^4,8,32,16,18,16
+11,Maths,Statistics,Easy,"Q548: What is the slope through (-8,-7) and (-5,-10)?",-2.0,-1.0,1.0,0.0,-1.0
+11,Maths,Algebra,Easy,"Q549: For x^2 + (-2)x + (-35) = 0, which is a solution?",8,-7,7,-5,7
+11,Maths,Functions,Easy,Q550: Compute 2^7,64,130,128,256,128
+11,Maths,Geometry,Easy,"Q551: What is the slope through (-2,2) and (-1,-1)?",-3.0,-4.0,3.0,-2.0,-3.0
+11,Maths,Statistics,Easy,"Q552: For x^2 + (18)x + (81) = 0, which is a solution?",-9,-8,9,Option 3,-9
+11,Maths,Algebra,Easy,Q553: Compute 2^2,2,8,6,4,4
+11,Maths,Functions,Easy,"Q554: What is the slope through (4,-10) and (8,-13)?",0.75,-0.75,0.25,-1.75,-0.75
+11,Maths,Geometry,Easy,"Q555: For x^2 + (0)x + (-36) = 0, which is a solution?",-5,6,Option 3,-6,-6
+11,Maths,Statistics,Easy,Q556: Compute 2^5,64,16,34,32,32
+11,Maths,Algebra,Easy,"Q557: What is the slope through (10,-1) and (12,-4)?",1.5,-0.5,-2.5,-1.5,-1.5
+11,Maths,Functions,Easy,"Q558: For x^2 + (1)x + (-6) = 0, which is a solution?",-3,-2,3,2,-3
+11,Maths,Geometry,Easy,Q559: Compute 2^8,256,258,128,512,256
+11,Maths,Statistics,Easy,"Q560: What is the slope through (-5,8) and (0,5)?",-0.6,0.4,0.6,-1.6,-0.6
+11,Maths,Algebra,Easy,"Q561: For x^2 + (2)x + (0) = 0, which is a solution?",Option 3,-2,0,1,0
+11,Maths,Functions,Easy,Q562: Compute 2^3,16,8,10,4,8
+11,Maths,Geometry,Easy,"Q563: What is the slope through (1,-4) and (4,-7)?",-1.0,-2.0,1.0,0.0,-1.0
+11,Maths,Statistics,Easy,"Q564: For x^2 + (3)x + (-18) = 0, which is a solution?",-6,3,4,-3,3
+11,Maths,Algebra,Easy,Q565: Compute 2^6,64,66,32,128,64
+11,Maths,Functions,Easy,"Q566: What is the slope through (7,5) and (8,2)?",-4.0,3.0,-3.0,-2.0,-3.0
+11,Maths,Geometry,Easy,"Q567: For x^2 + (-15)x + (54) = 0, which is a solution?",9,6,-6,7,6
+11,Maths,Statistics,Easy,Q568: Compute 2^9,514,512,1024,256,512
+11,Maths,Algebra,Easy,"Q569: What is the slope through (-8,-7) and (-4,-10)?",0.75,-0.75,-1.75,0.25,-0.75
+11,Maths,Functions,Easy,"Q570: For x^2 + (-14)x + (45) = 0, which is a solution?",5,10,-9,9,9
+11,Maths,Geometry,Easy,Q571: Compute 2^4,32,16,18,8,16
+11,Maths,Statistics,Easy,"Q572: What is the slope through (-2,2) and (0,-1)?",1.5,-0.5,-2.5,-1.5,-1.5
+11,Maths,Algebra,Easy,"Q573: For x^2 + (6)x + (-7) = 0, which is a solution?",-6,-7,1,7,-7
+11,Maths,Functions,Easy,Q574: Compute 2^7,256,128,64,130,128
+11,Maths,Geometry,Easy,"Q575: What is the slope through (4,-10) and (9,-13)?",0.4,-1.6,-0.6,0.6,-0.6
+11,Maths,Statistics,Easy,"Q576: For x^2 + (7)x + (12) = 0, which is a solution?",-3,-4,Option 3,4,-4
+11,Maths,Algebra,Easy,Q577: Compute 2^2,6,4,2,8,4
+11,Maths,Functions,Easy,"Q578: What is the slope through (10,-1) and (13,-4)?",-2.0,1.0,0.0,-1.0,-1.0
+11,Maths,Geometry,Easy,"Q579: For x^2 + (8)x + (7) = 0, which is a solution?",-7,0,1,-1,-1
+11,Maths,Statistics,Easy,Q580: Compute 2^5,16,32,64,34,32
+11,Maths,Algebra,Easy,"Q581: What is the slope through (-5,8) and (-4,5)?",-3.0,-4.0,-2.0,3.0,-3.0
+11,Maths,Functions,Easy,"Q582: For x^2 + (-10)x + (16) = 0, which is a solution?",8,3,-2,2,2
+11,Maths,Geometry,Easy,Q583: Compute 2^8,512,256,128,258,256
+11,Maths,Statistics,Easy,"Q584: What is the slope through (1,-4) and (5,-7)?",-1.75,-0.75,0.25,0.75,-0.75
+11,Maths,Algebra,Easy,"Q585: For x^2 + (-9)x + (20) = 0, which is a solution?",5,6,4,-5,5
+11,Maths,Functions,Easy,Q586: Compute 2^3,4,16,8,10,8
+11,Maths,Geometry,Easy,"Q587: What is the slope through (7,5) and (9,2)?",1.5,-2.5,-1.5,-0.5,-1.5
+11,Maths,Statistics,Easy,"Q588: For x^2 + (-8)x + (0) = 0, which is a solution?",9,8,0,-8,8
+11,Maths,Algebra,Easy,Q589: Compute 2^6,128,32,64,66,64
+11,Maths,Functions,Easy,"Q590: What is the slope through (-8,-7) and (-3,-10)?",0.4,-1.6,0.6,-0.6,-0.6
+11,Maths,Geometry,Easy,"Q591: For x^2 + (12)x + (32) = 0, which is a solution?",-8,-7,8,-4,-8
+11,Maths,Statistics,Easy,Q592: Compute 2^9,512,514,1024,256,512
+11,Maths,Algebra,Easy,"Q593: What is the slope through (-2,2) and (1,-1)?",-1.0,-2.0,1.0,0.0,-1.0
+11,Maths,Functions,Easy,"Q594: For x^2 + (13)x + (40) = 0, which is a solution?",-5,-4,5,-8,-5
+11,Maths,Geometry,Easy,Q595: Compute 2^4,8,16,18,32,16
+11,Maths,Statistics,Easy,"Q596: What is the slope through (4,-10) and (5,-13)?",-3.0,-2.0,3.0,-4.0,-3.0
+11,Maths,Algebra,Easy,"Q597: For x^2 + (-5)x + (-14) = 0, which is a solution?",-2,-1,7,2,-2
+11,Maths,Functions,Easy,Q598: Compute 2^7,256,130,128,64,128
+11,Maths,Geometry,Easy,"Q599: What is the slope through (10,-1) and (14,-4)?",0.25,-0.75,-1.75,0.75,-0.75
+11,Maths,Statistics,Easy,"Q600: For x^2 + (-4)x + (3) = 0, which is a solution?",-1,3,2,1,1
+11,Maths,Algebra,Easy,Q601: Compute 2^2,2,6,4,8,4
+11,Maths,Functions,Easy,"Q602: What is the slope through (-5,8) and (-3,5)?",-1.5,1.5,-2.5,-0.5,-1.5
+11,Maths,Geometry,Easy,"Q603: For x^2 + (-3)x + (-4) = 0, which is a solution?",-4,-1,4,5,4
+11,Maths,Statistics,Easy,Q604: Compute 2^5,64,16,32,34,32
+11,Maths,Algebra,Easy,"Q605: What is the slope through (1,-4) and (6,-7)?",0.4,-1.6,0.6,-0.6,-0.6
+11,Maths,Functions,Easy,"Q606: For x^2 + (-2)x + (-35) = 0, which is a solution?",-5,7,-7,8,7
+11,Maths,Geometry,Easy,Q607: Compute 2^8,258,256,512,128,256
+11,Maths,Statistics,Easy,"Q608: What is the slope through (7,5) and (10,2)?",1.0,0.0,-2.0,-1.0,-1.0
+11,Maths,Algebra,Easy,"Q609: For x^2 + (18)x + (81) = 0, which is a solution?",Option 3,-9,-8,9,-9
+11,Maths,Functions,Easy,Q610: Compute 2^3,8,4,16,10,8
+11,Maths,Geometry,Easy,"Q611: What is the slope through (-8,-7) and (-7,-10)?",-2.0,-4.0,-3.0,3.0,-3.0
+11,Maths,Statistics,Easy,"Q612: For x^2 + (0)x + (-36) = 0, which is a solution?",-6,6,Option 3,-5,-6
+11,Maths,Algebra,Easy,Q613: Compute 2^6,66,32,128,64,64
+11,Maths,Functions,Easy,"Q614: What is the slope through (-2,2) and (2,-1)?",0.75,0.25,-0.75,-1.75,-0.75
+11,Maths,Geometry,Easy,"Q615: For x^2 + (1)x + (-6) = 0, which is a solution?",3,2,-2,-3,-3
+11,Maths,Statistics,Easy,Q616: Compute 2^9,512,1024,256,514,512
+11,Maths,Algebra,Easy,"Q617: What is the slope through (4,-10) and (6,-13)?",-1.5,-2.5,-0.5,1.5,-1.5
+11,Maths,Functions,Easy,"Q618: For x^2 + (2)x + (0) = 0, which is a solution?",1,Option 3,0,-2,0
+11,Maths,Geometry,Easy,Q619: Compute 2^4,16,8,32,18,16
+11,Maths,Statistics,Easy,"Q620: What is the slope through (10,-1) and (15,-4)?",-1.6,0.4,0.6,-0.6,-0.6
+11,Maths,Algebra,Easy,"Q621: For x^2 + (3)x + (-18) = 0, which is a solution?",-6,3,-3,4,3
+11,Maths,Functions,Easy,Q622: Compute 2^7,256,130,128,64,128
+11,Maths,Geometry,Easy,"Q623: What is the slope through (-5,8) and (-2,5)?",-2.0,-1.0,0.0,1.0,-1.0
+11,Maths,Statistics,Easy,"Q624: For x^2 + (-15)x + (54) = 0, which is a solution?",7,9,-6,6,6
+11,Maths,Algebra,Easy,Q625: Compute 2^2,2,4,8,6,4
+11,Maths,Functions,Easy,"Q626: What is the slope through (1,-4) and (2,-7)?",-3.0,-4.0,-2.0,3.0,-3.0
+11,Maths,Geometry,Easy,"Q627: For x^2 + (-14)x + (45) = 0, which is a solution?",10,9,-9,5,9
+11,Maths,Statistics,Easy,Q628: Compute 2^5,32,16,64,34,32
+11,Maths,Algebra,Easy,"Q629: What is the slope through (7,5) and (11,2)?",-0.75,-1.75,0.25,0.75,-0.75
+11,Maths,Functions,Easy,"Q630: For x^2 + (6)x + (-7) = 0, which is a solution?",1,-6,-7,7,-7
+11,Maths,Geometry,Easy,Q631: Compute 2^8,128,258,512,256,256
+11,Maths,Statistics,Easy,"Q632: What is the slope through (-8,-7) and (-6,-10)?",1.5,-0.5,-2.5,-1.5,-1.5
+11,Maths,Algebra,Easy,"Q633: For x^2 + (7)x + (12) = 0, which is a solution?",Option 3,4,-3,-4,-4
+11,Maths,Functions,Easy,Q634: Compute 2^3,4,10,8,16,8
+11,Maths,Geometry,Easy,"Q635: What is the slope through (-2,2) and (3,-1)?",0.4,-0.6,0.6,-1.6,-0.6
+11,Maths,Statistics,Easy,"Q636: For x^2 + (8)x + (7) = 0, which is a solution?",-7,-1,0,1,-1
+11,Maths,Algebra,Easy,Q637: Compute 2^6,64,66,32,128,64
+11,Maths,Functions,Easy,"Q638: What is the slope through (4,-10) and (7,-13)?",-2.0,-1.0,0.0,1.0,-1.0
+11,Maths,Geometry,Easy,"Q639: For x^2 + (-10)x + (16) = 0, which is a solution?",8,-2,3,2,2
+11,Maths,Statistics,Easy,Q640: Compute 2^9,514,256,1024,512,512
+11,Maths,Algebra,Easy,"Q641: What is the slope through (10,-1) and (11,-4)?",3.0,-4.0,-2.0,-3.0,-3.0
+11,Maths,Functions,Easy,"Q642: For x^2 + (-9)x + (20) = 0, which is a solution?",6,-5,4,5,5
+11,Maths,Geometry,Easy,Q643: Compute 2^4,18,8,16,32,16
+11,Maths,Statistics,Easy,"Q644: What is the slope through (-5,8) and (-1,5)?",0.25,-1.75,0.75,-0.75,-0.75
+11,Maths,Algebra,Easy,"Q645: For x^2 + (-8)x + (0) = 0, which is a solution?",8,0,9,-8,8
+11,Maths,Functions,Easy,Q646: Compute 2^7,256,130,64,128,128
+11,Maths,Geometry,Easy,"Q647: What is the slope through (1,-4) and (3,-7)?",-1.5,-0.5,1.5,-2.5,-1.5
+11,Maths,Statistics,Easy,"Q648: For x^2 + (12)x + (32) = 0, which is a solution?",-4,8,-8,-7,-8
+11,Maths,Algebra,Easy,Q649: Compute 2^2,8,4,2,6,4
+11,Maths,Functions,Easy,"Q650: What is the slope through (7,5) and (12,2)?",-1.6,0.6,0.4,-0.6,-0.6
+11,Maths,Geometry,Easy,"Q651: For x^2 + (13)x + (40) = 0, which is a solution?",-4,-5,-8,5,-5
+11,Maths,Statistics,Easy,Q652: Compute 2^5,64,16,34,32,32
+11,Maths,Algebra,Easy,"Q653: What is the slope through (-8,-7) and (-5,-10)?",0.0,-2.0,1.0,-1.0,-1.0
+11,Maths,Functions,Easy,"Q654: For x^2 + (-5)x + (-14) = 0, which is a solution?",-2,2,7,-1,-2
+11,Maths,Geometry,Easy,Q655: Compute 2^8,512,128,256,258,256
+11,Maths,Statistics,Easy,"Q656: What is the slope through (-2,2) and (-1,-1)?",3.0,-3.0,-2.0,-4.0,-3.0
+11,Maths,Algebra,Easy,"Q657: For x^2 + (-4)x + (3) = 0, which is a solution?",2,1,-1,3,1
+11,Maths,Functions,Easy,Q658: Compute 2^3,4,16,8,10,8
+11,Maths,Geometry,Easy,"Q659: What is the slope through (4,-10) and (8,-13)?",0.75,0.25,-1.75,-0.75,-0.75
+11,Maths,Statistics,Easy,"Q660: For x^2 + (-3)x + (-4) = 0, which is a solution?",-1,-4,5,4,4
+11,Maths,Algebra,Easy,Q661: Compute 2^6,66,128,32,64,64
+11,Maths,Functions,Easy,"Q662: What is the slope through (10,-1) and (12,-4)?",-0.5,-1.5,-2.5,1.5,-1.5
+11,Maths,Geometry,Easy,"Q663: For x^2 + (-2)x + (-35) = 0, which is a solution?",7,8,-7,-5,7
+11,Maths,Statistics,Easy,Q664: Compute 2^9,1024,514,256,512,512
+11,Maths,Algebra,Easy,"Q665: What is the slope through (-5,8) and (0,5)?",-0.6,0.4,0.6,-1.6,-0.6
+11,Maths,Functions,Easy,"Q666: For x^2 + (18)x + (81) = 0, which is a solution?",Option 3,-9,9,-8,-9
+11,Maths,Geometry,Easy,Q667: Compute 2^4,32,16,18,8,16
+11,Maths,Statistics,Easy,"Q668: What is the slope through (1,-4) and (4,-7)?",-1.0,-2.0,0.0,1.0,-1.0
+11,Maths,Algebra,Easy,"Q669: For x^2 + (0)x + (-36) = 0, which is a solution?",-5,6,-6,Option 3,-6
+11,Maths,Functions,Easy,Q670: Compute 2^7,64,130,256,128,128
+11,Maths,Geometry,Easy,"Q671: What is the slope through (7,5) and (8,2)?",-2.0,-4.0,3.0,-3.0,-3.0
+11,Maths,Statistics,Easy,"Q672: For x^2 + (1)x + (-6) = 0, which is a solution?",3,2,-2,-3,-3
+11,Maths,Algebra,Easy,Q673: Compute 2^2,4,2,6,8,4
+11,Maths,Functions,Easy,"Q674: What is the slope through (-8,-7) and (-4,-10)?",0.75,-1.75,-0.75,0.25,-0.75
+11,Maths,Geometry,Easy,"Q675: For x^2 + (2)x + (0) = 0, which is a solution?",Option 3,1,0,-2,0
+11,Maths,Statistics,Easy,Q676: Compute 2^5,64,16,32,34,32
+11,Maths,Algebra,Easy,"Q677: What is the slope through (-2,2) and (0,-1)?",-2.5,1.5,-1.5,-0.5,-1.5
+11,Maths,Functions,Easy,"Q678: For x^2 + (3)x + (-18) = 0, which is a solution?",-3,-6,4,3,3
+11,Maths,Geometry,Easy,Q679: Compute 2^8,128,256,512,258,256
+11,Maths,Statistics,Easy,"Q680: What is the slope through (4,-10) and (9,-13)?",-1.6,0.6,-0.6,0.4,-0.6
+11,Maths,Algebra,Easy,"Q681: For x^2 + (-15)x + (54) = 0, which is a solution?",6,9,-6,7,6
+11,Maths,Functions,Easy,Q682: Compute 2^3,16,4,10,8,8
+11,Maths,Geometry,Easy,"Q683: What is the slope through (10,-1) and (13,-4)?",1.0,-2.0,0.0,-1.0,-1.0
+11,Maths,Statistics,Easy,"Q684: For x^2 + (-14)x + (45) = 0, which is a solution?",-9,10,9,5,9
+11,Maths,Algebra,Easy,Q685: Compute 2^6,32,128,66,64,64
+11,Maths,Functions,Easy,"Q686: What is the slope through (-5,8) and (-4,5)?",-2.0,-3.0,-4.0,3.0,-3.0
+11,Maths,Geometry,Easy,"Q687: For x^2 + (6)x + (-7) = 0, which is a solution?",-6,1,-7,7,-7
+11,Maths,Statistics,Easy,Q688: Compute 2^9,512,1024,256,514,512
+11,Maths,Algebra,Easy,"Q689: What is the slope through (1,-4) and (5,-7)?",-1.75,0.75,0.25,-0.75,-0.75
+11,Maths,Functions,Easy,"Q690: For x^2 + (7)x + (12) = 0, which is a solution?",4,Option 3,-4,-3,-4
+11,Maths,Geometry,Easy,Q691: Compute 2^4,18,8,32,16,16
+11,Maths,Statistics,Easy,"Q692: What is the slope through (7,5) and (9,2)?",-0.5,-2.5,1.5,-1.5,-1.5
+11,Maths,Algebra,Easy,"Q693: For x^2 + (8)x + (7) = 0, which is a solution?",1,-7,0,-1,-1
+11,Maths,Functions,Easy,Q694: Compute 2^7,130,128,256,64,128
+11,Maths,Geometry,Easy,"Q695: What is the slope through (-8,-7) and (-3,-10)?",0.6,-0.6,-1.6,0.4,-0.6
+11,Maths,Statistics,Easy,"Q696: For x^2 + (-10)x + (16) = 0, which is a solution?",3,8,2,-2,2
+11,Maths,Algebra,Easy,Q697: Compute 2^2,6,2,4,8,4
+11,Maths,Functions,Easy,"Q698: What is the slope through (-2,2) and (1,-1)?",-1.0,-2.0,0.0,1.0,-1.0
+11,Maths,Geometry,Easy,"Q699: For x^2 + (-9)x + (20) = 0, which is a solution?",-5,4,5,6,5
+11,Maths,Statistics,Easy,Q700: Compute 2^5,34,16,32,64,32
+11,Maths,Algebra,Easy,"Q701: What is the slope through (4,-10) and (5,-13)?",3.0,-3.0,-4.0,-2.0,-3.0
+11,Maths,Functions,Easy,"Q702: For x^2 + (-8)x + (0) = 0, which is a solution?",0,9,-8,8,8
+11,Maths,Geometry,Easy,Q703: Compute 2^8,256,258,512,128,256
+11,Maths,Statistics,Easy,"Q704: What is the slope through (10,-1) and (14,-4)?",0.75,-0.75,0.25,-1.75,-0.75
+11,Maths,Algebra,Easy,"Q705: For x^2 + (12)x + (32) = 0, which is a solution?",-8,8,-4,-7,-8
+11,Maths,Functions,Easy,Q706: Compute 2^3,16,10,8,4,8
+11,Maths,Geometry,Easy,"Q707: What is the slope through (-5,8) and (-3,5)?",-1.5,-0.5,-2.5,1.5,-1.5
+11,Maths,Statistics,Easy,"Q708: For x^2 + (13)x + (40) = 0, which is a solution?",5,-5,-8,-4,-5
+11,Maths,Algebra,Easy,Q709: Compute 2^6,66,64,32,128,64
+11,Maths,Functions,Easy,"Q710: What is the slope through (1,-4) and (6,-7)?",0.6,-0.6,-1.6,0.4,-0.6
+11,Maths,Geometry,Easy,"Q711: For x^2 + (-5)x + (-14) = 0, which is a solution?",7,2,-1,-2,-2
+11,Maths,Statistics,Easy,Q712: Compute 2^9,256,512,514,1024,512
+11,Maths,Algebra,Easy,"Q713: What is the slope through (7,5) and (10,2)?",1.0,0.0,-2.0,-1.0,-1.0
+11,Maths,Functions,Easy,"Q714: For x^2 + (-4)x + (3) = 0, which is a solution?",-1,3,2,1,1
+11,Maths,Geometry,Easy,Q715: Compute 2^4,16,18,32,8,16
+11,Maths,Statistics,Easy,"Q716: What is the slope through (-8,-7) and (-7,-10)?",-4.0,-2.0,-3.0,3.0,-3.0
+11,Maths,Algebra,Easy,"Q717: For x^2 + (-3)x + (-4) = 0, which is a solution?",-1,-4,4,5,4
+11,Maths,Functions,Easy,Q718: Compute 2^7,64,130,128,256,128
+11,Maths,Geometry,Easy,"Q719: What is the slope through (-2,2) and (2,-1)?",-1.75,0.25,0.75,-0.75,-0.75
+11,Maths,Statistics,Easy,"Q720: For x^2 + (-2)x + (-35) = 0, which is a solution?",7,-5,-7,8,7
+11,Maths,Algebra,Easy,Q721: Compute 2^2,2,4,6,8,4
+11,Maths,Functions,Easy,"Q722: What is the slope through (4,-10) and (6,-13)?",1.5,-1.5,-0.5,-2.5,-1.5
+11,Maths,Geometry,Easy,"Q723: For x^2 + (18)x + (81) = 0, which is a solution?",Option 3,9,-8,-9,-9
+11,Maths,Statistics,Easy,Q724: Compute 2^5,64,32,16,34,32
+11,Maths,Algebra,Easy,"Q725: What is the slope through (10,-1) and (15,-4)?",-1.6,0.6,0.4,-0.6,-0.6
+11,Maths,Functions,Easy,"Q726: For x^2 + (0)x + (-36) = 0, which is a solution?",Option 3,6,-5,-6,-6
+11,Maths,Geometry,Easy,Q727: Compute 2^8,128,512,258,256,256
+11,Maths,Statistics,Easy,"Q728: What is the slope through (-5,8) and (-2,5)?",-2.0,-1.0,0.0,1.0,-1.0
+11,Maths,Algebra,Easy,"Q729: For x^2 + (1)x + (-6) = 0, which is a solution?",-2,-3,3,2,-3
+11,Maths,Functions,Easy,Q730: Compute 2^3,10,16,8,4,8
+11,Maths,Geometry,Easy,"Q731: What is the slope through (1,-4) and (2,-7)?",-4.0,-3.0,-2.0,3.0,-3.0
+11,Maths,Statistics,Easy,"Q732: For x^2 + (2)x + (0) = 0, which is a solution?",0,1,-2,Option 3,0
+11,Maths,Algebra,Easy,Q733: Compute 2^6,128,32,66,64,64
+11,Maths,Functions,Easy,"Q734: What is the slope through (7,5) and (11,2)?",-0.75,0.25,-1.75,0.75,-0.75
+11,Maths,Geometry,Easy,"Q735: For x^2 + (3)x + (-18) = 0, which is a solution?",-6,-3,3,4,3
+11,Maths,Statistics,Easy,Q736: Compute 2^9,256,1024,514,512,512
+11,Maths,Algebra,Easy,"Q737: What is the slope through (-8,-7) and (-6,-10)?",-0.5,-2.5,1.5,-1.5,-1.5
+11,Maths,Functions,Easy,"Q738: For x^2 + (-15)x + (54) = 0, which is a solution?",9,-6,6,7,6
+11,Maths,Geometry,Easy,Q739: Compute 2^4,8,32,18,16,16
+11,Maths,Statistics,Easy,"Q740: What is the slope through (-2,2) and (3,-1)?",-0.6,-1.6,0.4,0.6,-0.6
+11,Maths,Algebra,Easy,"Q741: For x^2 + (-14)x + (45) = 0, which is a solution?",5,9,10,-9,9
+11,Maths,Functions,Easy,Q742: Compute 2^7,128,130,64,256,128
+11,Maths,Geometry,Easy,"Q743: What is the slope through (4,-10) and (7,-13)?",-2.0,-1.0,1.0,0.0,-1.0
+11,Maths,Statistics,Easy,"Q744: For x^2 + (6)x + (-7) = 0, which is a solution?",-7,7,1,-6,-7
+11,Maths,Algebra,Easy,Q745: Compute 2^2,8,6,4,2,4
+11,Maths,Functions,Easy,"Q746: What is the slope through (10,-1) and (11,-4)?",3.0,-3.0,-2.0,-4.0,-3.0
+11,Maths,Geometry,Easy,"Q747: For x^2 + (7)x + (12) = 0, which is a solution?",-4,Option 3,-3,4,-4
+11,Maths,Statistics,Easy,Q748: Compute 2^5,16,32,64,34,32
+11,Maths,Algebra,Easy,"Q749: What is the slope through (-5,8) and (-1,5)?",-1.75,-0.75,0.25,0.75,-0.75
+11,Maths,Functions,Easy,"Q750: For x^2 + (8)x + (7) = 0, which is a solution?",0,-1,1,-7,-1
+11,Maths,Geometry,Easy,Q751: Compute 2^8,512,128,256,258,256
+11,Maths,Statistics,Easy,"Q752: What is the slope through (1,-4) and (3,-7)?",-2.5,-0.5,1.5,-1.5,-1.5
+11,Maths,Algebra,Easy,"Q753: For x^2 + (-10)x + (16) = 0, which is a solution?",2,3,8,-2,2
+11,Maths,Functions,Easy,Q754: Compute 2^3,16,4,10,8,8
+11,Maths,Geometry,Easy,"Q755: What is the slope through (7,5) and (12,2)?",-0.6,0.6,0.4,-1.6,-0.6
+11,Maths,Statistics,Easy,"Q756: For x^2 + (-9)x + (20) = 0, which is a solution?",5,4,-5,6,5
+11,Maths,Algebra,Easy,Q757: Compute 2^6,64,32,66,128,64
+11,Maths,Functions,Easy,"Q758: What is the slope through (-8,-7) and (-5,-10)?",0.0,-2.0,-1.0,1.0,-1.0
+11,Maths,Geometry,Easy,"Q759: For x^2 + (-8)x + (0) = 0, which is a solution?",-8,8,9,0,8
+11,Maths,Statistics,Easy,Q760: Compute 2^9,1024,512,256,514,512
+11,Maths,Algebra,Easy,"Q761: What is the slope through (-2,2) and (-1,-1)?",-3.0,3.0,-2.0,-4.0,-3.0
+11,Maths,Functions,Easy,"Q762: For x^2 + (12)x + (32) = 0, which is a solution?",-4,8,-7,-8,-8
+11,Maths,Geometry,Easy,Q763: Compute 2^4,18,32,16,8,16
+11,Maths,Statistics,Easy,"Q764: What is the slope through (4,-10) and (8,-13)?",-1.75,0.25,-0.75,0.75,-0.75
+11,Maths,Algebra,Easy,"Q765: For x^2 + (13)x + (40) = 0, which is a solution?",5,-4,-5,-8,-5
+11,Maths,Functions,Easy,Q766: Compute 2^7,256,128,64,130,128
+11,Maths,Geometry,Easy,"Q767: What is the slope through (10,-1) and (12,-4)?",-0.5,1.5,-1.5,-2.5,-1.5
+11,Maths,Statistics,Easy,"Q768: For x^2 + (-5)x + (-14) = 0, which is a solution?",2,7,-1,-2,-2
+11,Maths,Algebra,Easy,Q769: Compute 2^2,8,4,2,6,4
+11,Maths,Functions,Easy,"Q770: What is the slope through (-5,8) and (0,5)?",-0.6,0.6,-1.6,0.4,-0.6
+11,Maths,Geometry,Easy,"Q771: For x^2 + (-4)x + (3) = 0, which is a solution?",2,-1,3,1,1
+11,Maths,Statistics,Easy,Q772: Compute 2^5,16,32,64,34,32
+11,Maths,Algebra,Easy,"Q773: What is the slope through (1,-4) and (4,-7)?",0.0,-2.0,-1.0,1.0,-1.0
+11,Maths,Functions,Easy,"Q774: For x^2 + (-3)x + (-4) = 0, which is a solution?",4,5,-4,-1,4
+11,Maths,Geometry,Easy,Q775: Compute 2^8,256,258,512,128,256
+11,Maths,Statistics,Easy,"Q776: What is the slope through (7,5) and (8,2)?",-2.0,-4.0,-3.0,3.0,-3.0
+11,Maths,Algebra,Easy,"Q777: For x^2 + (-2)x + (-35) = 0, which is a solution?",-5,8,-7,7,7
+11,Maths,Functions,Easy,Q778: Compute 2^3,8,16,10,4,8
+11,Maths,Geometry,Easy,"Q779: What is the slope through (-8,-7) and (-4,-10)?",0.75,-0.75,0.25,-1.75,-0.75
+11,Maths,Statistics,Easy,"Q780: For x^2 + (18)x + (81) = 0, which is a solution?",-9,-8,9,Option 3,-9
+11,Maths,Algebra,Easy,Q781: Compute 2^6,128,32,66,64,64
+11,Maths,Functions,Easy,"Q782: What is the slope through (-2,2) and (0,-1)?",-1.5,-0.5,1.5,-2.5,-1.5
+11,Maths,Geometry,Easy,"Q783: For x^2 + (0)x + (-36) = 0, which is a solution?",6,-5,Option 3,-6,-6
+11,Maths,Statistics,Easy,Q784: Compute 2^9,514,1024,512,256,512
+11,Maths,Algebra,Easy,"Q785: What is the slope through (4,-10) and (9,-13)?",-0.6,-1.6,0.4,0.6,-0.6
+11,Maths,Functions,Easy,"Q786: For x^2 + (1)x + (-6) = 0, which is a solution?",-3,-2,2,3,-3
+11,Maths,Geometry,Easy,Q787: Compute 2^4,18,32,8,16,16
+11,Maths,Statistics,Easy,"Q788: What is the slope through (10,-1) and (13,-4)?",-1.0,-2.0,0.0,1.0,-1.0
+11,Maths,Algebra,Easy,"Q789: For x^2 + (2)x + (0) = 0, which is a solution?",-2,0,1,Option 3,0
+11,Maths,Functions,Easy,Q790: Compute 2^7,130,64,256,128,128
+11,Maths,Geometry,Easy,"Q791: What is the slope through (-5,8) and (-4,5)?",-3.0,-4.0,-2.0,3.0,-3.0
+11,Maths,Statistics,Easy,"Q792: For x^2 + (3)x + (-18) = 0, which is a solution?",3,-3,-6,4,3
+11,Maths,Algebra,Easy,Q793: Compute 2^2,8,4,6,2,4
+11,Maths,Functions,Easy,"Q794: What is the slope through (1,-4) and (5,-7)?",0.75,-0.75,-1.75,0.25,-0.75
+11,Maths,Geometry,Easy,"Q795: For x^2 + (-15)x + (54) = 0, which is a solution?",7,9,6,-6,6
+11,Maths,Statistics,Easy,Q796: Compute 2^5,32,34,16,64,32
+11,Maths,Algebra,Easy,"Q797: What is the slope through (7,5) and (9,2)?",-1.5,1.5,-2.5,-0.5,-1.5
+11,Maths,Functions,Easy,"Q798: For x^2 + (-14)x + (45) = 0, which is a solution?",10,-9,5,9,9
+11,Maths,Geometry,Easy,Q799: Compute 2^8,512,258,128,256,256
+11,Maths,Statistics,Easy,"Q800: What is the slope through (-8,-7) and (-3,-10)?",-0.6,-1.6,0.6,0.4,-0.6
+11,Maths,Algebra,Easy,"Q801: For x^2 + (6)x + (-7) = 0, which is a solution?",-7,1,7,-6,-7
+11,Maths,Functions,Easy,Q802: Compute 2^3,16,8,4,10,8
+11,Maths,Geometry,Easy,"Q803: What is the slope through (-2,2) and (1,-1)?",1.0,-1.0,-2.0,0.0,-1.0
+11,Maths,Statistics,Easy,"Q804: For x^2 + (7)x + (12) = 0, which is a solution?",4,-4,Option 3,-3,-4
+11,Maths,Algebra,Easy,Q805: Compute 2^6,66,64,128,32,64
+11,Maths,Functions,Easy,"Q806: What is the slope through (4,-10) and (5,-13)?",-2.0,3.0,-3.0,-4.0,-3.0
+11,Maths,Geometry,Easy,"Q807: For x^2 + (8)x + (7) = 0, which is a solution?",0,-1,1,-7,-1
+11,Maths,Statistics,Easy,Q808: Compute 2^9,514,256,512,1024,512
+11,Maths,Algebra,Easy,"Q809: What is the slope through (10,-1) and (14,-4)?",0.25,0.75,-0.75,-1.75,-0.75
+11,Maths,Functions,Easy,"Q810: For x^2 + (-10)x + (16) = 0, which is a solution?",2,-2,8,3,2
+11,Maths,Geometry,Easy,Q811: Compute 2^4,8,32,18,16,16
+11,Maths,Statistics,Easy,"Q812: What is the slope through (-5,8) and (-3,5)?",-2.5,1.5,-0.5,-1.5,-1.5
+11,Maths,Algebra,Easy,"Q813: For x^2 + (-9)x + (20) = 0, which is a solution?",6,-5,5,4,5
+11,Maths,Functions,Easy,Q814: Compute 2^7,130,128,256,64,128
+11,Maths,Geometry,Easy,"Q815: What is the slope through (1,-4) and (6,-7)?",0.6,-1.6,0.4,-0.6,-0.6
+11,Maths,Statistics,Easy,"Q816: For x^2 + (-8)x + (0) = 0, which is a solution?",8,-8,9,0,8
+11,Maths,Algebra,Easy,Q817: Compute 2^2,4,8,6,2,4
+11,Maths,Functions,Easy,"Q818: What is the slope through (7,5) and (10,2)?",1.0,-1.0,-2.0,0.0,-1.0
+11,Maths,Geometry,Easy,"Q819: For x^2 + (12)x + (32) = 0, which is a solution?",8,-4,-8,-7,-8
+11,Maths,Statistics,Easy,Q820: Compute 2^5,16,64,32,34,32
+11,Maths,Algebra,Easy,"Q821: What is the slope through (-8,-7) and (-7,-10)?",-4.0,-3.0,-2.0,3.0,-3.0
+11,Maths,Functions,Easy,"Q822: For x^2 + (13)x + (40) = 0, which is a solution?",-8,-5,-4,5,-5
+11,Maths,Geometry,Easy,Q823: Compute 2^8,512,256,128,258,256
+11,Maths,Statistics,Easy,"Q824: What is the slope through (-2,2) and (2,-1)?",-1.75,0.25,-0.75,0.75,-0.75
+11,Maths,Algebra,Easy,"Q825: For x^2 + (-5)x + (-14) = 0, which is a solution?",7,2,-1,-2,-2
+11,Maths,Functions,Easy,Q826: Compute 2^3,8,16,10,4,8
+11,Maths,Geometry,Easy,"Q827: What is the slope through (4,-10) and (6,-13)?",-0.5,-1.5,1.5,-2.5,-1.5
+11,Maths,Statistics,Easy,"Q828: For x^2 + (-4)x + (3) = 0, which is a solution?",-1,3,2,1,1
+11,Maths,Algebra,Easy,Q829: Compute 2^6,128,32,64,66,64
+11,Maths,Functions,Easy,"Q830: What is the slope through (10,-1) and (15,-4)?",0.6,0.4,-0.6,-1.6,-0.6
+11,Maths,Geometry,Easy,"Q831: For x^2 + (-3)x + (-4) = 0, which is a solution?",4,-1,-4,5,4
+11,Maths,Statistics,Easy,Q832: Compute 2^9,514,256,512,1024,512
+11,Maths,Algebra,Easy,"Q833: What is the slope through (-5,8) and (-2,5)?",1.0,-2.0,0.0,-1.0,-1.0
+11,Maths,Functions,Easy,"Q834: For x^2 + (-2)x + (-35) = 0, which is a solution?",8,-5,7,-7,7
+11,Maths,Geometry,Easy,Q835: Compute 2^4,18,8,16,32,16
+11,Maths,Statistics,Easy,"Q836: What is the slope through (1,-4) and (2,-7)?",-4.0,3.0,-3.0,-2.0,-3.0
+11,Maths,Algebra,Easy,"Q837: For x^2 + (18)x + (81) = 0, which is a solution?",9,Option 3,-8,-9,-9
+11,Maths,Functions,Easy,Q838: Compute 2^7,256,128,64,130,128
+11,Maths,Geometry,Easy,"Q839: What is the slope through (7,5) and (11,2)?",-0.75,0.75,0.25,-1.75,-0.75
+11,Maths,Statistics,Easy,"Q840: For x^2 + (0)x + (-36) = 0, which is a solution?",6,-6,Option 3,-5,-6
+11,Maths,Algebra,Easy,Q841: Compute 2^2,8,4,6,2,4
+11,Maths,Functions,Easy,"Q842: What is the slope through (-8,-7) and (-6,-10)?",1.5,-2.5,-1.5,-0.5,-1.5
+11,Maths,Geometry,Easy,"Q843: For x^2 + (1)x + (-6) = 0, which is a solution?",-3,2,3,-2,-3
+11,Maths,Statistics,Easy,Q844: Compute 2^5,64,16,32,34,32
+11,Maths,Algebra,Easy,"Q845: What is the slope through (-2,2) and (3,-1)?",0.6,-1.6,0.4,-0.6,-0.6
+11,Maths,Functions,Easy,"Q846: For x^2 + (2)x + (0) = 0, which is a solution?",1,Option 3,-2,0,0
+11,Maths,Geometry,Easy,Q847: Compute 2^8,128,258,512,256,256
+11,Maths,Statistics,Easy,"Q848: What is the slope through (4,-10) and (7,-13)?",-1.0,-2.0,0.0,1.0,-1.0
+11,Maths,Algebra,Easy,"Q849: For x^2 + (3)x + (-18) = 0, which is a solution?",-3,-6,4,3,3
+11,Maths,Functions,Easy,Q850: Compute 2^3,4,8,10,16,8
+11,Maths,Geometry,Easy,"Q851: What is the slope through (10,-1) and (11,-4)?",-2.0,-4.0,3.0,-3.0,-3.0
+11,Maths,Statistics,Easy,"Q852: For x^2 + (-15)x + (54) = 0, which is a solution?",7,-6,9,6,6
+11,Maths,Algebra,Easy,Q853: Compute 2^6,64,32,66,128,64
+11,Maths,Functions,Easy,"Q854: What is the slope through (-5,8) and (-1,5)?",-0.75,0.25,-1.75,0.75,-0.75
+11,Maths,Geometry,Easy,"Q855: For x^2 + (-14)x + (45) = 0, which is a solution?",5,9,-9,10,9
+11,Maths,Statistics,Easy,Q856: Compute 2^9,512,256,1024,514,512
+11,Maths,Algebra,Easy,"Q857: What is the slope through (1,-4) and (3,-7)?",-0.5,-1.5,-2.5,1.5,-1.5
+11,Maths,Functions,Easy,"Q858: For x^2 + (6)x + (-7) = 0, which is a solution?",7,-7,-6,1,-7
+11,Maths,Geometry,Easy,Q859: Compute 2^4,18,32,8,16,16
+11,Maths,Statistics,Easy,"Q860: What is the slope through (7,5) and (12,2)?",-1.6,0.6,-0.6,0.4,-0.6
+11,Maths,Algebra,Easy,"Q861: For x^2 + (7)x + (12) = 0, which is a solution?",-4,-3,4,Option 3,-4
+11,Maths,Functions,Easy,Q862: Compute 2^7,130,64,256,128,128
+11,Maths,Geometry,Easy,"Q863: What is the slope through (-8,-7) and (-5,-10)?",1.0,0.0,-1.0,-2.0,-1.0
+11,Maths,Statistics,Easy,"Q864: For x^2 + (8)x + (7) = 0, which is a solution?",1,-7,-1,0,-1
+11,Maths,Algebra,Easy,Q865: Compute 2^2,8,6,2,4,4
+11,Maths,Functions,Easy,"Q866: What is the slope through (-2,2) and (-1,-1)?",-3.0,-4.0,-2.0,3.0,-3.0
+11,Maths,Geometry,Easy,"Q867: For x^2 + (-10)x + (16) = 0, which is a solution?",8,3,-2,2,2
+11,Maths,Statistics,Easy,Q868: Compute 2^5,64,16,34,32,32
+11,Maths,Algebra,Easy,"Q869: What is the slope through (4,-10) and (8,-13)?",0.75,-1.75,0.25,-0.75,-0.75
+11,Maths,Functions,Easy,"Q870: For x^2 + (-9)x + (20) = 0, which is a solution?",4,6,-5,5,5
+11,Maths,Geometry,Easy,Q871: Compute 2^8,256,512,258,128,256
+11,Maths,Statistics,Easy,"Q872: What is the slope through (10,-1) and (12,-4)?",-1.5,-2.5,1.5,-0.5,-1.5
+11,Maths,Algebra,Easy,"Q873: For x^2 + (-8)x + (0) = 0, which is a solution?",0,8,9,-8,8
+11,Maths,Functions,Easy,Q874: Compute 2^3,16,4,8,10,8
+11,Maths,Geometry,Easy,"Q875: What is the slope through (-5,8) and (0,5)?",-1.6,0.4,0.6,-0.6,-0.6
+11,Maths,Statistics,Easy,"Q876: For x^2 + (12)x + (32) = 0, which is a solution?",-7,8,-8,-4,-8
+11,Maths,Algebra,Easy,Q877: Compute 2^6,66,64,128,32,64
+11,Maths,Functions,Easy,"Q878: What is the slope through (1,-4) and (4,-7)?",1.0,-1.0,0.0,-2.0,-1.0
+11,Maths,Geometry,Easy,"Q879: For x^2 + (13)x + (40) = 0, which is a solution?",-5,-4,-8,5,-5
+11,Maths,Statistics,Easy,Q880: Compute 2^9,514,512,1024,256,512
+11,Maths,Algebra,Easy,"Q881: What is the slope through (7,5) and (8,2)?",-4.0,-3.0,-2.0,3.0,-3.0
+11,Maths,Functions,Easy,"Q882: For x^2 + (-5)x + (-14) = 0, which is a solution?",-1,2,-2,7,-2
+11,Maths,Geometry,Easy,Q883: Compute 2^4,8,16,32,18,16
+11,Maths,Statistics,Easy,"Q884: What is the slope through (-8,-7) and (-4,-10)?",0.25,0.75,-0.75,-1.75,-0.75
+11,Maths,Algebra,Easy,"Q885: For x^2 + (-4)x + (3) = 0, which is a solution?",-1,2,1,3,1
+11,Maths,Functions,Easy,Q886: Compute 2^7,64,256,128,130,128
+11,Maths,Geometry,Easy,"Q887: What is the slope through (-2,2) and (0,-1)?",-1.5,-2.5,-0.5,1.5,-1.5
+11,Maths,Statistics,Easy,"Q888: For x^2 + (-3)x + (-4) = 0, which is a solution?",5,-4,-1,4,4
+11,Maths,Algebra,Easy,Q889: Compute 2^2,6,2,4,8,4
+11,Maths,Functions,Easy,"Q890: What is the slope through (4,-10) and (9,-13)?",0.4,-0.6,-1.6,0.6,-0.6
+11,Maths,Geometry,Easy,"Q891: For x^2 + (-2)x + (-35) = 0, which is a solution?",-7,8,-5,7,7
+11,Maths,Statistics,Easy,Q892: Compute 2^5,64,16,32,34,32
+11,Maths,Algebra,Easy,"Q893: What is the slope through (10,-1) and (13,-4)?",-1.0,0.0,1.0,-2.0,-1.0
+11,Maths,Functions,Easy,"Q894: For x^2 + (18)x + (81) = 0, which is a solution?",Option 3,9,-8,-9,-9
+11,Maths,Geometry,Easy,Q895: Compute 2^8,258,128,256,512,256
+11,Maths,Statistics,Easy,"Q896: What is the slope through (-5,8) and (-4,5)?",3.0,-2.0,-4.0,-3.0,-3.0
+11,Maths,Algebra,Easy,"Q897: For x^2 + (0)x + (-36) = 0, which is a solution?",-6,Option 3,-5,6,-6
+11,Maths,Functions,Easy,Q898: Compute 2^3,10,16,4,8,8
+11,Maths,Geometry,Easy,"Q899: What is the slope through (1,-4) and (5,-7)?",0.25,0.75,-0.75,-1.75,-0.75
+11,Maths,Statistics,Easy,"Q900: For x^2 + (1)x + (-6) = 0, which is a solution?",-3,3,2,-2,-3
+11,Maths,Algebra,Easy,Q901: Compute 2^6,64,32,128,66,64
+11,Maths,Functions,Easy,"Q902: What is the slope through (7,5) and (9,2)?",1.5,-1.5,-2.5,-0.5,-1.5
+11,Maths,Geometry,Easy,"Q903: For x^2 + (2)x + (0) = 0, which is a solution?",0,Option 3,1,-2,0
+11,Maths,Statistics,Easy,Q904: Compute 2^9,256,514,512,1024,512
+11,Maths,Algebra,Easy,"Q905: What is the slope through (-8,-7) and (-3,-10)?",0.4,-0.6,0.6,-1.6,-0.6
+11,Maths,Functions,Easy,"Q906: For x^2 + (3)x + (-18) = 0, which is a solution?",-6,-3,3,4,3
+11,Maths,Geometry,Easy,Q907: Compute 2^4,32,8,18,16,16
+11,Maths,Statistics,Easy,"Q908: What is the slope through (-2,2) and (1,-1)?",-1.0,0.0,1.0,-2.0,-1.0
+11,Maths,Algebra,Easy,"Q909: For x^2 + (-15)x + (54) = 0, which is a solution?",9,-6,7,6,6
+11,Maths,Functions,Easy,Q910: Compute 2^7,128,256,64,130,128
+11,Maths,Geometry,Easy,"Q911: What is the slope through (4,-10) and (5,-13)?",3.0,-4.0,-2.0,-3.0,-3.0
+11,Maths,Statistics,Easy,"Q912: For x^2 + (-14)x + (45) = 0, which is a solution?",-9,9,5,10,9
+11,Maths,Algebra,Easy,Q913: Compute 2^2,6,4,2,8,4
+11,Maths,Functions,Easy,"Q914: What is the slope through (10,-1) and (14,-4)?",-1.75,-0.75,0.75,0.25,-0.75
+11,Maths,Geometry,Easy,"Q915: For x^2 + (6)x + (-7) = 0, which is a solution?",-6,1,7,-7,-7
+11,Maths,Statistics,Easy,Q916: Compute 2^5,16,64,32,34,32
+11,Maths,Algebra,Easy,"Q917: What is the slope through (-5,8) and (-3,5)?",-1.5,-2.5,-0.5,1.5,-1.5
+11,Maths,Functions,Easy,"Q918: For x^2 + (7)x + (12) = 0, which is a solution?",Option 3,-4,-3,4,-4
+11,Maths,Geometry,Easy,Q919: Compute 2^8,128,256,258,512,256
+11,Maths,Statistics,Easy,"Q920: What is the slope through (1,-4) and (6,-7)?",0.6,-0.6,0.4,-1.6,-0.6
+11,Maths,Algebra,Easy,"Q921: For x^2 + (8)x + (7) = 0, which is a solution?",-1,-7,0,1,-1
+11,Maths,Functions,Easy,Q922: Compute 2^3,16,8,4,10,8
+11,Maths,Geometry,Easy,"Q923: What is the slope through (7,5) and (10,2)?",-1.0,-2.0,0.0,1.0,-1.0
+11,Maths,Statistics,Easy,"Q924: For x^2 + (-10)x + (16) = 0, which is a solution?",2,8,3,-2,2
+11,Maths,Algebra,Easy,Q925: Compute 2^6,32,66,64,128,64
+11,Maths,Functions,Easy,"Q926: What is the slope through (-8,-7) and (-7,-10)?",-4.0,3.0,-2.0,-3.0,-3.0
+11,Maths,Geometry,Easy,"Q927: For x^2 + (-9)x + (20) = 0, which is a solution?",6,-5,5,4,5
+11,Maths,Statistics,Easy,Q928: Compute 2^9,256,512,1024,514,512
+11,Maths,Algebra,Easy,"Q929: What is the slope through (-2,2) and (2,-1)?",0.25,-0.75,-1.75,0.75,-0.75
+11,Maths,Functions,Easy,"Q930: For x^2 + (-8)x + (0) = 0, which is a solution?",9,0,-8,8,8
+11,Maths,Geometry,Easy,Q931: Compute 2^4,8,32,18,16,16
+11,Maths,Statistics,Easy,"Q932: What is the slope through (4,-10) and (6,-13)?",-1.5,-2.5,1.5,-0.5,-1.5
+11,Maths,Algebra,Easy,"Q933: For x^2 + (12)x + (32) = 0, which is a solution?",8,-8,-4,-7,-8
+11,Maths,Functions,Easy,Q934: Compute 2^7,256,64,128,130,128
+11,Maths,Geometry,Easy,"Q935: What is the slope through (10,-1) and (15,-4)?",0.4,0.6,-1.6,-0.6,-0.6
+11,Maths,Statistics,Easy,"Q936: For x^2 + (13)x + (40) = 0, which is a solution?",-8,5,-4,-5,-5
+11,Maths,Algebra,Easy,Q937: Compute 2^2,2,4,8,6,4
+11,Maths,Functions,Easy,"Q938: What is the slope through (-5,8) and (-2,5)?",0.0,-1.0,1.0,-2.0,-1.0
+11,Maths,Geometry,Easy,"Q939: For x^2 + (-5)x + (-14) = 0, which is a solution?",-2,-1,7,2,-2
+11,Maths,Statistics,Easy,Q940: Compute 2^5,32,34,64,16,32
+11,Maths,Algebra,Easy,"Q941: What is the slope through (1,-4) and (2,-7)?",3.0,-4.0,-3.0,-2.0,-3.0
+11,Maths,Functions,Easy,"Q942: For x^2 + (-4)x + (3) = 0, which is a solution?",1,-1,3,2,1
+11,Maths,Geometry,Easy,Q943: Compute 2^8,128,512,258,256,256
+11,Maths,Statistics,Easy,"Q944: What is the slope through (7,5) and (11,2)?",0.25,-0.75,0.75,-1.75,-0.75
+11,Maths,Algebra,Easy,"Q945: For x^2 + (-3)x + (-4) = 0, which is a solution?",-4,4,5,-1,4
+11,Maths,Functions,Easy,Q946: Compute 2^3,10,8,4,16,8
+11,Maths,Geometry,Easy,"Q947: What is the slope through (-8,-7) and (-6,-10)?",1.5,-2.5,-1.5,-0.5,-1.5
+11,Maths,Statistics,Easy,"Q948: For x^2 + (-2)x + (-35) = 0, which is a solution?",-5,-7,7,8,7
+11,Maths,Algebra,Easy,Q949: Compute 2^6,32,66,128,64,64
+11,Maths,Functions,Easy,"Q950: What is the slope through (-2,2) and (3,-1)?",-0.6,0.4,-1.6,0.6,-0.6
+11,Maths,Geometry,Easy,"Q951: For x^2 + (18)x + (81) = 0, which is a solution?",9,-8,-9,Option 3,-9
+11,Maths,Statistics,Easy,Q952: Compute 2^9,256,512,514,1024,512
+11,Maths,Algebra,Easy,"Q953: What is the slope through (4,-10) and (7,-13)?",-2.0,0.0,-1.0,1.0,-1.0
+11,Maths,Functions,Easy,"Q954: For x^2 + (0)x + (-36) = 0, which is a solution?",-6,Option 3,-5,6,-6
+11,Maths,Geometry,Easy,Q955: Compute 2^4,16,32,8,18,16
+11,Maths,Statistics,Easy,"Q956: What is the slope through (10,-1) and (11,-4)?",-3.0,-2.0,-4.0,3.0,-3.0
+11,Maths,Algebra,Easy,"Q957: For x^2 + (1)x + (-6) = 0, which is a solution?",2,-3,3,-2,-3
+11,Maths,Functions,Easy,Q958: Compute 2^7,128,64,256,130,128
+11,Maths,Geometry,Easy,"Q959: What is the slope through (-5,8) and (-1,5)?",0.75,0.25,-1.75,-0.75,-0.75
+11,Maths,Statistics,Easy,"Q960: For x^2 + (2)x + (0) = 0, which is a solution?",-2,Option 3,1,0,0
+11,Maths,Algebra,Easy,Q961: Compute 2^2,8,2,6,4,4
+11,Maths,Functions,Easy,"Q962: What is the slope through (1,-4) and (3,-7)?",1.5,-0.5,-2.5,-1.5,-1.5
+11,Maths,Geometry,Easy,"Q963: For x^2 + (3)x + (-18) = 0, which is a solution?",-3,4,3,-6,3
+11,Maths,Statistics,Easy,Q964: Compute 2^5,34,16,64,32,32
+11,Maths,Algebra,Easy,"Q965: What is the slope through (7,5) and (12,2)?",0.6,-1.6,0.4,-0.6,-0.6
+11,Maths,Functions,Easy,"Q966: For x^2 + (-15)x + (54) = 0, which is a solution?",6,-6,9,7,6
+11,Maths,Geometry,Easy,Q967: Compute 2^8,512,256,258,128,256
+11,Maths,Statistics,Easy,"Q968: What is the slope through (-8,-7) and (-5,-10)?",0.0,-1.0,-2.0,1.0,-1.0
+11,Maths,Algebra,Easy,"Q969: For x^2 + (-14)x + (45) = 0, which is a solution?",5,10,9,-9,9
+11,Maths,Functions,Easy,Q970: Compute 2^3,16,8,10,4,8
+11,Maths,Geometry,Easy,"Q971: What is the slope through (-2,2) and (-1,-1)?",-3.0,-2.0,-4.0,3.0,-3.0
+11,Maths,Statistics,Easy,"Q972: For x^2 + (6)x + (-7) = 0, which is a solution?",-6,7,-7,1,-7
+11,Maths,Algebra,Easy,Q973: Compute 2^6,32,128,64,66,64
+11,Maths,Functions,Easy,"Q974: What is the slope through (4,-10) and (8,-13)?",0.75,-1.75,-0.75,0.25,-0.75
+11,Maths,Geometry,Easy,"Q975: For x^2 + (7)x + (12) = 0, which is a solution?",-4,-3,Option 3,4,-4
+11,Maths,Statistics,Easy,Q976: Compute 2^9,514,256,1024,512,512
+11,Maths,Algebra,Easy,"Q977: What is the slope through (10,-1) and (12,-4)?",-1.5,-2.5,1.5,-0.5,-1.5
+11,Maths,Functions,Easy,"Q978: For x^2 + (8)x + (7) = 0, which is a solution?",1,-1,-7,0,-1
+11,Maths,Geometry,Easy,Q979: Compute 2^4,8,32,16,18,16
+11,Maths,Statistics,Easy,"Q980: What is the slope through (-5,8) and (0,5)?",-1.6,0.6,-0.6,0.4,-0.6
+11,Maths,Algebra,Easy,"Q981: For x^2 + (-10)x + (16) = 0, which is a solution?",-2,2,3,8,2
+11,Maths,Functions,Easy,Q982: Compute 2^7,128,256,130,64,128
+11,Maths,Geometry,Easy,"Q983: What is the slope through (1,-4) and (4,-7)?",-1.0,-2.0,1.0,0.0,-1.0
+11,Maths,Statistics,Easy,"Q984: For x^2 + (-9)x + (20) = 0, which is a solution?",5,6,-5,4,5
+11,Maths,Algebra,Easy,Q985: Compute 2^2,4,8,6,2,4
+11,Maths,Functions,Easy,"Q986: What is the slope through (7,5) and (8,2)?",-2.0,-3.0,3.0,-4.0,-3.0
+11,Maths,Geometry,Easy,"Q987: For x^2 + (-8)x + (0) = 0, which is a solution?",9,0,-8,8,8
+11,Maths,Statistics,Easy,Q988: Compute 2^5,34,32,64,16,32
+11,Maths,Algebra,Easy,"Q989: What is the slope through (-8,-7) and (-4,-10)?",0.25,-1.75,0.75,-0.75,-0.75
+11,Maths,Functions,Easy,"Q990: For x^2 + (12)x + (32) = 0, which is a solution?",-4,-7,8,-8,-8
+11,Maths,Geometry,Easy,Q991: Compute 2^8,128,258,256,512,256
+11,Maths,Statistics,Easy,"Q992: What is the slope through (-2,2) and (0,-1)?",-1.5,1.5,-2.5,-0.5,-1.5
+11,Maths,Algebra,Easy,"Q993: For x^2 + (13)x + (40) = 0, which is a solution?",5,-4,-5,-8,-5
+11,Maths,Functions,Easy,Q994: Compute 2^3,16,4,10,8,8
+11,Maths,Geometry,Easy,"Q995: What is the slope through (4,-10) and (9,-13)?",-1.6,-0.6,0.6,0.4,-0.6
+11,Maths,Statistics,Easy,"Q996: For x^2 + (-5)x + (-14) = 0, which is a solution?",-2,7,-1,2,-2
+11,Maths,Algebra,Easy,Q997: Compute 2^6,128,64,66,32,64
+11,Maths,Functions,Easy,"Q998: What is the slope through (10,-1) and (13,-4)?",1.0,-1.0,-2.0,0.0,-1.0
+11,Maths,Geometry,Easy,"Q999: For x^2 + (-4)x + (3) = 0, which is a solution?",2,-1,1,3,1
+11,Maths,Statistics,Easy,Q1000: Compute 2^9,256,514,512,1024,512

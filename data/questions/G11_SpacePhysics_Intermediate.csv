@@ -1,0 +1,1001 @@
+Grade,Subject,Topic,Difficulty,Question,A,B,C,D,Correct Answer
+11,Space & Physics,Astronomy,Intermediate,Q1: A light-year is a unit of:,Time,Brightness,Mass,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q2: What is the momentum of a 2 kg object moving at 4 m/s?,4.0 kg·m/s,10 kg·m/s,32 kg·m/s,8 kg·m/s,8 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q3: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,3.75 m,7.5 m,300000 m,15.0 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q4: Which heat transfer can occur through a vacuum?,Radiation,Conduction,Convection,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q5: A light-year is a unit of:,Distance,Mass,Brightness,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q6: What is the momentum of a 6 kg object moving at 16 m/s?,96 kg·m/s,48.0 kg·m/s,1536 kg·m/s,102 kg·m/s,96 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q7: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,150000 m,30.0 m,7.5 m,15.0 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q8: Which heat transfer can occur through a vacuum?,Convection,Conduction,Friction,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q9: A light-year is a unit of:,Distance,Brightness,Mass,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q10: What is the momentum of a 10 kg object moving at 28 m/s?,280 kg·m/s,7840 kg·m/s,140.0 kg·m/s,290 kg·m/s,280 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q11: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,60.0 m,30.0 m,15.0 m,75000 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q12: Which heat transfer can occur through a vacuum?,Convection,Friction,Radiation,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q13: A light-year is a unit of:,Mass,Time,Brightness,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q14: What is the momentum of a 14 kg object moving at 5 m/s?,70 kg·m/s,84 kg·m/s,35.0 kg·m/s,350 kg·m/s,70 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q15: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,3.0 m,0.75 m,1500000 m,1.5 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q16: Which heat transfer can occur through a vacuum?,Radiation,Convection,Friction,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q17: A light-year is a unit of:,Distance,Mass,Brightness,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q18: What is the momentum of a 18 kg object moving at 17 m/s?,324 kg·m/s,5202 kg·m/s,153.0 kg·m/s,306 kg·m/s,306 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q19: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,6.0 m,750000 m,3.0 m,1.5 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q20: Which heat transfer can occur through a vacuum?,Friction,Radiation,Conduction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q21: A light-year is a unit of:,Distance,Mass,Brightness,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q22: What is the momentum of a 22 kg object moving at 29 m/s?,660 kg·m/s,18502 kg·m/s,319.0 kg·m/s,638 kg·m/s,638 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q23: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,300000 m,15.0 m,7.5 m,3.75 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q24: Which heat transfer can occur through a vacuum?,Convection,Friction,Conduction,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q25: A light-year is a unit of:,Time,Brightness,Distance,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q26: What is the momentum of a 26 kg object moving at 6 m/s?,156 kg·m/s,78.0 kg·m/s,182 kg·m/s,936 kg·m/s,156 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q27: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,150000 m,30.0 m,7.5 m,15.0 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q28: Which heat transfer can occur through a vacuum?,Radiation,Convection,Conduction,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q29: A light-year is a unit of:,Distance,Brightness,Mass,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q30: What is the momentum of a 30 kg object moving at 18 m/s?,270.0 kg·m/s,9720 kg·m/s,570 kg·m/s,540 kg·m/s,540 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q31: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,15.0 m,75000 m,30.0 m,60.0 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q32: Which heat transfer can occur through a vacuum?,Conduction,Convection,Radiation,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q33: A light-year is a unit of:,Mass,Distance,Time,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q34: What is the momentum of a 34 kg object moving at 30 m/s?,1054 kg·m/s,510.0 kg·m/s,1020 kg·m/s,30600 kg·m/s,1020 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q35: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,1.5 m,0.75 m,3.0 m,1500000 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q36: Which heat transfer can occur through a vacuum?,Friction,Conduction,Convection,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q37: A light-year is a unit of:,Mass,Distance,Time,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q38: What is the momentum of a 38 kg object moving at 7 m/s?,266 kg·m/s,133.0 kg·m/s,1862 kg·m/s,304 kg·m/s,266 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q39: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,1.5 m,6.0 m,3.0 m,750000 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q40: Which heat transfer can occur through a vacuum?,Conduction,Friction,Convection,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q41: A light-year is a unit of:,Time,Mass,Distance,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q42: What is the momentum of a 42 kg object moving at 19 m/s?,798 kg·m/s,15162 kg·m/s,840 kg·m/s,399.0 kg·m/s,798 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q43: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,300000 m,15.0 m,7.5 m,3.75 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q44: Which heat transfer can occur through a vacuum?,Radiation,Conduction,Friction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q45: A light-year is a unit of:,Distance,Brightness,Time,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q46: What is the momentum of a 46 kg object moving at 31 m/s?,1426 kg·m/s,1472 kg·m/s,713.0 kg·m/s,44206 kg·m/s,1426 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q47: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,30.0 m,15.0 m,150000 m,7.5 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q48: Which heat transfer can occur through a vacuum?,Radiation,Friction,Convection,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q49: A light-year is a unit of:,Distance,Time,Mass,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q50: What is the momentum of a 50 kg object moving at 8 m/s?,3200 kg·m/s,450 kg·m/s,400 kg·m/s,200.0 kg·m/s,400 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q51: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,30.0 m,75000 m,60.0 m,15.0 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q52: Which heat transfer can occur through a vacuum?,Friction,Convection,Conduction,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q53: A light-year is a unit of:,Time,Distance,Mass,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q54: What is the momentum of a 54 kg object moving at 20 m/s?,540.0 kg·m/s,21600 kg·m/s,1134 kg·m/s,1080 kg·m/s,1080 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q55: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,1.5 m,0.75 m,1500000 m,3.0 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q56: Which heat transfer can occur through a vacuum?,Friction,Convection,Radiation,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q57: A light-year is a unit of:,Time,Brightness,Distance,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q58: What is the momentum of a 58 kg object moving at 32 m/s?,1914 kg·m/s,1856 kg·m/s,928.0 kg·m/s,59392 kg·m/s,1856 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q59: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,1.5 m,3.0 m,6.0 m,750000 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q60: Which heat transfer can occur through a vacuum?,Friction,Conduction,Radiation,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q61: A light-year is a unit of:,Mass,Brightness,Time,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q62: What is the momentum of a 2 kg object moving at 9 m/s?,9.0 kg·m/s,18 kg·m/s,20 kg·m/s,162 kg·m/s,18 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q63: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,15.0 m,7.5 m,3.75 m,300000 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q64: Which heat transfer can occur through a vacuum?,Conduction,Radiation,Convection,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q65: A light-year is a unit of:,Distance,Mass,Time,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q66: What is the momentum of a 6 kg object moving at 21 m/s?,126 kg·m/s,132 kg·m/s,2646 kg·m/s,63.0 kg·m/s,126 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q67: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,30.0 m,15.0 m,7.5 m,150000 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q68: Which heat transfer can occur through a vacuum?,Conduction,Radiation,Friction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q69: A light-year is a unit of:,Time,Brightness,Mass,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q70: What is the momentum of a 10 kg object moving at 33 m/s?,330 kg·m/s,340 kg·m/s,165.0 kg·m/s,10890 kg·m/s,330 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q71: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,75000 m,60.0 m,15.0 m,30.0 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q72: Which heat transfer can occur through a vacuum?,Conduction,Radiation,Friction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q73: A light-year is a unit of:,Brightness,Distance,Mass,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q74: What is the momentum of a 14 kg object moving at 10 m/s?,140 kg·m/s,1400 kg·m/s,70.0 kg·m/s,154 kg·m/s,140 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q75: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,3.0 m,1.5 m,1500000 m,0.75 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q76: Which heat transfer can occur through a vacuum?,Friction,Conduction,Convection,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q77: A light-year is a unit of:,Mass,Time,Brightness,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q78: What is the momentum of a 18 kg object moving at 22 m/s?,198.0 kg·m/s,8712 kg·m/s,414 kg·m/s,396 kg·m/s,396 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q79: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,6.0 m,750000 m,3.0 m,1.5 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q80: Which heat transfer can occur through a vacuum?,Radiation,Conduction,Convection,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q81: A light-year is a unit of:,Brightness,Time,Distance,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q82: What is the momentum of a 22 kg object moving at 34 m/s?,748 kg·m/s,374.0 kg·m/s,770 kg·m/s,25432 kg·m/s,748 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q83: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,300000 m,15.0 m,7.5 m,3.75 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q84: Which heat transfer can occur through a vacuum?,Friction,Radiation,Convection,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q85: A light-year is a unit of:,Brightness,Distance,Mass,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q86: What is the momentum of a 26 kg object moving at 11 m/s?,286 kg·m/s,3146 kg·m/s,312 kg·m/s,143.0 kg·m/s,286 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q87: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,15.0 m,150000 m,7.5 m,30.0 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q88: Which heat transfer can occur through a vacuum?,Conduction,Convection,Radiation,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q89: A light-year is a unit of:,Brightness,Distance,Time,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q90: What is the momentum of a 30 kg object moving at 23 m/s?,720 kg·m/s,15870 kg·m/s,690 kg·m/s,345.0 kg·m/s,690 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q91: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,60.0 m,30.0 m,15.0 m,75000 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q92: Which heat transfer can occur through a vacuum?,Radiation,Convection,Conduction,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q93: A light-year is a unit of:,Brightness,Time,Mass,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q94: What is the momentum of a 34 kg object moving at 35 m/s?,1190 kg·m/s,595.0 kg·m/s,41650 kg·m/s,1224 kg·m/s,1190 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q95: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,1500000 m,0.75 m,1.5 m,3.0 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q96: Which heat transfer can occur through a vacuum?,Friction,Conduction,Convection,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q97: A light-year is a unit of:,Brightness,Mass,Distance,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q98: What is the momentum of a 38 kg object moving at 12 m/s?,456 kg·m/s,494 kg·m/s,228.0 kg·m/s,5472 kg·m/s,456 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q99: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,6.0 m,3.0 m,750000 m,1.5 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q100: Which heat transfer can occur through a vacuum?,Friction,Radiation,Conduction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q101: A light-year is a unit of:,Mass,Distance,Time,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q102: What is the momentum of a 42 kg object moving at 24 m/s?,1008 kg·m/s,24192 kg·m/s,504.0 kg·m/s,1050 kg·m/s,1008 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q103: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,15.0 m,300000 m,3.75 m,7.5 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q104: Which heat transfer can occur through a vacuum?,Convection,Conduction,Radiation,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q105: A light-year is a unit of:,Distance,Brightness,Time,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q106: What is the momentum of a 46 kg object moving at 1 m/s?,92 kg·m/s,23.0 kg·m/s,Option 3,46 kg·m/s,46 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q107: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,7.5 m,15.0 m,30.0 m,150000 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q108: Which heat transfer can occur through a vacuum?,Friction,Conduction,Convection,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q109: A light-year is a unit of:,Mass,Brightness,Time,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q110: What is the momentum of a 50 kg object moving at 13 m/s?,325.0 kg·m/s,650 kg·m/s,700 kg·m/s,8450 kg·m/s,650 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q111: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,75000 m,30.0 m,60.0 m,15.0 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q112: Which heat transfer can occur through a vacuum?,Convection,Conduction,Friction,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q113: A light-year is a unit of:,Time,Brightness,Mass,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q114: What is the momentum of a 54 kg object moving at 25 m/s?,675.0 kg·m/s,33750 kg·m/s,1404 kg·m/s,1350 kg·m/s,1350 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q115: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,1.5 m,1500000 m,3.0 m,0.75 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q116: Which heat transfer can occur through a vacuum?,Friction,Conduction,Convection,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q117: A light-year is a unit of:,Brightness,Time,Mass,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q118: What is the momentum of a 58 kg object moving at 2 m/s?,232 kg·m/s,174 kg·m/s,58.0 kg·m/s,116 kg·m/s,116 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q119: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,1.5 m,3.0 m,750000 m,6.0 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q120: Which heat transfer can occur through a vacuum?,Friction,Convection,Radiation,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q121: A light-year is a unit of:,Time,Mass,Distance,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q122: What is the momentum of a 2 kg object moving at 14 m/s?,30 kg·m/s,392 kg·m/s,28 kg·m/s,14.0 kg·m/s,28 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q123: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,7.5 m,300000 m,15.0 m,3.75 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q124: Which heat transfer can occur through a vacuum?,Radiation,Conduction,Friction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q125: A light-year is a unit of:,Time,Distance,Brightness,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q126: What is the momentum of a 6 kg object moving at 26 m/s?,162 kg·m/s,4056 kg·m/s,78.0 kg·m/s,156 kg·m/s,156 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q127: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,30.0 m,7.5 m,15.0 m,150000 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q128: Which heat transfer can occur through a vacuum?,Conduction,Friction,Convection,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q129: A light-year is a unit of:,Brightness,Distance,Time,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q130: What is the momentum of a 10 kg object moving at 3 m/s?,30 kg·m/s,40 kg·m/s,15.0 kg·m/s,90 kg·m/s,30 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q131: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,60.0 m,30.0 m,15.0 m,75000 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q132: Which heat transfer can occur through a vacuum?,Friction,Radiation,Convection,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q133: A light-year is a unit of:,Brightness,Mass,Distance,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q134: What is the momentum of a 14 kg object moving at 15 m/s?,210 kg·m/s,224 kg·m/s,3150 kg·m/s,105.0 kg·m/s,210 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q135: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,0.75 m,3.0 m,1.5 m,1500000 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q136: Which heat transfer can occur through a vacuum?,Friction,Convection,Radiation,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q137: A light-year is a unit of:,Mass,Brightness,Distance,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q138: What is the momentum of a 18 kg object moving at 27 m/s?,13122 kg·m/s,486 kg·m/s,504 kg·m/s,243.0 kg·m/s,486 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q139: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,750000 m,3.0 m,1.5 m,6.0 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q140: Which heat transfer can occur through a vacuum?,Radiation,Conduction,Friction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q141: A light-year is a unit of:,Brightness,Distance,Mass,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q142: What is the momentum of a 22 kg object moving at 4 m/s?,352 kg·m/s,88 kg·m/s,44.0 kg·m/s,110 kg·m/s,88 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q143: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,300000 m,15.0 m,3.75 m,7.5 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q144: Which heat transfer can occur through a vacuum?,Friction,Radiation,Conduction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q145: A light-year is a unit of:,Brightness,Time,Mass,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q146: What is the momentum of a 26 kg object moving at 16 m/s?,416 kg·m/s,442 kg·m/s,208.0 kg·m/s,6656 kg·m/s,416 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q147: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,30.0 m,15.0 m,150000 m,7.5 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q148: Which heat transfer can occur through a vacuum?,Friction,Convection,Radiation,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q149: A light-year is a unit of:,Distance,Mass,Time,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q150: What is the momentum of a 30 kg object moving at 28 m/s?,840 kg·m/s,23520 kg·m/s,420.0 kg·m/s,870 kg·m/s,840 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q151: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,15.0 m,75000 m,60.0 m,30.0 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q152: Which heat transfer can occur through a vacuum?,Conduction,Convection,Friction,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q153: A light-year is a unit of:,Distance,Brightness,Mass,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q154: What is the momentum of a 34 kg object moving at 5 m/s?,170 kg·m/s,850 kg·m/s,204 kg·m/s,85.0 kg·m/s,170 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q155: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,0.75 m,1.5 m,3.0 m,1500000 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q156: Which heat transfer can occur through a vacuum?,Conduction,Radiation,Convection,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q157: A light-year is a unit of:,Distance,Time,Brightness,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q158: What is the momentum of a 38 kg object moving at 17 m/s?,646 kg·m/s,684 kg·m/s,323.0 kg·m/s,10982 kg·m/s,646 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q159: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,1.5 m,3.0 m,750000 m,6.0 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q160: Which heat transfer can occur through a vacuum?,Conduction,Convection,Friction,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q161: A light-year is a unit of:,Time,Distance,Brightness,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q162: What is the momentum of a 42 kg object moving at 29 m/s?,1260 kg·m/s,1218 kg·m/s,35322 kg·m/s,609.0 kg·m/s,1218 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q163: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,3.75 m,15.0 m,7.5 m,300000 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q164: Which heat transfer can occur through a vacuum?,Friction,Convection,Radiation,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q165: A light-year is a unit of:,Mass,Distance,Brightness,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q166: What is the momentum of a 46 kg object moving at 6 m/s?,322 kg·m/s,138.0 kg·m/s,276 kg·m/s,1656 kg·m/s,276 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q167: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,7.5 m,150000 m,30.0 m,15.0 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q168: Which heat transfer can occur through a vacuum?,Convection,Conduction,Friction,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q169: A light-year is a unit of:,Mass,Time,Brightness,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q170: What is the momentum of a 50 kg object moving at 18 m/s?,900 kg·m/s,450.0 kg·m/s,16200 kg·m/s,950 kg·m/s,900 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q171: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,30.0 m,15.0 m,75000 m,60.0 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q172: Which heat transfer can occur through a vacuum?,Conduction,Radiation,Convection,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q173: A light-year is a unit of:,Mass,Time,Brightness,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q174: What is the momentum of a 54 kg object moving at 30 m/s?,48600 kg·m/s,1674 kg·m/s,810.0 kg·m/s,1620 kg·m/s,1620 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q175: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,1500000 m,3.0 m,1.5 m,0.75 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q176: Which heat transfer can occur through a vacuum?,Conduction,Convection,Radiation,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q177: A light-year is a unit of:,Distance,Mass,Time,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q178: What is the momentum of a 58 kg object moving at 7 m/s?,2842 kg·m/s,203.0 kg·m/s,464 kg·m/s,406 kg·m/s,406 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q179: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,6.0 m,3.0 m,750000 m,1.5 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q180: Which heat transfer can occur through a vacuum?,Convection,Conduction,Friction,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q181: A light-year is a unit of:,Brightness,Distance,Time,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q182: What is the momentum of a 2 kg object moving at 19 m/s?,19.0 kg·m/s,722 kg·m/s,40 kg·m/s,38 kg·m/s,38 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q183: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,15.0 m,7.5 m,300000 m,3.75 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q184: Which heat transfer can occur through a vacuum?,Radiation,Conduction,Friction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q185: A light-year is a unit of:,Distance,Brightness,Mass,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q186: What is the momentum of a 6 kg object moving at 31 m/s?,93.0 kg·m/s,5766 kg·m/s,192 kg·m/s,186 kg·m/s,186 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q187: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,150000 m,7.5 m,15.0 m,30.0 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q188: Which heat transfer can occur through a vacuum?,Friction,Conduction,Radiation,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q189: A light-year is a unit of:,Mass,Brightness,Time,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q190: What is the momentum of a 10 kg object moving at 8 m/s?,640 kg·m/s,40.0 kg·m/s,90 kg·m/s,80 kg·m/s,80 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q191: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,75000 m,60.0 m,30.0 m,15.0 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q192: Which heat transfer can occur through a vacuum?,Friction,Conduction,Convection,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q193: A light-year is a unit of:,Distance,Time,Mass,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q194: What is the momentum of a 14 kg object moving at 20 m/s?,5600 kg·m/s,140.0 kg·m/s,294 kg·m/s,280 kg·m/s,280 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q195: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,0.75 m,3.0 m,1.5 m,1500000 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q196: Which heat transfer can occur through a vacuum?,Convection,Radiation,Friction,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q197: A light-year is a unit of:,Mass,Distance,Time,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q198: What is the momentum of a 18 kg object moving at 32 m/s?,594 kg·m/s,576 kg·m/s,288.0 kg·m/s,18432 kg·m/s,576 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q199: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,6.0 m,750000 m,1.5 m,3.0 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q200: Which heat transfer can occur through a vacuum?,Conduction,Friction,Convection,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q201: A light-year is a unit of:,Brightness,Mass,Distance,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q202: What is the momentum of a 22 kg object moving at 9 m/s?,198 kg·m/s,99.0 kg·m/s,1782 kg·m/s,220 kg·m/s,198 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q203: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,15.0 m,300000 m,7.5 m,3.75 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q204: Which heat transfer can occur through a vacuum?,Radiation,Conduction,Friction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q205: A light-year is a unit of:,Mass,Time,Distance,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q206: What is the momentum of a 26 kg object moving at 21 m/s?,273.0 kg·m/s,11466 kg·m/s,572 kg·m/s,546 kg·m/s,546 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q207: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,15.0 m,150000 m,7.5 m,30.0 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q208: Which heat transfer can occur through a vacuum?,Radiation,Friction,Conduction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q209: A light-year is a unit of:,Time,Mass,Distance,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q210: What is the momentum of a 30 kg object moving at 33 m/s?,1020 kg·m/s,32670 kg·m/s,990 kg·m/s,495.0 kg·m/s,990 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q211: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,15.0 m,30.0 m,75000 m,60.0 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q212: Which heat transfer can occur through a vacuum?,Radiation,Convection,Friction,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q213: A light-year is a unit of:,Brightness,Distance,Time,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q214: What is the momentum of a 34 kg object moving at 10 m/s?,340 kg·m/s,374 kg·m/s,170.0 kg·m/s,3400 kg·m/s,340 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q215: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,1500000 m,1.5 m,0.75 m,3.0 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q216: Which heat transfer can occur through a vacuum?,Conduction,Friction,Radiation,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q217: A light-year is a unit of:,Time,Distance,Mass,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q218: What is the momentum of a 38 kg object moving at 22 m/s?,418.0 kg·m/s,836 kg·m/s,874 kg·m/s,18392 kg·m/s,836 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q219: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,3.0 m,6.0 m,1.5 m,750000 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q220: Which heat transfer can occur through a vacuum?,Conduction,Friction,Radiation,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q221: A light-year is a unit of:,Distance,Time,Brightness,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q222: What is the momentum of a 42 kg object moving at 34 m/s?,1470 kg·m/s,714.0 kg·m/s,1428 kg·m/s,48552 kg·m/s,1428 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q223: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,3.75 m,7.5 m,300000 m,15.0 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q224: Which heat transfer can occur through a vacuum?,Convection,Friction,Conduction,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q225: A light-year is a unit of:,Brightness,Time,Mass,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q226: What is the momentum of a 46 kg object moving at 11 m/s?,5566 kg·m/s,506 kg·m/s,552 kg·m/s,253.0 kg·m/s,506 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q227: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,150000 m,7.5 m,15.0 m,30.0 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q228: Which heat transfer can occur through a vacuum?,Conduction,Convection,Radiation,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q229: A light-year is a unit of:,Brightness,Distance,Mass,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q230: What is the momentum of a 50 kg object moving at 23 m/s?,1150 kg·m/s,26450 kg·m/s,1200 kg·m/s,575.0 kg·m/s,1150 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q231: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,15.0 m,60.0 m,75000 m,30.0 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q232: Which heat transfer can occur through a vacuum?,Convection,Conduction,Friction,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q233: A light-year is a unit of:,Brightness,Mass,Distance,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q234: What is the momentum of a 54 kg object moving at 35 m/s?,1890 kg·m/s,945.0 kg·m/s,1944 kg·m/s,66150 kg·m/s,1890 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q235: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,1500000 m,1.5 m,0.75 m,3.0 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q236: Which heat transfer can occur through a vacuum?,Radiation,Convection,Conduction,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q237: A light-year is a unit of:,Distance,Time,Mass,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q238: What is the momentum of a 58 kg object moving at 12 m/s?,754 kg·m/s,8352 kg·m/s,696 kg·m/s,348.0 kg·m/s,696 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q239: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,3.0 m,750000 m,6.0 m,1.5 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q240: Which heat transfer can occur through a vacuum?,Radiation,Conduction,Convection,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q241: A light-year is a unit of:,Brightness,Distance,Time,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q242: What is the momentum of a 2 kg object moving at 24 m/s?,1152 kg·m/s,50 kg·m/s,48 kg·m/s,24.0 kg·m/s,48 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q243: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,15.0 m,300000 m,7.5 m,3.75 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q244: Which heat transfer can occur through a vacuum?,Friction,Conduction,Convection,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q245: A light-year is a unit of:,Distance,Mass,Time,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q246: What is the momentum of a 6 kg object moving at 1 m/s?,6 kg·m/s,12 kg·m/s,3.0 kg·m/s,Option 3,6 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q247: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,7.5 m,30.0 m,150000 m,15.0 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q248: Which heat transfer can occur through a vacuum?,Radiation,Conduction,Friction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q249: A light-year is a unit of:,Brightness,Mass,Time,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q250: What is the momentum of a 10 kg object moving at 13 m/s?,140 kg·m/s,65.0 kg·m/s,130 kg·m/s,1690 kg·m/s,130 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q251: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,60.0 m,30.0 m,15.0 m,75000 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q252: Which heat transfer can occur through a vacuum?,Conduction,Radiation,Friction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q253: A light-year is a unit of:,Distance,Time,Mass,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q254: What is the momentum of a 14 kg object moving at 25 m/s?,364 kg·m/s,8750 kg·m/s,175.0 kg·m/s,350 kg·m/s,350 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q255: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,3.0 m,1.5 m,1500000 m,0.75 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q256: Which heat transfer can occur through a vacuum?,Radiation,Friction,Conduction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q257: A light-year is a unit of:,Brightness,Distance,Mass,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q258: What is the momentum of a 18 kg object moving at 2 m/s?,72 kg·m/s,18.0 kg·m/s,36 kg·m/s,54 kg·m/s,36 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q259: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,6.0 m,1.5 m,750000 m,3.0 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q260: Which heat transfer can occur through a vacuum?,Friction,Radiation,Conduction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q261: A light-year is a unit of:,Distance,Brightness,Time,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q262: What is the momentum of a 22 kg object moving at 14 m/s?,4312 kg·m/s,154.0 kg·m/s,308 kg·m/s,330 kg·m/s,308 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q263: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,7.5 m,300000 m,15.0 m,3.75 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q264: Which heat transfer can occur through a vacuum?,Conduction,Convection,Friction,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q265: A light-year is a unit of:,Mass,Brightness,Distance,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q266: What is the momentum of a 26 kg object moving at 26 m/s?,17576 kg·m/s,676 kg·m/s,338.0 kg·m/s,702 kg·m/s,676 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q267: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,30.0 m,15.0 m,7.5 m,150000 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q268: Which heat transfer can occur through a vacuum?,Radiation,Conduction,Convection,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q269: A light-year is a unit of:,Distance,Mass,Brightness,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q270: What is the momentum of a 30 kg object moving at 3 m/s?,270 kg·m/s,90 kg·m/s,120 kg·m/s,45.0 kg·m/s,90 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q271: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,30.0 m,15.0 m,75000 m,60.0 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q272: Which heat transfer can occur through a vacuum?,Radiation,Convection,Conduction,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q273: A light-year is a unit of:,Brightness,Mass,Distance,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q274: What is the momentum of a 34 kg object moving at 15 m/s?,7650 kg·m/s,544 kg·m/s,510 kg·m/s,255.0 kg·m/s,510 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q275: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,0.75 m,1500000 m,3.0 m,1.5 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q276: Which heat transfer can occur through a vacuum?,Conduction,Radiation,Friction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q277: A light-year is a unit of:,Time,Brightness,Mass,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q278: What is the momentum of a 38 kg object moving at 27 m/s?,27702 kg·m/s,1064 kg·m/s,513.0 kg·m/s,1026 kg·m/s,1026 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q279: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,3.0 m,1.5 m,6.0 m,750000 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q280: Which heat transfer can occur through a vacuum?,Radiation,Conduction,Friction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q281: A light-year is a unit of:,Distance,Time,Mass,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q282: What is the momentum of a 42 kg object moving at 4 m/s?,168 kg·m/s,84.0 kg·m/s,210 kg·m/s,672 kg·m/s,168 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q283: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,7.5 m,3.75 m,15.0 m,300000 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q284: Which heat transfer can occur through a vacuum?,Friction,Conduction,Radiation,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q285: A light-year is a unit of:,Distance,Mass,Time,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q286: What is the momentum of a 46 kg object moving at 16 m/s?,736 kg·m/s,368.0 kg·m/s,782 kg·m/s,11776 kg·m/s,736 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q287: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,7.5 m,15.0 m,150000 m,30.0 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q288: Which heat transfer can occur through a vacuum?,Convection,Radiation,Conduction,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q289: A light-year is a unit of:,Brightness,Time,Distance,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q290: What is the momentum of a 50 kg object moving at 28 m/s?,700.0 kg·m/s,1450 kg·m/s,39200 kg·m/s,1400 kg·m/s,1400 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q291: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,30.0 m,60.0 m,75000 m,15.0 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q292: Which heat transfer can occur through a vacuum?,Radiation,Convection,Friction,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q293: A light-year is a unit of:,Brightness,Time,Mass,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q294: What is the momentum of a 54 kg object moving at 5 m/s?,270 kg·m/s,135.0 kg·m/s,1350 kg·m/s,324 kg·m/s,270 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q295: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,1.5 m,1500000 m,0.75 m,3.0 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q296: Which heat transfer can occur through a vacuum?,Radiation,Friction,Conduction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q297: A light-year is a unit of:,Time,Mass,Brightness,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q298: What is the momentum of a 58 kg object moving at 17 m/s?,493.0 kg·m/s,986 kg·m/s,16762 kg·m/s,1044 kg·m/s,986 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q299: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,1.5 m,3.0 m,6.0 m,750000 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q300: Which heat transfer can occur through a vacuum?,Convection,Radiation,Friction,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q301: A light-year is a unit of:,Distance,Mass,Time,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q302: What is the momentum of a 2 kg object moving at 29 m/s?,60 kg·m/s,29.0 kg·m/s,1682 kg·m/s,58 kg·m/s,58 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q303: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,3.75 m,300000 m,7.5 m,15.0 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q304: Which heat transfer can occur through a vacuum?,Radiation,Conduction,Friction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q305: A light-year is a unit of:,Brightness,Time,Mass,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q306: What is the momentum of a 6 kg object moving at 6 m/s?,36 kg·m/s,42 kg·m/s,216 kg·m/s,18.0 kg·m/s,36 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q307: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,15.0 m,150000 m,30.0 m,7.5 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q308: Which heat transfer can occur through a vacuum?,Conduction,Convection,Radiation,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q309: A light-year is a unit of:,Brightness,Mass,Time,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q310: What is the momentum of a 10 kg object moving at 18 m/s?,190 kg·m/s,180 kg·m/s,90.0 kg·m/s,3240 kg·m/s,180 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q311: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,15.0 m,60.0 m,30.0 m,75000 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q312: Which heat transfer can occur through a vacuum?,Radiation,Conduction,Convection,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q313: A light-year is a unit of:,Mass,Brightness,Distance,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q314: What is the momentum of a 14 kg object moving at 30 m/s?,420 kg·m/s,434 kg·m/s,210.0 kg·m/s,12600 kg·m/s,420 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q315: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,1.5 m,1500000 m,0.75 m,3.0 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q316: Which heat transfer can occur through a vacuum?,Friction,Radiation,Conduction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q317: A light-year is a unit of:,Brightness,Mass,Time,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q318: What is the momentum of a 18 kg object moving at 7 m/s?,63.0 kg·m/s,126 kg·m/s,144 kg·m/s,882 kg·m/s,126 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q319: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,3.0 m,6.0 m,1.5 m,750000 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q320: Which heat transfer can occur through a vacuum?,Conduction,Convection,Friction,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q321: A light-year is a unit of:,Distance,Brightness,Mass,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q322: What is the momentum of a 22 kg object moving at 19 m/s?,7942 kg·m/s,418 kg·m/s,440 kg·m/s,209.0 kg·m/s,418 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q323: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,7.5 m,300000 m,3.75 m,15.0 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q324: Which heat transfer can occur through a vacuum?,Conduction,Radiation,Friction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q325: A light-year is a unit of:,Mass,Time,Distance,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q326: What is the momentum of a 26 kg object moving at 31 m/s?,403.0 kg·m/s,832 kg·m/s,24986 kg·m/s,806 kg·m/s,806 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q327: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,30.0 m,15.0 m,150000 m,7.5 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q328: Which heat transfer can occur through a vacuum?,Convection,Conduction,Radiation,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q329: A light-year is a unit of:,Time,Brightness,Distance,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q330: What is the momentum of a 30 kg object moving at 8 m/s?,1920 kg·m/s,120.0 kg·m/s,240 kg·m/s,270 kg·m/s,240 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q331: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,30.0 m,60.0 m,15.0 m,75000 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q332: Which heat transfer can occur through a vacuum?,Conduction,Radiation,Convection,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q333: A light-year is a unit of:,Brightness,Distance,Mass,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q334: What is the momentum of a 34 kg object moving at 20 m/s?,340.0 kg·m/s,714 kg·m/s,680 kg·m/s,13600 kg·m/s,680 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q335: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,3.0 m,1.5 m,1500000 m,0.75 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q336: Which heat transfer can occur through a vacuum?,Conduction,Friction,Radiation,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q337: A light-year is a unit of:,Distance,Brightness,Time,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q338: What is the momentum of a 38 kg object moving at 32 m/s?,38912 kg·m/s,1216 kg·m/s,1254 kg·m/s,608.0 kg·m/s,1216 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q339: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,750000 m,3.0 m,1.5 m,6.0 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q340: Which heat transfer can occur through a vacuum?,Radiation,Conduction,Convection,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q341: A light-year is a unit of:,Mass,Time,Distance,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q342: What is the momentum of a 42 kg object moving at 9 m/s?,420 kg·m/s,189.0 kg·m/s,3402 kg·m/s,378 kg·m/s,378 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q343: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,3.75 m,7.5 m,300000 m,15.0 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q344: Which heat transfer can occur through a vacuum?,Conduction,Friction,Radiation,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q345: A light-year is a unit of:,Mass,Distance,Brightness,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q346: What is the momentum of a 46 kg object moving at 21 m/s?,966 kg·m/s,483.0 kg·m/s,1012 kg·m/s,20286 kg·m/s,966 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q347: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,30.0 m,15.0 m,150000 m,7.5 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q348: Which heat transfer can occur through a vacuum?,Convection,Friction,Conduction,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q349: A light-year is a unit of:,Time,Distance,Mass,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q350: What is the momentum of a 50 kg object moving at 33 m/s?,825.0 kg·m/s,1700 kg·m/s,54450 kg·m/s,1650 kg·m/s,1650 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q351: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,60.0 m,75000 m,30.0 m,15.0 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q352: Which heat transfer can occur through a vacuum?,Conduction,Friction,Radiation,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q353: A light-year is a unit of:,Brightness,Mass,Time,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q354: What is the momentum of a 54 kg object moving at 10 m/s?,5400 kg·m/s,270.0 kg·m/s,540 kg·m/s,594 kg·m/s,540 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q355: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,1.5 m,1500000 m,0.75 m,3.0 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q356: Which heat transfer can occur through a vacuum?,Radiation,Convection,Conduction,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q357: A light-year is a unit of:,Brightness,Time,Mass,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q358: What is the momentum of a 58 kg object moving at 22 m/s?,1276 kg·m/s,28072 kg·m/s,1334 kg·m/s,638.0 kg·m/s,1276 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q359: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,1.5 m,750000 m,6.0 m,3.0 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q360: Which heat transfer can occur through a vacuum?,Friction,Radiation,Convection,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q361: A light-year is a unit of:,Time,Brightness,Distance,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q362: What is the momentum of a 2 kg object moving at 34 m/s?,68 kg·m/s,34.0 kg·m/s,70 kg·m/s,2312 kg·m/s,68 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q363: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,300000 m,15.0 m,3.75 m,7.5 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q364: Which heat transfer can occur through a vacuum?,Radiation,Friction,Convection,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q365: A light-year is a unit of:,Time,Brightness,Mass,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q366: What is the momentum of a 6 kg object moving at 11 m/s?,72 kg·m/s,66 kg·m/s,726 kg·m/s,33.0 kg·m/s,66 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q367: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,7.5 m,30.0 m,15.0 m,150000 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q368: Which heat transfer can occur through a vacuum?,Friction,Conduction,Radiation,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q369: A light-year is a unit of:,Distance,Time,Brightness,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q370: What is the momentum of a 10 kg object moving at 23 m/s?,115.0 kg·m/s,240 kg·m/s,5290 kg·m/s,230 kg·m/s,230 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q371: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,75000 m,30.0 m,60.0 m,15.0 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q372: Which heat transfer can occur through a vacuum?,Radiation,Friction,Convection,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q373: A light-year is a unit of:,Distance,Time,Mass,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q374: What is the momentum of a 14 kg object moving at 35 m/s?,245.0 kg·m/s,17150 kg·m/s,504 kg·m/s,490 kg·m/s,490 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q375: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,3.0 m,0.75 m,1.5 m,1500000 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q376: Which heat transfer can occur through a vacuum?,Conduction,Radiation,Convection,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q377: A light-year is a unit of:,Time,Brightness,Distance,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q378: What is the momentum of a 18 kg object moving at 12 m/s?,108.0 kg·m/s,216 kg·m/s,234 kg·m/s,2592 kg·m/s,216 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q379: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,3.0 m,1.5 m,750000 m,6.0 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q380: Which heat transfer can occur through a vacuum?,Friction,Conduction,Radiation,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q381: A light-year is a unit of:,Mass,Brightness,Distance,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q382: What is the momentum of a 22 kg object moving at 24 m/s?,264.0 kg·m/s,528 kg·m/s,12672 kg·m/s,550 kg·m/s,528 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q383: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,3.75 m,300000 m,15.0 m,7.5 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q384: Which heat transfer can occur through a vacuum?,Radiation,Conduction,Convection,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q385: A light-year is a unit of:,Distance,Mass,Brightness,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q386: What is the momentum of a 26 kg object moving at 1 m/s?,52 kg·m/s,26 kg·m/s,Option 3,13.0 kg·m/s,26 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q387: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,30.0 m,7.5 m,15.0 m,150000 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q388: Which heat transfer can occur through a vacuum?,Radiation,Conduction,Convection,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q389: A light-year is a unit of:,Distance,Time,Mass,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q390: What is the momentum of a 30 kg object moving at 13 m/s?,5070 kg·m/s,420 kg·m/s,195.0 kg·m/s,390 kg·m/s,390 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q391: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,60.0 m,15.0 m,30.0 m,75000 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q392: Which heat transfer can occur through a vacuum?,Friction,Conduction,Convection,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q393: A light-year is a unit of:,Distance,Time,Brightness,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q394: What is the momentum of a 34 kg object moving at 25 m/s?,850 kg·m/s,425.0 kg·m/s,21250 kg·m/s,884 kg·m/s,850 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q395: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,0.75 m,3.0 m,1.5 m,1500000 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q396: Which heat transfer can occur through a vacuum?,Friction,Radiation,Convection,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q397: A light-year is a unit of:,Brightness,Time,Distance,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q398: What is the momentum of a 38 kg object moving at 2 m/s?,76 kg·m/s,38.0 kg·m/s,152 kg·m/s,114 kg·m/s,76 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q399: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,1.5 m,6.0 m,3.0 m,750000 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q400: Which heat transfer can occur through a vacuum?,Convection,Conduction,Friction,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q401: A light-year is a unit of:,Time,Mass,Brightness,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q402: What is the momentum of a 42 kg object moving at 14 m/s?,294.0 kg·m/s,588 kg·m/s,8232 kg·m/s,630 kg·m/s,588 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q403: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,3.75 m,7.5 m,300000 m,15.0 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q404: Which heat transfer can occur through a vacuum?,Friction,Radiation,Convection,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q405: A light-year is a unit of:,Mass,Distance,Time,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q406: What is the momentum of a 46 kg object moving at 26 m/s?,1196 kg·m/s,31096 kg·m/s,1242 kg·m/s,598.0 kg·m/s,1196 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q407: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,15.0 m,30.0 m,150000 m,7.5 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q408: Which heat transfer can occur through a vacuum?,Friction,Convection,Conduction,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q409: A light-year is a unit of:,Time,Distance,Brightness,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q410: What is the momentum of a 50 kg object moving at 3 m/s?,150 kg·m/s,75.0 kg·m/s,450 kg·m/s,200 kg·m/s,150 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q411: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,60.0 m,15.0 m,30.0 m,75000 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q412: Which heat transfer can occur through a vacuum?,Friction,Radiation,Conduction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q413: A light-year is a unit of:,Time,Mass,Distance,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q414: What is the momentum of a 54 kg object moving at 15 m/s?,810 kg·m/s,864 kg·m/s,12150 kg·m/s,405.0 kg·m/s,810 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q415: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,0.75 m,1.5 m,3.0 m,1500000 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q416: Which heat transfer can occur through a vacuum?,Convection,Conduction,Friction,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q417: A light-year is a unit of:,Mass,Brightness,Time,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q418: What is the momentum of a 58 kg object moving at 27 m/s?,42282 kg·m/s,1624 kg·m/s,783.0 kg·m/s,1566 kg·m/s,1566 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q419: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,6.0 m,1.5 m,750000 m,3.0 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q420: Which heat transfer can occur through a vacuum?,Radiation,Convection,Conduction,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q421: A light-year is a unit of:,Time,Brightness,Distance,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q422: What is the momentum of a 2 kg object moving at 4 m/s?,4.0 kg·m/s,8 kg·m/s,32 kg·m/s,10 kg·m/s,8 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q423: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,15.0 m,3.75 m,300000 m,7.5 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q424: Which heat transfer can occur through a vacuum?,Convection,Radiation,Friction,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q425: A light-year is a unit of:,Mass,Time,Distance,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q426: What is the momentum of a 6 kg object moving at 16 m/s?,48.0 kg·m/s,1536 kg·m/s,96 kg·m/s,102 kg·m/s,96 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q427: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,7.5 m,150000 m,30.0 m,15.0 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q428: Which heat transfer can occur through a vacuum?,Conduction,Radiation,Convection,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q429: A light-year is a unit of:,Mass,Brightness,Distance,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q430: What is the momentum of a 10 kg object moving at 28 m/s?,140.0 kg·m/s,290 kg·m/s,7840 kg·m/s,280 kg·m/s,280 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q431: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,60.0 m,15.0 m,30.0 m,75000 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q432: Which heat transfer can occur through a vacuum?,Conduction,Radiation,Convection,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q433: A light-year is a unit of:,Time,Distance,Mass,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q434: What is the momentum of a 14 kg object moving at 5 m/s?,70 kg·m/s,35.0 kg·m/s,84 kg·m/s,350 kg·m/s,70 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q435: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,3.0 m,1.5 m,0.75 m,1500000 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q436: Which heat transfer can occur through a vacuum?,Friction,Conduction,Radiation,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q437: A light-year is a unit of:,Mass,Distance,Brightness,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q438: What is the momentum of a 18 kg object moving at 17 m/s?,5202 kg·m/s,324 kg·m/s,306 kg·m/s,153.0 kg·m/s,306 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q439: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,6.0 m,1.5 m,3.0 m,750000 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q440: Which heat transfer can occur through a vacuum?,Radiation,Convection,Friction,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q441: A light-year is a unit of:,Mass,Distance,Brightness,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q442: What is the momentum of a 22 kg object moving at 29 m/s?,319.0 kg·m/s,638 kg·m/s,660 kg·m/s,18502 kg·m/s,638 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q443: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,3.75 m,15.0 m,300000 m,7.5 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q444: Which heat transfer can occur through a vacuum?,Convection,Conduction,Radiation,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q445: A light-year is a unit of:,Mass,Time,Brightness,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q446: What is the momentum of a 26 kg object moving at 6 m/s?,78.0 kg·m/s,182 kg·m/s,936 kg·m/s,156 kg·m/s,156 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q447: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,30.0 m,15.0 m,7.5 m,150000 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q448: Which heat transfer can occur through a vacuum?,Conduction,Convection,Friction,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q449: A light-year is a unit of:,Brightness,Distance,Mass,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q450: What is the momentum of a 30 kg object moving at 18 m/s?,270.0 kg·m/s,9720 kg·m/s,540 kg·m/s,570 kg·m/s,540 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q451: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,60.0 m,75000 m,15.0 m,30.0 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q452: Which heat transfer can occur through a vacuum?,Conduction,Convection,Friction,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q453: A light-year is a unit of:,Brightness,Time,Distance,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q454: What is the momentum of a 34 kg object moving at 30 m/s?,1020 kg·m/s,1054 kg·m/s,30600 kg·m/s,510.0 kg·m/s,1020 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q455: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,1.5 m,3.0 m,0.75 m,1500000 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q456: Which heat transfer can occur through a vacuum?,Convection,Radiation,Conduction,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q457: A light-year is a unit of:,Mass,Brightness,Time,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q458: What is the momentum of a 38 kg object moving at 7 m/s?,133.0 kg·m/s,1862 kg·m/s,304 kg·m/s,266 kg·m/s,266 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q459: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,750000 m,6.0 m,3.0 m,1.5 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q460: Which heat transfer can occur through a vacuum?,Convection,Radiation,Conduction,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q461: A light-year is a unit of:,Time,Mass,Distance,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q462: What is the momentum of a 42 kg object moving at 19 m/s?,15162 kg·m/s,399.0 kg·m/s,840 kg·m/s,798 kg·m/s,798 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q463: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,3.75 m,15.0 m,300000 m,7.5 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q464: Which heat transfer can occur through a vacuum?,Conduction,Convection,Friction,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q465: A light-year is a unit of:,Distance,Time,Brightness,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q466: What is the momentum of a 46 kg object moving at 31 m/s?,713.0 kg·m/s,44206 kg·m/s,1472 kg·m/s,1426 kg·m/s,1426 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q467: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,30.0 m,15.0 m,150000 m,7.5 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q468: Which heat transfer can occur through a vacuum?,Convection,Friction,Radiation,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q469: A light-year is a unit of:,Brightness,Time,Distance,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q470: What is the momentum of a 50 kg object moving at 8 m/s?,450 kg·m/s,400 kg·m/s,200.0 kg·m/s,3200 kg·m/s,400 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q471: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,75000 m,15.0 m,30.0 m,60.0 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q472: Which heat transfer can occur through a vacuum?,Radiation,Conduction,Convection,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q473: A light-year is a unit of:,Distance,Time,Mass,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q474: What is the momentum of a 54 kg object moving at 20 m/s?,540.0 kg·m/s,1134 kg·m/s,1080 kg·m/s,21600 kg·m/s,1080 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q475: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,0.75 m,1.5 m,1500000 m,3.0 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q476: Which heat transfer can occur through a vacuum?,Convection,Friction,Conduction,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q477: A light-year is a unit of:,Brightness,Distance,Mass,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q478: What is the momentum of a 58 kg object moving at 32 m/s?,1856 kg·m/s,59392 kg·m/s,928.0 kg·m/s,1914 kg·m/s,1856 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q479: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,1.5 m,3.0 m,6.0 m,750000 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q480: Which heat transfer can occur through a vacuum?,Radiation,Friction,Conduction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q481: A light-year is a unit of:,Distance,Mass,Brightness,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q482: What is the momentum of a 2 kg object moving at 9 m/s?,9.0 kg·m/s,18 kg·m/s,162 kg·m/s,20 kg·m/s,18 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q483: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,15.0 m,3.75 m,300000 m,7.5 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q484: Which heat transfer can occur through a vacuum?,Conduction,Convection,Friction,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q485: A light-year is a unit of:,Time,Distance,Brightness,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q486: What is the momentum of a 6 kg object moving at 21 m/s?,132 kg·m/s,2646 kg·m/s,63.0 kg·m/s,126 kg·m/s,126 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q487: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,7.5 m,150000 m,15.0 m,30.0 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q488: Which heat transfer can occur through a vacuum?,Radiation,Convection,Conduction,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q489: A light-year is a unit of:,Mass,Brightness,Distance,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q490: What is the momentum of a 10 kg object moving at 33 m/s?,330 kg·m/s,165.0 kg·m/s,340 kg·m/s,10890 kg·m/s,330 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q491: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,75000 m,15.0 m,60.0 m,30.0 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q492: Which heat transfer can occur through a vacuum?,Convection,Radiation,Conduction,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q493: A light-year is a unit of:,Mass,Time,Distance,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q494: What is the momentum of a 14 kg object moving at 10 m/s?,140 kg·m/s,70.0 kg·m/s,1400 kg·m/s,154 kg·m/s,140 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q495: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,1.5 m,3.0 m,0.75 m,1500000 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q496: Which heat transfer can occur through a vacuum?,Friction,Radiation,Conduction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q497: A light-year is a unit of:,Brightness,Time,Mass,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q498: What is the momentum of a 18 kg object moving at 22 m/s?,414 kg·m/s,396 kg·m/s,198.0 kg·m/s,8712 kg·m/s,396 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q499: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,750000 m,1.5 m,3.0 m,6.0 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q500: Which heat transfer can occur through a vacuum?,Radiation,Friction,Convection,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q501: A light-year is a unit of:,Mass,Brightness,Time,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q502: What is the momentum of a 22 kg object moving at 34 m/s?,770 kg·m/s,25432 kg·m/s,748 kg·m/s,374.0 kg·m/s,748 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q503: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,15.0 m,7.5 m,300000 m,3.75 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q504: Which heat transfer can occur through a vacuum?,Friction,Radiation,Convection,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q505: A light-year is a unit of:,Time,Brightness,Distance,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q506: What is the momentum of a 26 kg object moving at 11 m/s?,312 kg·m/s,143.0 kg·m/s,286 kg·m/s,3146 kg·m/s,286 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q507: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,7.5 m,150000 m,30.0 m,15.0 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q508: Which heat transfer can occur through a vacuum?,Conduction,Radiation,Friction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q509: A light-year is a unit of:,Brightness,Time,Distance,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q510: What is the momentum of a 30 kg object moving at 23 m/s?,345.0 kg·m/s,720 kg·m/s,15870 kg·m/s,690 kg·m/s,690 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q511: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,60.0 m,30.0 m,15.0 m,75000 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q512: Which heat transfer can occur through a vacuum?,Radiation,Friction,Convection,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q513: A light-year is a unit of:,Time,Distance,Brightness,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q514: What is the momentum of a 34 kg object moving at 35 m/s?,1224 kg·m/s,41650 kg·m/s,1190 kg·m/s,595.0 kg·m/s,1190 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q515: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,0.75 m,3.0 m,1500000 m,1.5 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q516: Which heat transfer can occur through a vacuum?,Friction,Conduction,Convection,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q517: A light-year is a unit of:,Time,Mass,Brightness,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q518: What is the momentum of a 38 kg object moving at 12 m/s?,494 kg·m/s,5472 kg·m/s,228.0 kg·m/s,456 kg·m/s,456 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q519: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,750000 m,6.0 m,1.5 m,3.0 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q520: Which heat transfer can occur through a vacuum?,Radiation,Conduction,Friction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q521: A light-year is a unit of:,Distance,Mass,Time,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q522: What is the momentum of a 42 kg object moving at 24 m/s?,1050 kg·m/s,504.0 kg·m/s,24192 kg·m/s,1008 kg·m/s,1008 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q523: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,300000 m,7.5 m,3.75 m,15.0 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q524: Which heat transfer can occur through a vacuum?,Conduction,Friction,Convection,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q525: A light-year is a unit of:,Time,Mass,Brightness,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q526: What is the momentum of a 46 kg object moving at 1 m/s?,46 kg·m/s,Option 3,92 kg·m/s,23.0 kg·m/s,46 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q527: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,30.0 m,15.0 m,150000 m,7.5 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q528: Which heat transfer can occur through a vacuum?,Convection,Radiation,Friction,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q529: A light-year is a unit of:,Brightness,Distance,Mass,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q530: What is the momentum of a 50 kg object moving at 13 m/s?,325.0 kg·m/s,700 kg·m/s,650 kg·m/s,8450 kg·m/s,650 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q531: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,15.0 m,75000 m,60.0 m,30.0 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q532: Which heat transfer can occur through a vacuum?,Friction,Radiation,Convection,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q533: A light-year is a unit of:,Time,Brightness,Mass,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q534: What is the momentum of a 54 kg object moving at 25 m/s?,1350 kg·m/s,33750 kg·m/s,675.0 kg·m/s,1404 kg·m/s,1350 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q535: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,1.5 m,1500000 m,3.0 m,0.75 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q536: Which heat transfer can occur through a vacuum?,Radiation,Convection,Conduction,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q537: A light-year is a unit of:,Distance,Mass,Brightness,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q538: What is the momentum of a 58 kg object moving at 2 m/s?,116 kg·m/s,58.0 kg·m/s,174 kg·m/s,232 kg·m/s,116 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q539: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,6.0 m,3.0 m,750000 m,1.5 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q540: Which heat transfer can occur through a vacuum?,Convection,Radiation,Friction,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q541: A light-year is a unit of:,Distance,Time,Mass,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q542: What is the momentum of a 2 kg object moving at 14 m/s?,392 kg·m/s,28 kg·m/s,14.0 kg·m/s,30 kg·m/s,28 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q543: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,3.75 m,15.0 m,7.5 m,300000 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q544: Which heat transfer can occur through a vacuum?,Friction,Convection,Conduction,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q545: A light-year is a unit of:,Mass,Brightness,Distance,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q546: What is the momentum of a 6 kg object moving at 26 m/s?,4056 kg·m/s,156 kg·m/s,162 kg·m/s,78.0 kg·m/s,156 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q547: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,15.0 m,150000 m,7.5 m,30.0 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q548: Which heat transfer can occur through a vacuum?,Radiation,Friction,Convection,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q549: A light-year is a unit of:,Brightness,Mass,Time,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q550: What is the momentum of a 10 kg object moving at 3 m/s?,15.0 kg·m/s,30 kg·m/s,40 kg·m/s,90 kg·m/s,30 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q551: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,60.0 m,75000 m,15.0 m,30.0 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q552: Which heat transfer can occur through a vacuum?,Friction,Conduction,Radiation,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q553: A light-year is a unit of:,Distance,Time,Brightness,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q554: What is the momentum of a 14 kg object moving at 15 m/s?,210 kg·m/s,3150 kg·m/s,105.0 kg·m/s,224 kg·m/s,210 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q555: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,1500000 m,3.0 m,1.5 m,0.75 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q556: Which heat transfer can occur through a vacuum?,Radiation,Conduction,Convection,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q557: A light-year is a unit of:,Distance,Mass,Time,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q558: What is the momentum of a 18 kg object moving at 27 m/s?,504 kg·m/s,13122 kg·m/s,243.0 kg·m/s,486 kg·m/s,486 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q559: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,750000 m,6.0 m,1.5 m,3.0 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q560: Which heat transfer can occur through a vacuum?,Convection,Radiation,Friction,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q561: A light-year is a unit of:,Mass,Distance,Brightness,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q562: What is the momentum of a 22 kg object moving at 4 m/s?,88 kg·m/s,352 kg·m/s,44.0 kg·m/s,110 kg·m/s,88 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q563: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,15.0 m,3.75 m,7.5 m,300000 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q564: Which heat transfer can occur through a vacuum?,Radiation,Conduction,Friction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q565: A light-year is a unit of:,Distance,Brightness,Mass,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q566: What is the momentum of a 26 kg object moving at 16 m/s?,208.0 kg·m/s,442 kg·m/s,416 kg·m/s,6656 kg·m/s,416 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q567: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,30.0 m,15.0 m,150000 m,7.5 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q568: Which heat transfer can occur through a vacuum?,Conduction,Convection,Friction,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q569: A light-year is a unit of:,Mass,Brightness,Time,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q570: What is the momentum of a 30 kg object moving at 28 m/s?,870 kg·m/s,840 kg·m/s,23520 kg·m/s,420.0 kg·m/s,840 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q571: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,60.0 m,75000 m,30.0 m,15.0 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q572: Which heat transfer can occur through a vacuum?,Radiation,Friction,Conduction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q573: A light-year is a unit of:,Brightness,Time,Distance,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q574: What is the momentum of a 34 kg object moving at 5 m/s?,85.0 kg·m/s,850 kg·m/s,204 kg·m/s,170 kg·m/s,170 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q575: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,1500000 m,1.5 m,3.0 m,0.75 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q576: Which heat transfer can occur through a vacuum?,Radiation,Conduction,Convection,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q577: A light-year is a unit of:,Distance,Brightness,Time,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q578: What is the momentum of a 38 kg object moving at 17 m/s?,646 kg·m/s,10982 kg·m/s,323.0 kg·m/s,684 kg·m/s,646 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q579: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,1.5 m,750000 m,6.0 m,3.0 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q580: Which heat transfer can occur through a vacuum?,Conduction,Radiation,Friction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q581: A light-year is a unit of:,Time,Brightness,Mass,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q582: What is the momentum of a 42 kg object moving at 29 m/s?,1218 kg·m/s,609.0 kg·m/s,1260 kg·m/s,35322 kg·m/s,1218 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q583: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,300000 m,15.0 m,7.5 m,3.75 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q584: Which heat transfer can occur through a vacuum?,Radiation,Conduction,Friction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q585: A light-year is a unit of:,Time,Distance,Brightness,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q586: What is the momentum of a 46 kg object moving at 6 m/s?,276 kg·m/s,138.0 kg·m/s,1656 kg·m/s,322 kg·m/s,276 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q587: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,7.5 m,15.0 m,30.0 m,150000 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q588: Which heat transfer can occur through a vacuum?,Conduction,Convection,Friction,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q589: A light-year is a unit of:,Distance,Mass,Brightness,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q590: What is the momentum of a 50 kg object moving at 18 m/s?,900 kg·m/s,950 kg·m/s,16200 kg·m/s,450.0 kg·m/s,900 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q591: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,75000 m,15.0 m,30.0 m,60.0 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q592: Which heat transfer can occur through a vacuum?,Radiation,Friction,Conduction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q593: A light-year is a unit of:,Brightness,Mass,Time,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q594: What is the momentum of a 54 kg object moving at 30 m/s?,1674 kg·m/s,810.0 kg·m/s,1620 kg·m/s,48600 kg·m/s,1620 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q595: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,0.75 m,1.5 m,3.0 m,1500000 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q596: Which heat transfer can occur through a vacuum?,Friction,Radiation,Conduction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q597: A light-year is a unit of:,Mass,Distance,Time,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q598: What is the momentum of a 58 kg object moving at 7 m/s?,406 kg·m/s,464 kg·m/s,2842 kg·m/s,203.0 kg·m/s,406 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q599: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,6.0 m,750000 m,1.5 m,3.0 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q600: Which heat transfer can occur through a vacuum?,Convection,Friction,Radiation,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q601: A light-year is a unit of:,Mass,Time,Distance,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q602: What is the momentum of a 2 kg object moving at 19 m/s?,38 kg·m/s,40 kg·m/s,722 kg·m/s,19.0 kg·m/s,38 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q603: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,7.5 m,15.0 m,3.75 m,300000 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q604: Which heat transfer can occur through a vacuum?,Convection,Radiation,Friction,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q605: A light-year is a unit of:,Brightness,Mass,Time,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q606: What is the momentum of a 6 kg object moving at 31 m/s?,186 kg·m/s,93.0 kg·m/s,192 kg·m/s,5766 kg·m/s,186 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q607: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,15.0 m,7.5 m,150000 m,30.0 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q608: Which heat transfer can occur through a vacuum?,Conduction,Convection,Friction,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q609: A light-year is a unit of:,Mass,Brightness,Distance,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q610: What is the momentum of a 10 kg object moving at 8 m/s?,90 kg·m/s,40.0 kg·m/s,80 kg·m/s,640 kg·m/s,80 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q611: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,15.0 m,30.0 m,75000 m,60.0 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q612: Which heat transfer can occur through a vacuum?,Friction,Radiation,Convection,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q613: A light-year is a unit of:,Distance,Mass,Brightness,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q614: What is the momentum of a 14 kg object moving at 20 m/s?,5600 kg·m/s,140.0 kg·m/s,280 kg·m/s,294 kg·m/s,280 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q615: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,1.5 m,3.0 m,0.75 m,1500000 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q616: Which heat transfer can occur through a vacuum?,Friction,Radiation,Conduction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q617: A light-year is a unit of:,Distance,Brightness,Mass,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q618: What is the momentum of a 18 kg object moving at 32 m/s?,18432 kg·m/s,576 kg·m/s,594 kg·m/s,288.0 kg·m/s,576 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q619: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,1.5 m,6.0 m,3.0 m,750000 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q620: Which heat transfer can occur through a vacuum?,Conduction,Radiation,Convection,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q621: A light-year is a unit of:,Distance,Mass,Brightness,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q622: What is the momentum of a 22 kg object moving at 9 m/s?,220 kg·m/s,198 kg·m/s,1782 kg·m/s,99.0 kg·m/s,198 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q623: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,3.75 m,15.0 m,300000 m,7.5 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q624: Which heat transfer can occur through a vacuum?,Friction,Conduction,Radiation,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q625: A light-year is a unit of:,Distance,Brightness,Time,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q626: What is the momentum of a 26 kg object moving at 21 m/s?,273.0 kg·m/s,11466 kg·m/s,572 kg·m/s,546 kg·m/s,546 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q627: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,30.0 m,7.5 m,15.0 m,150000 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q628: Which heat transfer can occur through a vacuum?,Radiation,Friction,Convection,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q629: A light-year is a unit of:,Time,Distance,Mass,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q630: What is the momentum of a 30 kg object moving at 33 m/s?,495.0 kg·m/s,1020 kg·m/s,32670 kg·m/s,990 kg·m/s,990 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q631: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,75000 m,15.0 m,60.0 m,30.0 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q632: Which heat transfer can occur through a vacuum?,Radiation,Friction,Convection,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q633: A light-year is a unit of:,Time,Distance,Brightness,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q634: What is the momentum of a 34 kg object moving at 10 m/s?,374 kg·m/s,170.0 kg·m/s,3400 kg·m/s,340 kg·m/s,340 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q635: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,3.0 m,1.5 m,0.75 m,1500000 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q636: Which heat transfer can occur through a vacuum?,Convection,Friction,Conduction,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q637: A light-year is a unit of:,Time,Mass,Brightness,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q638: What is the momentum of a 38 kg object moving at 22 m/s?,874 kg·m/s,836 kg·m/s,18392 kg·m/s,418.0 kg·m/s,836 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q639: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,1.5 m,3.0 m,6.0 m,750000 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q640: Which heat transfer can occur through a vacuum?,Friction,Radiation,Convection,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q641: A light-year is a unit of:,Distance,Mass,Time,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q642: What is the momentum of a 42 kg object moving at 34 m/s?,1470 kg·m/s,48552 kg·m/s,714.0 kg·m/s,1428 kg·m/s,1428 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q643: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,15.0 m,3.75 m,7.5 m,300000 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q644: Which heat transfer can occur through a vacuum?,Radiation,Friction,Convection,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q645: A light-year is a unit of:,Time,Brightness,Distance,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q646: What is the momentum of a 46 kg object moving at 11 m/s?,5566 kg·m/s,253.0 kg·m/s,506 kg·m/s,552 kg·m/s,506 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q647: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,15.0 m,150000 m,30.0 m,7.5 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q648: Which heat transfer can occur through a vacuum?,Friction,Radiation,Convection,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q649: A light-year is a unit of:,Time,Mass,Distance,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q650: What is the momentum of a 50 kg object moving at 23 m/s?,26450 kg·m/s,1150 kg·m/s,575.0 kg·m/s,1200 kg·m/s,1150 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q651: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,75000 m,60.0 m,30.0 m,15.0 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q652: Which heat transfer can occur through a vacuum?,Conduction,Convection,Friction,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q653: A light-year is a unit of:,Brightness,Distance,Time,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q654: What is the momentum of a 54 kg object moving at 35 m/s?,1890 kg·m/s,945.0 kg·m/s,1944 kg·m/s,66150 kg·m/s,1890 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q655: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,1.5 m,3.0 m,0.75 m,1500000 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q656: Which heat transfer can occur through a vacuum?,Friction,Conduction,Radiation,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q657: A light-year is a unit of:,Mass,Time,Brightness,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q658: What is the momentum of a 58 kg object moving at 12 m/s?,696 kg·m/s,348.0 kg·m/s,8352 kg·m/s,754 kg·m/s,696 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q659: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,1.5 m,6.0 m,3.0 m,750000 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q660: Which heat transfer can occur through a vacuum?,Convection,Radiation,Friction,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q661: A light-year is a unit of:,Distance,Time,Mass,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q662: What is the momentum of a 2 kg object moving at 24 m/s?,48 kg·m/s,24.0 kg·m/s,1152 kg·m/s,50 kg·m/s,48 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q663: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,300000 m,3.75 m,15.0 m,7.5 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q664: Which heat transfer can occur through a vacuum?,Conduction,Friction,Convection,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q665: A light-year is a unit of:,Time,Mass,Brightness,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q666: What is the momentum of a 6 kg object moving at 1 m/s?,6 kg·m/s,12 kg·m/s,Option 3,3.0 kg·m/s,6 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q667: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,150000 m,30.0 m,15.0 m,7.5 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q668: Which heat transfer can occur through a vacuum?,Radiation,Convection,Conduction,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q669: A light-year is a unit of:,Mass,Brightness,Distance,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q670: What is the momentum of a 10 kg object moving at 13 m/s?,130 kg·m/s,1690 kg·m/s,65.0 kg·m/s,140 kg·m/s,130 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q671: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,30.0 m,15.0 m,75000 m,60.0 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q672: Which heat transfer can occur through a vacuum?,Friction,Conduction,Radiation,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q673: A light-year is a unit of:,Mass,Distance,Time,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q674: What is the momentum of a 14 kg object moving at 25 m/s?,175.0 kg·m/s,8750 kg·m/s,350 kg·m/s,364 kg·m/s,350 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q675: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,3.0 m,0.75 m,1.5 m,1500000 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q676: Which heat transfer can occur through a vacuum?,Conduction,Radiation,Friction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q677: A light-year is a unit of:,Brightness,Distance,Mass,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q678: What is the momentum of a 18 kg object moving at 2 m/s?,72 kg·m/s,18.0 kg·m/s,36 kg·m/s,54 kg·m/s,36 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q679: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,6.0 m,1.5 m,3.0 m,750000 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q680: Which heat transfer can occur through a vacuum?,Friction,Radiation,Conduction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q681: A light-year is a unit of:,Brightness,Mass,Distance,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q682: What is the momentum of a 22 kg object moving at 14 m/s?,4312 kg·m/s,330 kg·m/s,154.0 kg·m/s,308 kg·m/s,308 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q683: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,3.75 m,15.0 m,300000 m,7.5 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q684: Which heat transfer can occur through a vacuum?,Friction,Conduction,Radiation,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q685: A light-year is a unit of:,Brightness,Time,Distance,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q686: What is the momentum of a 26 kg object moving at 26 m/s?,676 kg·m/s,17576 kg·m/s,338.0 kg·m/s,702 kg·m/s,676 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q687: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,30.0 m,7.5 m,15.0 m,150000 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q688: Which heat transfer can occur through a vacuum?,Radiation,Conduction,Friction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q689: A light-year is a unit of:,Brightness,Mass,Distance,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q690: What is the momentum of a 30 kg object moving at 3 m/s?,270 kg·m/s,90 kg·m/s,120 kg·m/s,45.0 kg·m/s,90 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q691: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,30.0 m,60.0 m,75000 m,15.0 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q692: Which heat transfer can occur through a vacuum?,Radiation,Friction,Convection,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q693: A light-year is a unit of:,Time,Mass,Distance,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q694: What is the momentum of a 34 kg object moving at 15 m/s?,510 kg·m/s,255.0 kg·m/s,7650 kg·m/s,544 kg·m/s,510 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q695: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,1.5 m,0.75 m,3.0 m,1500000 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q696: Which heat transfer can occur through a vacuum?,Convection,Friction,Radiation,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q697: A light-year is a unit of:,Mass,Time,Distance,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q698: What is the momentum of a 38 kg object moving at 27 m/s?,1026 kg·m/s,27702 kg·m/s,513.0 kg·m/s,1064 kg·m/s,1026 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q699: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,1.5 m,6.0 m,3.0 m,750000 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q700: Which heat transfer can occur through a vacuum?,Conduction,Radiation,Convection,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q701: A light-year is a unit of:,Brightness,Time,Distance,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q702: What is the momentum of a 42 kg object moving at 4 m/s?,210 kg·m/s,672 kg·m/s,84.0 kg·m/s,168 kg·m/s,168 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q703: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,15.0 m,3.75 m,300000 m,7.5 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q704: Which heat transfer can occur through a vacuum?,Conduction,Friction,Radiation,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q705: A light-year is a unit of:,Mass,Time,Distance,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q706: What is the momentum of a 46 kg object moving at 16 m/s?,736 kg·m/s,782 kg·m/s,368.0 kg·m/s,11776 kg·m/s,736 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q707: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,7.5 m,15.0 m,150000 m,30.0 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q708: Which heat transfer can occur through a vacuum?,Radiation,Conduction,Convection,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q709: A light-year is a unit of:,Mass,Brightness,Distance,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q710: What is the momentum of a 50 kg object moving at 28 m/s?,1450 kg·m/s,700.0 kg·m/s,1400 kg·m/s,39200 kg·m/s,1400 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q711: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,60.0 m,15.0 m,75000 m,30.0 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q712: Which heat transfer can occur through a vacuum?,Conduction,Convection,Friction,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q713: A light-year is a unit of:,Time,Brightness,Distance,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q714: What is the momentum of a 54 kg object moving at 5 m/s?,324 kg·m/s,135.0 kg·m/s,270 kg·m/s,1350 kg·m/s,270 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q715: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,1500000 m,3.0 m,0.75 m,1.5 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q716: Which heat transfer can occur through a vacuum?,Conduction,Radiation,Friction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q717: A light-year is a unit of:,Mass,Brightness,Distance,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q718: What is the momentum of a 58 kg object moving at 17 m/s?,986 kg·m/s,493.0 kg·m/s,1044 kg·m/s,16762 kg·m/s,986 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q719: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,1.5 m,3.0 m,6.0 m,750000 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q720: Which heat transfer can occur through a vacuum?,Convection,Friction,Conduction,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q721: A light-year is a unit of:,Distance,Time,Brightness,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q722: What is the momentum of a 2 kg object moving at 29 m/s?,60 kg·m/s,1682 kg·m/s,58 kg·m/s,29.0 kg·m/s,58 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q723: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,300000 m,15.0 m,7.5 m,3.75 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q724: Which heat transfer can occur through a vacuum?,Friction,Radiation,Convection,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q725: A light-year is a unit of:,Time,Mass,Distance,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q726: What is the momentum of a 6 kg object moving at 6 m/s?,42 kg·m/s,18.0 kg·m/s,36 kg·m/s,216 kg·m/s,36 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q727: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,150000 m,7.5 m,15.0 m,30.0 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q728: Which heat transfer can occur through a vacuum?,Radiation,Convection,Friction,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q729: A light-year is a unit of:,Distance,Mass,Time,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q730: What is the momentum of a 10 kg object moving at 18 m/s?,180 kg·m/s,190 kg·m/s,90.0 kg·m/s,3240 kg·m/s,180 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q731: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,15.0 m,60.0 m,75000 m,30.0 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q732: Which heat transfer can occur through a vacuum?,Conduction,Convection,Friction,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q733: A light-year is a unit of:,Brightness,Time,Mass,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q734: What is the momentum of a 14 kg object moving at 30 m/s?,210.0 kg·m/s,12600 kg·m/s,434 kg·m/s,420 kg·m/s,420 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q735: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,0.75 m,1.5 m,3.0 m,1500000 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q736: Which heat transfer can occur through a vacuum?,Radiation,Friction,Conduction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q737: A light-year is a unit of:,Time,Distance,Mass,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q738: What is the momentum of a 18 kg object moving at 7 m/s?,126 kg·m/s,63.0 kg·m/s,882 kg·m/s,144 kg·m/s,126 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q739: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,3.0 m,6.0 m,750000 m,1.5 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q740: Which heat transfer can occur through a vacuum?,Convection,Radiation,Friction,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q741: A light-year is a unit of:,Mass,Brightness,Distance,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q742: What is the momentum of a 22 kg object moving at 19 m/s?,440 kg·m/s,418 kg·m/s,7942 kg·m/s,209.0 kg·m/s,418 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q743: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,300000 m,7.5 m,3.75 m,15.0 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q744: Which heat transfer can occur through a vacuum?,Radiation,Convection,Conduction,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q745: A light-year is a unit of:,Time,Mass,Brightness,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q746: What is the momentum of a 26 kg object moving at 31 m/s?,24986 kg·m/s,403.0 kg·m/s,806 kg·m/s,832 kg·m/s,806 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q747: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,15.0 m,150000 m,30.0 m,7.5 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q748: Which heat transfer can occur through a vacuum?,Friction,Radiation,Conduction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q749: A light-year is a unit of:,Time,Brightness,Mass,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q750: What is the momentum of a 30 kg object moving at 8 m/s?,1920 kg·m/s,240 kg·m/s,270 kg·m/s,120.0 kg·m/s,240 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q751: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,15.0 m,75000 m,30.0 m,60.0 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q752: Which heat transfer can occur through a vacuum?,Radiation,Convection,Conduction,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q753: A light-year is a unit of:,Distance,Mass,Time,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q754: What is the momentum of a 34 kg object moving at 20 m/s?,680 kg·m/s,13600 kg·m/s,340.0 kg·m/s,714 kg·m/s,680 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q755: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,0.75 m,1500000 m,3.0 m,1.5 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q756: Which heat transfer can occur through a vacuum?,Friction,Conduction,Convection,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q757: A light-year is a unit of:,Distance,Mass,Time,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q758: What is the momentum of a 38 kg object moving at 32 m/s?,38912 kg·m/s,608.0 kg·m/s,1216 kg·m/s,1254 kg·m/s,1216 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q759: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,6.0 m,750000 m,3.0 m,1.5 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q760: Which heat transfer can occur through a vacuum?,Friction,Convection,Radiation,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q761: A light-year is a unit of:,Mass,Time,Distance,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q762: What is the momentum of a 42 kg object moving at 9 m/s?,189.0 kg·m/s,378 kg·m/s,3402 kg·m/s,420 kg·m/s,378 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q763: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,300000 m,7.5 m,15.0 m,3.75 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q764: Which heat transfer can occur through a vacuum?,Radiation,Convection,Friction,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q765: A light-year is a unit of:,Time,Brightness,Distance,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q766: What is the momentum of a 46 kg object moving at 21 m/s?,20286 kg·m/s,966 kg·m/s,483.0 kg·m/s,1012 kg·m/s,966 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q767: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,15.0 m,150000 m,30.0 m,7.5 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q768: Which heat transfer can occur through a vacuum?,Friction,Conduction,Convection,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q769: A light-year is a unit of:,Brightness,Mass,Time,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q770: What is the momentum of a 50 kg object moving at 33 m/s?,54450 kg·m/s,825.0 kg·m/s,1700 kg·m/s,1650 kg·m/s,1650 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q771: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,75000 m,30.0 m,15.0 m,60.0 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q772: Which heat transfer can occur through a vacuum?,Radiation,Friction,Conduction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q773: A light-year is a unit of:,Time,Brightness,Mass,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q774: What is the momentum of a 54 kg object moving at 10 m/s?,540 kg·m/s,594 kg·m/s,270.0 kg·m/s,5400 kg·m/s,540 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q775: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,1.5 m,0.75 m,1500000 m,3.0 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q776: Which heat transfer can occur through a vacuum?,Radiation,Friction,Conduction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q777: A light-year is a unit of:,Mass,Time,Distance,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q778: What is the momentum of a 58 kg object moving at 22 m/s?,28072 kg·m/s,1276 kg·m/s,1334 kg·m/s,638.0 kg·m/s,1276 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q779: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,1.5 m,3.0 m,6.0 m,750000 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q780: Which heat transfer can occur through a vacuum?,Convection,Friction,Conduction,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q781: A light-year is a unit of:,Time,Mass,Distance,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q782: What is the momentum of a 2 kg object moving at 34 m/s?,2312 kg·m/s,70 kg·m/s,68 kg·m/s,34.0 kg·m/s,68 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q783: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,300000 m,15.0 m,7.5 m,3.75 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q784: Which heat transfer can occur through a vacuum?,Conduction,Convection,Radiation,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q785: A light-year is a unit of:,Time,Distance,Brightness,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q786: What is the momentum of a 6 kg object moving at 11 m/s?,33.0 kg·m/s,72 kg·m/s,726 kg·m/s,66 kg·m/s,66 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q787: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,150000 m,7.5 m,15.0 m,30.0 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q788: Which heat transfer can occur through a vacuum?,Conduction,Friction,Convection,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q789: A light-year is a unit of:,Distance,Mass,Time,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q790: What is the momentum of a 10 kg object moving at 23 m/s?,240 kg·m/s,230 kg·m/s,5290 kg·m/s,115.0 kg·m/s,230 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q791: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,75000 m,60.0 m,30.0 m,15.0 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q792: Which heat transfer can occur through a vacuum?,Radiation,Friction,Conduction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q793: A light-year is a unit of:,Mass,Distance,Time,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q794: What is the momentum of a 14 kg object moving at 35 m/s?,490 kg·m/s,245.0 kg·m/s,504 kg·m/s,17150 kg·m/s,490 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q795: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,3.0 m,0.75 m,1500000 m,1.5 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q796: Which heat transfer can occur through a vacuum?,Convection,Radiation,Friction,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q797: A light-year is a unit of:,Mass,Time,Brightness,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q798: What is the momentum of a 18 kg object moving at 12 m/s?,216 kg·m/s,108.0 kg·m/s,234 kg·m/s,2592 kg·m/s,216 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q799: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,1.5 m,6.0 m,750000 m,3.0 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q800: Which heat transfer can occur through a vacuum?,Friction,Radiation,Convection,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q801: A light-year is a unit of:,Mass,Brightness,Distance,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q802: What is the momentum of a 22 kg object moving at 24 m/s?,12672 kg·m/s,528 kg·m/s,264.0 kg·m/s,550 kg·m/s,528 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q803: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,7.5 m,3.75 m,15.0 m,300000 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q804: Which heat transfer can occur through a vacuum?,Radiation,Friction,Convection,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q805: A light-year is a unit of:,Brightness,Time,Mass,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q806: What is the momentum of a 26 kg object moving at 1 m/s?,Option 3,26 kg·m/s,52 kg·m/s,13.0 kg·m/s,26 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q807: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,150000 m,7.5 m,30.0 m,15.0 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q808: Which heat transfer can occur through a vacuum?,Radiation,Convection,Friction,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q809: A light-year is a unit of:,Time,Distance,Brightness,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q810: What is the momentum of a 30 kg object moving at 13 m/s?,390 kg·m/s,5070 kg·m/s,420 kg·m/s,195.0 kg·m/s,390 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q811: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,60.0 m,30.0 m,75000 m,15.0 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q812: Which heat transfer can occur through a vacuum?,Conduction,Friction,Convection,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q813: A light-year is a unit of:,Brightness,Time,Distance,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q814: What is the momentum of a 34 kg object moving at 25 m/s?,850 kg·m/s,425.0 kg·m/s,884 kg·m/s,21250 kg·m/s,850 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q815: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,1.5 m,0.75 m,3.0 m,1500000 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q816: Which heat transfer can occur through a vacuum?,Radiation,Conduction,Friction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q817: A light-year is a unit of:,Time,Distance,Mass,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q818: What is the momentum of a 38 kg object moving at 2 m/s?,152 kg·m/s,38.0 kg·m/s,114 kg·m/s,76 kg·m/s,76 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q819: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,1.5 m,750000 m,3.0 m,6.0 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q820: Which heat transfer can occur through a vacuum?,Radiation,Friction,Convection,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q821: A light-year is a unit of:,Brightness,Distance,Time,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q822: What is the momentum of a 42 kg object moving at 14 m/s?,630 kg·m/s,8232 kg·m/s,588 kg·m/s,294.0 kg·m/s,588 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q823: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,7.5 m,300000 m,15.0 m,3.75 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q824: Which heat transfer can occur through a vacuum?,Friction,Convection,Conduction,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q825: A light-year is a unit of:,Distance,Brightness,Mass,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q826: What is the momentum of a 46 kg object moving at 26 m/s?,31096 kg·m/s,1242 kg·m/s,1196 kg·m/s,598.0 kg·m/s,1196 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q827: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,30.0 m,150000 m,15.0 m,7.5 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q828: Which heat transfer can occur through a vacuum?,Radiation,Convection,Conduction,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q829: A light-year is a unit of:,Brightness,Time,Mass,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q830: What is the momentum of a 50 kg object moving at 3 m/s?,150 kg·m/s,75.0 kg·m/s,450 kg·m/s,200 kg·m/s,150 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q831: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,75000 m,15.0 m,60.0 m,30.0 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q832: Which heat transfer can occur through a vacuum?,Convection,Conduction,Radiation,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q833: A light-year is a unit of:,Time,Distance,Mass,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q834: What is the momentum of a 54 kg object moving at 15 m/s?,864 kg·m/s,810 kg·m/s,405.0 kg·m/s,12150 kg·m/s,810 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q835: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,1500000 m,0.75 m,1.5 m,3.0 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q836: Which heat transfer can occur through a vacuum?,Radiation,Convection,Conduction,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q837: A light-year is a unit of:,Time,Mass,Distance,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q838: What is the momentum of a 58 kg object moving at 27 m/s?,1566 kg·m/s,1624 kg·m/s,783.0 kg·m/s,42282 kg·m/s,1566 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q839: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,1.5 m,3.0 m,6.0 m,750000 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q840: Which heat transfer can occur through a vacuum?,Convection,Friction,Radiation,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q841: A light-year is a unit of:,Mass,Brightness,Distance,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q842: What is the momentum of a 2 kg object moving at 4 m/s?,32 kg·m/s,4.0 kg·m/s,8 kg·m/s,10 kg·m/s,8 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q843: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,7.5 m,300000 m,15.0 m,3.75 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q844: Which heat transfer can occur through a vacuum?,Convection,Conduction,Friction,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q845: A light-year is a unit of:,Mass,Distance,Time,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q846: What is the momentum of a 6 kg object moving at 16 m/s?,96 kg·m/s,102 kg·m/s,48.0 kg·m/s,1536 kg·m/s,96 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q847: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,15.0 m,150000 m,30.0 m,7.5 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q848: Which heat transfer can occur through a vacuum?,Friction,Convection,Radiation,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q849: A light-year is a unit of:,Mass,Distance,Time,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q850: What is the momentum of a 10 kg object moving at 28 m/s?,7840 kg·m/s,140.0 kg·m/s,290 kg·m/s,280 kg·m/s,280 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q851: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,30.0 m,15.0 m,75000 m,60.0 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q852: Which heat transfer can occur through a vacuum?,Conduction,Convection,Radiation,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q853: A light-year is a unit of:,Brightness,Time,Distance,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q854: What is the momentum of a 14 kg object moving at 5 m/s?,84 kg·m/s,350 kg·m/s,70 kg·m/s,35.0 kg·m/s,70 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q855: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,3.0 m,1.5 m,1500000 m,0.75 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q856: Which heat transfer can occur through a vacuum?,Conduction,Radiation,Convection,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q857: A light-year is a unit of:,Brightness,Time,Distance,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q858: What is the momentum of a 18 kg object moving at 17 m/s?,153.0 kg·m/s,5202 kg·m/s,324 kg·m/s,306 kg·m/s,306 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q859: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,750000 m,3.0 m,1.5 m,6.0 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q860: Which heat transfer can occur through a vacuum?,Friction,Convection,Conduction,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q861: A light-year is a unit of:,Distance,Time,Mass,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q862: What is the momentum of a 22 kg object moving at 29 m/s?,638 kg·m/s,660 kg·m/s,319.0 kg·m/s,18502 kg·m/s,638 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q863: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,300000 m,3.75 m,15.0 m,7.5 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q864: Which heat transfer can occur through a vacuum?,Friction,Radiation,Conduction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q865: A light-year is a unit of:,Brightness,Time,Distance,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q866: What is the momentum of a 26 kg object moving at 6 m/s?,78.0 kg·m/s,182 kg·m/s,936 kg·m/s,156 kg·m/s,156 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q867: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,150000 m,30.0 m,15.0 m,7.5 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q868: Which heat transfer can occur through a vacuum?,Conduction,Radiation,Friction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q869: A light-year is a unit of:,Brightness,Mass,Time,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q870: What is the momentum of a 30 kg object moving at 18 m/s?,570 kg·m/s,9720 kg·m/s,540 kg·m/s,270.0 kg·m/s,540 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q871: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,75000 m,15.0 m,60.0 m,30.0 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q872: Which heat transfer can occur through a vacuum?,Radiation,Friction,Conduction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q873: A light-year is a unit of:,Mass,Time,Distance,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q874: What is the momentum of a 34 kg object moving at 30 m/s?,1020 kg·m/s,510.0 kg·m/s,30600 kg·m/s,1054 kg·m/s,1020 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q875: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,1.5 m,0.75 m,1500000 m,3.0 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q876: Which heat transfer can occur through a vacuum?,Radiation,Friction,Conduction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q877: A light-year is a unit of:,Time,Mass,Brightness,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q878: What is the momentum of a 38 kg object moving at 7 m/s?,1862 kg·m/s,266 kg·m/s,304 kg·m/s,133.0 kg·m/s,266 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q879: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,1.5 m,6.0 m,3.0 m,750000 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q880: Which heat transfer can occur through a vacuum?,Conduction,Convection,Radiation,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q881: A light-year is a unit of:,Mass,Distance,Time,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q882: What is the momentum of a 42 kg object moving at 19 m/s?,15162 kg·m/s,399.0 kg·m/s,798 kg·m/s,840 kg·m/s,798 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q883: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,7.5 m,3.75 m,300000 m,15.0 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q884: Which heat transfer can occur through a vacuum?,Friction,Radiation,Conduction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q885: A light-year is a unit of:,Mass,Brightness,Distance,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q886: What is the momentum of a 46 kg object moving at 31 m/s?,713.0 kg·m/s,44206 kg·m/s,1472 kg·m/s,1426 kg·m/s,1426 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q887: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,30.0 m,15.0 m,150000 m,7.5 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q888: Which heat transfer can occur through a vacuum?,Friction,Convection,Conduction,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q889: A light-year is a unit of:,Time,Brightness,Distance,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q890: What is the momentum of a 50 kg object moving at 8 m/s?,3200 kg·m/s,450 kg·m/s,400 kg·m/s,200.0 kg·m/s,400 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q891: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,60.0 m,30.0 m,15.0 m,75000 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q892: Which heat transfer can occur through a vacuum?,Friction,Radiation,Conduction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q893: A light-year is a unit of:,Time,Brightness,Mass,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q894: What is the momentum of a 54 kg object moving at 20 m/s?,1080 kg·m/s,540.0 kg·m/s,21600 kg·m/s,1134 kg·m/s,1080 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q895: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,1.5 m,0.75 m,1500000 m,3.0 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q896: Which heat transfer can occur through a vacuum?,Friction,Conduction,Convection,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q897: A light-year is a unit of:,Brightness,Mass,Time,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q898: What is the momentum of a 58 kg object moving at 32 m/s?,1914 kg·m/s,928.0 kg·m/s,1856 kg·m/s,59392 kg·m/s,1856 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q899: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,1.5 m,750000 m,3.0 m,6.0 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q900: Which heat transfer can occur through a vacuum?,Friction,Radiation,Conduction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q901: A light-year is a unit of:,Mass,Time,Brightness,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q902: What is the momentum of a 2 kg object moving at 9 m/s?,9.0 kg·m/s,18 kg·m/s,20 kg·m/s,162 kg·m/s,18 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q903: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,15.0 m,7.5 m,300000 m,3.75 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q904: Which heat transfer can occur through a vacuum?,Radiation,Friction,Convection,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q905: A light-year is a unit of:,Time,Mass,Brightness,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q906: What is the momentum of a 6 kg object moving at 21 m/s?,63.0 kg·m/s,132 kg·m/s,2646 kg·m/s,126 kg·m/s,126 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q907: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,30.0 m,15.0 m,7.5 m,150000 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q908: Which heat transfer can occur through a vacuum?,Conduction,Convection,Friction,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q909: A light-year is a unit of:,Distance,Brightness,Time,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q910: What is the momentum of a 10 kg object moving at 33 m/s?,165.0 kg·m/s,340 kg·m/s,330 kg·m/s,10890 kg·m/s,330 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q911: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,15.0 m,60.0 m,75000 m,30.0 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q912: Which heat transfer can occur through a vacuum?,Conduction,Radiation,Convection,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q913: A light-year is a unit of:,Time,Distance,Mass,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q914: What is the momentum of a 14 kg object moving at 10 m/s?,1400 kg·m/s,154 kg·m/s,140 kg·m/s,70.0 kg·m/s,140 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q915: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,0.75 m,1500000 m,3.0 m,1.5 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q916: Which heat transfer can occur through a vacuum?,Friction,Conduction,Radiation,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q917: A light-year is a unit of:,Mass,Time,Distance,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q918: What is the momentum of a 18 kg object moving at 22 m/s?,8712 kg·m/s,198.0 kg·m/s,414 kg·m/s,396 kg·m/s,396 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q919: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,6.0 m,1.5 m,750000 m,3.0 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q920: Which heat transfer can occur through a vacuum?,Conduction,Convection,Radiation,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q921: A light-year is a unit of:,Distance,Brightness,Time,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q922: What is the momentum of a 22 kg object moving at 34 m/s?,25432 kg·m/s,374.0 kg·m/s,748 kg·m/s,770 kg·m/s,748 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q923: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,300000 m,7.5 m,3.75 m,15.0 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q924: Which heat transfer can occur through a vacuum?,Radiation,Conduction,Friction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q925: A light-year is a unit of:,Mass,Distance,Time,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q926: What is the momentum of a 26 kg object moving at 11 m/s?,312 kg·m/s,3146 kg·m/s,286 kg·m/s,143.0 kg·m/s,286 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q927: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,15.0 m,30.0 m,7.5 m,150000 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q928: Which heat transfer can occur through a vacuum?,Radiation,Convection,Friction,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q929: A light-year is a unit of:,Time,Distance,Brightness,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q930: What is the momentum of a 30 kg object moving at 23 m/s?,15870 kg·m/s,690 kg·m/s,720 kg·m/s,345.0 kg·m/s,690 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q931: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,60.0 m,30.0 m,75000 m,15.0 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q932: Which heat transfer can occur through a vacuum?,Radiation,Conduction,Friction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q933: A light-year is a unit of:,Mass,Brightness,Distance,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q934: What is the momentum of a 34 kg object moving at 35 m/s?,41650 kg·m/s,595.0 kg·m/s,1224 kg·m/s,1190 kg·m/s,1190 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q935: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,3.0 m,0.75 m,1500000 m,1.5 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q936: Which heat transfer can occur through a vacuum?,Friction,Conduction,Radiation,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q937: A light-year is a unit of:,Distance,Brightness,Time,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q938: What is the momentum of a 38 kg object moving at 12 m/s?,494 kg·m/s,5472 kg·m/s,228.0 kg·m/s,456 kg·m/s,456 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q939: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,3.0 m,750000 m,1.5 m,6.0 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q940: Which heat transfer can occur through a vacuum?,Radiation,Conduction,Convection,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q941: A light-year is a unit of:,Time,Brightness,Mass,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q942: What is the momentum of a 42 kg object moving at 24 m/s?,1008 kg·m/s,504.0 kg·m/s,24192 kg·m/s,1050 kg·m/s,1008 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q943: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,15.0 m,300000 m,3.75 m,7.5 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q944: Which heat transfer can occur through a vacuum?,Conduction,Friction,Radiation,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q945: A light-year is a unit of:,Brightness,Mass,Distance,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q946: What is the momentum of a 46 kg object moving at 1 m/s?,Option 3,23.0 kg·m/s,92 kg·m/s,46 kg·m/s,46 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q947: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,15.0 m,150000 m,30.0 m,7.5 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q948: Which heat transfer can occur through a vacuum?,Friction,Convection,Conduction,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q949: A light-year is a unit of:,Distance,Brightness,Time,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q950: What is the momentum of a 50 kg object moving at 13 m/s?,325.0 kg·m/s,650 kg·m/s,700 kg·m/s,8450 kg·m/s,650 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q951: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,15.0 m,60.0 m,75000 m,30.0 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q952: Which heat transfer can occur through a vacuum?,Conduction,Friction,Convection,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q953: A light-year is a unit of:,Distance,Brightness,Mass,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q954: What is the momentum of a 54 kg object moving at 25 m/s?,33750 kg·m/s,1404 kg·m/s,1350 kg·m/s,675.0 kg·m/s,1350 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q955: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,1.5 m,3.0 m,1500000 m,0.75 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q956: Which heat transfer can occur through a vacuum?,Friction,Convection,Conduction,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q957: A light-year is a unit of:,Mass,Time,Distance,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q958: What is the momentum of a 58 kg object moving at 2 m/s?,232 kg·m/s,174 kg·m/s,116 kg·m/s,58.0 kg·m/s,116 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q959: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,750000 m,6.0 m,1.5 m,3.0 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q960: Which heat transfer can occur through a vacuum?,Friction,Conduction,Convection,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q961: A light-year is a unit of:,Distance,Brightness,Time,Mass,Distance
+11,Space & Physics,Mechanics,Intermediate,Q962: What is the momentum of a 2 kg object moving at 14 m/s?,392 kg·m/s,30 kg·m/s,14.0 kg·m/s,28 kg·m/s,28 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q963: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,7.5 m,3.75 m,300000 m,15.0 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q964: Which heat transfer can occur through a vacuum?,Radiation,Friction,Convection,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q965: A light-year is a unit of:,Brightness,Mass,Distance,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q966: What is the momentum of a 6 kg object moving at 26 m/s?,156 kg·m/s,4056 kg·m/s,162 kg·m/s,78.0 kg·m/s,156 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q967: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,15.0 m,30.0 m,150000 m,7.5 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q968: Which heat transfer can occur through a vacuum?,Radiation,Convection,Friction,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q969: A light-year is a unit of:,Time,Mass,Brightness,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q970: What is the momentum of a 10 kg object moving at 3 m/s?,90 kg·m/s,30 kg·m/s,15.0 kg·m/s,40 kg·m/s,30 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q971: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,60.0 m,15.0 m,75000 m,30.0 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q972: Which heat transfer can occur through a vacuum?,Friction,Conduction,Radiation,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q973: A light-year is a unit of:,Time,Distance,Mass,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q974: What is the momentum of a 14 kg object moving at 15 m/s?,105.0 kg·m/s,224 kg·m/s,3150 kg·m/s,210 kg·m/s,210 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q975: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,0.75 m,1500000 m,1.5 m,3.0 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q976: Which heat transfer can occur through a vacuum?,Convection,Conduction,Radiation,Friction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q977: A light-year is a unit of:,Time,Mass,Brightness,Distance,Distance
+11,Space & Physics,Mechanics,Intermediate,Q978: What is the momentum of a 18 kg object moving at 27 m/s?,504 kg·m/s,13122 kg·m/s,243.0 kg·m/s,486 kg·m/s,486 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q979: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,3.0 m,750000 m,1.5 m,6.0 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q980: Which heat transfer can occur through a vacuum?,Convection,Conduction,Friction,Radiation,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q981: A light-year is a unit of:,Distance,Time,Mass,Brightness,Distance
+11,Space & Physics,Mechanics,Intermediate,Q982: What is the momentum of a 22 kg object moving at 4 m/s?,352 kg·m/s,110 kg·m/s,88 kg·m/s,44.0 kg·m/s,88 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q983: A wave travels at 1500 m/s with frequency 200 Hz. What is its wavelength?,300000 m,7.5 m,15.0 m,3.75 m,7.5 m
+11,Space & Physics,Thermal,Intermediate,Q984: Which heat transfer can occur through a vacuum?,Convection,Friction,Radiation,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q985: A light-year is a unit of:,Distance,Brightness,Mass,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q986: What is the momentum of a 26 kg object moving at 16 m/s?,208.0 kg·m/s,442 kg·m/s,6656 kg·m/s,416 kg·m/s,416 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q987: A wave travels at 1500 m/s with frequency 100 Hz. What is its wavelength?,7.5 m,15.0 m,30.0 m,150000 m,15.0 m
+11,Space & Physics,Thermal,Intermediate,Q988: Which heat transfer can occur through a vacuum?,Friction,Conduction,Radiation,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q989: A light-year is a unit of:,Brightness,Mass,Distance,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q990: What is the momentum of a 30 kg object moving at 28 m/s?,23520 kg·m/s,420.0 kg·m/s,870 kg·m/s,840 kg·m/s,840 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q991: A wave travels at 1500 m/s with frequency 50 Hz. What is its wavelength?,75000 m,30.0 m,60.0 m,15.0 m,30.0 m
+11,Space & Physics,Thermal,Intermediate,Q992: Which heat transfer can occur through a vacuum?,Friction,Radiation,Conduction,Convection,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q993: A light-year is a unit of:,Distance,Mass,Brightness,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q994: What is the momentum of a 34 kg object moving at 5 m/s?,170 kg·m/s,850 kg·m/s,85.0 kg·m/s,204 kg·m/s,170 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q995: A wave travels at 1500 m/s with frequency 1000 Hz. What is its wavelength?,3.0 m,1500000 m,1.5 m,0.75 m,1.5 m
+11,Space & Physics,Thermal,Intermediate,Q996: Which heat transfer can occur through a vacuum?,Friction,Convection,Radiation,Conduction,Radiation
+11,Space & Physics,Astronomy,Intermediate,Q997: A light-year is a unit of:,Mass,Distance,Brightness,Time,Distance
+11,Space & Physics,Mechanics,Intermediate,Q998: What is the momentum of a 38 kg object moving at 17 m/s?,684 kg·m/s,10982 kg·m/s,646 kg·m/s,323.0 kg·m/s,646 kg·m/s
+11,Space & Physics,Waves,Intermediate,Q999: A wave travels at 1500 m/s with frequency 500 Hz. What is its wavelength?,1.5 m,750000 m,6.0 m,3.0 m,3.0 m
+11,Space & Physics,Thermal,Intermediate,Q1000: Which heat transfer can occur through a vacuum?,Radiation,Conduction,Friction,Convection,Radiation

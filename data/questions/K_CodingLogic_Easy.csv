@@ -1,0 +1,1001 @@
+Grade,Subject,Topic,Difficulty,Question,A,B,C,D,Correct Answer
+K,Coding & Logic,Basics,Easy,Q1: What is debugging?,Writing only comments,Adding more features,Deleting variables,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q2: If x = -3, is the condition x > 10 true?",True,False,Depends,Undefined,False
+K,Coding & Logic,Loops,Easy,Q3: How many iterations does this loop run? for(i=2; i<7; i+=3),4,1,3,2,2
+K,Coding & Logic,Debugging,Easy,Q4: What does AND mean in logic?,Both conditions must be true,Either condition is true,Both are false,It repeats code,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q5: What does Big-O notation describe?,Code length,Exact runtime on any computer,How runtime grows with input size,Number of comments,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q6: What is debugging?,Adding more features,Writing only comments,Deleting variables,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q7: If x = -10, is the condition x > 10 true?",Undefined,False,True,Depends,False
+K,Coding & Logic,Debugging,Easy,Q8: How many iterations does this loop run? for(i=3; i<13; i+=2),5,7,4,6,5
+K,Coding & Logic,Basics,Easy,Q9: What does AND mean in logic?,Either condition is true,Both are false,Both conditions must be true,It repeats code,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q10: What does Big-O notation describe?,How runtime grows with input size,Number of comments,Code length,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q11: What is debugging?,Writing only comments,Adding more features,Finding and fixing errors in a program,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q12: If x = 4, is the condition x > 10 true?",Depends,Undefined,True,False,False
+K,Coding & Logic,Basics,Easy,Q13: How many iterations does this loop run? for(i=0; i<3; i+=1),5,3,2,4,3
+K,Coding & Logic,Logic,Easy,Q14: What does AND mean in logic?,It repeats code,Either condition is true,Both conditions must be true,Both are false,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q15: What does Big-O notation describe?,Exact runtime on any computer,Code length,Number of comments,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q16: What is debugging?,Writing only comments,Adding more features,Finding and fixing errors in a program,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q17: If x = -3, is the condition x > 10 true?",True,Depends,Undefined,False,False
+K,Coding & Logic,Logic,Easy,Q18: How many iterations does this loop run? for(i=1; i<9; i+=3),5,3,4,2,3
+K,Coding & Logic,Loops,Easy,Q19: What does AND mean in logic?,Both conditions must be true,Either condition is true,Both are false,It repeats code,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q20: What does Big-O notation describe?,Number of comments,How runtime grows with input size,Exact runtime on any computer,Code length,How runtime grows with input size
+K,Coding & Logic,Basics,Easy,Q21: What is debugging?,Deleting variables,Adding more features,Writing only comments,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q22: If x = -10, is the condition x > 10 true?",True,False,Depends,Undefined,False
+K,Coding & Logic,Loops,Easy,Q23: How many iterations does this loop run? for(i=2; i<15; i+=2),9,8,6,7,7
+K,Coding & Logic,Debugging,Easy,Q24: What does AND mean in logic?,Either condition is true,Both are false,Both conditions must be true,It repeats code,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q25: What does Big-O notation describe?,Code length,Number of comments,Exact runtime on any computer,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q26: What is debugging?,Deleting variables,Writing only comments,Finding and fixing errors in a program,Adding more features,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q27: If x = 4, is the condition x > 10 true?",Undefined,True,False,Depends,False
+K,Coding & Logic,Debugging,Easy,Q28: How many iterations does this loop run? for(i=3; i<9; i+=1),8,7,6,5,6
+K,Coding & Logic,Basics,Easy,Q29: What does AND mean in logic?,Both are false,Either condition is true,Both conditions must be true,It repeats code,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q30: What does Big-O notation describe?,Number of comments,Exact runtime on any computer,Code length,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q31: What is debugging?,Finding and fixing errors in a program,Adding more features,Writing only comments,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q32: If x = -3, is the condition x > 10 true?",Depends,False,Undefined,True,False
+K,Coding & Logic,Basics,Easy,Q33: How many iterations does this loop run? for(i=0; i<11; i+=3),5,4,3,6,4
+K,Coding & Logic,Logic,Easy,Q34: What does AND mean in logic?,Either condition is true,Both conditions must be true,Both are false,It repeats code,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q35: What does Big-O notation describe?,How runtime grows with input size,Exact runtime on any computer,Number of comments,Code length,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q36: What is debugging?,Writing only comments,Adding more features,Finding and fixing errors in a program,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q37: If x = -10, is the condition x > 10 true?",True,Undefined,False,Depends,False
+K,Coding & Logic,Logic,Easy,Q38: How many iterations does this loop run? for(i=1; i<5; i+=2),3,2,4,1,2
+K,Coding & Logic,Loops,Easy,Q39: What does AND mean in logic?,Both conditions must be true,Either condition is true,Both are false,It repeats code,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q40: What does Big-O notation describe?,Code length,Exact runtime on any computer,Number of comments,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Basics,Easy,Q41: What is debugging?,Deleting variables,Finding and fixing errors in a program,Adding more features,Writing only comments,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q42: If x = 4, is the condition x > 10 true?",True,False,Depends,Undefined,False
+K,Coding & Logic,Loops,Easy,Q43: How many iterations does this loop run? for(i=2; i<11; i+=1),10,8,9,11,9
+K,Coding & Logic,Debugging,Easy,Q44: What does AND mean in logic?,It repeats code,Both are false,Both conditions must be true,Either condition is true,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q45: What does Big-O notation describe?,Number of comments,Code length,Exact runtime on any computer,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q46: What is debugging?,Adding more features,Writing only comments,Deleting variables,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q47: If x = -3, is the condition x > 10 true?",Undefined,False,True,Depends,False
+K,Coding & Logic,Debugging,Easy,Q48: How many iterations does this loop run? for(i=3; i<17; i+=3),5,7,4,6,5
+K,Coding & Logic,Basics,Easy,Q49: What does AND mean in logic?,Both are false,Either condition is true,It repeats code,Both conditions must be true,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q50: What does Big-O notation describe?,Exact runtime on any computer,How runtime grows with input size,Number of comments,Code length,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q51: What is debugging?,Deleting variables,Writing only comments,Finding and fixing errors in a program,Adding more features,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q52: If x = -10, is the condition x > 10 true?",False,True,Undefined,Depends,False
+K,Coding & Logic,Basics,Easy,Q53: How many iterations does this loop run? for(i=0; i<7; i+=2),3,6,4,5,4
+K,Coding & Logic,Logic,Easy,Q54: What does AND mean in logic?,It repeats code,Both conditions must be true,Both are false,Either condition is true,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q55: What does Big-O notation describe?,How runtime grows with input size,Exact runtime on any computer,Code length,Number of comments,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q56: What is debugging?,Deleting variables,Adding more features,Writing only comments,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q57: If x = 4, is the condition x > 10 true?",False,Depends,Undefined,True,False
+K,Coding & Logic,Logic,Easy,Q58: How many iterations does this loop run? for(i=1; i<13; i+=1),14,13,12,11,12
+K,Coding & Logic,Loops,Easy,Q59: What does AND mean in logic?,It repeats code,Both are false,Both conditions must be true,Either condition is true,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q60: What does Big-O notation describe?,How runtime grows with input size,Number of comments,Code length,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Basics,Easy,Q61: What is debugging?,Deleting variables,Writing only comments,Finding and fixing errors in a program,Adding more features,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q62: If x = -3, is the condition x > 10 true?",False,Undefined,Depends,True,False
+K,Coding & Logic,Loops,Easy,Q63: How many iterations does this loop run? for(i=2; i<7; i+=3),2,4,3,1,2
+K,Coding & Logic,Debugging,Easy,Q64: What does AND mean in logic?,It repeats code,Both are false,Either condition is true,Both conditions must be true,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q65: What does Big-O notation describe?,How runtime grows with input size,Code length,Exact runtime on any computer,Number of comments,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q66: What is debugging?,Deleting variables,Adding more features,Writing only comments,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q67: If x = -10, is the condition x > 10 true?",Depends,Undefined,True,False,False
+K,Coding & Logic,Debugging,Easy,Q68: How many iterations does this loop run? for(i=3; i<13; i+=2),7,6,5,4,5
+K,Coding & Logic,Basics,Easy,Q69: What does AND mean in logic?,Either condition is true,It repeats code,Both conditions must be true,Both are false,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q70: What does Big-O notation describe?,Number of comments,How runtime grows with input size,Exact runtime on any computer,Code length,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q71: What is debugging?,Adding more features,Finding and fixing errors in a program,Writing only comments,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q72: If x = 4, is the condition x > 10 true?",True,Depends,False,Undefined,False
+K,Coding & Logic,Basics,Easy,Q73: How many iterations does this loop run? for(i=0; i<3; i+=1),2,5,4,3,3
+K,Coding & Logic,Logic,Easy,Q74: What does AND mean in logic?,Both are false,Both conditions must be true,It repeats code,Either condition is true,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q75: What does Big-O notation describe?,Exact runtime on any computer,Code length,How runtime grows with input size,Number of comments,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q76: What is debugging?,Deleting variables,Finding and fixing errors in a program,Adding more features,Writing only comments,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q77: If x = -3, is the condition x > 10 true?",Undefined,Depends,False,True,False
+K,Coding & Logic,Logic,Easy,Q78: How many iterations does this loop run? for(i=1; i<9; i+=3),4,5,2,3,3
+K,Coding & Logic,Loops,Easy,Q79: What does AND mean in logic?,Both are false,It repeats code,Both conditions must be true,Either condition is true,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q80: What does Big-O notation describe?,Exact runtime on any computer,Number of comments,How runtime grows with input size,Code length,How runtime grows with input size
+K,Coding & Logic,Basics,Easy,Q81: What is debugging?,Adding more features,Finding and fixing errors in a program,Writing only comments,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q82: If x = -10, is the condition x > 10 true?",Depends,False,True,Undefined,False
+K,Coding & Logic,Loops,Easy,Q83: How many iterations does this loop run? for(i=2; i<15; i+=2),6,8,7,9,7
+K,Coding & Logic,Debugging,Easy,Q84: What does AND mean in logic?,Both conditions must be true,It repeats code,Either condition is true,Both are false,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q85: What does Big-O notation describe?,How runtime grows with input size,Number of comments,Exact runtime on any computer,Code length,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q86: What is debugging?,Writing only comments,Adding more features,Deleting variables,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q87: If x = 4, is the condition x > 10 true?",True,Depends,False,Undefined,False
+K,Coding & Logic,Debugging,Easy,Q88: How many iterations does this loop run? for(i=3; i<9; i+=1),5,7,8,6,6
+K,Coding & Logic,Basics,Easy,Q89: What does AND mean in logic?,Both conditions must be true,It repeats code,Both are false,Either condition is true,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q90: What does Big-O notation describe?,Code length,Exact runtime on any computer,How runtime grows with input size,Number of comments,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q91: What is debugging?,Adding more features,Writing only comments,Finding and fixing errors in a program,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q92: If x = -3, is the condition x > 10 true?",False,Undefined,True,Depends,False
+K,Coding & Logic,Basics,Easy,Q93: How many iterations does this loop run? for(i=0; i<11; i+=3),5,6,4,3,4
+K,Coding & Logic,Logic,Easy,Q94: What does AND mean in logic?,It repeats code,Either condition is true,Both are false,Both conditions must be true,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q95: What does Big-O notation describe?,Number of comments,How runtime grows with input size,Code length,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q96: What is debugging?,Deleting variables,Finding and fixing errors in a program,Writing only comments,Adding more features,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q97: If x = -10, is the condition x > 10 true?",False,True,Depends,Undefined,False
+K,Coding & Logic,Logic,Easy,Q98: How many iterations does this loop run? for(i=1; i<5; i+=2),3,1,4,2,2
+K,Coding & Logic,Loops,Easy,Q99: What does AND mean in logic?,It repeats code,Both are false,Either condition is true,Both conditions must be true,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q100: What does Big-O notation describe?,Number of comments,How runtime grows with input size,Exact runtime on any computer,Code length,How runtime grows with input size
+K,Coding & Logic,Basics,Easy,Q101: What is debugging?,Adding more features,Writing only comments,Deleting variables,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q102: If x = 4, is the condition x > 10 true?",True,Undefined,Depends,False,False
+K,Coding & Logic,Loops,Easy,Q103: How many iterations does this loop run? for(i=2; i<11; i+=1),10,11,8,9,9
+K,Coding & Logic,Debugging,Easy,Q104: What does AND mean in logic?,It repeats code,Both are false,Either condition is true,Both conditions must be true,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q105: What does Big-O notation describe?,Exact runtime on any computer,Number of comments,Code length,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q106: What is debugging?,Writing only comments,Deleting variables,Adding more features,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q107: If x = -3, is the condition x > 10 true?",True,False,Depends,Undefined,False
+K,Coding & Logic,Debugging,Easy,Q108: How many iterations does this loop run? for(i=3; i<17; i+=3),5,4,7,6,5
+K,Coding & Logic,Basics,Easy,Q109: What does AND mean in logic?,It repeats code,Both conditions must be true,Either condition is true,Both are false,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q110: What does Big-O notation describe?,Exact runtime on any computer,Code length,Number of comments,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q111: What is debugging?,Deleting variables,Finding and fixing errors in a program,Writing only comments,Adding more features,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q112: If x = -10, is the condition x > 10 true?",Depends,True,Undefined,False,False
+K,Coding & Logic,Basics,Easy,Q113: How many iterations does this loop run? for(i=0; i<7; i+=2),4,5,3,6,4
+K,Coding & Logic,Logic,Easy,Q114: What does AND mean in logic?,It repeats code,Either condition is true,Both are false,Both conditions must be true,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q115: What does Big-O notation describe?,Number of comments,Code length,Exact runtime on any computer,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q116: What is debugging?,Adding more features,Finding and fixing errors in a program,Writing only comments,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q117: If x = 4, is the condition x > 10 true?",Depends,Undefined,True,False,False
+K,Coding & Logic,Logic,Easy,Q118: How many iterations does this loop run? for(i=1; i<13; i+=1),13,14,12,11,12
+K,Coding & Logic,Loops,Easy,Q119: What does AND mean in logic?,Both conditions must be true,Both are false,Either condition is true,It repeats code,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q120: What does Big-O notation describe?,How runtime grows with input size,Code length,Number of comments,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Basics,Easy,Q121: What is debugging?,Deleting variables,Writing only comments,Finding and fixing errors in a program,Adding more features,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q122: If x = -3, is the condition x > 10 true?",Depends,Undefined,True,False,False
+K,Coding & Logic,Loops,Easy,Q123: How many iterations does this loop run? for(i=2; i<7; i+=3),2,3,1,4,2
+K,Coding & Logic,Debugging,Easy,Q124: What does AND mean in logic?,Both conditions must be true,Both are false,It repeats code,Either condition is true,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q125: What does Big-O notation describe?,Number of comments,How runtime grows with input size,Code length,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q126: What is debugging?,Writing only comments,Adding more features,Deleting variables,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q127: If x = -10, is the condition x > 10 true?",Depends,True,False,Undefined,False
+K,Coding & Logic,Debugging,Easy,Q128: How many iterations does this loop run? for(i=3; i<13; i+=2),6,7,4,5,5
+K,Coding & Logic,Basics,Easy,Q129: What does AND mean in logic?,Either condition is true,It repeats code,Both conditions must be true,Both are false,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q130: What does Big-O notation describe?,Number of comments,How runtime grows with input size,Code length,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q131: What is debugging?,Finding and fixing errors in a program,Adding more features,Deleting variables,Writing only comments,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q132: If x = 4, is the condition x > 10 true?",True,Depends,False,Undefined,False
+K,Coding & Logic,Basics,Easy,Q133: How many iterations does this loop run? for(i=0; i<3; i+=1),2,3,4,5,3
+K,Coding & Logic,Logic,Easy,Q134: What does AND mean in logic?,It repeats code,Both conditions must be true,Both are false,Either condition is true,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q135: What does Big-O notation describe?,Exact runtime on any computer,Code length,Number of comments,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q136: What is debugging?,Finding and fixing errors in a program,Adding more features,Deleting variables,Writing only comments,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q137: If x = -3, is the condition x > 10 true?",Depends,Undefined,False,True,False
+K,Coding & Logic,Logic,Easy,Q138: How many iterations does this loop run? for(i=1; i<9; i+=3),4,3,5,2,3
+K,Coding & Logic,Loops,Easy,Q139: What does AND mean in logic?,Both conditions must be true,It repeats code,Either condition is true,Both are false,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q140: What does Big-O notation describe?,How runtime grows with input size,Exact runtime on any computer,Number of comments,Code length,How runtime grows with input size
+K,Coding & Logic,Basics,Easy,Q141: What is debugging?,Finding and fixing errors in a program,Deleting variables,Writing only comments,Adding more features,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q142: If x = -10, is the condition x > 10 true?",False,True,Undefined,Depends,False
+K,Coding & Logic,Loops,Easy,Q143: How many iterations does this loop run? for(i=2; i<15; i+=2),9,6,8,7,7
+K,Coding & Logic,Debugging,Easy,Q144: What does AND mean in logic?,Both are false,Either condition is true,It repeats code,Both conditions must be true,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q145: What does Big-O notation describe?,Exact runtime on any computer,Number of comments,How runtime grows with input size,Code length,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q146: What is debugging?,Writing only comments,Adding more features,Finding and fixing errors in a program,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q147: If x = 4, is the condition x > 10 true?",Undefined,True,False,Depends,False
+K,Coding & Logic,Debugging,Easy,Q148: How many iterations does this loop run? for(i=3; i<9; i+=1),8,6,5,7,6
+K,Coding & Logic,Basics,Easy,Q149: What does AND mean in logic?,It repeats code,Both are false,Either condition is true,Both conditions must be true,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q150: What does Big-O notation describe?,Exact runtime on any computer,Code length,How runtime grows with input size,Number of comments,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q151: What is debugging?,Finding and fixing errors in a program,Writing only comments,Adding more features,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q152: If x = -3, is the condition x > 10 true?",False,True,Depends,Undefined,False
+K,Coding & Logic,Basics,Easy,Q153: How many iterations does this loop run? for(i=0; i<11; i+=3),5,6,4,3,4
+K,Coding & Logic,Logic,Easy,Q154: What does AND mean in logic?,Either condition is true,Both are false,Both conditions must be true,It repeats code,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q155: What does Big-O notation describe?,Exact runtime on any computer,Number of comments,How runtime grows with input size,Code length,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q156: What is debugging?,Writing only comments,Deleting variables,Adding more features,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q157: If x = -10, is the condition x > 10 true?",Undefined,True,Depends,False,False
+K,Coding & Logic,Logic,Easy,Q158: How many iterations does this loop run? for(i=1; i<5; i+=2),4,3,2,1,2
+K,Coding & Logic,Loops,Easy,Q159: What does AND mean in logic?,It repeats code,Both are false,Both conditions must be true,Either condition is true,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q160: What does Big-O notation describe?,How runtime grows with input size,Code length,Number of comments,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Basics,Easy,Q161: What is debugging?,Finding and fixing errors in a program,Adding more features,Writing only comments,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q162: If x = 4, is the condition x > 10 true?",Depends,True,False,Undefined,False
+K,Coding & Logic,Loops,Easy,Q163: How many iterations does this loop run? for(i=2; i<11; i+=1),9,11,8,10,9
+K,Coding & Logic,Debugging,Easy,Q164: What does AND mean in logic?,Both conditions must be true,Either condition is true,Both are false,It repeats code,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q165: What does Big-O notation describe?,Number of comments,Exact runtime on any computer,How runtime grows with input size,Code length,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q166: What is debugging?,Adding more features,Deleting variables,Finding and fixing errors in a program,Writing only comments,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q167: If x = -3, is the condition x > 10 true?",True,Undefined,Depends,False,False
+K,Coding & Logic,Debugging,Easy,Q168: How many iterations does this loop run? for(i=3; i<17; i+=3),6,7,5,4,5
+K,Coding & Logic,Basics,Easy,Q169: What does AND mean in logic?,Both conditions must be true,It repeats code,Either condition is true,Both are false,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q170: What does Big-O notation describe?,Number of comments,How runtime grows with input size,Exact runtime on any computer,Code length,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q171: What is debugging?,Writing only comments,Finding and fixing errors in a program,Adding more features,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q172: If x = -10, is the condition x > 10 true?",Depends,True,False,Undefined,False
+K,Coding & Logic,Basics,Easy,Q173: How many iterations does this loop run? for(i=0; i<7; i+=2),5,3,6,4,4
+K,Coding & Logic,Logic,Easy,Q174: What does AND mean in logic?,It repeats code,Either condition is true,Both conditions must be true,Both are false,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q175: What does Big-O notation describe?,Code length,Number of comments,Exact runtime on any computer,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q176: What is debugging?,Adding more features,Writing only comments,Finding and fixing errors in a program,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q177: If x = 4, is the condition x > 10 true?",False,True,Depends,Undefined,False
+K,Coding & Logic,Logic,Easy,Q178: How many iterations does this loop run? for(i=1; i<13; i+=1),11,14,13,12,12
+K,Coding & Logic,Loops,Easy,Q179: What does AND mean in logic?,Both are false,It repeats code,Both conditions must be true,Either condition is true,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q180: What does Big-O notation describe?,Exact runtime on any computer,Code length,How runtime grows with input size,Number of comments,How runtime grows with input size
+K,Coding & Logic,Basics,Easy,Q181: What is debugging?,Deleting variables,Finding and fixing errors in a program,Writing only comments,Adding more features,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q182: If x = -3, is the condition x > 10 true?",Depends,True,False,Undefined,False
+K,Coding & Logic,Loops,Easy,Q183: How many iterations does this loop run? for(i=2; i<7; i+=3),1,2,4,3,2
+K,Coding & Logic,Debugging,Easy,Q184: What does AND mean in logic?,Both conditions must be true,Either condition is true,It repeats code,Both are false,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q185: What does Big-O notation describe?,Exact runtime on any computer,Code length,How runtime grows with input size,Number of comments,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q186: What is debugging?,Finding and fixing errors in a program,Adding more features,Writing only comments,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q187: If x = -10, is the condition x > 10 true?",False,Undefined,True,Depends,False
+K,Coding & Logic,Debugging,Easy,Q188: How many iterations does this loop run? for(i=3; i<13; i+=2),6,7,4,5,5
+K,Coding & Logic,Basics,Easy,Q189: What does AND mean in logic?,It repeats code,Either condition is true,Both are false,Both conditions must be true,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q190: What does Big-O notation describe?,Exact runtime on any computer,Code length,How runtime grows with input size,Number of comments,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q191: What is debugging?,Adding more features,Writing only comments,Finding and fixing errors in a program,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q192: If x = 4, is the condition x > 10 true?",Depends,Undefined,True,False,False
+K,Coding & Logic,Basics,Easy,Q193: How many iterations does this loop run? for(i=0; i<3; i+=1),4,2,5,3,3
+K,Coding & Logic,Logic,Easy,Q194: What does AND mean in logic?,Both are false,Either condition is true,Both conditions must be true,It repeats code,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q195: What does Big-O notation describe?,Number of comments,Exact runtime on any computer,Code length,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q196: What is debugging?,Adding more features,Deleting variables,Writing only comments,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q197: If x = -3, is the condition x > 10 true?",Depends,Undefined,True,False,False
+K,Coding & Logic,Logic,Easy,Q198: How many iterations does this loop run? for(i=1; i<9; i+=3),3,4,2,5,3
+K,Coding & Logic,Loops,Easy,Q199: What does AND mean in logic?,Either condition is true,Both are false,Both conditions must be true,It repeats code,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q200: What does Big-O notation describe?,Exact runtime on any computer,Number of comments,How runtime grows with input size,Code length,How runtime grows with input size
+K,Coding & Logic,Basics,Easy,Q201: What is debugging?,Writing only comments,Adding more features,Deleting variables,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q202: If x = -10, is the condition x > 10 true?",Depends,Undefined,True,False,False
+K,Coding & Logic,Loops,Easy,Q203: How many iterations does this loop run? for(i=2; i<15; i+=2),9,6,7,8,7
+K,Coding & Logic,Debugging,Easy,Q204: What does AND mean in logic?,Both conditions must be true,It repeats code,Either condition is true,Both are false,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q205: What does Big-O notation describe?,How runtime grows with input size,Number of comments,Code length,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q206: What is debugging?,Deleting variables,Adding more features,Finding and fixing errors in a program,Writing only comments,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q207: If x = 4, is the condition x > 10 true?",Undefined,True,Depends,False,False
+K,Coding & Logic,Debugging,Easy,Q208: How many iterations does this loop run? for(i=3; i<9; i+=1),6,5,8,7,6
+K,Coding & Logic,Basics,Easy,Q209: What does AND mean in logic?,It repeats code,Both are false,Both conditions must be true,Either condition is true,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q210: What does Big-O notation describe?,Code length,How runtime grows with input size,Number of comments,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q211: What is debugging?,Deleting variables,Finding and fixing errors in a program,Writing only comments,Adding more features,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q212: If x = -3, is the condition x > 10 true?",True,False,Depends,Undefined,False
+K,Coding & Logic,Basics,Easy,Q213: How many iterations does this loop run? for(i=0; i<11; i+=3),4,6,3,5,4
+K,Coding & Logic,Logic,Easy,Q214: What does AND mean in logic?,Both are false,Either condition is true,It repeats code,Both conditions must be true,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q215: What does Big-O notation describe?,How runtime grows with input size,Number of comments,Code length,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q216: What is debugging?,Adding more features,Writing only comments,Deleting variables,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q217: If x = -10, is the condition x > 10 true?",True,False,Depends,Undefined,False
+K,Coding & Logic,Logic,Easy,Q218: How many iterations does this loop run? for(i=1; i<5; i+=2),4,2,1,3,2
+K,Coding & Logic,Loops,Easy,Q219: What does AND mean in logic?,It repeats code,Both conditions must be true,Either condition is true,Both are false,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q220: What does Big-O notation describe?,Code length,How runtime grows with input size,Number of comments,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Basics,Easy,Q221: What is debugging?,Writing only comments,Deleting variables,Finding and fixing errors in a program,Adding more features,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q222: If x = 4, is the condition x > 10 true?",True,Undefined,Depends,False,False
+K,Coding & Logic,Loops,Easy,Q223: How many iterations does this loop run? for(i=2; i<11; i+=1),9,10,11,8,9
+K,Coding & Logic,Debugging,Easy,Q224: What does AND mean in logic?,Either condition is true,It repeats code,Both conditions must be true,Both are false,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q225: What does Big-O notation describe?,Exact runtime on any computer,Number of comments,How runtime grows with input size,Code length,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q226: What is debugging?,Finding and fixing errors in a program,Adding more features,Writing only comments,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q227: If x = -3, is the condition x > 10 true?",Undefined,True,Depends,False,False
+K,Coding & Logic,Debugging,Easy,Q228: How many iterations does this loop run? for(i=3; i<17; i+=3),6,7,5,4,5
+K,Coding & Logic,Basics,Easy,Q229: What does AND mean in logic?,It repeats code,Either condition is true,Both are false,Both conditions must be true,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q230: What does Big-O notation describe?,Exact runtime on any computer,Code length,Number of comments,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q231: What is debugging?,Deleting variables,Writing only comments,Adding more features,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q232: If x = -10, is the condition x > 10 true?",Depends,Undefined,True,False,False
+K,Coding & Logic,Basics,Easy,Q233: How many iterations does this loop run? for(i=0; i<7; i+=2),4,5,3,6,4
+K,Coding & Logic,Logic,Easy,Q234: What does AND mean in logic?,It repeats code,Both are false,Both conditions must be true,Either condition is true,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q235: What does Big-O notation describe?,Code length,How runtime grows with input size,Number of comments,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q236: What is debugging?,Deleting variables,Finding and fixing errors in a program,Writing only comments,Adding more features,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q237: If x = 4, is the condition x > 10 true?",True,False,Depends,Undefined,False
+K,Coding & Logic,Logic,Easy,Q238: How many iterations does this loop run? for(i=1; i<13; i+=1),14,13,11,12,12
+K,Coding & Logic,Loops,Easy,Q239: What does AND mean in logic?,Both conditions must be true,Either condition is true,It repeats code,Both are false,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q240: What does Big-O notation describe?,How runtime grows with input size,Code length,Number of comments,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Basics,Easy,Q241: What is debugging?,Writing only comments,Deleting variables,Adding more features,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q242: If x = -3, is the condition x > 10 true?",True,Depends,False,Undefined,False
+K,Coding & Logic,Loops,Easy,Q243: How many iterations does this loop run? for(i=2; i<7; i+=3),2,1,4,3,2
+K,Coding & Logic,Debugging,Easy,Q244: What does AND mean in logic?,Either condition is true,Both conditions must be true,Both are false,It repeats code,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q245: What does Big-O notation describe?,How runtime grows with input size,Number of comments,Code length,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q246: What is debugging?,Deleting variables,Writing only comments,Adding more features,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q247: If x = -10, is the condition x > 10 true?",Undefined,Depends,True,False,False
+K,Coding & Logic,Debugging,Easy,Q248: How many iterations does this loop run? for(i=3; i<13; i+=2),7,6,5,4,5
+K,Coding & Logic,Basics,Easy,Q249: What does AND mean in logic?,Either condition is true,Both conditions must be true,It repeats code,Both are false,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q250: What does Big-O notation describe?,How runtime grows with input size,Exact runtime on any computer,Number of comments,Code length,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q251: What is debugging?,Adding more features,Writing only comments,Deleting variables,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q252: If x = 4, is the condition x > 10 true?",True,Depends,Undefined,False,False
+K,Coding & Logic,Basics,Easy,Q253: How many iterations does this loop run? for(i=0; i<3; i+=1),3,2,5,4,3
+K,Coding & Logic,Logic,Easy,Q254: What does AND mean in logic?,It repeats code,Both are false,Either condition is true,Both conditions must be true,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q255: What does Big-O notation describe?,Code length,Number of comments,Exact runtime on any computer,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q256: What is debugging?,Deleting variables,Adding more features,Finding and fixing errors in a program,Writing only comments,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q257: If x = -3, is the condition x > 10 true?",False,Undefined,Depends,True,False
+K,Coding & Logic,Logic,Easy,Q258: How many iterations does this loop run? for(i=1; i<9; i+=3),2,3,4,5,3
+K,Coding & Logic,Loops,Easy,Q259: What does AND mean in logic?,Both are false,It repeats code,Either condition is true,Both conditions must be true,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q260: What does Big-O notation describe?,Number of comments,How runtime grows with input size,Exact runtime on any computer,Code length,How runtime grows with input size
+K,Coding & Logic,Basics,Easy,Q261: What is debugging?,Deleting variables,Writing only comments,Finding and fixing errors in a program,Adding more features,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q262: If x = -10, is the condition x > 10 true?",Depends,True,Undefined,False,False
+K,Coding & Logic,Loops,Easy,Q263: How many iterations does this loop run? for(i=2; i<15; i+=2),6,8,9,7,7
+K,Coding & Logic,Debugging,Easy,Q264: What does AND mean in logic?,It repeats code,Either condition is true,Both are false,Both conditions must be true,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q265: What does Big-O notation describe?,Number of comments,Code length,How runtime grows with input size,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q266: What is debugging?,Writing only comments,Deleting variables,Adding more features,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q267: If x = 4, is the condition x > 10 true?",Undefined,False,Depends,True,False
+K,Coding & Logic,Debugging,Easy,Q268: How many iterations does this loop run? for(i=3; i<9; i+=1),8,7,6,5,6
+K,Coding & Logic,Basics,Easy,Q269: What does AND mean in logic?,Both are false,It repeats code,Both conditions must be true,Either condition is true,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q270: What does Big-O notation describe?,Number of comments,How runtime grows with input size,Exact runtime on any computer,Code length,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q271: What is debugging?,Adding more features,Deleting variables,Finding and fixing errors in a program,Writing only comments,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q272: If x = -3, is the condition x > 10 true?",Depends,Undefined,True,False,False
+K,Coding & Logic,Basics,Easy,Q273: How many iterations does this loop run? for(i=0; i<11; i+=3),3,5,4,6,4
+K,Coding & Logic,Logic,Easy,Q274: What does AND mean in logic?,Both conditions must be true,Either condition is true,It repeats code,Both are false,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q275: What does Big-O notation describe?,Number of comments,Exact runtime on any computer,How runtime grows with input size,Code length,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q276: What is debugging?,Writing only comments,Finding and fixing errors in a program,Deleting variables,Adding more features,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q277: If x = -10, is the condition x > 10 true?",True,False,Depends,Undefined,False
+K,Coding & Logic,Logic,Easy,Q278: How many iterations does this loop run? for(i=1; i<5; i+=2),2,1,3,4,2
+K,Coding & Logic,Loops,Easy,Q279: What does AND mean in logic?,Both conditions must be true,Both are false,It repeats code,Either condition is true,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q280: What does Big-O notation describe?,How runtime grows with input size,Exact runtime on any computer,Number of comments,Code length,How runtime grows with input size
+K,Coding & Logic,Basics,Easy,Q281: What is debugging?,Deleting variables,Finding and fixing errors in a program,Writing only comments,Adding more features,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q282: If x = 4, is the condition x > 10 true?",Depends,Undefined,False,True,False
+K,Coding & Logic,Loops,Easy,Q283: How many iterations does this loop run? for(i=2; i<11; i+=1),8,9,10,11,9
+K,Coding & Logic,Debugging,Easy,Q284: What does AND mean in logic?,Both conditions must be true,Both are false,It repeats code,Either condition is true,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q285: What does Big-O notation describe?,Number of comments,Code length,How runtime grows with input size,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q286: What is debugging?,Adding more features,Writing only comments,Deleting variables,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q287: If x = -3, is the condition x > 10 true?",False,True,Depends,Undefined,False
+K,Coding & Logic,Debugging,Easy,Q288: How many iterations does this loop run? for(i=3; i<17; i+=3),4,5,6,7,5
+K,Coding & Logic,Basics,Easy,Q289: What does AND mean in logic?,Both conditions must be true,Both are false,It repeats code,Either condition is true,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q290: What does Big-O notation describe?,Exact runtime on any computer,How runtime grows with input size,Number of comments,Code length,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q291: What is debugging?,Writing only comments,Finding and fixing errors in a program,Deleting variables,Adding more features,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q292: If x = -10, is the condition x > 10 true?",True,Depends,Undefined,False,False
+K,Coding & Logic,Basics,Easy,Q293: How many iterations does this loop run? for(i=0; i<7; i+=2),3,4,5,6,4
+K,Coding & Logic,Logic,Easy,Q294: What does AND mean in logic?,Both are false,Either condition is true,It repeats code,Both conditions must be true,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q295: What does Big-O notation describe?,Code length,How runtime grows with input size,Exact runtime on any computer,Number of comments,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q296: What is debugging?,Finding and fixing errors in a program,Deleting variables,Writing only comments,Adding more features,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q297: If x = 4, is the condition x > 10 true?",True,Undefined,False,Depends,False
+K,Coding & Logic,Logic,Easy,Q298: How many iterations does this loop run? for(i=1; i<13; i+=1),12,13,14,11,12
+K,Coding & Logic,Loops,Easy,Q299: What does AND mean in logic?,Both are false,It repeats code,Both conditions must be true,Either condition is true,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q300: What does Big-O notation describe?,Code length,Number of comments,Exact runtime on any computer,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Basics,Easy,Q301: What is debugging?,Adding more features,Deleting variables,Finding and fixing errors in a program,Writing only comments,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q302: If x = -3, is the condition x > 10 true?",Depends,False,Undefined,True,False
+K,Coding & Logic,Loops,Easy,Q303: How many iterations does this loop run? for(i=2; i<7; i+=3),1,2,3,4,2
+K,Coding & Logic,Debugging,Easy,Q304: What does AND mean in logic?,Either condition is true,Both are false,It repeats code,Both conditions must be true,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q305: What does Big-O notation describe?,How runtime grows with input size,Exact runtime on any computer,Code length,Number of comments,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q306: What is debugging?,Adding more features,Deleting variables,Writing only comments,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q307: If x = -10, is the condition x > 10 true?",True,False,Undefined,Depends,False
+K,Coding & Logic,Debugging,Easy,Q308: How many iterations does this loop run? for(i=3; i<13; i+=2),7,6,4,5,5
+K,Coding & Logic,Basics,Easy,Q309: What does AND mean in logic?,Either condition is true,Both conditions must be true,Both are false,It repeats code,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q310: What does Big-O notation describe?,Number of comments,Code length,Exact runtime on any computer,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q311: What is debugging?,Adding more features,Deleting variables,Finding and fixing errors in a program,Writing only comments,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q312: If x = 4, is the condition x > 10 true?",True,False,Undefined,Depends,False
+K,Coding & Logic,Basics,Easy,Q313: How many iterations does this loop run? for(i=0; i<3; i+=1),5,4,2,3,3
+K,Coding & Logic,Logic,Easy,Q314: What does AND mean in logic?,It repeats code,Both conditions must be true,Both are false,Either condition is true,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q315: What does Big-O notation describe?,How runtime grows with input size,Exact runtime on any computer,Code length,Number of comments,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q316: What is debugging?,Writing only comments,Finding and fixing errors in a program,Deleting variables,Adding more features,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q317: If x = -3, is the condition x > 10 true?",Undefined,True,False,Depends,False
+K,Coding & Logic,Logic,Easy,Q318: How many iterations does this loop run? for(i=1; i<9; i+=3),4,2,3,5,3
+K,Coding & Logic,Loops,Easy,Q319: What does AND mean in logic?,It repeats code,Either condition is true,Both conditions must be true,Both are false,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q320: What does Big-O notation describe?,Code length,Number of comments,Exact runtime on any computer,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Basics,Easy,Q321: What is debugging?,Finding and fixing errors in a program,Writing only comments,Adding more features,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q322: If x = -10, is the condition x > 10 true?",False,True,Undefined,Depends,False
+K,Coding & Logic,Loops,Easy,Q323: How many iterations does this loop run? for(i=2; i<15; i+=2),9,6,7,8,7
+K,Coding & Logic,Debugging,Easy,Q324: What does AND mean in logic?,It repeats code,Either condition is true,Both conditions must be true,Both are false,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q325: What does Big-O notation describe?,Exact runtime on any computer,Number of comments,Code length,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q326: What is debugging?,Writing only comments,Deleting variables,Finding and fixing errors in a program,Adding more features,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q327: If x = 4, is the condition x > 10 true?",True,False,Undefined,Depends,False
+K,Coding & Logic,Debugging,Easy,Q328: How many iterations does this loop run? for(i=3; i<9; i+=1),8,6,5,7,6
+K,Coding & Logic,Basics,Easy,Q329: What does AND mean in logic?,It repeats code,Either condition is true,Both are false,Both conditions must be true,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q330: What does Big-O notation describe?,Code length,Number of comments,How runtime grows with input size,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q331: What is debugging?,Finding and fixing errors in a program,Adding more features,Deleting variables,Writing only comments,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q332: If x = -3, is the condition x > 10 true?",True,Undefined,False,Depends,False
+K,Coding & Logic,Basics,Easy,Q333: How many iterations does this loop run? for(i=0; i<11; i+=3),3,4,6,5,4
+K,Coding & Logic,Logic,Easy,Q334: What does AND mean in logic?,It repeats code,Either condition is true,Both are false,Both conditions must be true,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q335: What does Big-O notation describe?,Code length,Exact runtime on any computer,How runtime grows with input size,Number of comments,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q336: What is debugging?,Adding more features,Finding and fixing errors in a program,Writing only comments,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q337: If x = -10, is the condition x > 10 true?",Depends,Undefined,True,False,False
+K,Coding & Logic,Logic,Easy,Q338: How many iterations does this loop run? for(i=1; i<5; i+=2),2,4,3,1,2
+K,Coding & Logic,Loops,Easy,Q339: What does AND mean in logic?,Both conditions must be true,Either condition is true,It repeats code,Both are false,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q340: What does Big-O notation describe?,How runtime grows with input size,Code length,Exact runtime on any computer,Number of comments,How runtime grows with input size
+K,Coding & Logic,Basics,Easy,Q341: What is debugging?,Finding and fixing errors in a program,Deleting variables,Adding more features,Writing only comments,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q342: If x = 4, is the condition x > 10 true?",Undefined,Depends,False,True,False
+K,Coding & Logic,Loops,Easy,Q343: How many iterations does this loop run? for(i=2; i<11; i+=1),9,10,8,11,9
+K,Coding & Logic,Debugging,Easy,Q344: What does AND mean in logic?,It repeats code,Either condition is true,Both conditions must be true,Both are false,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q345: What does Big-O notation describe?,How runtime grows with input size,Number of comments,Exact runtime on any computer,Code length,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q346: What is debugging?,Deleting variables,Adding more features,Writing only comments,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q347: If x = -3, is the condition x > 10 true?",Undefined,False,True,Depends,False
+K,Coding & Logic,Debugging,Easy,Q348: How many iterations does this loop run? for(i=3; i<17; i+=3),7,6,4,5,5
+K,Coding & Logic,Basics,Easy,Q349: What does AND mean in logic?,It repeats code,Either condition is true,Both conditions must be true,Both are false,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q350: What does Big-O notation describe?,Number of comments,How runtime grows with input size,Code length,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q351: What is debugging?,Finding and fixing errors in a program,Deleting variables,Adding more features,Writing only comments,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q352: If x = -10, is the condition x > 10 true?",False,Undefined,Depends,True,False
+K,Coding & Logic,Basics,Easy,Q353: How many iterations does this loop run? for(i=0; i<7; i+=2),6,4,5,3,4
+K,Coding & Logic,Logic,Easy,Q354: What does AND mean in logic?,Both conditions must be true,It repeats code,Either condition is true,Both are false,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q355: What does Big-O notation describe?,How runtime grows with input size,Code length,Number of comments,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q356: What is debugging?,Adding more features,Finding and fixing errors in a program,Deleting variables,Writing only comments,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q357: If x = 4, is the condition x > 10 true?",False,True,Depends,Undefined,False
+K,Coding & Logic,Logic,Easy,Q358: How many iterations does this loop run? for(i=1; i<13; i+=1),14,13,11,12,12
+K,Coding & Logic,Loops,Easy,Q359: What does AND mean in logic?,Both conditions must be true,It repeats code,Either condition is true,Both are false,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q360: What does Big-O notation describe?,How runtime grows with input size,Code length,Exact runtime on any computer,Number of comments,How runtime grows with input size
+K,Coding & Logic,Basics,Easy,Q361: What is debugging?,Finding and fixing errors in a program,Deleting variables,Adding more features,Writing only comments,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q362: If x = -3, is the condition x > 10 true?",Depends,Undefined,True,False,False
+K,Coding & Logic,Loops,Easy,Q363: How many iterations does this loop run? for(i=2; i<7; i+=3),2,4,3,1,2
+K,Coding & Logic,Debugging,Easy,Q364: What does AND mean in logic?,Both are false,It repeats code,Both conditions must be true,Either condition is true,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q365: What does Big-O notation describe?,Number of comments,Exact runtime on any computer,Code length,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q366: What is debugging?,Finding and fixing errors in a program,Writing only comments,Adding more features,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q367: If x = -10, is the condition x > 10 true?",True,False,Undefined,Depends,False
+K,Coding & Logic,Debugging,Easy,Q368: How many iterations does this loop run? for(i=3; i<13; i+=2),6,7,5,4,5
+K,Coding & Logic,Basics,Easy,Q369: What does AND mean in logic?,It repeats code,Both conditions must be true,Both are false,Either condition is true,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q370: What does Big-O notation describe?,Code length,Exact runtime on any computer,How runtime grows with input size,Number of comments,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q371: What is debugging?,Adding more features,Writing only comments,Finding and fixing errors in a program,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q372: If x = 4, is the condition x > 10 true?",Depends,Undefined,True,False,False
+K,Coding & Logic,Basics,Easy,Q373: How many iterations does this loop run? for(i=0; i<3; i+=1),3,2,4,5,3
+K,Coding & Logic,Logic,Easy,Q374: What does AND mean in logic?,It repeats code,Both conditions must be true,Both are false,Either condition is true,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q375: What does Big-O notation describe?,How runtime grows with input size,Code length,Number of comments,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q376: What is debugging?,Finding and fixing errors in a program,Deleting variables,Writing only comments,Adding more features,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q377: If x = -3, is the condition x > 10 true?",True,False,Undefined,Depends,False
+K,Coding & Logic,Logic,Easy,Q378: How many iterations does this loop run? for(i=1; i<9; i+=3),4,2,5,3,3
+K,Coding & Logic,Loops,Easy,Q379: What does AND mean in logic?,Both are false,It repeats code,Either condition is true,Both conditions must be true,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q380: What does Big-O notation describe?,Code length,How runtime grows with input size,Exact runtime on any computer,Number of comments,How runtime grows with input size
+K,Coding & Logic,Basics,Easy,Q381: What is debugging?,Writing only comments,Adding more features,Deleting variables,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q382: If x = -10, is the condition x > 10 true?",True,False,Depends,Undefined,False
+K,Coding & Logic,Loops,Easy,Q383: How many iterations does this loop run? for(i=2; i<15; i+=2),6,9,7,8,7
+K,Coding & Logic,Debugging,Easy,Q384: What does AND mean in logic?,Both conditions must be true,Both are false,It repeats code,Either condition is true,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q385: What does Big-O notation describe?,Number of comments,How runtime grows with input size,Code length,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q386: What is debugging?,Writing only comments,Adding more features,Deleting variables,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q387: If x = 4, is the condition x > 10 true?",False,Undefined,Depends,True,False
+K,Coding & Logic,Debugging,Easy,Q388: How many iterations does this loop run? for(i=3; i<9; i+=1),7,5,6,8,6
+K,Coding & Logic,Basics,Easy,Q389: What does AND mean in logic?,Both are false,Either condition is true,It repeats code,Both conditions must be true,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q390: What does Big-O notation describe?,Code length,How runtime grows with input size,Exact runtime on any computer,Number of comments,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q391: What is debugging?,Writing only comments,Finding and fixing errors in a program,Deleting variables,Adding more features,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q392: If x = -3, is the condition x > 10 true?",False,Undefined,True,Depends,False
+K,Coding & Logic,Basics,Easy,Q393: How many iterations does this loop run? for(i=0; i<11; i+=3),4,5,3,6,4
+K,Coding & Logic,Logic,Easy,Q394: What does AND mean in logic?,It repeats code,Either condition is true,Both conditions must be true,Both are false,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q395: What does Big-O notation describe?,How runtime grows with input size,Exact runtime on any computer,Code length,Number of comments,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q396: What is debugging?,Writing only comments,Adding more features,Deleting variables,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q397: If x = -10, is the condition x > 10 true?",True,Depends,False,Undefined,False
+K,Coding & Logic,Logic,Easy,Q398: How many iterations does this loop run? for(i=1; i<5; i+=2),3,2,1,4,2
+K,Coding & Logic,Loops,Easy,Q399: What does AND mean in logic?,Either condition is true,Both conditions must be true,It repeats code,Both are false,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q400: What does Big-O notation describe?,Number of comments,How runtime grows with input size,Exact runtime on any computer,Code length,How runtime grows with input size
+K,Coding & Logic,Basics,Easy,Q401: What is debugging?,Writing only comments,Deleting variables,Finding and fixing errors in a program,Adding more features,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q402: If x = 4, is the condition x > 10 true?",Undefined,Depends,False,True,False
+K,Coding & Logic,Loops,Easy,Q403: How many iterations does this loop run? for(i=2; i<11; i+=1),10,8,11,9,9
+K,Coding & Logic,Debugging,Easy,Q404: What does AND mean in logic?,Either condition is true,Both conditions must be true,It repeats code,Both are false,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q405: What does Big-O notation describe?,Exact runtime on any computer,How runtime grows with input size,Code length,Number of comments,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q406: What is debugging?,Finding and fixing errors in a program,Deleting variables,Writing only comments,Adding more features,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q407: If x = -3, is the condition x > 10 true?",Undefined,True,Depends,False,False
+K,Coding & Logic,Debugging,Easy,Q408: How many iterations does this loop run? for(i=3; i<17; i+=3),4,5,7,6,5
+K,Coding & Logic,Basics,Easy,Q409: What does AND mean in logic?,Both conditions must be true,Either condition is true,It repeats code,Both are false,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q410: What does Big-O notation describe?,Code length,How runtime grows with input size,Number of comments,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q411: What is debugging?,Deleting variables,Finding and fixing errors in a program,Adding more features,Writing only comments,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q412: If x = -10, is the condition x > 10 true?",Depends,Undefined,True,False,False
+K,Coding & Logic,Basics,Easy,Q413: How many iterations does this loop run? for(i=0; i<7; i+=2),3,5,6,4,4
+K,Coding & Logic,Logic,Easy,Q414: What does AND mean in logic?,Either condition is true,Both are false,It repeats code,Both conditions must be true,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q415: What does Big-O notation describe?,Code length,Exact runtime on any computer,How runtime grows with input size,Number of comments,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q416: What is debugging?,Deleting variables,Adding more features,Writing only comments,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q417: If x = 4, is the condition x > 10 true?",False,Depends,Undefined,True,False
+K,Coding & Logic,Logic,Easy,Q418: How many iterations does this loop run? for(i=1; i<13; i+=1),14,11,12,13,12
+K,Coding & Logic,Loops,Easy,Q419: What does AND mean in logic?,Both conditions must be true,Both are false,It repeats code,Either condition is true,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q420: What does Big-O notation describe?,Exact runtime on any computer,How runtime grows with input size,Number of comments,Code length,How runtime grows with input size
+K,Coding & Logic,Basics,Easy,Q421: What is debugging?,Deleting variables,Writing only comments,Adding more features,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q422: If x = -3, is the condition x > 10 true?",Depends,True,False,Undefined,False
+K,Coding & Logic,Loops,Easy,Q423: How many iterations does this loop run? for(i=2; i<7; i+=3),3,1,4,2,2
+K,Coding & Logic,Debugging,Easy,Q424: What does AND mean in logic?,Both are false,It repeats code,Both conditions must be true,Either condition is true,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q425: What does Big-O notation describe?,Number of comments,Exact runtime on any computer,Code length,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q426: What is debugging?,Writing only comments,Adding more features,Finding and fixing errors in a program,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q427: If x = -10, is the condition x > 10 true?",Depends,Undefined,False,True,False
+K,Coding & Logic,Debugging,Easy,Q428: How many iterations does this loop run? for(i=3; i<13; i+=2),4,7,6,5,5
+K,Coding & Logic,Basics,Easy,Q429: What does AND mean in logic?,Both conditions must be true,It repeats code,Either condition is true,Both are false,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q430: What does Big-O notation describe?,How runtime grows with input size,Code length,Exact runtime on any computer,Number of comments,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q431: What is debugging?,Adding more features,Deleting variables,Writing only comments,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q432: If x = 4, is the condition x > 10 true?",Undefined,Depends,False,True,False
+K,Coding & Logic,Basics,Easy,Q433: How many iterations does this loop run? for(i=0; i<3; i+=1),4,2,3,5,3
+K,Coding & Logic,Logic,Easy,Q434: What does AND mean in logic?,It repeats code,Either condition is true,Both conditions must be true,Both are false,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q435: What does Big-O notation describe?,How runtime grows with input size,Code length,Number of comments,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q436: What is debugging?,Deleting variables,Adding more features,Finding and fixing errors in a program,Writing only comments,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q437: If x = -3, is the condition x > 10 true?",True,Undefined,False,Depends,False
+K,Coding & Logic,Logic,Easy,Q438: How many iterations does this loop run? for(i=1; i<9; i+=3),3,2,5,4,3
+K,Coding & Logic,Loops,Easy,Q439: What does AND mean in logic?,Both conditions must be true,Either condition is true,It repeats code,Both are false,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q440: What does Big-O notation describe?,Code length,Exact runtime on any computer,Number of comments,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Basics,Easy,Q441: What is debugging?,Adding more features,Writing only comments,Finding and fixing errors in a program,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q442: If x = -10, is the condition x > 10 true?",Depends,Undefined,True,False,False
+K,Coding & Logic,Loops,Easy,Q443: How many iterations does this loop run? for(i=2; i<15; i+=2),8,6,9,7,7
+K,Coding & Logic,Debugging,Easy,Q444: What does AND mean in logic?,Either condition is true,Both conditions must be true,Both are false,It repeats code,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q445: What does Big-O notation describe?,Number of comments,Exact runtime on any computer,How runtime grows with input size,Code length,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q446: What is debugging?,Adding more features,Deleting variables,Finding and fixing errors in a program,Writing only comments,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q447: If x = 4, is the condition x > 10 true?",False,Depends,True,Undefined,False
+K,Coding & Logic,Debugging,Easy,Q448: How many iterations does this loop run? for(i=3; i<9; i+=1),5,6,7,8,6
+K,Coding & Logic,Basics,Easy,Q449: What does AND mean in logic?,It repeats code,Both are false,Both conditions must be true,Either condition is true,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q450: What does Big-O notation describe?,How runtime grows with input size,Exact runtime on any computer,Number of comments,Code length,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q451: What is debugging?,Adding more features,Deleting variables,Finding and fixing errors in a program,Writing only comments,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q452: If x = -3, is the condition x > 10 true?",False,Undefined,True,Depends,False
+K,Coding & Logic,Basics,Easy,Q453: How many iterations does this loop run? for(i=0; i<11; i+=3),3,6,4,5,4
+K,Coding & Logic,Logic,Easy,Q454: What does AND mean in logic?,Either condition is true,Both are false,It repeats code,Both conditions must be true,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q455: What does Big-O notation describe?,Number of comments,Code length,How runtime grows with input size,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q456: What is debugging?,Adding more features,Finding and fixing errors in a program,Writing only comments,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q457: If x = -10, is the condition x > 10 true?",Undefined,False,Depends,True,False
+K,Coding & Logic,Logic,Easy,Q458: How many iterations does this loop run? for(i=1; i<5; i+=2),3,1,4,2,2
+K,Coding & Logic,Loops,Easy,Q459: What does AND mean in logic?,It repeats code,Both are false,Either condition is true,Both conditions must be true,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q460: What does Big-O notation describe?,How runtime grows with input size,Number of comments,Exact runtime on any computer,Code length,How runtime grows with input size
+K,Coding & Logic,Basics,Easy,Q461: What is debugging?,Adding more features,Deleting variables,Writing only comments,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q462: If x = 4, is the condition x > 10 true?",Undefined,False,True,Depends,False
+K,Coding & Logic,Loops,Easy,Q463: How many iterations does this loop run? for(i=2; i<11; i+=1),11,10,9,8,9
+K,Coding & Logic,Debugging,Easy,Q464: What does AND mean in logic?,Both are false,Both conditions must be true,It repeats code,Either condition is true,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q465: What does Big-O notation describe?,Number of comments,Exact runtime on any computer,Code length,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q466: What is debugging?,Finding and fixing errors in a program,Adding more features,Writing only comments,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q467: If x = -3, is the condition x > 10 true?",Depends,False,True,Undefined,False
+K,Coding & Logic,Debugging,Easy,Q468: How many iterations does this loop run? for(i=3; i<17; i+=3),5,6,7,4,5
+K,Coding & Logic,Basics,Easy,Q469: What does AND mean in logic?,Both are false,Either condition is true,It repeats code,Both conditions must be true,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q470: What does Big-O notation describe?,Exact runtime on any computer,Number of comments,Code length,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q471: What is debugging?,Deleting variables,Adding more features,Writing only comments,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q472: If x = -10, is the condition x > 10 true?",Undefined,True,Depends,False,False
+K,Coding & Logic,Basics,Easy,Q473: How many iterations does this loop run? for(i=0; i<7; i+=2),6,4,3,5,4
+K,Coding & Logic,Logic,Easy,Q474: What does AND mean in logic?,It repeats code,Either condition is true,Both are false,Both conditions must be true,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q475: What does Big-O notation describe?,Exact runtime on any computer,Code length,How runtime grows with input size,Number of comments,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q476: What is debugging?,Finding and fixing errors in a program,Writing only comments,Adding more features,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q477: If x = 4, is the condition x > 10 true?",Undefined,True,False,Depends,False
+K,Coding & Logic,Logic,Easy,Q478: How many iterations does this loop run? for(i=1; i<13; i+=1),14,11,13,12,12
+K,Coding & Logic,Loops,Easy,Q479: What does AND mean in logic?,It repeats code,Both conditions must be true,Either condition is true,Both are false,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q480: What does Big-O notation describe?,Code length,Exact runtime on any computer,Number of comments,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Basics,Easy,Q481: What is debugging?,Adding more features,Deleting variables,Writing only comments,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q482: If x = -3, is the condition x > 10 true?",True,False,Depends,Undefined,False
+K,Coding & Logic,Loops,Easy,Q483: How many iterations does this loop run? for(i=2; i<7; i+=3),3,2,1,4,2
+K,Coding & Logic,Debugging,Easy,Q484: What does AND mean in logic?,Either condition is true,It repeats code,Both conditions must be true,Both are false,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q485: What does Big-O notation describe?,Code length,Exact runtime on any computer,How runtime grows with input size,Number of comments,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q486: What is debugging?,Adding more features,Deleting variables,Finding and fixing errors in a program,Writing only comments,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q487: If x = -10, is the condition x > 10 true?",True,Undefined,Depends,False,False
+K,Coding & Logic,Debugging,Easy,Q488: How many iterations does this loop run? for(i=3; i<13; i+=2),7,5,6,4,5
+K,Coding & Logic,Basics,Easy,Q489: What does AND mean in logic?,Either condition is true,Both conditions must be true,It repeats code,Both are false,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q490: What does Big-O notation describe?,How runtime grows with input size,Exact runtime on any computer,Number of comments,Code length,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q491: What is debugging?,Finding and fixing errors in a program,Adding more features,Writing only comments,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q492: If x = 4, is the condition x > 10 true?",Undefined,False,True,Depends,False
+K,Coding & Logic,Basics,Easy,Q493: How many iterations does this loop run? for(i=0; i<3; i+=1),5,2,3,4,3
+K,Coding & Logic,Logic,Easy,Q494: What does AND mean in logic?,Either condition is true,Both are false,Both conditions must be true,It repeats code,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q495: What does Big-O notation describe?,Exact runtime on any computer,Code length,Number of comments,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q496: What is debugging?,Deleting variables,Writing only comments,Adding more features,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q497: If x = -3, is the condition x > 10 true?",False,Depends,Undefined,True,False
+K,Coding & Logic,Logic,Easy,Q498: How many iterations does this loop run? for(i=1; i<9; i+=3),4,5,3,2,3
+K,Coding & Logic,Loops,Easy,Q499: What does AND mean in logic?,Both conditions must be true,It repeats code,Either condition is true,Both are false,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q500: What does Big-O notation describe?,Exact runtime on any computer,Number of comments,Code length,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Basics,Easy,Q501: What is debugging?,Adding more features,Writing only comments,Deleting variables,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q502: If x = -10, is the condition x > 10 true?",Undefined,True,False,Depends,False
+K,Coding & Logic,Loops,Easy,Q503: How many iterations does this loop run? for(i=2; i<15; i+=2),9,7,6,8,7
+K,Coding & Logic,Debugging,Easy,Q504: What does AND mean in logic?,Both conditions must be true,It repeats code,Both are false,Either condition is true,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q505: What does Big-O notation describe?,How runtime grows with input size,Number of comments,Code length,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q506: What is debugging?,Adding more features,Writing only comments,Deleting variables,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q507: If x = 4, is the condition x > 10 true?",True,Depends,False,Undefined,False
+K,Coding & Logic,Debugging,Easy,Q508: How many iterations does this loop run? for(i=3; i<9; i+=1),6,7,5,8,6
+K,Coding & Logic,Basics,Easy,Q509: What does AND mean in logic?,Either condition is true,It repeats code,Both conditions must be true,Both are false,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q510: What does Big-O notation describe?,Code length,Exact runtime on any computer,How runtime grows with input size,Number of comments,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q511: What is debugging?,Adding more features,Finding and fixing errors in a program,Deleting variables,Writing only comments,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q512: If x = -3, is the condition x > 10 true?",False,True,Depends,Undefined,False
+K,Coding & Logic,Basics,Easy,Q513: How many iterations does this loop run? for(i=0; i<11; i+=3),5,6,4,3,4
+K,Coding & Logic,Logic,Easy,Q514: What does AND mean in logic?,Both are false,Both conditions must be true,It repeats code,Either condition is true,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q515: What does Big-O notation describe?,Number of comments,How runtime grows with input size,Exact runtime on any computer,Code length,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q516: What is debugging?,Deleting variables,Adding more features,Writing only comments,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q517: If x = -10, is the condition x > 10 true?",Depends,False,True,Undefined,False
+K,Coding & Logic,Logic,Easy,Q518: How many iterations does this loop run? for(i=1; i<5; i+=2),2,1,3,4,2
+K,Coding & Logic,Loops,Easy,Q519: What does AND mean in logic?,Either condition is true,Both are false,It repeats code,Both conditions must be true,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q520: What does Big-O notation describe?,Exact runtime on any computer,Number of comments,Code length,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Basics,Easy,Q521: What is debugging?,Adding more features,Writing only comments,Finding and fixing errors in a program,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q522: If x = 4, is the condition x > 10 true?",True,Undefined,False,Depends,False
+K,Coding & Logic,Loops,Easy,Q523: How many iterations does this loop run? for(i=2; i<11; i+=1),9,8,10,11,9
+K,Coding & Logic,Debugging,Easy,Q524: What does AND mean in logic?,Both conditions must be true,It repeats code,Either condition is true,Both are false,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q525: What does Big-O notation describe?,How runtime grows with input size,Number of comments,Code length,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q526: What is debugging?,Finding and fixing errors in a program,Writing only comments,Adding more features,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q527: If x = -3, is the condition x > 10 true?",False,Depends,Undefined,True,False
+K,Coding & Logic,Debugging,Easy,Q528: How many iterations does this loop run? for(i=3; i<17; i+=3),4,6,7,5,5
+K,Coding & Logic,Basics,Easy,Q529: What does AND mean in logic?,Both are false,Either condition is true,Both conditions must be true,It repeats code,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q530: What does Big-O notation describe?,Exact runtime on any computer,Code length,How runtime grows with input size,Number of comments,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q531: What is debugging?,Writing only comments,Adding more features,Deleting variables,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q532: If x = -10, is the condition x > 10 true?",True,Undefined,Depends,False,False
+K,Coding & Logic,Basics,Easy,Q533: How many iterations does this loop run? for(i=0; i<7; i+=2),4,5,6,3,4
+K,Coding & Logic,Logic,Easy,Q534: What does AND mean in logic?,It repeats code,Both conditions must be true,Either condition is true,Both are false,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q535: What does Big-O notation describe?,Exact runtime on any computer,How runtime grows with input size,Code length,Number of comments,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q536: What is debugging?,Finding and fixing errors in a program,Writing only comments,Deleting variables,Adding more features,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q537: If x = 4, is the condition x > 10 true?",Undefined,Depends,False,True,False
+K,Coding & Logic,Logic,Easy,Q538: How many iterations does this loop run? for(i=1; i<13; i+=1),11,14,12,13,12
+K,Coding & Logic,Loops,Easy,Q539: What does AND mean in logic?,It repeats code,Either condition is true,Both are false,Both conditions must be true,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q540: What does Big-O notation describe?,How runtime grows with input size,Exact runtime on any computer,Code length,Number of comments,How runtime grows with input size
+K,Coding & Logic,Basics,Easy,Q541: What is debugging?,Deleting variables,Adding more features,Finding and fixing errors in a program,Writing only comments,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q542: If x = -3, is the condition x > 10 true?",True,Undefined,False,Depends,False
+K,Coding & Logic,Loops,Easy,Q543: How many iterations does this loop run? for(i=2; i<7; i+=3),4,3,1,2,2
+K,Coding & Logic,Debugging,Easy,Q544: What does AND mean in logic?,Both are false,Either condition is true,It repeats code,Both conditions must be true,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q545: What does Big-O notation describe?,Code length,Exact runtime on any computer,How runtime grows with input size,Number of comments,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q546: What is debugging?,Finding and fixing errors in a program,Writing only comments,Deleting variables,Adding more features,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q547: If x = -10, is the condition x > 10 true?",False,Depends,True,Undefined,False
+K,Coding & Logic,Debugging,Easy,Q548: How many iterations does this loop run? for(i=3; i<13; i+=2),6,4,5,7,5
+K,Coding & Logic,Basics,Easy,Q549: What does AND mean in logic?,Both are false,Both conditions must be true,Either condition is true,It repeats code,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q550: What does Big-O notation describe?,Number of comments,Exact runtime on any computer,How runtime grows with input size,Code length,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q551: What is debugging?,Finding and fixing errors in a program,Deleting variables,Adding more features,Writing only comments,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q552: If x = 4, is the condition x > 10 true?",False,Undefined,Depends,True,False
+K,Coding & Logic,Basics,Easy,Q553: How many iterations does this loop run? for(i=0; i<3; i+=1),5,2,4,3,3
+K,Coding & Logic,Logic,Easy,Q554: What does AND mean in logic?,Either condition is true,It repeats code,Both are false,Both conditions must be true,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q555: What does Big-O notation describe?,Exact runtime on any computer,Number of comments,Code length,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q556: What is debugging?,Finding and fixing errors in a program,Writing only comments,Adding more features,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q557: If x = -3, is the condition x > 10 true?",False,Depends,True,Undefined,False
+K,Coding & Logic,Logic,Easy,Q558: How many iterations does this loop run? for(i=1; i<9; i+=3),3,5,4,2,3
+K,Coding & Logic,Loops,Easy,Q559: What does AND mean in logic?,Both conditions must be true,Both are false,Either condition is true,It repeats code,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q560: What does Big-O notation describe?,Number of comments,How runtime grows with input size,Exact runtime on any computer,Code length,How runtime grows with input size
+K,Coding & Logic,Basics,Easy,Q561: What is debugging?,Adding more features,Writing only comments,Finding and fixing errors in a program,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q562: If x = -10, is the condition x > 10 true?",Depends,False,True,Undefined,False
+K,Coding & Logic,Loops,Easy,Q563: How many iterations does this loop run? for(i=2; i<15; i+=2),7,6,8,9,7
+K,Coding & Logic,Debugging,Easy,Q564: What does AND mean in logic?,Both conditions must be true,It repeats code,Both are false,Either condition is true,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q565: What does Big-O notation describe?,Number of comments,How runtime grows with input size,Code length,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q566: What is debugging?,Deleting variables,Adding more features,Finding and fixing errors in a program,Writing only comments,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q567: If x = 4, is the condition x > 10 true?",Depends,True,False,Undefined,False
+K,Coding & Logic,Debugging,Easy,Q568: How many iterations does this loop run? for(i=3; i<9; i+=1),8,5,7,6,6
+K,Coding & Logic,Basics,Easy,Q569: What does AND mean in logic?,Both conditions must be true,Both are false,It repeats code,Either condition is true,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q570: What does Big-O notation describe?,How runtime grows with input size,Code length,Number of comments,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q571: What is debugging?,Deleting variables,Adding more features,Finding and fixing errors in a program,Writing only comments,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q572: If x = -3, is the condition x > 10 true?",Depends,False,Undefined,True,False
+K,Coding & Logic,Basics,Easy,Q573: How many iterations does this loop run? for(i=0; i<11; i+=3),3,5,6,4,4
+K,Coding & Logic,Logic,Easy,Q574: What does AND mean in logic?,It repeats code,Both are false,Either condition is true,Both conditions must be true,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q575: What does Big-O notation describe?,Exact runtime on any computer,How runtime grows with input size,Code length,Number of comments,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q576: What is debugging?,Adding more features,Writing only comments,Finding and fixing errors in a program,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q577: If x = -10, is the condition x > 10 true?",Depends,False,Undefined,True,False
+K,Coding & Logic,Logic,Easy,Q578: How many iterations does this loop run? for(i=1; i<5; i+=2),3,4,1,2,2
+K,Coding & Logic,Loops,Easy,Q579: What does AND mean in logic?,Both conditions must be true,It repeats code,Both are false,Either condition is true,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q580: What does Big-O notation describe?,Code length,Number of comments,Exact runtime on any computer,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Basics,Easy,Q581: What is debugging?,Adding more features,Finding and fixing errors in a program,Deleting variables,Writing only comments,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q582: If x = 4, is the condition x > 10 true?",False,Depends,Undefined,True,False
+K,Coding & Logic,Loops,Easy,Q583: How many iterations does this loop run? for(i=2; i<11; i+=1),11,9,10,8,9
+K,Coding & Logic,Debugging,Easy,Q584: What does AND mean in logic?,Both conditions must be true,Both are false,Either condition is true,It repeats code,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q585: What does Big-O notation describe?,Number of comments,How runtime grows with input size,Code length,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q586: What is debugging?,Adding more features,Finding and fixing errors in a program,Writing only comments,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q587: If x = -3, is the condition x > 10 true?",Depends,True,Undefined,False,False
+K,Coding & Logic,Debugging,Easy,Q588: How many iterations does this loop run? for(i=3; i<17; i+=3),7,4,6,5,5
+K,Coding & Logic,Basics,Easy,Q589: What does AND mean in logic?,Both are false,It repeats code,Both conditions must be true,Either condition is true,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q590: What does Big-O notation describe?,Exact runtime on any computer,Number of comments,How runtime grows with input size,Code length,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q591: What is debugging?,Deleting variables,Adding more features,Finding and fixing errors in a program,Writing only comments,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q592: If x = -10, is the condition x > 10 true?",True,False,Depends,Undefined,False
+K,Coding & Logic,Basics,Easy,Q593: How many iterations does this loop run? for(i=0; i<7; i+=2),3,4,5,6,4
+K,Coding & Logic,Logic,Easy,Q594: What does AND mean in logic?,It repeats code,Both conditions must be true,Either condition is true,Both are false,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q595: What does Big-O notation describe?,Number of comments,Exact runtime on any computer,How runtime grows with input size,Code length,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q596: What is debugging?,Writing only comments,Adding more features,Finding and fixing errors in a program,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q597: If x = 4, is the condition x > 10 true?",Depends,True,False,Undefined,False
+K,Coding & Logic,Logic,Easy,Q598: How many iterations does this loop run? for(i=1; i<13; i+=1),14,12,13,11,12
+K,Coding & Logic,Loops,Easy,Q599: What does AND mean in logic?,Either condition is true,It repeats code,Both conditions must be true,Both are false,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q600: What does Big-O notation describe?,How runtime grows with input size,Code length,Number of comments,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Basics,Easy,Q601: What is debugging?,Adding more features,Writing only comments,Deleting variables,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q602: If x = -3, is the condition x > 10 true?",False,Undefined,Depends,True,False
+K,Coding & Logic,Loops,Easy,Q603: How many iterations does this loop run? for(i=2; i<7; i+=3),4,2,1,3,2
+K,Coding & Logic,Debugging,Easy,Q604: What does AND mean in logic?,It repeats code,Both conditions must be true,Both are false,Either condition is true,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q605: What does Big-O notation describe?,Exact runtime on any computer,Code length,How runtime grows with input size,Number of comments,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q606: What is debugging?,Writing only comments,Deleting variables,Finding and fixing errors in a program,Adding more features,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q607: If x = -10, is the condition x > 10 true?",Undefined,True,False,Depends,False
+K,Coding & Logic,Debugging,Easy,Q608: How many iterations does this loop run? for(i=3; i<13; i+=2),7,5,4,6,5
+K,Coding & Logic,Basics,Easy,Q609: What does AND mean in logic?,Both are false,It repeats code,Either condition is true,Both conditions must be true,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q610: What does Big-O notation describe?,Number of comments,Code length,Exact runtime on any computer,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q611: What is debugging?,Writing only comments,Deleting variables,Adding more features,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q612: If x = 4, is the condition x > 10 true?",True,False,Undefined,Depends,False
+K,Coding & Logic,Basics,Easy,Q613: How many iterations does this loop run? for(i=0; i<3; i+=1),4,5,3,2,3
+K,Coding & Logic,Logic,Easy,Q614: What does AND mean in logic?,It repeats code,Either condition is true,Both are false,Both conditions must be true,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q615: What does Big-O notation describe?,Exact runtime on any computer,Number of comments,Code length,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q616: What is debugging?,Deleting variables,Writing only comments,Finding and fixing errors in a program,Adding more features,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q617: If x = -3, is the condition x > 10 true?",False,Undefined,True,Depends,False
+K,Coding & Logic,Logic,Easy,Q618: How many iterations does this loop run? for(i=1; i<9; i+=3),2,3,4,5,3
+K,Coding & Logic,Loops,Easy,Q619: What does AND mean in logic?,Both conditions must be true,Either condition is true,It repeats code,Both are false,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q620: What does Big-O notation describe?,Code length,Number of comments,Exact runtime on any computer,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Basics,Easy,Q621: What is debugging?,Finding and fixing errors in a program,Writing only comments,Deleting variables,Adding more features,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q622: If x = -10, is the condition x > 10 true?",False,True,Undefined,Depends,False
+K,Coding & Logic,Loops,Easy,Q623: How many iterations does this loop run? for(i=2; i<15; i+=2),8,9,6,7,7
+K,Coding & Logic,Debugging,Easy,Q624: What does AND mean in logic?,It repeats code,Both conditions must be true,Both are false,Either condition is true,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q625: What does Big-O notation describe?,How runtime grows with input size,Code length,Exact runtime on any computer,Number of comments,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q626: What is debugging?,Writing only comments,Deleting variables,Adding more features,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q627: If x = 4, is the condition x > 10 true?",Undefined,True,Depends,False,False
+K,Coding & Logic,Debugging,Easy,Q628: How many iterations does this loop run? for(i=3; i<9; i+=1),7,5,8,6,6
+K,Coding & Logic,Basics,Easy,Q629: What does AND mean in logic?,Both are false,It repeats code,Both conditions must be true,Either condition is true,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q630: What does Big-O notation describe?,Code length,Number of comments,How runtime grows with input size,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q631: What is debugging?,Deleting variables,Adding more features,Writing only comments,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q632: If x = -3, is the condition x > 10 true?",True,Undefined,False,Depends,False
+K,Coding & Logic,Basics,Easy,Q633: How many iterations does this loop run? for(i=0; i<11; i+=3),6,3,5,4,4
+K,Coding & Logic,Logic,Easy,Q634: What does AND mean in logic?,It repeats code,Both are false,Either condition is true,Both conditions must be true,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q635: What does Big-O notation describe?,Code length,Exact runtime on any computer,How runtime grows with input size,Number of comments,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q636: What is debugging?,Adding more features,Finding and fixing errors in a program,Writing only comments,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q637: If x = -10, is the condition x > 10 true?",True,Depends,Undefined,False,False
+K,Coding & Logic,Logic,Easy,Q638: How many iterations does this loop run? for(i=1; i<5; i+=2),4,2,3,1,2
+K,Coding & Logic,Loops,Easy,Q639: What does AND mean in logic?,Both conditions must be true,It repeats code,Both are false,Either condition is true,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q640: What does Big-O notation describe?,How runtime grows with input size,Code length,Number of comments,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Basics,Easy,Q641: What is debugging?,Finding and fixing errors in a program,Deleting variables,Writing only comments,Adding more features,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q642: If x = 4, is the condition x > 10 true?",Undefined,False,True,Depends,False
+K,Coding & Logic,Loops,Easy,Q643: How many iterations does this loop run? for(i=2; i<11; i+=1),11,9,10,8,9
+K,Coding & Logic,Debugging,Easy,Q644: What does AND mean in logic?,It repeats code,Both conditions must be true,Both are false,Either condition is true,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q645: What does Big-O notation describe?,How runtime grows with input size,Code length,Number of comments,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q646: What is debugging?,Adding more features,Deleting variables,Finding and fixing errors in a program,Writing only comments,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q647: If x = -3, is the condition x > 10 true?",Undefined,False,True,Depends,False
+K,Coding & Logic,Debugging,Easy,Q648: How many iterations does this loop run? for(i=3; i<17; i+=3),4,6,5,7,5
+K,Coding & Logic,Basics,Easy,Q649: What does AND mean in logic?,Either condition is true,Both conditions must be true,Both are false,It repeats code,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q650: What does Big-O notation describe?,How runtime grows with input size,Exact runtime on any computer,Code length,Number of comments,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q651: What is debugging?,Adding more features,Finding and fixing errors in a program,Writing only comments,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q652: If x = -10, is the condition x > 10 true?",Undefined,False,Depends,True,False
+K,Coding & Logic,Basics,Easy,Q653: How many iterations does this loop run? for(i=0; i<7; i+=2),4,6,5,3,4
+K,Coding & Logic,Logic,Easy,Q654: What does AND mean in logic?,Either condition is true,It repeats code,Both conditions must be true,Both are false,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q655: What does Big-O notation describe?,Number of comments,Code length,Exact runtime on any computer,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q656: What is debugging?,Writing only comments,Deleting variables,Finding and fixing errors in a program,Adding more features,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q657: If x = 4, is the condition x > 10 true?",Undefined,False,True,Depends,False
+K,Coding & Logic,Logic,Easy,Q658: How many iterations does this loop run? for(i=1; i<13; i+=1),12,14,11,13,12
+K,Coding & Logic,Loops,Easy,Q659: What does AND mean in logic?,Both conditions must be true,It repeats code,Either condition is true,Both are false,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q660: What does Big-O notation describe?,Exact runtime on any computer,Number of comments,How runtime grows with input size,Code length,How runtime grows with input size
+K,Coding & Logic,Basics,Easy,Q661: What is debugging?,Finding and fixing errors in a program,Adding more features,Writing only comments,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q662: If x = -3, is the condition x > 10 true?",True,Undefined,Depends,False,False
+K,Coding & Logic,Loops,Easy,Q663: How many iterations does this loop run? for(i=2; i<7; i+=3),4,1,3,2,2
+K,Coding & Logic,Debugging,Easy,Q664: What does AND mean in logic?,Either condition is true,Both conditions must be true,It repeats code,Both are false,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q665: What does Big-O notation describe?,How runtime grows with input size,Code length,Exact runtime on any computer,Number of comments,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q666: What is debugging?,Adding more features,Finding and fixing errors in a program,Deleting variables,Writing only comments,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q667: If x = -10, is the condition x > 10 true?",Undefined,Depends,True,False,False
+K,Coding & Logic,Debugging,Easy,Q668: How many iterations does this loop run? for(i=3; i<13; i+=2),6,5,4,7,5
+K,Coding & Logic,Basics,Easy,Q669: What does AND mean in logic?,Both are false,Either condition is true,It repeats code,Both conditions must be true,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q670: What does Big-O notation describe?,Code length,Number of comments,Exact runtime on any computer,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q671: What is debugging?,Adding more features,Finding and fixing errors in a program,Deleting variables,Writing only comments,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q672: If x = 4, is the condition x > 10 true?",True,Undefined,Depends,False,False
+K,Coding & Logic,Basics,Easy,Q673: How many iterations does this loop run? for(i=0; i<3; i+=1),2,4,5,3,3
+K,Coding & Logic,Logic,Easy,Q674: What does AND mean in logic?,Both are false,Either condition is true,Both conditions must be true,It repeats code,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q675: What does Big-O notation describe?,How runtime grows with input size,Number of comments,Exact runtime on any computer,Code length,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q676: What is debugging?,Writing only comments,Adding more features,Finding and fixing errors in a program,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q677: If x = -3, is the condition x > 10 true?",Depends,True,False,Undefined,False
+K,Coding & Logic,Logic,Easy,Q678: How many iterations does this loop run? for(i=1; i<9; i+=3),4,2,5,3,3
+K,Coding & Logic,Loops,Easy,Q679: What does AND mean in logic?,Either condition is true,Both conditions must be true,It repeats code,Both are false,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q680: What does Big-O notation describe?,Code length,Exact runtime on any computer,How runtime grows with input size,Number of comments,How runtime grows with input size
+K,Coding & Logic,Basics,Easy,Q681: What is debugging?,Writing only comments,Adding more features,Finding and fixing errors in a program,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q682: If x = -10, is the condition x > 10 true?",Undefined,True,Depends,False,False
+K,Coding & Logic,Loops,Easy,Q683: How many iterations does this loop run? for(i=2; i<15; i+=2),6,7,9,8,7
+K,Coding & Logic,Debugging,Easy,Q684: What does AND mean in logic?,Both are false,It repeats code,Both conditions must be true,Either condition is true,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q685: What does Big-O notation describe?,Code length,Exact runtime on any computer,How runtime grows with input size,Number of comments,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q686: What is debugging?,Finding and fixing errors in a program,Deleting variables,Writing only comments,Adding more features,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q687: If x = 4, is the condition x > 10 true?",Undefined,False,Depends,True,False
+K,Coding & Logic,Debugging,Easy,Q688: How many iterations does this loop run? for(i=3; i<9; i+=1),5,8,6,7,6
+K,Coding & Logic,Basics,Easy,Q689: What does AND mean in logic?,Both conditions must be true,It repeats code,Both are false,Either condition is true,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q690: What does Big-O notation describe?,Number of comments,How runtime grows with input size,Code length,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q691: What is debugging?,Writing only comments,Finding and fixing errors in a program,Deleting variables,Adding more features,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q692: If x = -3, is the condition x > 10 true?",False,Undefined,True,Depends,False
+K,Coding & Logic,Basics,Easy,Q693: How many iterations does this loop run? for(i=0; i<11; i+=3),4,5,6,3,4
+K,Coding & Logic,Logic,Easy,Q694: What does AND mean in logic?,It repeats code,Either condition is true,Both conditions must be true,Both are false,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q695: What does Big-O notation describe?,Exact runtime on any computer,Number of comments,How runtime grows with input size,Code length,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q696: What is debugging?,Adding more features,Deleting variables,Finding and fixing errors in a program,Writing only comments,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q697: If x = -10, is the condition x > 10 true?",True,Undefined,False,Depends,False
+K,Coding & Logic,Logic,Easy,Q698: How many iterations does this loop run? for(i=1; i<5; i+=2),1,2,4,3,2
+K,Coding & Logic,Loops,Easy,Q699: What does AND mean in logic?,It repeats code,Either condition is true,Both are false,Both conditions must be true,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q700: What does Big-O notation describe?,Code length,How runtime grows with input size,Number of comments,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Basics,Easy,Q701: What is debugging?,Adding more features,Deleting variables,Writing only comments,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q702: If x = 4, is the condition x > 10 true?",False,True,Undefined,Depends,False
+K,Coding & Logic,Loops,Easy,Q703: How many iterations does this loop run? for(i=2; i<11; i+=1),9,10,11,8,9
+K,Coding & Logic,Debugging,Easy,Q704: What does AND mean in logic?,Either condition is true,Both are false,It repeats code,Both conditions must be true,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q705: What does Big-O notation describe?,Exact runtime on any computer,Number of comments,Code length,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q706: What is debugging?,Adding more features,Finding and fixing errors in a program,Writing only comments,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q707: If x = -3, is the condition x > 10 true?",True,False,Undefined,Depends,False
+K,Coding & Logic,Debugging,Easy,Q708: How many iterations does this loop run? for(i=3; i<17; i+=3),5,7,6,4,5
+K,Coding & Logic,Basics,Easy,Q709: What does AND mean in logic?,Either condition is true,It repeats code,Both conditions must be true,Both are false,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q710: What does Big-O notation describe?,Number of comments,Exact runtime on any computer,Code length,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q711: What is debugging?,Finding and fixing errors in a program,Deleting variables,Writing only comments,Adding more features,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q712: If x = -10, is the condition x > 10 true?",Depends,Undefined,True,False,False
+K,Coding & Logic,Basics,Easy,Q713: How many iterations does this loop run? for(i=0; i<7; i+=2),3,4,6,5,4
+K,Coding & Logic,Logic,Easy,Q714: What does AND mean in logic?,Either condition is true,Both are false,Both conditions must be true,It repeats code,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q715: What does Big-O notation describe?,Exact runtime on any computer,Code length,Number of comments,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q716: What is debugging?,Finding and fixing errors in a program,Adding more features,Writing only comments,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q717: If x = 4, is the condition x > 10 true?",Undefined,True,Depends,False,False
+K,Coding & Logic,Logic,Easy,Q718: How many iterations does this loop run? for(i=1; i<13; i+=1),14,12,13,11,12
+K,Coding & Logic,Loops,Easy,Q719: What does AND mean in logic?,Both are false,Both conditions must be true,It repeats code,Either condition is true,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q720: What does Big-O notation describe?,Exact runtime on any computer,Code length,Number of comments,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Basics,Easy,Q721: What is debugging?,Finding and fixing errors in a program,Deleting variables,Writing only comments,Adding more features,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q722: If x = -3, is the condition x > 10 true?",False,True,Depends,Undefined,False
+K,Coding & Logic,Loops,Easy,Q723: How many iterations does this loop run? for(i=2; i<7; i+=3),3,1,2,4,2
+K,Coding & Logic,Debugging,Easy,Q724: What does AND mean in logic?,It repeats code,Both conditions must be true,Both are false,Either condition is true,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q725: What does Big-O notation describe?,Number of comments,Exact runtime on any computer,How runtime grows with input size,Code length,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q726: What is debugging?,Adding more features,Deleting variables,Writing only comments,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q727: If x = -10, is the condition x > 10 true?",False,Depends,Undefined,True,False
+K,Coding & Logic,Debugging,Easy,Q728: How many iterations does this loop run? for(i=3; i<13; i+=2),5,6,4,7,5
+K,Coding & Logic,Basics,Easy,Q729: What does AND mean in logic?,Both conditions must be true,Both are false,Either condition is true,It repeats code,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q730: What does Big-O notation describe?,Exact runtime on any computer,How runtime grows with input size,Number of comments,Code length,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q731: What is debugging?,Writing only comments,Deleting variables,Finding and fixing errors in a program,Adding more features,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q732: If x = 4, is the condition x > 10 true?",Undefined,Depends,False,True,False
+K,Coding & Logic,Basics,Easy,Q733: How many iterations does this loop run? for(i=0; i<3; i+=1),4,3,2,5,3
+K,Coding & Logic,Logic,Easy,Q734: What does AND mean in logic?,It repeats code,Either condition is true,Both are false,Both conditions must be true,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q735: What does Big-O notation describe?,Exact runtime on any computer,Number of comments,Code length,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q736: What is debugging?,Deleting variables,Finding and fixing errors in a program,Adding more features,Writing only comments,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q737: If x = -3, is the condition x > 10 true?",Undefined,True,False,Depends,False
+K,Coding & Logic,Logic,Easy,Q738: How many iterations does this loop run? for(i=1; i<9; i+=3),2,5,3,4,3
+K,Coding & Logic,Loops,Easy,Q739: What does AND mean in logic?,Both conditions must be true,Both are false,Either condition is true,It repeats code,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q740: What does Big-O notation describe?,How runtime grows with input size,Exact runtime on any computer,Code length,Number of comments,How runtime grows with input size
+K,Coding & Logic,Basics,Easy,Q741: What is debugging?,Deleting variables,Writing only comments,Adding more features,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q742: If x = -10, is the condition x > 10 true?",True,False,Depends,Undefined,False
+K,Coding & Logic,Loops,Easy,Q743: How many iterations does this loop run? for(i=2; i<15; i+=2),7,8,9,6,7
+K,Coding & Logic,Debugging,Easy,Q744: What does AND mean in logic?,Either condition is true,It repeats code,Both conditions must be true,Both are false,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q745: What does Big-O notation describe?,Code length,Exact runtime on any computer,Number of comments,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q746: What is debugging?,Deleting variables,Writing only comments,Finding and fixing errors in a program,Adding more features,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q747: If x = 4, is the condition x > 10 true?",Undefined,False,True,Depends,False
+K,Coding & Logic,Debugging,Easy,Q748: How many iterations does this loop run? for(i=3; i<9; i+=1),5,7,8,6,6
+K,Coding & Logic,Basics,Easy,Q749: What does AND mean in logic?,Both conditions must be true,It repeats code,Both are false,Either condition is true,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q750: What does Big-O notation describe?,Exact runtime on any computer,Code length,How runtime grows with input size,Number of comments,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q751: What is debugging?,Deleting variables,Finding and fixing errors in a program,Adding more features,Writing only comments,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q752: If x = -3, is the condition x > 10 true?",True,False,Depends,Undefined,False
+K,Coding & Logic,Basics,Easy,Q753: How many iterations does this loop run? for(i=0; i<11; i+=3),3,4,5,6,4
+K,Coding & Logic,Logic,Easy,Q754: What does AND mean in logic?,Either condition is true,It repeats code,Both conditions must be true,Both are false,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q755: What does Big-O notation describe?,Code length,How runtime grows with input size,Number of comments,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q756: What is debugging?,Finding and fixing errors in a program,Adding more features,Deleting variables,Writing only comments,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q757: If x = -10, is the condition x > 10 true?",Undefined,True,Depends,False,False
+K,Coding & Logic,Logic,Easy,Q758: How many iterations does this loop run? for(i=1; i<5; i+=2),2,4,3,1,2
+K,Coding & Logic,Loops,Easy,Q759: What does AND mean in logic?,Both conditions must be true,Either condition is true,It repeats code,Both are false,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q760: What does Big-O notation describe?,Number of comments,Exact runtime on any computer,Code length,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Basics,Easy,Q761: What is debugging?,Finding and fixing errors in a program,Adding more features,Writing only comments,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q762: If x = 4, is the condition x > 10 true?",False,True,Undefined,Depends,False
+K,Coding & Logic,Loops,Easy,Q763: How many iterations does this loop run? for(i=2; i<11; i+=1),9,11,8,10,9
+K,Coding & Logic,Debugging,Easy,Q764: What does AND mean in logic?,It repeats code,Either condition is true,Both are false,Both conditions must be true,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q765: What does Big-O notation describe?,Code length,How runtime grows with input size,Number of comments,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q766: What is debugging?,Adding more features,Finding and fixing errors in a program,Writing only comments,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q767: If x = -3, is the condition x > 10 true?",True,False,Depends,Undefined,False
+K,Coding & Logic,Debugging,Easy,Q768: How many iterations does this loop run? for(i=3; i<17; i+=3),5,6,7,4,5
+K,Coding & Logic,Basics,Easy,Q769: What does AND mean in logic?,Both are false,Either condition is true,It repeats code,Both conditions must be true,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q770: What does Big-O notation describe?,Number of comments,How runtime grows with input size,Exact runtime on any computer,Code length,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q771: What is debugging?,Adding more features,Writing only comments,Finding and fixing errors in a program,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q772: If x = -10, is the condition x > 10 true?",Undefined,True,Depends,False,False
+K,Coding & Logic,Basics,Easy,Q773: How many iterations does this loop run? for(i=0; i<7; i+=2),3,4,5,6,4
+K,Coding & Logic,Logic,Easy,Q774: What does AND mean in logic?,It repeats code,Both conditions must be true,Both are false,Either condition is true,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q775: What does Big-O notation describe?,Exact runtime on any computer,How runtime grows with input size,Number of comments,Code length,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q776: What is debugging?,Adding more features,Deleting variables,Finding and fixing errors in a program,Writing only comments,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q777: If x = 4, is the condition x > 10 true?",True,Depends,Undefined,False,False
+K,Coding & Logic,Logic,Easy,Q778: How many iterations does this loop run? for(i=1; i<13; i+=1),12,14,11,13,12
+K,Coding & Logic,Loops,Easy,Q779: What does AND mean in logic?,It repeats code,Both conditions must be true,Either condition is true,Both are false,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q780: What does Big-O notation describe?,Code length,Exact runtime on any computer,How runtime grows with input size,Number of comments,How runtime grows with input size
+K,Coding & Logic,Basics,Easy,Q781: What is debugging?,Deleting variables,Adding more features,Finding and fixing errors in a program,Writing only comments,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q782: If x = -3, is the condition x > 10 true?",False,Depends,True,Undefined,False
+K,Coding & Logic,Loops,Easy,Q783: How many iterations does this loop run? for(i=2; i<7; i+=3),4,2,1,3,2
+K,Coding & Logic,Debugging,Easy,Q784: What does AND mean in logic?,Both are false,Either condition is true,Both conditions must be true,It repeats code,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q785: What does Big-O notation describe?,Code length,How runtime grows with input size,Number of comments,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q786: What is debugging?,Writing only comments,Adding more features,Deleting variables,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q787: If x = -10, is the condition x > 10 true?",Depends,Undefined,True,False,False
+K,Coding & Logic,Debugging,Easy,Q788: How many iterations does this loop run? for(i=3; i<13; i+=2),5,6,4,7,5
+K,Coding & Logic,Basics,Easy,Q789: What does AND mean in logic?,Both conditions must be true,It repeats code,Both are false,Either condition is true,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q790: What does Big-O notation describe?,Number of comments,Exact runtime on any computer,Code length,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q791: What is debugging?,Finding and fixing errors in a program,Deleting variables,Adding more features,Writing only comments,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q792: If x = 4, is the condition x > 10 true?",False,Undefined,True,Depends,False
+K,Coding & Logic,Basics,Easy,Q793: How many iterations does this loop run? for(i=0; i<3; i+=1),3,5,2,4,3
+K,Coding & Logic,Logic,Easy,Q794: What does AND mean in logic?,It repeats code,Both conditions must be true,Both are false,Either condition is true,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q795: What does Big-O notation describe?,Exact runtime on any computer,How runtime grows with input size,Number of comments,Code length,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q796: What is debugging?,Writing only comments,Finding and fixing errors in a program,Deleting variables,Adding more features,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q797: If x = -3, is the condition x > 10 true?",False,Undefined,Depends,True,False
+K,Coding & Logic,Logic,Easy,Q798: How many iterations does this loop run? for(i=1; i<9; i+=3),2,4,5,3,3
+K,Coding & Logic,Loops,Easy,Q799: What does AND mean in logic?,It repeats code,Both conditions must be true,Either condition is true,Both are false,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q800: What does Big-O notation describe?,Code length,Number of comments,How runtime grows with input size,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Basics,Easy,Q801: What is debugging?,Deleting variables,Finding and fixing errors in a program,Writing only comments,Adding more features,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q802: If x = -10, is the condition x > 10 true?",Undefined,True,False,Depends,False
+K,Coding & Logic,Loops,Easy,Q803: How many iterations does this loop run? for(i=2; i<15; i+=2),7,8,9,6,7
+K,Coding & Logic,Debugging,Easy,Q804: What does AND mean in logic?,It repeats code,Both conditions must be true,Both are false,Either condition is true,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q805: What does Big-O notation describe?,Exact runtime on any computer,Code length,Number of comments,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q806: What is debugging?,Adding more features,Finding and fixing errors in a program,Deleting variables,Writing only comments,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q807: If x = 4, is the condition x > 10 true?",Undefined,False,Depends,True,False
+K,Coding & Logic,Debugging,Easy,Q808: How many iterations does this loop run? for(i=3; i<9; i+=1),7,8,5,6,6
+K,Coding & Logic,Basics,Easy,Q809: What does AND mean in logic?,Both conditions must be true,Both are false,It repeats code,Either condition is true,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q810: What does Big-O notation describe?,Code length,How runtime grows with input size,Exact runtime on any computer,Number of comments,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q811: What is debugging?,Deleting variables,Finding and fixing errors in a program,Writing only comments,Adding more features,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q812: If x = -3, is the condition x > 10 true?",Undefined,False,True,Depends,False
+K,Coding & Logic,Basics,Easy,Q813: How many iterations does this loop run? for(i=0; i<11; i+=3),4,6,3,5,4
+K,Coding & Logic,Logic,Easy,Q814: What does AND mean in logic?,Both are false,Both conditions must be true,It repeats code,Either condition is true,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q815: What does Big-O notation describe?,How runtime grows with input size,Number of comments,Code length,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q816: What is debugging?,Deleting variables,Finding and fixing errors in a program,Writing only comments,Adding more features,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q817: If x = -10, is the condition x > 10 true?",True,False,Undefined,Depends,False
+K,Coding & Logic,Logic,Easy,Q818: How many iterations does this loop run? for(i=1; i<5; i+=2),2,4,1,3,2
+K,Coding & Logic,Loops,Easy,Q819: What does AND mean in logic?,Both are false,Both conditions must be true,Either condition is true,It repeats code,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q820: What does Big-O notation describe?,Exact runtime on any computer,Code length,Number of comments,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Basics,Easy,Q821: What is debugging?,Finding and fixing errors in a program,Deleting variables,Adding more features,Writing only comments,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q822: If x = 4, is the condition x > 10 true?",True,Depends,False,Undefined,False
+K,Coding & Logic,Loops,Easy,Q823: How many iterations does this loop run? for(i=2; i<11; i+=1),8,11,9,10,9
+K,Coding & Logic,Debugging,Easy,Q824: What does AND mean in logic?,It repeats code,Both conditions must be true,Both are false,Either condition is true,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q825: What does Big-O notation describe?,How runtime grows with input size,Exact runtime on any computer,Number of comments,Code length,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q826: What is debugging?,Finding and fixing errors in a program,Adding more features,Writing only comments,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q827: If x = -3, is the condition x > 10 true?",True,Undefined,Depends,False,False
+K,Coding & Logic,Debugging,Easy,Q828: How many iterations does this loop run? for(i=3; i<17; i+=3),7,4,5,6,5
+K,Coding & Logic,Basics,Easy,Q829: What does AND mean in logic?,It repeats code,Either condition is true,Both are false,Both conditions must be true,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q830: What does Big-O notation describe?,How runtime grows with input size,Number of comments,Code length,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q831: What is debugging?,Adding more features,Writing only comments,Finding and fixing errors in a program,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q832: If x = -10, is the condition x > 10 true?",False,True,Undefined,Depends,False
+K,Coding & Logic,Basics,Easy,Q833: How many iterations does this loop run? for(i=0; i<7; i+=2),4,5,3,6,4
+K,Coding & Logic,Logic,Easy,Q834: What does AND mean in logic?,It repeats code,Either condition is true,Both are false,Both conditions must be true,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q835: What does Big-O notation describe?,Number of comments,How runtime grows with input size,Exact runtime on any computer,Code length,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q836: What is debugging?,Deleting variables,Writing only comments,Adding more features,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q837: If x = 4, is the condition x > 10 true?",Depends,Undefined,False,True,False
+K,Coding & Logic,Logic,Easy,Q838: How many iterations does this loop run? for(i=1; i<13; i+=1),11,14,13,12,12
+K,Coding & Logic,Loops,Easy,Q839: What does AND mean in logic?,Either condition is true,Both conditions must be true,Both are false,It repeats code,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q840: What does Big-O notation describe?,Number of comments,Exact runtime on any computer,How runtime grows with input size,Code length,How runtime grows with input size
+K,Coding & Logic,Basics,Easy,Q841: What is debugging?,Finding and fixing errors in a program,Adding more features,Writing only comments,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q842: If x = -3, is the condition x > 10 true?",Depends,Undefined,False,True,False
+K,Coding & Logic,Loops,Easy,Q843: How many iterations does this loop run? for(i=2; i<7; i+=3),2,1,3,4,2
+K,Coding & Logic,Debugging,Easy,Q844: What does AND mean in logic?,Either condition is true,Both conditions must be true,It repeats code,Both are false,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q845: What does Big-O notation describe?,Number of comments,Exact runtime on any computer,How runtime grows with input size,Code length,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q846: What is debugging?,Writing only comments,Deleting variables,Adding more features,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q847: If x = -10, is the condition x > 10 true?",Depends,Undefined,False,True,False
+K,Coding & Logic,Debugging,Easy,Q848: How many iterations does this loop run? for(i=3; i<13; i+=2),5,6,7,4,5
+K,Coding & Logic,Basics,Easy,Q849: What does AND mean in logic?,Either condition is true,It repeats code,Both conditions must be true,Both are false,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q850: What does Big-O notation describe?,Number of comments,Code length,How runtime grows with input size,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q851: What is debugging?,Finding and fixing errors in a program,Deleting variables,Adding more features,Writing only comments,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q852: If x = 4, is the condition x > 10 true?",False,Undefined,True,Depends,False
+K,Coding & Logic,Basics,Easy,Q853: How many iterations does this loop run? for(i=0; i<3; i+=1),4,3,2,5,3
+K,Coding & Logic,Logic,Easy,Q854: What does AND mean in logic?,Both conditions must be true,It repeats code,Either condition is true,Both are false,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q855: What does Big-O notation describe?,Code length,How runtime grows with input size,Number of comments,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q856: What is debugging?,Deleting variables,Writing only comments,Finding and fixing errors in a program,Adding more features,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q857: If x = -3, is the condition x > 10 true?",Depends,True,False,Undefined,False
+K,Coding & Logic,Logic,Easy,Q858: How many iterations does this loop run? for(i=1; i<9; i+=3),4,3,2,5,3
+K,Coding & Logic,Loops,Easy,Q859: What does AND mean in logic?,Either condition is true,Both conditions must be true,Both are false,It repeats code,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q860: What does Big-O notation describe?,Number of comments,Exact runtime on any computer,Code length,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Basics,Easy,Q861: What is debugging?,Writing only comments,Adding more features,Deleting variables,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q862: If x = -10, is the condition x > 10 true?",Undefined,True,Depends,False,False
+K,Coding & Logic,Loops,Easy,Q863: How many iterations does this loop run? for(i=2; i<15; i+=2),6,8,9,7,7
+K,Coding & Logic,Debugging,Easy,Q864: What does AND mean in logic?,Either condition is true,Both conditions must be true,It repeats code,Both are false,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q865: What does Big-O notation describe?,How runtime grows with input size,Code length,Number of comments,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q866: What is debugging?,Writing only comments,Adding more features,Deleting variables,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q867: If x = 4, is the condition x > 10 true?",Undefined,True,False,Depends,False
+K,Coding & Logic,Debugging,Easy,Q868: How many iterations does this loop run? for(i=3; i<9; i+=1),7,5,6,8,6
+K,Coding & Logic,Basics,Easy,Q869: What does AND mean in logic?,Either condition is true,It repeats code,Both conditions must be true,Both are false,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q870: What does Big-O notation describe?,How runtime grows with input size,Number of comments,Code length,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q871: What is debugging?,Writing only comments,Adding more features,Deleting variables,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q872: If x = -3, is the condition x > 10 true?",Undefined,False,True,Depends,False
+K,Coding & Logic,Basics,Easy,Q873: How many iterations does this loop run? for(i=0; i<11; i+=3),4,6,5,3,4
+K,Coding & Logic,Logic,Easy,Q874: What does AND mean in logic?,It repeats code,Both are false,Both conditions must be true,Either condition is true,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q875: What does Big-O notation describe?,Code length,Number of comments,Exact runtime on any computer,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q876: What is debugging?,Adding more features,Writing only comments,Deleting variables,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q877: If x = -10, is the condition x > 10 true?",True,Undefined,False,Depends,False
+K,Coding & Logic,Logic,Easy,Q878: How many iterations does this loop run? for(i=1; i<5; i+=2),4,1,2,3,2
+K,Coding & Logic,Loops,Easy,Q879: What does AND mean in logic?,Both conditions must be true,Either condition is true,It repeats code,Both are false,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q880: What does Big-O notation describe?,Exact runtime on any computer,Code length,Number of comments,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Basics,Easy,Q881: What is debugging?,Finding and fixing errors in a program,Deleting variables,Adding more features,Writing only comments,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q882: If x = 4, is the condition x > 10 true?",Undefined,True,False,Depends,False
+K,Coding & Logic,Loops,Easy,Q883: How many iterations does this loop run? for(i=2; i<11; i+=1),11,9,8,10,9
+K,Coding & Logic,Debugging,Easy,Q884: What does AND mean in logic?,Both conditions must be true,It repeats code,Either condition is true,Both are false,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q885: What does Big-O notation describe?,How runtime grows with input size,Code length,Exact runtime on any computer,Number of comments,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q886: What is debugging?,Finding and fixing errors in a program,Writing only comments,Adding more features,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q887: If x = -3, is the condition x > 10 true?",Undefined,False,True,Depends,False
+K,Coding & Logic,Debugging,Easy,Q888: How many iterations does this loop run? for(i=3; i<17; i+=3),7,5,6,4,5
+K,Coding & Logic,Basics,Easy,Q889: What does AND mean in logic?,Both are false,It repeats code,Both conditions must be true,Either condition is true,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q890: What does Big-O notation describe?,Code length,How runtime grows with input size,Exact runtime on any computer,Number of comments,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q891: What is debugging?,Adding more features,Deleting variables,Writing only comments,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q892: If x = -10, is the condition x > 10 true?",False,Undefined,True,Depends,False
+K,Coding & Logic,Basics,Easy,Q893: How many iterations does this loop run? for(i=0; i<7; i+=2),3,5,4,6,4
+K,Coding & Logic,Logic,Easy,Q894: What does AND mean in logic?,Either condition is true,Both conditions must be true,It repeats code,Both are false,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q895: What does Big-O notation describe?,Code length,Exact runtime on any computer,Number of comments,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q896: What is debugging?,Finding and fixing errors in a program,Writing only comments,Adding more features,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q897: If x = 4, is the condition x > 10 true?",False,Depends,Undefined,True,False
+K,Coding & Logic,Logic,Easy,Q898: How many iterations does this loop run? for(i=1; i<13; i+=1),11,14,13,12,12
+K,Coding & Logic,Loops,Easy,Q899: What does AND mean in logic?,Both conditions must be true,Either condition is true,Both are false,It repeats code,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q900: What does Big-O notation describe?,Code length,Exact runtime on any computer,How runtime grows with input size,Number of comments,How runtime grows with input size
+K,Coding & Logic,Basics,Easy,Q901: What is debugging?,Finding and fixing errors in a program,Writing only comments,Adding more features,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q902: If x = -3, is the condition x > 10 true?",True,Undefined,Depends,False,False
+K,Coding & Logic,Loops,Easy,Q903: How many iterations does this loop run? for(i=2; i<7; i+=3),2,4,1,3,2
+K,Coding & Logic,Debugging,Easy,Q904: What does AND mean in logic?,Either condition is true,Both are false,It repeats code,Both conditions must be true,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q905: What does Big-O notation describe?,Number of comments,How runtime grows with input size,Exact runtime on any computer,Code length,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q906: What is debugging?,Finding and fixing errors in a program,Adding more features,Deleting variables,Writing only comments,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q907: If x = -10, is the condition x > 10 true?",Depends,False,True,Undefined,False
+K,Coding & Logic,Debugging,Easy,Q908: How many iterations does this loop run? for(i=3; i<13; i+=2),4,7,6,5,5
+K,Coding & Logic,Basics,Easy,Q909: What does AND mean in logic?,It repeats code,Both are false,Both conditions must be true,Either condition is true,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q910: What does Big-O notation describe?,Number of comments,How runtime grows with input size,Code length,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q911: What is debugging?,Adding more features,Finding and fixing errors in a program,Deleting variables,Writing only comments,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q912: If x = 4, is the condition x > 10 true?",False,True,Undefined,Depends,False
+K,Coding & Logic,Basics,Easy,Q913: How many iterations does this loop run? for(i=0; i<3; i+=1),4,5,2,3,3
+K,Coding & Logic,Logic,Easy,Q914: What does AND mean in logic?,It repeats code,Both conditions must be true,Either condition is true,Both are false,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q915: What does Big-O notation describe?,Exact runtime on any computer,How runtime grows with input size,Number of comments,Code length,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q916: What is debugging?,Finding and fixing errors in a program,Deleting variables,Adding more features,Writing only comments,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q917: If x = -3, is the condition x > 10 true?",False,True,Depends,Undefined,False
+K,Coding & Logic,Logic,Easy,Q918: How many iterations does this loop run? for(i=1; i<9; i+=3),5,3,4,2,3
+K,Coding & Logic,Loops,Easy,Q919: What does AND mean in logic?,Both conditions must be true,Both are false,It repeats code,Either condition is true,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q920: What does Big-O notation describe?,Code length,Exact runtime on any computer,How runtime grows with input size,Number of comments,How runtime grows with input size
+K,Coding & Logic,Basics,Easy,Q921: What is debugging?,Deleting variables,Finding and fixing errors in a program,Writing only comments,Adding more features,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q922: If x = -10, is the condition x > 10 true?",True,Depends,False,Undefined,False
+K,Coding & Logic,Loops,Easy,Q923: How many iterations does this loop run? for(i=2; i<15; i+=2),6,8,9,7,7
+K,Coding & Logic,Debugging,Easy,Q924: What does AND mean in logic?,Both are false,Either condition is true,Both conditions must be true,It repeats code,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q925: What does Big-O notation describe?,How runtime grows with input size,Exact runtime on any computer,Number of comments,Code length,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q926: What is debugging?,Adding more features,Finding and fixing errors in a program,Deleting variables,Writing only comments,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q927: If x = 4, is the condition x > 10 true?",True,False,Depends,Undefined,False
+K,Coding & Logic,Debugging,Easy,Q928: How many iterations does this loop run? for(i=3; i<9; i+=1),7,6,5,8,6
+K,Coding & Logic,Basics,Easy,Q929: What does AND mean in logic?,It repeats code,Either condition is true,Both are false,Both conditions must be true,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q930: What does Big-O notation describe?,Code length,How runtime grows with input size,Number of comments,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q931: What is debugging?,Deleting variables,Finding and fixing errors in a program,Writing only comments,Adding more features,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q932: If x = -3, is the condition x > 10 true?",Undefined,Depends,False,True,False
+K,Coding & Logic,Basics,Easy,Q933: How many iterations does this loop run? for(i=0; i<11; i+=3),5,6,4,3,4
+K,Coding & Logic,Logic,Easy,Q934: What does AND mean in logic?,Either condition is true,It repeats code,Both are false,Both conditions must be true,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q935: What does Big-O notation describe?,Code length,Exact runtime on any computer,Number of comments,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q936: What is debugging?,Writing only comments,Adding more features,Finding and fixing errors in a program,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q937: If x = -10, is the condition x > 10 true?",Undefined,Depends,True,False,False
+K,Coding & Logic,Logic,Easy,Q938: How many iterations does this loop run? for(i=1; i<5; i+=2),4,2,1,3,2
+K,Coding & Logic,Loops,Easy,Q939: What does AND mean in logic?,Either condition is true,Both conditions must be true,Both are false,It repeats code,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q940: What does Big-O notation describe?,How runtime grows with input size,Number of comments,Code length,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Basics,Easy,Q941: What is debugging?,Adding more features,Finding and fixing errors in a program,Writing only comments,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q942: If x = 4, is the condition x > 10 true?",Undefined,Depends,True,False,False
+K,Coding & Logic,Loops,Easy,Q943: How many iterations does this loop run? for(i=2; i<11; i+=1),8,9,10,11,9
+K,Coding & Logic,Debugging,Easy,Q944: What does AND mean in logic?,Both are false,Either condition is true,It repeats code,Both conditions must be true,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q945: What does Big-O notation describe?,How runtime grows with input size,Code length,Exact runtime on any computer,Number of comments,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q946: What is debugging?,Adding more features,Deleting variables,Finding and fixing errors in a program,Writing only comments,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q947: If x = -3, is the condition x > 10 true?",False,Undefined,Depends,True,False
+K,Coding & Logic,Debugging,Easy,Q948: How many iterations does this loop run? for(i=3; i<17; i+=3),5,7,6,4,5
+K,Coding & Logic,Basics,Easy,Q949: What does AND mean in logic?,Either condition is true,It repeats code,Both are false,Both conditions must be true,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q950: What does Big-O notation describe?,Number of comments,Code length,Exact runtime on any computer,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q951: What is debugging?,Writing only comments,Finding and fixing errors in a program,Adding more features,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q952: If x = -10, is the condition x > 10 true?",Undefined,False,Depends,True,False
+K,Coding & Logic,Basics,Easy,Q953: How many iterations does this loop run? for(i=0; i<7; i+=2),4,3,6,5,4
+K,Coding & Logic,Logic,Easy,Q954: What does AND mean in logic?,Both are false,Either condition is true,Both conditions must be true,It repeats code,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q955: What does Big-O notation describe?,How runtime grows with input size,Exact runtime on any computer,Number of comments,Code length,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q956: What is debugging?,Adding more features,Deleting variables,Finding and fixing errors in a program,Writing only comments,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q957: If x = 4, is the condition x > 10 true?",Undefined,False,Depends,True,False
+K,Coding & Logic,Logic,Easy,Q958: How many iterations does this loop run? for(i=1; i<13; i+=1),11,13,12,14,12
+K,Coding & Logic,Loops,Easy,Q959: What does AND mean in logic?,Either condition is true,Both conditions must be true,Both are false,It repeats code,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q960: What does Big-O notation describe?,Number of comments,How runtime grows with input size,Code length,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Basics,Easy,Q961: What is debugging?,Deleting variables,Adding more features,Finding and fixing errors in a program,Writing only comments,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q962: If x = -3, is the condition x > 10 true?",Depends,False,True,Undefined,False
+K,Coding & Logic,Loops,Easy,Q963: How many iterations does this loop run? for(i=2; i<7; i+=3),4,2,3,1,2
+K,Coding & Logic,Debugging,Easy,Q964: What does AND mean in logic?,Either condition is true,Both are false,It repeats code,Both conditions must be true,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q965: What does Big-O notation describe?,Exact runtime on any computer,Number of comments,Code length,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q966: What is debugging?,Finding and fixing errors in a program,Adding more features,Writing only comments,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q967: If x = -10, is the condition x > 10 true?",Undefined,False,True,Depends,False
+K,Coding & Logic,Debugging,Easy,Q968: How many iterations does this loop run? for(i=3; i<13; i+=2),5,6,7,4,5
+K,Coding & Logic,Basics,Easy,Q969: What does AND mean in logic?,It repeats code,Both conditions must be true,Both are false,Either condition is true,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q970: What does Big-O notation describe?,Code length,How runtime grows with input size,Exact runtime on any computer,Number of comments,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q971: What is debugging?,Writing only comments,Finding and fixing errors in a program,Adding more features,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q972: If x = 4, is the condition x > 10 true?",Depends,True,Undefined,False,False
+K,Coding & Logic,Basics,Easy,Q973: How many iterations does this loop run? for(i=0; i<3; i+=1),3,5,2,4,3
+K,Coding & Logic,Logic,Easy,Q974: What does AND mean in logic?,Both conditions must be true,It repeats code,Both are false,Either condition is true,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q975: What does Big-O notation describe?,Number of comments,Exact runtime on any computer,Code length,How runtime grows with input size,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q976: What is debugging?,Deleting variables,Finding and fixing errors in a program,Writing only comments,Adding more features,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q977: If x = -3, is the condition x > 10 true?",True,Undefined,False,Depends,False
+K,Coding & Logic,Logic,Easy,Q978: How many iterations does this loop run? for(i=1; i<9; i+=3),4,3,5,2,3
+K,Coding & Logic,Loops,Easy,Q979: What does AND mean in logic?,Both conditions must be true,It repeats code,Either condition is true,Both are false,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q980: What does Big-O notation describe?,How runtime grows with input size,Number of comments,Exact runtime on any computer,Code length,How runtime grows with input size
+K,Coding & Logic,Basics,Easy,Q981: What is debugging?,Writing only comments,Adding more features,Finding and fixing errors in a program,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Logic,Easy,"Q982: If x = -10, is the condition x > 10 true?",False,Undefined,True,Depends,False
+K,Coding & Logic,Loops,Easy,Q983: How many iterations does this loop run? for(i=2; i<15; i+=2),8,9,6,7,7
+K,Coding & Logic,Debugging,Easy,Q984: What does AND mean in logic?,It repeats code,Both are false,Either condition is true,Both conditions must be true,Both conditions must be true
+K,Coding & Logic,Basics,Easy,Q985: What does Big-O notation describe?,Code length,Number of comments,How runtime grows with input size,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Logic,Easy,Q986: What is debugging?,Finding and fixing errors in a program,Writing only comments,Adding more features,Deleting variables,Finding and fixing errors in a program
+K,Coding & Logic,Loops,Easy,"Q987: If x = 4, is the condition x > 10 true?",Depends,True,False,Undefined,False
+K,Coding & Logic,Debugging,Easy,Q988: How many iterations does this loop run? for(i=3; i<9; i+=1),7,8,6,5,6
+K,Coding & Logic,Basics,Easy,Q989: What does AND mean in logic?,Either condition is true,Both are false,Both conditions must be true,It repeats code,Both conditions must be true
+K,Coding & Logic,Logic,Easy,Q990: What does Big-O notation describe?,How runtime grows with input size,Number of comments,Code length,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Loops,Easy,Q991: What is debugging?,Finding and fixing errors in a program,Adding more features,Deleting variables,Writing only comments,Finding and fixing errors in a program
+K,Coding & Logic,Debugging,Easy,"Q992: If x = -3, is the condition x > 10 true?",False,Depends,True,Undefined,False
+K,Coding & Logic,Basics,Easy,Q993: How many iterations does this loop run? for(i=0; i<11; i+=3),4,6,5,3,4
+K,Coding & Logic,Logic,Easy,Q994: What does AND mean in logic?,Both are false,Either condition is true,Both conditions must be true,It repeats code,Both conditions must be true
+K,Coding & Logic,Loops,Easy,Q995: What does Big-O notation describe?,Code length,How runtime grows with input size,Number of comments,Exact runtime on any computer,How runtime grows with input size
+K,Coding & Logic,Debugging,Easy,Q996: What is debugging?,Writing only comments,Deleting variables,Adding more features,Finding and fixing errors in a program,Finding and fixing errors in a program
+K,Coding & Logic,Basics,Easy,"Q997: If x = -10, is the condition x > 10 true?",Undefined,True,Depends,False,False
+K,Coding & Logic,Logic,Easy,Q998: How many iterations does this loop run? for(i=1; i<5; i+=2),1,4,2,3,2
+K,Coding & Logic,Loops,Easy,Q999: What does AND mean in logic?,Both conditions must be true,Either condition is true,It repeats code,Both are false,Both conditions must be true
+K,Coding & Logic,Debugging,Easy,Q1000: What does Big-O notation describe?,Exact runtime on any computer,How runtime grows with input size,Number of comments,Code length,How runtime grows with input size

@@ -1,0 +1,1001 @@
+Grade,Subject,Topic,Difficulty,Question,A,B,C,D,Correct Answer
+K,Maths,Counting,Hard,Q1: You have 27 candies and get 24 more. How many do you have now?,53,50,52,51,51
+K,Maths,Addition,Hard,Q2: You have 54 buttons and get 61 more. How many do you have now?,117,115,116,114,115
+K,Maths,Subtraction,Hard,Q3: You have 16 cars and get 59 more. How many do you have now?,74,75,77,76,75
+K,Maths,Patterns,Hard,Q4: Count by 2 starting at 0. What is the 6th number you say?,12,14,10,8,10
+K,Maths,Counting,Hard,Q5: Count by 10 starting at 10. What is the 6th number you say?,60,50,70,80,60
+K,Maths,Addition,Hard,Q6: Count by 10 starting at 20. What is the 6th number you say?,70,80,90,60,70
+K,Maths,Subtraction,Hard,Q7: You have 34 cookies and get 46 more. How many do you have now?,81,82,80,79,80
+K,Maths,Patterns,Hard,Q8: You have 2 pencils and get 42 more. How many do you have now?,44,43,45,46,44
+K,Maths,Counting,Hard,Q9: You have 11 pencils and get 69 more. How many do you have now?,80,82,79,81,80
+K,Maths,Addition,Hard,Q10: You have 45 candies and get 66 more. How many do you have now?,113,112,111,110,111
+K,Maths,Subtraction,Hard,Q11: Count by 2 starting at 2. What is the 6th number you say?,14,12,16,10,12
+K,Maths,Patterns,Hard,Q12: You have 29 books and get 59 more. How many do you have now?,87,90,88,89,88
+K,Maths,Counting,Hard,Q13: You have 32 balls and get 36 more. How many do you have now?,67,70,68,69,68
+K,Maths,Addition,Hard,Q14: There are 36 apples. 2 go away. How many are left?,36,34,35,33,34
+K,Maths,Subtraction,Hard,Q15: You have 53 cats and get 45 more. How many do you have now?,98,97,99,100,98
+K,Maths,Patterns,Hard,Q16: You have 10 flowers and get 5 more. How many do you have now?,16,17,15,14,15
+K,Maths,Counting,Hard,Q17: There are 30 shells. 8 go away. How many are left?,23,21,22,24,22
+K,Maths,Addition,Hard,Q18: Count by 10 starting at 20. What is the 6th number you say?,80,90,70,60,70
+K,Maths,Subtraction,Hard,Q19: Count by 10 starting at 0. What is the 6th number you say?,40,60,70,50,50
+K,Maths,Patterns,Hard,Q20: Count by 2 starting at 2. What is the 6th number you say?,12,10,16,14,12
+K,Maths,Counting,Hard,Q21: Count by 2 starting at 4. What is the 6th number you say?,14,16,18,12,14
+K,Maths,Addition,Hard,Q22: You have 35 stars and get 58 more. How many do you have now?,92,95,93,94,93
+K,Maths,Subtraction,Hard,Q23: Count by 10 starting at 10. What is the 6th number you say?,60,50,80,70,60
+K,Maths,Patterns,Hard,Q24: You have 33 candies and get 33 more. How many do you have now?,67,65,68,66,66
+K,Maths,Counting,Hard,Q25: Count by 10 starting at 0. What is the 6th number you say?,40,60,50,70,50
+K,Maths,Addition,Hard,Q26: You have 67 candies and get 60 more. How many do you have now?,127,126,128,129,127
+K,Maths,Subtraction,Hard,Q27: You have 15 candies and get 25 more. How many do you have now?,39,42,40,41,40
+K,Maths,Patterns,Hard,Q28: You have 19 books and get 31 more. How many do you have now?,51,52,50,49,50
+K,Maths,Counting,Hard,Q29: Count by 10 starting at 10. What is the 6th number you say?,80,60,50,70,60
+K,Maths,Addition,Hard,Q30: Count by 5 starting at 10. What is the 6th number you say?,45,40,35,30,35
+K,Maths,Subtraction,Hard,Q31: You have 38 books and get 46 more. How many do you have now?,86,85,83,84,84
+K,Maths,Patterns,Hard,Q32: Count by 5 starting at 5. What is the 6th number you say?,35,40,30,25,30
+K,Maths,Counting,Hard,Q33: There are 56 stars. 2 go away. How many are left?,55,53,56,54,54
+K,Maths,Addition,Hard,Q34: You have 5 pencils and get 56 more. How many do you have now?,62,60,61,63,61
+K,Maths,Subtraction,Hard,Q35: Count by 5 starting at 5. What is the 6th number you say?,30,40,25,35,30
+K,Maths,Patterns,Hard,Q36: Count by 2 starting at 4. What is the 6th number you say?,14,16,12,18,14
+K,Maths,Counting,Hard,Q37: Count by 5 starting at 0. What is the 6th number you say?,25,30,20,35,25
+K,Maths,Addition,Hard,Q38: You have 62 robots and get 27 more. How many do you have now?,90,88,89,91,89
+K,Maths,Subtraction,Hard,Q39: There are 50 blocks. 25 go away. How many are left?,25,26,24,27,25
+K,Maths,Patterns,Hard,Q40: There are 68 flowers. 60 go away. How many are left?,9,8,7,10,8
+K,Maths,Counting,Hard,Q41: There are 29 shells. 4 go away. How many are left?,27,24,26,25,25
+K,Maths,Addition,Hard,Q42: You have 60 robots and get 9 more. How many do you have now?,68,71,69,70,69
+K,Maths,Subtraction,Hard,Q43: You have 54 marbles and get 33 more. How many do you have now?,86,89,88,87,87
+K,Maths,Patterns,Hard,Q44: Count by 2 starting at 2. What is the 6th number you say?,10,16,14,12,12
+K,Maths,Counting,Hard,Q45: You have 8 blocks and get 58 more. How many do you have now?,65,66,67,68,66
+K,Maths,Addition,Hard,Q46: Count by 10 starting at 0. What is the 6th number you say?,60,50,40,70,50
+K,Maths,Subtraction,Hard,Q47: You have 53 robots and get 2 more. How many do you have now?,55,56,54,57,55
+K,Maths,Patterns,Hard,Q48: There are 69 pencils. 4 go away. How many are left?,66,65,64,67,65
+K,Maths,Counting,Hard,Q49: Count by 2 starting at 0. What is the 6th number you say?,14,10,12,8,10
+K,Maths,Addition,Hard,Q50: There are 49 shells. 20 go away. How many are left?,30,31,29,28,29
+K,Maths,Subtraction,Hard,Q51: Count by 2 starting at 4. What is the 6th number you say?,14,12,16,18,14
+K,Maths,Patterns,Hard,Q52: Count by 5 starting at 0. What is the 6th number you say?,35,25,20,30,25
+K,Maths,Counting,Hard,Q53: You have 45 flowers and get 64 more. How many do you have now?,108,109,111,110,109
+K,Maths,Addition,Hard,Q54: There are 22 apples. 8 go away. How many are left?,16,14,15,13,14
+K,Maths,Subtraction,Hard,Q55: You have 51 trees and get 33 more. How many do you have now?,83,86,84,85,84
+K,Maths,Patterns,Hard,Q56: You have 59 pencils and get 2 more. How many do you have now?,61,63,62,60,61
+K,Maths,Counting,Hard,Q57: Count by 2 starting at 4. What is the 6th number you say?,14,12,18,16,14
+K,Maths,Addition,Hard,Q58: There are 48 planes. 0 go away. How many are left?,48,47,50,49,48
+K,Maths,Subtraction,Hard,Q59: There are 46 robots. 42 go away. How many are left?,6,4,5,3,4
+K,Maths,Patterns,Hard,Q60: There are 68 pencils. 11 go away. How many are left?,59,57,56,58,57
+K,Maths,Counting,Hard,Q61: Count by 10 starting at 0. What is the 6th number you say?,50,40,60,70,50
+K,Maths,Addition,Hard,Q62: You have 24 flowers and get 8 more. How many do you have now?,34,33,31,32,32
+K,Maths,Subtraction,Hard,Q63: You have 67 candies and get 4 more. How many do you have now?,73,72,70,71,71
+K,Maths,Patterns,Hard,Q64: There are 16 flowers. 7 go away. How many are left?,8,9,10,11,9
+K,Maths,Counting,Hard,Q65: Count by 10 starting at 10. What is the 6th number you say?,70,80,60,50,60
+K,Maths,Addition,Hard,Q66: Count by 2 starting at 4. What is the 6th number you say?,16,14,12,18,14
+K,Maths,Subtraction,Hard,Q67: You have 26 blocks and get 35 more. How many do you have now?,60,61,62,63,61
+K,Maths,Patterns,Hard,Q68: Count by 5 starting at 5. What is the 6th number you say?,25,40,35,30,30
+K,Maths,Counting,Hard,Q69: You have 59 pencils and get 56 more. How many do you have now?,114,116,117,115,115
+K,Maths,Addition,Hard,Q70: Count by 10 starting at 0. What is the 6th number you say?,70,40,50,60,50
+K,Maths,Subtraction,Hard,Q71: Count by 5 starting at 5. What is the 6th number you say?,30,35,40,25,30
+K,Maths,Patterns,Hard,Q72: Count by 2 starting at 4. What is the 6th number you say?,16,18,12,14,14
+K,Maths,Counting,Hard,Q73: You have 9 cookies and get 39 more. How many do you have now?,47,48,49,50,48
+K,Maths,Addition,Hard,Q74: You have 9 kites and get 9 more. How many do you have now?,19,17,18,20,18
+K,Maths,Subtraction,Hard,Q75: You have 41 bears and get 19 more. How many do you have now?,62,61,60,59,60
+K,Maths,Patterns,Hard,Q76: Count by 5 starting at 0. What is the 6th number you say?,35,30,20,25,25
+K,Maths,Counting,Hard,Q77: You have 12 bears and get 40 more. How many do you have now?,51,54,53,52,52
+K,Maths,Addition,Hard,Q78: You have 47 buttons and get 57 more. How many do you have now?,103,106,105,104,104
+K,Maths,Subtraction,Hard,Q79: Count by 10 starting at 0. What is the 6th number you say?,40,50,60,70,50
+K,Maths,Patterns,Hard,Q80: Count by 10 starting at 10. What is the 6th number you say?,60,50,70,80,60
+K,Maths,Counting,Hard,Q81: There are 45 blocks. 19 go away. How many are left?,27,25,26,28,26
+K,Maths,Addition,Hard,Q82: Count by 10 starting at 0. What is the 6th number you say?,50,60,40,70,50
+K,Maths,Subtraction,Hard,Q83: Count by 10 starting at 10. What is the 6th number you say?,80,60,50,70,60
+K,Maths,Patterns,Hard,Q84: Count by 5 starting at 10. What is the 6th number you say?,45,30,35,40,35
+K,Maths,Counting,Hard,Q85: Count by 5 starting at 0. What is the 6th number you say?,25,35,20,30,25
+K,Maths,Addition,Hard,Q86: There are 70 buttons. 69 go away. How many are left?,3,1,0,2,1
+K,Maths,Subtraction,Hard,Q87: There are 39 trees. 35 go away. How many are left?,4,5,6,3,4
+K,Maths,Patterns,Hard,Q88: There are 68 dogs. 11 go away. How many are left?,56,57,58,59,57
+K,Maths,Counting,Hard,Q89: You have 43 kites and get 39 more. How many do you have now?,81,82,84,83,82
+K,Maths,Addition,Hard,Q90: Count by 2 starting at 4. What is the 6th number you say?,18,14,16,12,14
+K,Maths,Subtraction,Hard,Q91: You have 65 shells and get 41 more. How many do you have now?,106,105,108,107,106
+K,Maths,Patterns,Hard,Q92: Count by 5 starting at 5. What is the 6th number you say?,40,30,25,35,30
+K,Maths,Counting,Hard,Q93: There are 60 cookies. 51 go away. How many are left?,11,10,8,9,9
+K,Maths,Addition,Hard,Q94: Count by 5 starting at 0. What is the 6th number you say?,20,35,30,25,25
+K,Maths,Subtraction,Hard,Q95: There are 42 shells. 30 go away. How many are left?,12,13,14,11,12
+K,Maths,Patterns,Hard,Q96: There are 39 candies. 25 go away. How many are left?,15,16,14,13,14
+K,Maths,Counting,Hard,Q97: There are 51 pencils. 46 go away. How many are left?,7,6,5,4,5
+K,Maths,Addition,Hard,Q98: You have 23 planes and get 1 more. How many do you have now?,23,24,25,26,24
+K,Maths,Subtraction,Hard,Q99: Count by 2 starting at 4. What is the 6th number you say?,14,18,16,12,14
+K,Maths,Patterns,Hard,Q100: You have 42 buttons and get 6 more. How many do you have now?,50,47,48,49,48
+K,Maths,Counting,Hard,Q101: You have 50 cars and get 48 more. How many do you have now?,97,99,100,98,98
+K,Maths,Addition,Hard,Q102: You have 60 planes and get 66 more. How many do you have now?,127,126,125,128,126
+K,Maths,Subtraction,Hard,Q103: Count by 2 starting at 0. What is the 6th number you say?,12,10,8,14,10
+K,Maths,Patterns,Hard,Q104: There are 67 pencils. 62 go away. How many are left?,7,4,6,5,5
+K,Maths,Counting,Hard,Q105: Count by 2 starting at 4. What is the 6th number you say?,16,18,12,14,14
+K,Maths,Addition,Hard,Q106: You have 45 flowers and get 29 more. How many do you have now?,75,76,74,73,74
+K,Maths,Subtraction,Hard,Q107: There are 27 kites. 7 go away. How many are left?,21,19,22,20,20
+K,Maths,Patterns,Hard,Q108: There are 16 dogs. 13 go away. How many are left?,5,4,3,2,3
+K,Maths,Counting,Hard,Q109: There are 62 cookies. 36 go away. How many are left?,27,28,25,26,26
+K,Maths,Addition,Hard,Q110: You have 0 apples and get 68 more. How many do you have now?,67,68,69,70,68
+K,Maths,Subtraction,Hard,Q111: You have 63 dogs and get 62 more. How many do you have now?,124,126,127,125,125
+K,Maths,Patterns,Hard,Q112: Count by 5 starting at 0. What is the 6th number you say?,25,20,35,30,25
+K,Maths,Counting,Hard,Q113: Count by 10 starting at 10. What is the 6th number you say?,80,60,50,70,60
+K,Maths,Addition,Hard,Q114: You have 32 robots and get 3 more. How many do you have now?,37,36,35,34,35
+K,Maths,Subtraction,Hard,Q115: There are 23 candies. 20 go away. How many are left?,2,5,4,3,3
+K,Maths,Patterns,Hard,Q116: Count by 10 starting at 10. What is the 6th number you say?,60,80,50,70,60
+K,Maths,Counting,Hard,Q117: Count by 2 starting at 4. What is the 6th number you say?,16,18,12,14,14
+K,Maths,Addition,Hard,Q118: Count by 5 starting at 0. What is the 6th number you say?,35,25,20,30,25
+K,Maths,Subtraction,Hard,Q119: There are 65 cars. 58 go away. How many are left?,7,6,9,8,7
+K,Maths,Patterns,Hard,Q120: You have 36 pencils and get 37 more. How many do you have now?,75,74,73,72,73
+K,Maths,Counting,Hard,Q121: Count by 5 starting at 0. What is the 6th number you say?,20,35,25,30,25
+K,Maths,Addition,Hard,Q122: Count by 2 starting at 2. What is the 6th number you say?,12,16,10,14,12
+K,Maths,Subtraction,Hard,Q123: There are 51 cats. 1 go away. How many are left?,51,52,50,49,50
+K,Maths,Patterns,Hard,Q124: Count by 10 starting at 0. What is the 6th number you say?,40,50,60,70,50
+K,Maths,Counting,Hard,Q125: There are 65 robots. 35 go away. How many are left?,29,31,32,30,30
+K,Maths,Addition,Hard,Q126: Count by 10 starting at 20. What is the 6th number you say?,80,70,90,60,70
+K,Maths,Subtraction,Hard,Q127: Count by 5 starting at 0. What is the 6th number you say?,20,30,25,35,25
+K,Maths,Patterns,Hard,Q128: There are 53 marbles. 1 go away. How many are left?,54,53,51,52,52
+K,Maths,Counting,Hard,Q129: There are 59 candies. 32 go away. How many are left?,29,26,27,28,27
+K,Maths,Addition,Hard,Q130: Count by 5 starting at 0. What is the 6th number you say?,25,35,30,20,25
+K,Maths,Subtraction,Hard,Q131: You have 29 apples and get 63 more. How many do you have now?,94,91,92,93,92
+K,Maths,Patterns,Hard,Q132: You have 59 flowers and get 62 more. How many do you have now?,120,123,122,121,121
+K,Maths,Counting,Hard,Q133: You have 50 flowers and get 52 more. How many do you have now?,103,102,101,104,102
+K,Maths,Addition,Hard,Q134: Count by 5 starting at 5. What is the 6th number you say?,35,30,25,40,30
+K,Maths,Subtraction,Hard,Q135: Count by 10 starting at 20. What is the 6th number you say?,70,80,90,60,70
+K,Maths,Patterns,Hard,Q136: There are 63 robots. 49 go away. How many are left?,13,14,16,15,14
+K,Maths,Counting,Hard,Q137: Count by 10 starting at 10. What is the 6th number you say?,50,60,70,80,60
+K,Maths,Addition,Hard,Q138: Count by 2 starting at 4. What is the 6th number you say?,14,12,18,16,14
+K,Maths,Subtraction,Hard,Q139: You have 48 pencils and get 4 more. How many do you have now?,51,53,54,52,52
+K,Maths,Patterns,Hard,Q140: Count by 10 starting at 10. What is the 6th number you say?,70,80,50,60,60
+K,Maths,Counting,Hard,Q141: Count by 5 starting at 10. What is the 6th number you say?,35,40,45,30,35
+K,Maths,Addition,Hard,Q142: There are 66 blocks. 63 go away. How many are left?,4,2,5,3,3
+K,Maths,Subtraction,Hard,Q143: You have 35 flowers and get 37 more. How many do you have now?,71,72,73,74,72
+K,Maths,Patterns,Hard,Q144: You have 31 dogs and get 54 more. How many do you have now?,84,87,86,85,85
+K,Maths,Counting,Hard,Q145: You have 30 bears and get 11 more. How many do you have now?,43,42,41,40,41
+K,Maths,Addition,Hard,Q146: There are 20 bears. 7 go away. How many are left?,15,13,14,12,13
+K,Maths,Subtraction,Hard,Q147: You have 60 cookies and get 26 more. How many do you have now?,88,86,85,87,86
+K,Maths,Patterns,Hard,Q148: Count by 10 starting at 0. What is the 6th number you say?,40,70,50,60,50
+K,Maths,Counting,Hard,Q149: There are 62 planes. 35 go away. How many are left?,28,27,29,26,27
+K,Maths,Addition,Hard,Q150: Count by 10 starting at 20. What is the 6th number you say?,80,60,70,90,70
+K,Maths,Subtraction,Hard,Q151: You have 19 balls and get 0 more. How many do you have now?,18,19,20,21,19
+K,Maths,Patterns,Hard,Q152: Count by 5 starting at 5. What is the 6th number you say?,30,40,35,25,30
+K,Maths,Counting,Hard,Q153: There are 32 blocks. 16 go away. How many are left?,15,16,17,18,16
+K,Maths,Addition,Hard,Q154: There are 28 blocks. 11 go away. How many are left?,18,16,19,17,17
+K,Maths,Subtraction,Hard,Q155: Count by 5 starting at 5. What is the 6th number you say?,40,35,25,30,30
+K,Maths,Patterns,Hard,Q156: Count by 10 starting at 20. What is the 6th number you say?,80,90,60,70,70
+K,Maths,Counting,Hard,Q157: There are 37 dogs. 18 go away. How many are left?,18,21,19,20,19
+K,Maths,Addition,Hard,Q158: You have 19 stars and get 47 more. How many do you have now?,68,66,65,67,66
+K,Maths,Subtraction,Hard,Q159: You have 33 cats and get 13 more. How many do you have now?,47,48,45,46,46
+K,Maths,Patterns,Hard,Q160: Count by 2 starting at 0. What is the 6th number you say?,12,10,8,14,10
+K,Maths,Counting,Hard,Q161: There are 21 flowers. 11 go away. How many are left?,9,11,12,10,10
+K,Maths,Addition,Hard,Q162: Count by 5 starting at 10. What is the 6th number you say?,45,30,40,35,35
+K,Maths,Subtraction,Hard,Q163: There are 52 candies. 13 go away. How many are left?,38,41,39,40,39
+K,Maths,Patterns,Hard,Q164: Count by 5 starting at 5. What is the 6th number you say?,30,40,25,35,30
+K,Maths,Counting,Hard,Q165: There are 55 kites. 9 go away. How many are left?,48,47,45,46,46
+K,Maths,Addition,Hard,Q166: You have 58 pencils and get 10 more. How many do you have now?,69,67,68,70,68
+K,Maths,Subtraction,Hard,Q167: Count by 5 starting at 5. What is the 6th number you say?,30,25,35,40,30
+K,Maths,Patterns,Hard,Q168: Count by 2 starting at 4. What is the 6th number you say?,12,16,14,18,14
+K,Maths,Counting,Hard,Q169: Count by 5 starting at 0. What is the 6th number you say?,35,20,25,30,25
+K,Maths,Addition,Hard,Q170: Count by 2 starting at 2. What is the 6th number you say?,16,12,10,14,12
+K,Maths,Subtraction,Hard,Q171: There are 2 stars. 1 go away. How many are left?,3,2,1,0,1
+K,Maths,Patterns,Hard,Q172: Count by 5 starting at 0. What is the 6th number you say?,25,35,30,20,25
+K,Maths,Counting,Hard,Q173: You have 65 cats and get 61 more. How many do you have now?,127,126,128,125,126
+K,Maths,Addition,Hard,Q174: You have 49 planes and get 66 more. How many do you have now?,114,117,115,116,115
+K,Maths,Subtraction,Hard,Q175: You have 37 marbles and get 33 more. How many do you have now?,69,70,71,72,70
+K,Maths,Patterns,Hard,Q176: Count by 10 starting at 10. What is the 6th number you say?,80,60,70,50,60
+K,Maths,Counting,Hard,Q177: There are 62 cars. 39 go away. How many are left?,23,24,22,25,23
+K,Maths,Addition,Hard,Q178: Count by 5 starting at 0. What is the 6th number you say?,30,35,25,20,25
+K,Maths,Subtraction,Hard,Q179: There are 39 bears. 17 go away. How many are left?,23,24,22,21,22
+K,Maths,Patterns,Hard,Q180: You have 54 planes and get 26 more. How many do you have now?,80,81,79,82,80
+K,Maths,Counting,Hard,Q181: Count by 2 starting at 0. What is the 6th number you say?,10,12,14,8,10
+K,Maths,Addition,Hard,Q182: You have 28 pencils and get 9 more. How many do you have now?,36,39,37,38,37
+K,Maths,Subtraction,Hard,Q183: You have 18 dogs and get 4 more. How many do you have now?,24,23,22,21,22
+K,Maths,Patterns,Hard,Q184: There are 28 blocks. 5 go away. How many are left?,25,24,22,23,23
+K,Maths,Counting,Hard,Q185: Count by 2 starting at 2. What is the 6th number you say?,14,12,10,16,12
+K,Maths,Addition,Hard,Q186: You have 46 balls and get 15 more. How many do you have now?,60,63,62,61,61
+K,Maths,Subtraction,Hard,Q187: There are 29 shells. 6 go away. How many are left?,24,25,23,22,23
+K,Maths,Patterns,Hard,Q188: You have 63 cookies and get 66 more. How many do you have now?,129,131,128,130,129
+K,Maths,Counting,Hard,Q189: Count by 10 starting at 20. What is the 6th number you say?,60,80,70,90,70
+K,Maths,Addition,Hard,Q190: Count by 5 starting at 0. What is the 6th number you say?,35,20,30,25,25
+K,Maths,Subtraction,Hard,Q191: Count by 10 starting at 10. What is the 6th number you say?,50,70,80,60,60
+K,Maths,Patterns,Hard,Q192: You have 53 dogs and get 53 more. How many do you have now?,106,108,105,107,106
+K,Maths,Counting,Hard,Q193: There are 41 cars. 29 go away. How many are left?,13,11,14,12,12
+K,Maths,Addition,Hard,Q194: You have 14 bears and get 70 more. How many do you have now?,86,84,83,85,84
+K,Maths,Subtraction,Hard,Q195: Count by 10 starting at 20. What is the 6th number you say?,70,90,80,60,70
+K,Maths,Patterns,Hard,Q196: Count by 2 starting at 0. What is the 6th number you say?,12,14,10,8,10
+K,Maths,Counting,Hard,Q197: You have 19 planes and get 9 more. How many do you have now?,29,28,27,30,28
+K,Maths,Addition,Hard,Q198: Count by 2 starting at 4. What is the 6th number you say?,16,14,18,12,14
+K,Maths,Subtraction,Hard,Q199: Count by 10 starting at 0. What is the 6th number you say?,40,50,70,60,50
+K,Maths,Patterns,Hard,Q200: Count by 2 starting at 2. What is the 6th number you say?,14,10,12,16,12
+K,Maths,Counting,Hard,Q201: Count by 5 starting at 10. What is the 6th number you say?,45,40,30,35,35
+K,Maths,Addition,Hard,Q202: There are 61 robots. 8 go away. How many are left?,52,53,54,55,53
+K,Maths,Subtraction,Hard,Q203: Count by 5 starting at 5. What is the 6th number you say?,35,30,40,25,30
+K,Maths,Patterns,Hard,Q204: Count by 2 starting at 4. What is the 6th number you say?,16,18,14,12,14
+K,Maths,Counting,Hard,Q205: Count by 2 starting at 0. What is the 6th number you say?,12,14,8,10,10
+K,Maths,Addition,Hard,Q206: There are 30 marbles. 23 go away. How many are left?,6,8,9,7,7
+K,Maths,Subtraction,Hard,Q207: Count by 2 starting at 4. What is the 6th number you say?,18,12,14,16,14
+K,Maths,Patterns,Hard,Q208: Count by 10 starting at 0. What is the 6th number you say?,40,70,50,60,50
+K,Maths,Counting,Hard,Q209: You have 29 marbles and get 56 more. How many do you have now?,85,86,84,87,85
+K,Maths,Addition,Hard,Q210: There are 55 robots. 37 go away. How many are left?,17,20,18,19,18
+K,Maths,Subtraction,Hard,Q211: Count by 10 starting at 0. What is the 6th number you say?,70,40,60,50,50
+K,Maths,Patterns,Hard,Q212: You have 22 buttons and get 32 more. How many do you have now?,55,54,56,53,54
+K,Maths,Counting,Hard,Q213: You have 4 flowers and get 36 more. How many do you have now?,39,42,40,41,40
+K,Maths,Addition,Hard,Q214: Count by 5 starting at 0. What is the 6th number you say?,30,20,35,25,25
+K,Maths,Subtraction,Hard,Q215: You have 28 books and get 58 more. How many do you have now?,86,85,88,87,86
+K,Maths,Patterns,Hard,Q216: There are 12 pencils. 11 go away. How many are left?,3,0,1,2,1
+K,Maths,Counting,Hard,Q217: You have 46 apples and get 13 more. How many do you have now?,59,60,58,61,59
+K,Maths,Addition,Hard,Q218: You have 39 candies and get 55 more. How many do you have now?,95,94,93,96,94
+K,Maths,Subtraction,Hard,Q219: Count by 10 starting at 20. What is the 6th number you say?,80,70,60,90,70
+K,Maths,Patterns,Hard,Q220: There are 33 marbles. 12 go away. How many are left?,23,22,21,20,21
+K,Maths,Counting,Hard,Q221: You have 70 planes and get 54 more. How many do you have now?,126,123,125,124,124
+K,Maths,Addition,Hard,Q222: You have 58 robots and get 31 more. How many do you have now?,89,91,90,88,89
+K,Maths,Subtraction,Hard,Q223: There are 45 apples. 31 go away. How many are left?,15,14,16,13,14
+K,Maths,Patterns,Hard,Q224: Count by 2 starting at 2. What is the 6th number you say?,12,10,14,16,12
+K,Maths,Counting,Hard,Q225: Count by 5 starting at 10. What is the 6th number you say?,30,45,35,40,35
+K,Maths,Addition,Hard,Q226: Count by 5 starting at 0. What is the 6th number you say?,20,35,25,30,25
+K,Maths,Subtraction,Hard,Q227: There are 46 candies. 13 go away. How many are left?,35,32,33,34,33
+K,Maths,Patterns,Hard,Q228: Count by 5 starting at 10. What is the 6th number you say?,40,35,45,30,35
+K,Maths,Counting,Hard,Q229: You have 31 trees and get 15 more. How many do you have now?,46,45,48,47,46
+K,Maths,Addition,Hard,Q230: There are 40 stars. 4 go away. How many are left?,38,35,37,36,36
+K,Maths,Subtraction,Hard,Q231: Count by 10 starting at 20. What is the 6th number you say?,80,70,90,60,70
+K,Maths,Patterns,Hard,Q232: There are 44 robots. 22 go away. How many are left?,22,21,23,24,22
+K,Maths,Counting,Hard,Q233: There are 22 books. 10 go away. How many are left?,13,12,14,11,12
+K,Maths,Addition,Hard,Q234: You have 33 trees and get 20 more. How many do you have now?,53,54,52,55,53
+K,Maths,Subtraction,Hard,Q235: Count by 2 starting at 0. What is the 6th number you say?,14,8,12,10,10
+K,Maths,Patterns,Hard,Q236: Count by 2 starting at 2. What is the 6th number you say?,12,10,16,14,12
+K,Maths,Counting,Hard,Q237: There are 49 dogs. 45 go away. How many are left?,3,4,5,6,4
+K,Maths,Addition,Hard,Q238: Count by 5 starting at 0. What is the 6th number you say?,25,35,20,30,25
+K,Maths,Subtraction,Hard,Q239: You have 1 shells and get 41 more. How many do you have now?,44,42,43,41,42
+K,Maths,Patterns,Hard,Q240: Count by 10 starting at 20. What is the 6th number you say?,70,80,90,60,70
+K,Maths,Counting,Hard,Q241: Count by 2 starting at 0. What is the 6th number you say?,14,10,12,8,10
+K,Maths,Addition,Hard,Q242: You have 45 pencils and get 33 more. How many do you have now?,80,78,77,79,78
+K,Maths,Subtraction,Hard,Q243: Count by 5 starting at 10. What is the 6th number you say?,30,45,35,40,35
+K,Maths,Patterns,Hard,Q244: There are 65 balls. 39 go away. How many are left?,27,26,28,25,26
+K,Maths,Counting,Hard,Q245: There are 36 planes. 34 go away. How many are left?,4,1,2,3,2
+K,Maths,Addition,Hard,Q246: Count by 5 starting at 10. What is the 6th number you say?,40,45,30,35,35
+K,Maths,Subtraction,Hard,Q247: There are 33 candies. 10 go away. How many are left?,22,24,25,23,23
+K,Maths,Patterns,Hard,Q248: There are 10 bears. 0 go away. How many are left?,9,12,11,10,10
+K,Maths,Counting,Hard,Q249: You have 53 cookies and get 27 more. How many do you have now?,82,81,80,79,80
+K,Maths,Addition,Hard,Q250: Count by 2 starting at 0. What is the 6th number you say?,12,10,14,8,10
+K,Maths,Subtraction,Hard,Q251: You have 45 cats and get 3 more. How many do you have now?,50,47,49,48,48
+K,Maths,Patterns,Hard,Q252: There are 66 blocks. 7 go away. How many are left?,58,60,61,59,59
+K,Maths,Counting,Hard,Q253: Count by 2 starting at 0. What is the 6th number you say?,14,10,12,8,10
+K,Maths,Addition,Hard,Q254: Count by 5 starting at 5. What is the 6th number you say?,25,40,30,35,30
+K,Maths,Subtraction,Hard,Q255: You have 62 pencils and get 66 more. How many do you have now?,127,130,129,128,128
+K,Maths,Patterns,Hard,Q256: You have 64 stars and get 10 more. How many do you have now?,73,76,74,75,74
+K,Maths,Counting,Hard,Q257: There are 21 cats. 9 go away. How many are left?,13,14,11,12,12
+K,Maths,Addition,Hard,Q258: You have 40 buttons and get 67 more. How many do you have now?,106,108,107,109,107
+K,Maths,Subtraction,Hard,Q259: There are 48 shells. 33 go away. How many are left?,17,15,14,16,15
+K,Maths,Patterns,Hard,Q260: There are 59 candies. 13 go away. How many are left?,46,45,47,48,46
+K,Maths,Counting,Hard,Q261: Count by 5 starting at 10. What is the 6th number you say?,45,35,30,40,35
+K,Maths,Addition,Hard,Q262: Count by 5 starting at 0. What is the 6th number you say?,35,20,30,25,25
+K,Maths,Subtraction,Hard,Q263: Count by 2 starting at 2. What is the 6th number you say?,16,12,14,10,12
+K,Maths,Patterns,Hard,Q264: You have 46 blocks and get 44 more. How many do you have now?,91,89,92,90,90
+K,Maths,Counting,Hard,Q265: You have 54 stars and get 70 more. How many do you have now?,125,124,126,123,124
+K,Maths,Addition,Hard,Q266: Count by 5 starting at 5. What is the 6th number you say?,30,25,40,35,30
+K,Maths,Subtraction,Hard,Q267: Count by 10 starting at 20. What is the 6th number you say?,70,90,80,60,70
+K,Maths,Patterns,Hard,Q268: There are 28 apples. 11 go away. How many are left?,17,19,18,16,17
+K,Maths,Counting,Hard,Q269: You have 37 blocks and get 30 more. How many do you have now?,66,69,67,68,67
+K,Maths,Addition,Hard,Q270: There are 51 trees. 23 go away. How many are left?,29,30,27,28,28
+K,Maths,Subtraction,Hard,Q271: You have 1 planes and get 6 more. How many do you have now?,7,9,8,6,7
+K,Maths,Patterns,Hard,Q272: There are 31 blocks. 14 go away. How many are left?,18,19,16,17,17
+K,Maths,Counting,Hard,Q273: There are 60 planes. 7 go away. How many are left?,55,54,53,52,53
+K,Maths,Addition,Hard,Q274: You have 31 cats and get 3 more. How many do you have now?,35,34,36,33,34
+K,Maths,Subtraction,Hard,Q275: There are 44 robots. 38 go away. How many are left?,7,8,6,5,6
+K,Maths,Patterns,Hard,Q276: Count by 5 starting at 10. What is the 6th number you say?,40,35,45,30,35
+K,Maths,Counting,Hard,Q277: There are 66 bears. 35 go away. How many are left?,33,30,31,32,31
+K,Maths,Addition,Hard,Q278: You have 17 planes and get 18 more. How many do you have now?,36,37,35,34,35
+K,Maths,Subtraction,Hard,Q279: There are 45 books. 24 go away. How many are left?,21,22,20,23,21
+K,Maths,Patterns,Hard,Q280: Count by 10 starting at 0. What is the 6th number you say?,50,40,70,60,50
+K,Maths,Counting,Hard,Q281: Count by 2 starting at 2. What is the 6th number you say?,10,16,12,14,12
+K,Maths,Addition,Hard,Q282: You have 48 books and get 50 more. How many do you have now?,98,97,100,99,98
+K,Maths,Subtraction,Hard,Q283: Count by 10 starting at 0. What is the 6th number you say?,50,40,70,60,50
+K,Maths,Patterns,Hard,Q284: You have 17 balls and get 34 more. How many do you have now?,53,51,52,50,51
+K,Maths,Counting,Hard,Q285: Count by 5 starting at 10. What is the 6th number you say?,45,40,30,35,35
+K,Maths,Addition,Hard,Q286: There are 39 flowers. 17 go away. How many are left?,22,24,23,21,22
+K,Maths,Subtraction,Hard,Q287: Count by 2 starting at 2. What is the 6th number you say?,12,14,10,16,12
+K,Maths,Patterns,Hard,Q288: Count by 5 starting at 10. What is the 6th number you say?,35,45,30,40,35
+K,Maths,Counting,Hard,Q289: You have 62 marbles and get 8 more. How many do you have now?,71,69,72,70,70
+K,Maths,Addition,Hard,Q290: You have 12 candies and get 69 more. How many do you have now?,82,83,80,81,81
+K,Maths,Subtraction,Hard,Q291: There are 12 flowers. 6 go away. How many are left?,5,6,7,8,6
+K,Maths,Patterns,Hard,Q292: There are 27 kites. 4 go away. How many are left?,25,22,24,23,23
+K,Maths,Counting,Hard,Q293: You have 52 pencils and get 19 more. How many do you have now?,71,72,70,73,71
+K,Maths,Addition,Hard,Q294: Count by 5 starting at 10. What is the 6th number you say?,40,45,30,35,35
+K,Maths,Subtraction,Hard,Q295: There are 53 books. 47 go away. How many are left?,7,6,5,8,6
+K,Maths,Patterns,Hard,Q296: There are 39 flowers. 29 go away. How many are left?,12,10,9,11,10
+K,Maths,Counting,Hard,Q297: There are 15 pencils. 15 go away. How many are left?,Option 3,1,0,2,0
+K,Maths,Addition,Hard,Q298: You have 27 flowers and get 54 more. How many do you have now?,81,80,82,83,81
+K,Maths,Subtraction,Hard,Q299: There are 31 cats. 17 go away. How many are left?,13,16,14,15,14
+K,Maths,Patterns,Hard,Q300: There are 52 cookies. 43 go away. How many are left?,10,9,8,11,9
+K,Maths,Counting,Hard,Q301: Count by 2 starting at 0. What is the 6th number you say?,12,10,14,8,10
+K,Maths,Addition,Hard,Q302: There are 38 dogs. 19 go away. How many are left?,18,20,21,19,19
+K,Maths,Subtraction,Hard,Q303: There are 25 trees. 21 go away. How many are left?,5,3,6,4,4
+K,Maths,Patterns,Hard,Q304: There are 4 cookies. 1 go away. How many are left?,4,3,5,2,3
+K,Maths,Counting,Hard,Q305: There are 25 bears. 4 go away. How many are left?,20,21,22,23,21
+K,Maths,Addition,Hard,Q306: There are 50 marbles. 39 go away. How many are left?,12,10,11,13,11
+K,Maths,Subtraction,Hard,Q307: Count by 2 starting at 0. What is the 6th number you say?,10,14,12,8,10
+K,Maths,Patterns,Hard,Q308: You have 21 dogs and get 19 more. How many do you have now?,41,39,40,42,40
+K,Maths,Counting,Hard,Q309: There are 10 cookies. 8 go away. How many are left?,1,2,4,3,2
+K,Maths,Addition,Hard,Q310: You have 49 stars and get 50 more. How many do you have now?,98,100,101,99,99
+K,Maths,Subtraction,Hard,Q311: There are 41 books. 7 go away. How many are left?,34,33,35,36,34
+K,Maths,Patterns,Hard,Q312: There are 41 candies. 7 go away. How many are left?,36,34,33,35,34
+K,Maths,Counting,Hard,Q313: You have 63 kites and get 12 more. How many do you have now?,77,75,74,76,75
+K,Maths,Addition,Hard,Q314: There are 69 dogs. 13 go away. How many are left?,58,57,55,56,56
+K,Maths,Subtraction,Hard,Q315: You have 36 dogs and get 4 more. How many do you have now?,42,40,41,39,40
+K,Maths,Patterns,Hard,Q316: You have 67 kites and get 57 more. How many do you have now?,123,124,125,126,124
+K,Maths,Counting,Hard,Q317: Count by 5 starting at 5. What is the 6th number you say?,35,40,30,25,30
+K,Maths,Addition,Hard,Q318: Count by 5 starting at 10. What is the 6th number you say?,35,40,45,30,35
+K,Maths,Subtraction,Hard,Q319: Count by 2 starting at 0. What is the 6th number you say?,14,8,10,12,10
+K,Maths,Patterns,Hard,Q320: There are 40 robots. 4 go away. How many are left?,38,37,35,36,36
+K,Maths,Counting,Hard,Q321: You have 8 flowers and get 2 more. How many do you have now?,10,12,9,11,10
+K,Maths,Addition,Hard,Q322: You have 68 cars and get 6 more. How many do you have now?,73,76,75,74,74
+K,Maths,Subtraction,Hard,Q323: Count by 2 starting at 2. What is the 6th number you say?,10,14,12,16,12
+K,Maths,Patterns,Hard,Q324: Count by 5 starting at 10. What is the 6th number you say?,35,40,30,45,35
+K,Maths,Counting,Hard,Q325: You have 1 kites and get 38 more. How many do you have now?,39,40,38,41,39
+K,Maths,Addition,Hard,Q326: There are 51 flowers. 21 go away. How many are left?,32,29,31,30,30
+K,Maths,Subtraction,Hard,Q327: You have 70 flowers and get 17 more. How many do you have now?,87,89,86,88,87
+K,Maths,Patterns,Hard,Q328: There are 68 blocks. 62 go away. How many are left?,6,5,7,8,6
+K,Maths,Counting,Hard,Q329: Count by 2 starting at 2. What is the 6th number you say?,10,16,14,12,12
+K,Maths,Addition,Hard,Q330: Count by 10 starting at 20. What is the 6th number you say?,90,80,60,70,70
+K,Maths,Subtraction,Hard,Q331: There are 49 stars. 43 go away. How many are left?,6,7,8,5,6
+K,Maths,Patterns,Hard,Q332: There are 13 blocks. 4 go away. How many are left?,9,8,10,11,9
+K,Maths,Counting,Hard,Q333: There are 34 marbles. 10 go away. How many are left?,24,25,23,26,24
+K,Maths,Addition,Hard,Q334: There are 70 trees. 55 go away. How many are left?,15,16,14,17,15
+K,Maths,Subtraction,Hard,Q335: You have 59 planes and get 69 more. How many do you have now?,130,128,129,127,128
+K,Maths,Patterns,Hard,Q336: Count by 10 starting at 20. What is the 6th number you say?,60,70,90,80,70
+K,Maths,Counting,Hard,Q337: You have 23 apples and get 67 more. How many do you have now?,92,89,90,91,90
+K,Maths,Addition,Hard,Q338: You have 4 planes and get 36 more. How many do you have now?,41,42,39,40,40
+K,Maths,Subtraction,Hard,Q339: There are 27 planes. 11 go away. How many are left?,18,16,17,15,16
+K,Maths,Patterns,Hard,Q340: Count by 5 starting at 0. What is the 6th number you say?,20,35,25,30,25
+K,Maths,Counting,Hard,Q341: You have 0 cars and get 21 more. How many do you have now?,23,21,20,22,21
+K,Maths,Addition,Hard,Q342: Count by 10 starting at 20. What is the 6th number you say?,90,70,80,60,70
+K,Maths,Subtraction,Hard,Q343: You have 58 balls and get 2 more. How many do you have now?,60,62,61,59,60
+K,Maths,Patterns,Hard,Q344: There are 57 dogs. 2 go away. How many are left?,54,56,57,55,55
+K,Maths,Counting,Hard,Q345: You have 11 bears and get 59 more. How many do you have now?,70,71,69,72,70
+K,Maths,Addition,Hard,Q346: You have 57 kites and get 44 more. How many do you have now?,103,102,100,101,101
+K,Maths,Subtraction,Hard,Q347: There are 69 buttons. 44 go away. How many are left?,24,26,25,27,25
+K,Maths,Patterns,Hard,Q348: Count by 5 starting at 10. What is the 6th number you say?,40,45,30,35,35
+K,Maths,Counting,Hard,Q349: There are 67 balls. 0 go away. How many are left?,68,67,66,69,67
+K,Maths,Addition,Hard,Q350: You have 43 buttons and get 21 more. How many do you have now?,66,65,64,63,64
+K,Maths,Subtraction,Hard,Q351: You have 56 cars and get 48 more. How many do you have now?,103,105,104,106,104
+K,Maths,Patterns,Hard,Q352: Count by 5 starting at 0. What is the 6th number you say?,35,25,30,20,25
+K,Maths,Counting,Hard,Q353: Count by 2 starting at 2. What is the 6th number you say?,14,10,16,12,12
+K,Maths,Addition,Hard,Q354: You have 21 apples and get 47 more. How many do you have now?,70,69,68,67,68
+K,Maths,Subtraction,Hard,Q355: You have 8 kites and get 5 more. How many do you have now?,15,12,13,14,13
+K,Maths,Patterns,Hard,Q356: You have 20 planes and get 58 more. How many do you have now?,78,77,80,79,78
+K,Maths,Counting,Hard,Q357: There are 67 planes. 11 go away. How many are left?,55,58,56,57,56
+K,Maths,Addition,Hard,Q358: You have 70 kites and get 49 more. How many do you have now?,119,121,120,118,119
+K,Maths,Subtraction,Hard,Q359: There are 67 apples. 43 go away. How many are left?,24,23,25,26,24
+K,Maths,Patterns,Hard,Q360: Count by 10 starting at 20. What is the 6th number you say?,60,70,80,90,70
+K,Maths,Counting,Hard,Q361: Count by 2 starting at 0. What is the 6th number you say?,14,12,10,8,10
+K,Maths,Addition,Hard,Q362: There are 51 flowers. 17 go away. How many are left?,35,34,36,33,34
+K,Maths,Subtraction,Hard,Q363: Count by 5 starting at 10. What is the 6th number you say?,40,30,45,35,35
+K,Maths,Patterns,Hard,Q364: There are 50 marbles. 47 go away. How many are left?,4,2,5,3,3
+K,Maths,Counting,Hard,Q365: You have 59 marbles and get 31 more. How many do you have now?,89,92,91,90,90
+K,Maths,Addition,Hard,Q366: You have 64 candies and get 21 more. How many do you have now?,87,84,85,86,85
+K,Maths,Subtraction,Hard,Q367: Count by 2 starting at 0. What is the 6th number you say?,8,14,10,12,10
+K,Maths,Patterns,Hard,Q368: Count by 2 starting at 2. What is the 6th number you say?,10,12,16,14,12
+K,Maths,Counting,Hard,Q369: Count by 2 starting at 4. What is the 6th number you say?,14,16,12,18,14
+K,Maths,Addition,Hard,Q370: You have 55 blocks and get 57 more. How many do you have now?,112,111,114,113,112
+K,Maths,Subtraction,Hard,Q371: Count by 10 starting at 10. What is the 6th number you say?,80,50,70,60,60
+K,Maths,Patterns,Hard,Q372: You have 23 shells and get 33 more. How many do you have now?,57,58,56,55,56
+K,Maths,Counting,Hard,Q373: There are 36 robots. 2 go away. How many are left?,36,34,35,33,34
+K,Maths,Addition,Hard,Q374: You have 65 kites and get 0 more. How many do you have now?,65,64,67,66,65
+K,Maths,Subtraction,Hard,Q375: You have 47 cars and get 41 more. How many do you have now?,87,89,88,90,88
+K,Maths,Patterns,Hard,Q376: Count by 10 starting at 0. What is the 6th number you say?,70,50,60,40,50
+K,Maths,Counting,Hard,Q377: You have 4 flowers and get 14 more. How many do you have now?,18,20,19,17,18
+K,Maths,Addition,Hard,Q378: You have 54 balls and get 24 more. How many do you have now?,80,78,77,79,78
+K,Maths,Subtraction,Hard,Q379: You have 29 robots and get 70 more. How many do you have now?,99,98,100,101,99
+K,Maths,Patterns,Hard,Q380: Count by 2 starting at 2. What is the 6th number you say?,10,14,16,12,12
+K,Maths,Counting,Hard,Q381: Count by 10 starting at 20. What is the 6th number you say?,80,70,60,90,70
+K,Maths,Addition,Hard,Q382: Count by 2 starting at 0. What is the 6th number you say?,10,12,8,14,10
+K,Maths,Subtraction,Hard,Q383: There are 42 shells. 20 go away. How many are left?,21,23,22,24,22
+K,Maths,Patterns,Hard,Q384: Count by 2 starting at 4. What is the 6th number you say?,18,12,14,16,14
+K,Maths,Counting,Hard,Q385: You have 36 dogs and get 32 more. How many do you have now?,67,70,69,68,68
+K,Maths,Addition,Hard,Q386: You have 0 pencils and get 44 more. How many do you have now?,46,44,45,43,44
+K,Maths,Subtraction,Hard,Q387: You have 30 pencils and get 48 more. How many do you have now?,79,77,80,78,78
+K,Maths,Patterns,Hard,Q388: You have 64 balls and get 48 more. How many do you have now?,113,112,111,114,112
+K,Maths,Counting,Hard,Q389: Count by 2 starting at 2. What is the 6th number you say?,10,14,12,16,12
+K,Maths,Addition,Hard,Q390: Count by 2 starting at 4. What is the 6th number you say?,14,12,16,18,14
+K,Maths,Subtraction,Hard,Q391: There are 52 robots. 27 go away. How many are left?,27,24,25,26,25
+K,Maths,Patterns,Hard,Q392: There are 60 pencils. 60 go away. How many are left?,Option 3,2,1,0,0
+K,Maths,Counting,Hard,Q393: There are 62 candies. 32 go away. How many are left?,31,30,32,29,30
+K,Maths,Addition,Hard,Q394: You have 46 cars and get 33 more. How many do you have now?,78,79,81,80,79
+K,Maths,Subtraction,Hard,Q395: There are 38 cars. 6 go away. How many are left?,33,31,34,32,32
+K,Maths,Patterns,Hard,Q396: There are 69 balls. 64 go away. How many are left?,7,4,6,5,5
+K,Maths,Counting,Hard,Q397: Count by 5 starting at 0. What is the 6th number you say?,20,35,30,25,25
+K,Maths,Addition,Hard,Q398: There are 37 buttons. 36 go away. How many are left?,0,3,1,2,1
+K,Maths,Subtraction,Hard,Q399: You have 36 balls and get 69 more. How many do you have now?,106,107,104,105,105
+K,Maths,Patterns,Hard,Q400: Count by 5 starting at 0. What is the 6th number you say?,35,30,25,20,25
+K,Maths,Counting,Hard,Q401: There are 34 dogs. 32 go away. How many are left?,2,3,1,4,2
+K,Maths,Addition,Hard,Q402: You have 58 books and get 37 more. How many do you have now?,97,95,94,96,95
+K,Maths,Subtraction,Hard,Q403: You have 38 buttons and get 61 more. How many do you have now?,101,99,98,100,99
+K,Maths,Patterns,Hard,Q404: Count by 5 starting at 5. What is the 6th number you say?,40,25,35,30,30
+K,Maths,Counting,Hard,Q405: Count by 5 starting at 10. What is the 6th number you say?,40,30,35,45,35
+K,Maths,Addition,Hard,Q406: You have 21 buttons and get 40 more. How many do you have now?,63,61,62,60,61
+K,Maths,Subtraction,Hard,Q407: There are 55 balls. 46 go away. How many are left?,11,10,8,9,9
+K,Maths,Patterns,Hard,Q408: Count by 5 starting at 10. What is the 6th number you say?,35,45,30,40,35
+K,Maths,Counting,Hard,Q409: Count by 2 starting at 0. What is the 6th number you say?,8,14,12,10,10
+K,Maths,Addition,Hard,Q410: Count by 10 starting at 10. What is the 6th number you say?,70,80,60,50,60
+K,Maths,Subtraction,Hard,Q411: You have 68 bears and get 33 more. How many do you have now?,100,102,103,101,101
+K,Maths,Patterns,Hard,Q412: Count by 10 starting at 0. What is the 6th number you say?,70,50,60,40,50
+K,Maths,Counting,Hard,Q413: There are 39 candies. 25 go away. How many are left?,14,15,13,16,14
+K,Maths,Addition,Hard,Q414: Count by 5 starting at 10. What is the 6th number you say?,45,30,35,40,35
+K,Maths,Subtraction,Hard,Q415: You have 9 apples and get 66 more. How many do you have now?,75,76,74,77,75
+K,Maths,Patterns,Hard,Q416: There are 16 planes. 11 go away. How many are left?,6,7,4,5,5
+K,Maths,Counting,Hard,Q417: You have 60 bears and get 15 more. How many do you have now?,76,74,77,75,75
+K,Maths,Addition,Hard,Q418: Count by 10 starting at 0. What is the 6th number you say?,70,40,60,50,50
+K,Maths,Subtraction,Hard,Q419: Count by 5 starting at 5. What is the 6th number you say?,30,35,25,40,30
+K,Maths,Patterns,Hard,Q420: There are 68 kites. 65 go away. How many are left?,2,4,5,3,3
+K,Maths,Counting,Hard,Q421: Count by 2 starting at 0. What is the 6th number you say?,10,8,14,12,10
+K,Maths,Addition,Hard,Q422: You have 30 apples and get 5 more. How many do you have now?,36,37,35,34,35
+K,Maths,Subtraction,Hard,Q423: Count by 2 starting at 4. What is the 6th number you say?,14,18,12,16,14
+K,Maths,Patterns,Hard,Q424: Count by 10 starting at 0. What is the 6th number you say?,40,70,50,60,50
+K,Maths,Counting,Hard,Q425: You have 49 cars and get 41 more. How many do you have now?,92,91,90,89,90
+K,Maths,Addition,Hard,Q426: You have 62 books and get 13 more. How many do you have now?,77,76,74,75,75
+K,Maths,Subtraction,Hard,Q427: Count by 2 starting at 0. What is the 6th number you say?,8,14,10,12,10
+K,Maths,Patterns,Hard,Q428: There are 69 balls. 30 go away. How many are left?,41,38,40,39,39
+K,Maths,Counting,Hard,Q429: There are 38 books. 6 go away. How many are left?,32,31,34,33,32
+K,Maths,Addition,Hard,Q430: There are 27 candies. 17 go away. How many are left?,12,10,11,9,10
+K,Maths,Subtraction,Hard,Q431: Count by 2 starting at 2. What is the 6th number you say?,12,16,14,10,12
+K,Maths,Patterns,Hard,Q432: Count by 2 starting at 4. What is the 6th number you say?,18,16,14,12,14
+K,Maths,Counting,Hard,Q433: You have 14 robots and get 3 more. How many do you have now?,19,18,16,17,17
+K,Maths,Addition,Hard,Q434: Count by 10 starting at 10. What is the 6th number you say?,50,70,60,80,60
+K,Maths,Subtraction,Hard,Q435: You have 61 planes and get 30 more. How many do you have now?,91,93,90,92,91
+K,Maths,Patterns,Hard,Q436: Count by 10 starting at 0. What is the 6th number you say?,40,70,50,60,50
+K,Maths,Counting,Hard,Q437: Count by 10 starting at 10. What is the 6th number you say?,50,60,70,80,60
+K,Maths,Addition,Hard,Q438: You have 30 trees and get 66 more. How many do you have now?,96,95,98,97,96
+K,Maths,Subtraction,Hard,Q439: Count by 5 starting at 0. What is the 6th number you say?,20,35,30,25,25
+K,Maths,Patterns,Hard,Q440: You have 25 books and get 18 more. How many do you have now?,42,44,45,43,43
+K,Maths,Counting,Hard,Q441: There are 26 marbles. 24 go away. How many are left?,4,1,2,3,2
+K,Maths,Addition,Hard,Q442: Count by 2 starting at 0. What is the 6th number you say?,10,8,12,14,10
+K,Maths,Subtraction,Hard,Q443: Count by 2 starting at 2. What is the 6th number you say?,12,10,14,16,12
+K,Maths,Patterns,Hard,Q444: Count by 2 starting at 4. What is the 6th number you say?,14,16,18,12,14
+K,Maths,Counting,Hard,Q445: You have 25 apples and get 67 more. How many do you have now?,93,91,94,92,92
+K,Maths,Addition,Hard,Q446: There are 36 marbles. 13 go away. How many are left?,22,24,25,23,23
+K,Maths,Subtraction,Hard,Q447: Count by 5 starting at 10. What is the 6th number you say?,45,35,40,30,35
+K,Maths,Patterns,Hard,Q448: You have 53 books and get 67 more. How many do you have now?,121,122,120,119,120
+K,Maths,Counting,Hard,Q449: Count by 2 starting at 2. What is the 6th number you say?,12,14,16,10,12
+K,Maths,Addition,Hard,Q450: There are 7 cats. 0 go away. How many are left?,7,9,6,8,7
+K,Maths,Subtraction,Hard,Q451: There are 39 stars. 16 go away. How many are left?,25,24,23,22,23
+K,Maths,Patterns,Hard,Q452: You have 40 buttons and get 32 more. How many do you have now?,71,74,73,72,72
+K,Maths,Counting,Hard,Q453: Count by 10 starting at 20. What is the 6th number you say?,90,60,80,70,70
+K,Maths,Addition,Hard,Q454: Count by 10 starting at 0. What is the 6th number you say?,40,60,70,50,50
+K,Maths,Subtraction,Hard,Q455: You have 0 balls and get 50 more. How many do you have now?,49,52,51,50,50
+K,Maths,Patterns,Hard,Q456: You have 26 bears and get 45 more. How many do you have now?,70,72,71,73,71
+K,Maths,Counting,Hard,Q457: There are 64 marbles. 45 go away. How many are left?,21,18,19,20,19
+K,Maths,Addition,Hard,Q458: Count by 2 starting at 2. What is the 6th number you say?,14,12,10,16,12
+K,Maths,Subtraction,Hard,Q459: You have 11 robots and get 25 more. How many do you have now?,35,36,37,38,36
+K,Maths,Patterns,Hard,Q460: You have 7 planes and get 15 more. How many do you have now?,21,22,23,24,22
+K,Maths,Counting,Hard,Q461: You have 30 candies and get 62 more. How many do you have now?,93,94,91,92,92
+K,Maths,Addition,Hard,Q462: There are 32 bears. 16 go away. How many are left?,15,16,18,17,16
+K,Maths,Subtraction,Hard,Q463: There are 44 marbles. 43 go away. How many are left?,1,2,0,3,1
+K,Maths,Patterns,Hard,Q464: There are 49 cats. 2 go away. How many are left?,48,49,46,47,47
+K,Maths,Counting,Hard,Q465: There are 17 cookies. 1 go away. How many are left?,18,15,16,17,16
+K,Maths,Addition,Hard,Q466: There are 42 cookies. 38 go away. How many are left?,3,5,4,6,4
+K,Maths,Subtraction,Hard,Q467: You have 39 books and get 52 more. How many do you have now?,92,93,90,91,91
+K,Maths,Patterns,Hard,Q468: Count by 5 starting at 10. What is the 6th number you say?,45,30,35,40,35
+K,Maths,Counting,Hard,Q469: There are 32 robots. 11 go away. How many are left?,21,20,22,23,21
+K,Maths,Addition,Hard,Q470: Count by 5 starting at 5. What is the 6th number you say?,25,30,35,40,30
+K,Maths,Subtraction,Hard,Q471: There are 49 marbles. 0 go away. How many are left?,51,49,48,50,49
+K,Maths,Patterns,Hard,Q472: You have 21 dogs and get 47 more. How many do you have now?,69,68,67,70,68
+K,Maths,Counting,Hard,Q473: You have 60 marbles and get 70 more. How many do you have now?,129,130,132,131,130
+K,Maths,Addition,Hard,Q474: Count by 10 starting at 20. What is the 6th number you say?,80,60,90,70,70
+K,Maths,Subtraction,Hard,Q475: There are 20 balls. 15 go away. How many are left?,5,4,7,6,5
+K,Maths,Patterns,Hard,Q476: You have 4 stars and get 12 more. How many do you have now?,16,18,15,17,16
+K,Maths,Counting,Hard,Q477: There are 23 marbles. 14 go away. How many are left?,10,11,8,9,9
+K,Maths,Addition,Hard,Q478: Count by 5 starting at 0. What is the 6th number you say?,30,25,35,20,25
+K,Maths,Subtraction,Hard,Q479: There are 35 cats. 34 go away. How many are left?,0,3,1,2,1
+K,Maths,Patterns,Hard,Q480: Count by 5 starting at 10. What is the 6th number you say?,40,35,45,30,35
+K,Maths,Counting,Hard,Q481: There are 36 marbles. 2 go away. How many are left?,36,35,33,34,34
+K,Maths,Addition,Hard,Q482: Count by 10 starting at 10. What is the 6th number you say?,50,60,70,80,60
+K,Maths,Subtraction,Hard,Q483: There are 46 buttons. 22 go away. How many are left?,24,23,25,26,24
+K,Maths,Patterns,Hard,Q484: You have 58 stars and get 31 more. How many do you have now?,89,90,91,88,89
+K,Maths,Counting,Hard,Q485: Count by 5 starting at 5. What is the 6th number you say?,40,25,35,30,30
+K,Maths,Addition,Hard,Q486: You have 40 trees and get 62 more. How many do you have now?,103,104,101,102,102
+K,Maths,Subtraction,Hard,Q487: You have 19 blocks and get 48 more. How many do you have now?,69,67,66,68,67
+K,Maths,Patterns,Hard,Q488: There are 39 flowers. 18 go away. How many are left?,22,23,20,21,21
+K,Maths,Counting,Hard,Q489: There are 44 candies. 12 go away. How many are left?,31,34,33,32,32
+K,Maths,Addition,Hard,Q490: You have 1 planes and get 13 more. How many do you have now?,15,16,13,14,14
+K,Maths,Subtraction,Hard,Q491: Count by 5 starting at 5. What is the 6th number you say?,35,25,30,40,30
+K,Maths,Patterns,Hard,Q492: There are 68 books. 7 go away. How many are left?,61,63,60,62,61
+K,Maths,Counting,Hard,Q493: There are 44 kites. 24 go away. How many are left?,22,21,20,19,20
+K,Maths,Addition,Hard,Q494: Count by 2 starting at 2. What is the 6th number you say?,14,10,12,16,12
+K,Maths,Subtraction,Hard,Q495: There are 29 bears. 18 go away. How many are left?,12,13,11,10,11
+K,Maths,Patterns,Hard,Q496: You have 60 planes and get 30 more. How many do you have now?,90,91,89,92,90
+K,Maths,Counting,Hard,Q497: You have 21 dogs and get 61 more. How many do you have now?,81,82,84,83,82
+K,Maths,Addition,Hard,Q498: There are 68 flowers. 45 go away. How many are left?,24,22,23,25,23
+K,Maths,Subtraction,Hard,Q499: There are 69 cookies. 8 go away. How many are left?,62,61,60,63,61
+K,Maths,Patterns,Hard,Q500: Count by 2 starting at 2. What is the 6th number you say?,10,14,12,16,12
+K,Maths,Counting,Hard,Q501: Count by 2 starting at 4. What is the 6th number you say?,12,14,18,16,14
+K,Maths,Addition,Hard,Q502: There are 38 blocks. 36 go away. How many are left?,3,1,2,4,2
+K,Maths,Subtraction,Hard,Q503: There are 66 dogs. 19 go away. How many are left?,47,46,48,49,47
+K,Maths,Patterns,Hard,Q504: Count by 2 starting at 4. What is the 6th number you say?,16,14,18,12,14
+K,Maths,Counting,Hard,Q505: Count by 2 starting at 0. What is the 6th number you say?,8,14,10,12,10
+K,Maths,Addition,Hard,Q506: There are 31 blocks. 0 go away. How many are left?,31,33,30,32,31
+K,Maths,Subtraction,Hard,Q507: There are 52 dogs. 25 go away. How many are left?,29,27,26,28,27
+K,Maths,Patterns,Hard,Q508: You have 53 balls and get 2 more. How many do you have now?,55,56,54,57,55
+K,Maths,Counting,Hard,Q509: You have 41 shells and get 46 more. How many do you have now?,89,87,88,86,87
+K,Maths,Addition,Hard,Q510: Count by 10 starting at 20. What is the 6th number you say?,60,90,70,80,70
+K,Maths,Subtraction,Hard,Q511: You have 52 planes and get 27 more. How many do you have now?,79,78,80,81,79
+K,Maths,Patterns,Hard,Q512: You have 20 stars and get 70 more. How many do you have now?,91,90,89,92,90
+K,Maths,Counting,Hard,Q513: There are 15 trees. 10 go away. How many are left?,7,4,5,6,5
+K,Maths,Addition,Hard,Q514: Count by 10 starting at 0. What is the 6th number you say?,60,70,40,50,50
+K,Maths,Subtraction,Hard,Q515: You have 48 apples and get 40 more. How many do you have now?,89,88,90,87,88
+K,Maths,Patterns,Hard,Q516: There are 48 pencils. 8 go away. How many are left?,41,42,40,39,40
+K,Maths,Counting,Hard,Q517: Count by 10 starting at 0. What is the 6th number you say?,60,40,50,70,50
+K,Maths,Addition,Hard,Q518: There are 67 apples. 32 go away. How many are left?,37,34,36,35,35
+K,Maths,Subtraction,Hard,Q519: You have 35 marbles and get 44 more. How many do you have now?,81,78,80,79,79
+K,Maths,Patterns,Hard,Q520: You have 18 balls and get 9 more. How many do you have now?,26,28,27,29,27
+K,Maths,Counting,Hard,Q521: You have 13 marbles and get 18 more. How many do you have now?,32,33,31,30,31
+K,Maths,Addition,Hard,Q522: You have 44 stars and get 53 more. How many do you have now?,97,96,98,99,97
+K,Maths,Subtraction,Hard,Q523: There are 16 cats. 11 go away. How many are left?,7,4,6,5,5
+K,Maths,Patterns,Hard,Q524: You have 45 apples and get 41 more. How many do you have now?,87,88,85,86,86
+K,Maths,Counting,Hard,Q525: Count by 2 starting at 4. What is the 6th number you say?,12,16,14,18,14
+K,Maths,Addition,Hard,Q526: You have 62 planes and get 18 more. How many do you have now?,81,80,82,79,80
+K,Maths,Subtraction,Hard,Q527: Count by 5 starting at 5. What is the 6th number you say?,40,30,25,35,30
+K,Maths,Patterns,Hard,Q528: Count by 2 starting at 4. What is the 6th number you say?,12,16,14,18,14
+K,Maths,Counting,Hard,Q529: Count by 10 starting at 0. What is the 6th number you say?,70,40,60,50,50
+K,Maths,Addition,Hard,Q530: There are 37 flowers. 11 go away. How many are left?,28,26,25,27,26
+K,Maths,Subtraction,Hard,Q531: Count by 10 starting at 20. What is the 6th number you say?,70,60,90,80,70
+K,Maths,Patterns,Hard,Q532: There are 48 cars. 26 go away. How many are left?,23,21,24,22,22
+K,Maths,Counting,Hard,Q533: There are 45 dogs. 0 go away. How many are left?,45,47,44,46,45
+K,Maths,Addition,Hard,Q534: You have 54 cars and get 56 more. How many do you have now?,112,111,109,110,110
+K,Maths,Subtraction,Hard,Q535: Count by 2 starting at 0. What is the 6th number you say?,14,10,12,8,10
+K,Maths,Patterns,Hard,Q536: There are 50 shells. 36 go away. How many are left?,15,16,14,13,14
+K,Maths,Counting,Hard,Q537: There are 66 robots. 63 go away. How many are left?,2,4,3,5,3
+K,Maths,Addition,Hard,Q538: There are 15 robots. 10 go away. How many are left?,7,5,6,4,5
+K,Maths,Subtraction,Hard,Q539: You have 25 marbles and get 10 more. How many do you have now?,35,37,34,36,35
+K,Maths,Patterns,Hard,Q540: Count by 5 starting at 10. What is the 6th number you say?,40,30,45,35,35
+K,Maths,Counting,Hard,Q541: Count by 2 starting at 0. What is the 6th number you say?,10,14,12,8,10
+K,Maths,Addition,Hard,Q542: Count by 2 starting at 2. What is the 6th number you say?,10,14,12,16,12
+K,Maths,Subtraction,Hard,Q543: You have 0 cookies and get 42 more. How many do you have now?,42,41,44,43,42
+K,Maths,Patterns,Hard,Q544: Count by 2 starting at 0. What is the 6th number you say?,8,12,10,14,10
+K,Maths,Counting,Hard,Q545: There are 47 apples. 26 go away. How many are left?,21,20,22,23,21
+K,Maths,Addition,Hard,Q546: Count by 5 starting at 10. What is the 6th number you say?,45,40,30,35,35
+K,Maths,Subtraction,Hard,Q547: There are 51 dogs. 18 go away. How many are left?,33,35,32,34,33
+K,Maths,Patterns,Hard,Q548: There are 65 pencils. 51 go away. How many are left?,16,15,13,14,14
+K,Maths,Counting,Hard,Q549: Count by 10 starting at 20. What is the 6th number you say?,60,80,90,70,70
+K,Maths,Addition,Hard,Q550: You have 66 books and get 40 more. How many do you have now?,105,107,108,106,106
+K,Maths,Subtraction,Hard,Q551: There are 49 planes. 27 go away. How many are left?,22,23,21,24,22
+K,Maths,Patterns,Hard,Q552: Count by 10 starting at 20. What is the 6th number you say?,80,90,70,60,70
+K,Maths,Counting,Hard,Q553: You have 3 robots and get 43 more. How many do you have now?,46,48,45,47,46
+K,Maths,Addition,Hard,Q554: You have 62 cookies and get 60 more. How many do you have now?,123,121,122,124,122
+K,Maths,Subtraction,Hard,Q555: Count by 2 starting at 4. What is the 6th number you say?,14,12,16,18,14
+K,Maths,Patterns,Hard,Q556: Count by 2 starting at 0. What is the 6th number you say?,10,12,8,14,10
+K,Maths,Counting,Hard,Q557: There are 40 cars. 37 go away. How many are left?,3,4,2,5,3
+K,Maths,Addition,Hard,Q558: You have 13 robots and get 9 more. How many do you have now?,24,22,23,21,22
+K,Maths,Subtraction,Hard,Q559: Count by 2 starting at 0. What is the 6th number you say?,10,14,8,12,10
+K,Maths,Patterns,Hard,Q560: There are 49 dogs. 35 go away. How many are left?,14,16,15,13,14
+K,Maths,Counting,Hard,Q561: Count by 2 starting at 4. What is the 6th number you say?,16,12,14,18,14
+K,Maths,Addition,Hard,Q562: Count by 10 starting at 0. What is the 6th number you say?,50,40,60,70,50
+K,Maths,Subtraction,Hard,Q563: You have 59 robots and get 1 more. How many do you have now?,61,62,60,59,60
+K,Maths,Patterns,Hard,Q564: You have 43 cookies and get 26 more. How many do you have now?,68,71,69,70,69
+K,Maths,Counting,Hard,Q565: You have 19 marbles and get 37 more. How many do you have now?,55,56,57,58,56
+K,Maths,Addition,Hard,Q566: Count by 2 starting at 2. What is the 6th number you say?,12,16,14,10,12
+K,Maths,Subtraction,Hard,Q567: There are 46 books. 12 go away. How many are left?,36,35,33,34,34
+K,Maths,Patterns,Hard,Q568: There are 68 stars. 58 go away. How many are left?,12,9,11,10,10
+K,Maths,Counting,Hard,Q569: You have 41 planes and get 7 more. How many do you have now?,48,49,50,47,48
+K,Maths,Addition,Hard,Q570: There are 54 flowers. 21 go away. How many are left?,35,33,34,32,33
+K,Maths,Subtraction,Hard,Q571: You have 41 books and get 3 more. How many do you have now?,46,45,43,44,44
+K,Maths,Patterns,Hard,Q572: There are 19 robots. 13 go away. How many are left?,6,7,8,5,6
+K,Maths,Counting,Hard,Q573: You have 46 kites and get 44 more. How many do you have now?,90,91,89,92,90
+K,Maths,Addition,Hard,Q574: You have 7 planes and get 35 more. How many do you have now?,41,44,42,43,42
+K,Maths,Subtraction,Hard,Q575: You have 30 trees and get 67 more. How many do you have now?,96,99,98,97,97
+K,Maths,Patterns,Hard,Q576: There are 24 pencils. 8 go away. How many are left?,16,15,17,18,16
+K,Maths,Counting,Hard,Q577: You have 30 dogs and get 40 more. How many do you have now?,70,71,72,69,70
+K,Maths,Addition,Hard,Q578: There are 69 kites. 56 go away. How many are left?,12,13,15,14,13
+K,Maths,Subtraction,Hard,Q579: You have 52 candies and get 68 more. How many do you have now?,122,119,120,121,120
+K,Maths,Patterns,Hard,Q580: Count by 2 starting at 0. What is the 6th number you say?,8,14,12,10,10
+K,Maths,Counting,Hard,Q581: Count by 5 starting at 5. What is the 6th number you say?,35,25,40,30,30
+K,Maths,Addition,Hard,Q582: There are 32 books. 18 go away. How many are left?,13,15,16,14,14
+K,Maths,Subtraction,Hard,Q583: Count by 5 starting at 0. What is the 6th number you say?,20,30,35,25,25
+K,Maths,Patterns,Hard,Q584: Count by 10 starting at 10. What is the 6th number you say?,50,70,80,60,60
+K,Maths,Counting,Hard,Q585: There are 51 kites. 12 go away. How many are left?,40,38,41,39,39
+K,Maths,Addition,Hard,Q586: Count by 10 starting at 0. What is the 6th number you say?,50,40,70,60,50
+K,Maths,Subtraction,Hard,Q587: Count by 2 starting at 2. What is the 6th number you say?,16,14,12,10,12
+K,Maths,Patterns,Hard,Q588: You have 55 dogs and get 31 more. How many do you have now?,87,86,88,85,86
+K,Maths,Counting,Hard,Q589: There are 61 trees. 40 go away. How many are left?,23,22,21,20,21
+K,Maths,Addition,Hard,Q590: There are 69 cars. 6 go away. How many are left?,64,63,65,62,63
+K,Maths,Subtraction,Hard,Q591: Count by 2 starting at 4. What is the 6th number you say?,12,18,16,14,14
+K,Maths,Patterns,Hard,Q592: You have 62 planes and get 40 more. How many do you have now?,101,104,103,102,102
+K,Maths,Counting,Hard,Q593: There are 55 cars. 14 go away. How many are left?,43,42,41,40,41
+K,Maths,Addition,Hard,Q594: There are 45 planes. 9 go away. How many are left?,35,36,38,37,36
+K,Maths,Subtraction,Hard,Q595: There are 56 shells. 2 go away. How many are left?,53,55,54,56,54
+K,Maths,Patterns,Hard,Q596: There are 51 flowers. 34 go away. How many are left?,17,18,16,19,17
+K,Maths,Counting,Hard,Q597: Count by 2 starting at 4. What is the 6th number you say?,12,14,16,18,14
+K,Maths,Addition,Hard,Q598: You have 53 shells and get 13 more. How many do you have now?,68,66,67,65,66
+K,Maths,Subtraction,Hard,Q599: Count by 2 starting at 2. What is the 6th number you say?,14,12,16,10,12
+K,Maths,Patterns,Hard,Q600: Count by 10 starting at 20. What is the 6th number you say?,80,60,70,90,70
+K,Maths,Counting,Hard,Q601: You have 40 candies and get 61 more. How many do you have now?,103,100,101,102,101
+K,Maths,Addition,Hard,Q602: You have 5 pencils and get 68 more. How many do you have now?,72,73,74,75,73
+K,Maths,Subtraction,Hard,Q603: There are 67 cars. 13 go away. How many are left?,55,54,53,56,54
+K,Maths,Patterns,Hard,Q604: There are 20 flowers. 7 go away. How many are left?,12,13,14,15,13
+K,Maths,Counting,Hard,Q605: Count by 10 starting at 10. What is the 6th number you say?,70,60,80,50,60
+K,Maths,Addition,Hard,Q606: You have 19 marbles and get 67 more. How many do you have now?,87,88,85,86,86
+K,Maths,Subtraction,Hard,Q607: There are 24 blocks. 8 go away. How many are left?,18,17,16,15,16
+K,Maths,Patterns,Hard,Q608: You have 21 apples and get 23 more. How many do you have now?,43,46,45,44,44
+K,Maths,Counting,Hard,Q609: There are 52 marbles. 6 go away. How many are left?,47,46,45,48,46
+K,Maths,Addition,Hard,Q610: There are 26 books. 17 go away. How many are left?,11,8,10,9,9
+K,Maths,Subtraction,Hard,Q611: Count by 10 starting at 10. What is the 6th number you say?,50,80,70,60,60
+K,Maths,Patterns,Hard,Q612: Count by 5 starting at 10. What is the 6th number you say?,35,40,30,45,35
+K,Maths,Counting,Hard,Q613: You have 37 candies and get 20 more. How many do you have now?,57,59,58,56,57
+K,Maths,Addition,Hard,Q614: You have 35 robots and get 2 more. How many do you have now?,39,36,38,37,37
+K,Maths,Subtraction,Hard,Q615: There are 52 pencils. 42 go away. How many are left?,10,9,12,11,10
+K,Maths,Patterns,Hard,Q616: You have 40 cats and get 62 more. How many do you have now?,101,104,103,102,102
+K,Maths,Counting,Hard,Q617: There are 61 pencils. 47 go away. How many are left?,13,16,15,14,14
+K,Maths,Addition,Hard,Q618: There are 56 planes. 31 go away. How many are left?,24,25,27,26,25
+K,Maths,Subtraction,Hard,Q619: There are 28 pencils. 3 go away. How many are left?,24,25,26,27,25
+K,Maths,Patterns,Hard,Q620: Count by 10 starting at 10. What is the 6th number you say?,80,60,50,70,60
+K,Maths,Counting,Hard,Q621: There are 59 pencils. 26 go away. How many are left?,35,33,34,32,33
+K,Maths,Addition,Hard,Q622: There are 47 books. 34 go away. How many are left?,15,12,13,14,13
+K,Maths,Subtraction,Hard,Q623: Count by 5 starting at 5. What is the 6th number you say?,30,40,35,25,30
+K,Maths,Patterns,Hard,Q624: There are 50 flowers. 3 go away. How many are left?,47,46,48,49,47
+K,Maths,Counting,Hard,Q625: You have 44 balls and get 33 more. How many do you have now?,79,77,76,78,77
+K,Maths,Addition,Hard,Q626: Count by 2 starting at 2. What is the 6th number you say?,16,10,12,14,12
+K,Maths,Subtraction,Hard,Q627: There are 62 bears. 8 go away. How many are left?,55,56,54,53,54
+K,Maths,Patterns,Hard,Q628: Count by 10 starting at 0. What is the 6th number you say?,50,40,60,70,50
+K,Maths,Counting,Hard,Q629: You have 39 blocks and get 64 more. How many do you have now?,105,103,102,104,103
+K,Maths,Addition,Hard,Q630: Count by 5 starting at 10. What is the 6th number you say?,30,40,35,45,35
+K,Maths,Subtraction,Hard,Q631: There are 64 candies. 31 go away. How many are left?,34,35,32,33,33
+K,Maths,Patterns,Hard,Q632: You have 70 pencils and get 9 more. How many do you have now?,79,78,80,81,79
+K,Maths,Counting,Hard,Q633: There are 59 shells. 3 go away. How many are left?,57,55,58,56,56
+K,Maths,Addition,Hard,Q634: You have 33 bears and get 61 more. How many do you have now?,95,94,96,93,94
+K,Maths,Subtraction,Hard,Q635: There are 58 shells. 43 go away. How many are left?,14,16,17,15,15
+K,Maths,Patterns,Hard,Q636: Count by 10 starting at 20. What is the 6th number you say?,90,80,70,60,70
+K,Maths,Counting,Hard,Q637: There are 59 shells. 22 go away. How many are left?,36,37,38,39,37
+K,Maths,Addition,Hard,Q638: You have 23 candies and get 54 more. How many do you have now?,79,76,77,78,77
+K,Maths,Subtraction,Hard,Q639: Count by 2 starting at 4. What is the 6th number you say?,14,18,16,12,14
+K,Maths,Patterns,Hard,Q640: There are 64 bears. 47 go away. How many are left?,18,19,16,17,17
+K,Maths,Counting,Hard,Q641: Count by 2 starting at 2. What is the 6th number you say?,12,10,16,14,12
+K,Maths,Addition,Hard,Q642: There are 30 cars. 8 go away. How many are left?,21,22,23,24,22
+K,Maths,Subtraction,Hard,Q643: There are 70 apples. 38 go away. How many are left?,31,34,33,32,32
+K,Maths,Patterns,Hard,Q644: There are 60 shells. 44 go away. How many are left?,16,17,18,15,16
+K,Maths,Counting,Hard,Q645: You have 63 shells and get 25 more. How many do you have now?,90,88,89,87,88
+K,Maths,Addition,Hard,Q646: You have 26 dogs and get 19 more. How many do you have now?,47,46,45,44,45
+K,Maths,Subtraction,Hard,Q647: Count by 2 starting at 2. What is the 6th number you say?,16,14,10,12,12
+K,Maths,Patterns,Hard,Q648: You have 28 blocks and get 6 more. How many do you have now?,34,33,36,35,34
+K,Maths,Counting,Hard,Q649: There are 61 cars. 24 go away. How many are left?,37,36,38,39,37
+K,Maths,Addition,Hard,Q650: You have 38 balls and get 42 more. How many do you have now?,79,81,80,82,80
+K,Maths,Subtraction,Hard,Q651: There are 49 stars. 35 go away. How many are left?,14,16,15,13,14
+K,Maths,Patterns,Hard,Q652: You have 8 pencils and get 21 more. How many do you have now?,30,29,28,31,29
+K,Maths,Counting,Hard,Q653: Count by 2 starting at 2. What is the 6th number you say?,12,10,14,16,12
+K,Maths,Addition,Hard,Q654: There are 45 robots. 19 go away. How many are left?,25,26,27,28,26
+K,Maths,Subtraction,Hard,Q655: You have 31 apples and get 41 more. How many do you have now?,72,73,74,71,72
+K,Maths,Patterns,Hard,Q656: Count by 5 starting at 5. What is the 6th number you say?,30,40,25,35,30
+K,Maths,Counting,Hard,Q657: Count by 5 starting at 10. What is the 6th number you say?,45,35,40,30,35
+K,Maths,Addition,Hard,Q658: You have 25 cookies and get 62 more. How many do you have now?,89,86,87,88,87
+K,Maths,Subtraction,Hard,Q659: Count by 10 starting at 10. What is the 6th number you say?,70,80,50,60,60
+K,Maths,Patterns,Hard,Q660: There are 8 trees. 1 go away. How many are left?,8,7,9,6,7
+K,Maths,Counting,Hard,Q661: You have 41 kites and get 31 more. How many do you have now?,73,74,71,72,72
+K,Maths,Addition,Hard,Q662: There are 8 apples. 2 go away. How many are left?,5,7,6,8,6
+K,Maths,Subtraction,Hard,Q663: Count by 10 starting at 20. What is the 6th number you say?,70,80,60,90,70
+K,Maths,Patterns,Hard,Q664: You have 40 kites and get 13 more. How many do you have now?,53,55,54,52,53
+K,Maths,Counting,Hard,Q665: You have 47 blocks and get 28 more. How many do you have now?,74,75,76,77,75
+K,Maths,Addition,Hard,Q666: You have 56 shells and get 10 more. How many do you have now?,67,65,66,68,66
+K,Maths,Subtraction,Hard,Q667: Count by 2 starting at 0. What is the 6th number you say?,8,14,12,10,10
+K,Maths,Patterns,Hard,Q668: There are 28 books. 8 go away. How many are left?,20,22,19,21,20
+K,Maths,Counting,Hard,Q669: You have 18 trees and get 25 more. How many do you have now?,42,44,43,45,43
+K,Maths,Addition,Hard,Q670: There are 3 balls. 1 go away. How many are left?,4,1,3,2,2
+K,Maths,Subtraction,Hard,Q671: Count by 5 starting at 5. What is the 6th number you say?,35,40,30,25,30
+K,Maths,Patterns,Hard,Q672: Count by 2 starting at 4. What is the 6th number you say?,14,18,12,16,14
+K,Maths,Counting,Hard,Q673: Count by 5 starting at 0. What is the 6th number you say?,35,25,20,30,25
+K,Maths,Addition,Hard,Q674: Count by 2 starting at 2. What is the 6th number you say?,14,12,16,10,12
+K,Maths,Subtraction,Hard,Q675: There are 41 cookies. 21 go away. How many are left?,21,22,19,20,20
+K,Maths,Patterns,Hard,Q676: You have 55 kites and get 12 more. How many do you have now?,67,66,69,68,67
+K,Maths,Counting,Hard,Q677: You have 8 cats and get 19 more. How many do you have now?,27,28,29,26,27
+K,Maths,Addition,Hard,Q678: You have 64 apples and get 46 more. How many do you have now?,111,109,112,110,110
+K,Maths,Subtraction,Hard,Q679: Count by 10 starting at 0. What is the 6th number you say?,50,70,60,40,50
+K,Maths,Patterns,Hard,Q680: You have 37 buttons and get 67 more. How many do you have now?,105,103,106,104,104
+K,Maths,Counting,Hard,Q681: You have 29 apples and get 39 more. How many do you have now?,67,70,68,69,68
+K,Maths,Addition,Hard,Q682: You have 55 shells and get 48 more. How many do you have now?,103,102,104,105,103
+K,Maths,Subtraction,Hard,Q683: There are 50 flowers. 47 go away. How many are left?,3,4,5,2,3
+K,Maths,Patterns,Hard,Q684: Count by 10 starting at 20. What is the 6th number you say?,70,80,90,60,70
+K,Maths,Counting,Hard,Q685: There are 70 books. 67 go away. How many are left?,2,4,5,3,3
+K,Maths,Addition,Hard,Q686: There are 50 cookies. 32 go away. How many are left?,17,20,18,19,18
+K,Maths,Subtraction,Hard,Q687: Count by 5 starting at 10. What is the 6th number you say?,45,35,40,30,35
+K,Maths,Patterns,Hard,Q688: There are 58 robots. 48 go away. How many are left?,11,9,10,12,10
+K,Maths,Counting,Hard,Q689: Count by 10 starting at 10. What is the 6th number you say?,80,50,70,60,60
+K,Maths,Addition,Hard,Q690: There are 21 books. 9 go away. How many are left?,12,13,14,11,12
+K,Maths,Subtraction,Hard,Q691: You have 13 trees and get 39 more. How many do you have now?,54,52,51,53,52
+K,Maths,Patterns,Hard,Q692: There are 50 shells. 34 go away. How many are left?,17,16,15,18,16
+K,Maths,Counting,Hard,Q693: Count by 10 starting at 20. What is the 6th number you say?,90,60,70,80,70
+K,Maths,Addition,Hard,Q694: There are 69 cats. 22 go away. How many are left?,47,46,48,49,47
+K,Maths,Subtraction,Hard,Q695: You have 14 cars and get 9 more. How many do you have now?,23,22,24,25,23
+K,Maths,Patterns,Hard,Q696: There are 28 pencils. 5 go away. How many are left?,23,25,22,24,23
+K,Maths,Counting,Hard,Q697: Count by 5 starting at 0. What is the 6th number you say?,35,25,30,20,25
+K,Maths,Addition,Hard,Q698: You have 30 pencils and get 70 more. How many do you have now?,99,100,102,101,100
+K,Maths,Subtraction,Hard,Q699: There are 54 cars. 4 go away. How many are left?,49,51,52,50,50
+K,Maths,Patterns,Hard,Q700: You have 10 dogs and get 59 more. How many do you have now?,69,71,68,70,69
+K,Maths,Counting,Hard,Q701: There are 33 cookies. 33 go away. How many are left?,Option 3,0,2,1,0
+K,Maths,Addition,Hard,Q702: You have 44 stars and get 59 more. How many do you have now?,105,104,102,103,103
+K,Maths,Subtraction,Hard,Q703: There are 64 pencils. 33 go away. How many are left?,32,33,30,31,31
+K,Maths,Patterns,Hard,Q704: You have 11 flowers and get 37 more. How many do you have now?,49,50,48,47,48
+K,Maths,Counting,Hard,Q705: Count by 5 starting at 10. What is the 6th number you say?,30,40,35,45,35
+K,Maths,Addition,Hard,Q706: There are 58 cars. 40 go away. How many are left?,17,18,20,19,18
+K,Maths,Subtraction,Hard,Q707: Count by 5 starting at 5. What is the 6th number you say?,40,25,30,35,30
+K,Maths,Patterns,Hard,Q708: There are 30 marbles. 15 go away. How many are left?,14,15,16,17,15
+K,Maths,Counting,Hard,Q709: You have 13 cats and get 66 more. How many do you have now?,80,79,78,81,79
+K,Maths,Addition,Hard,Q710: There are 64 marbles. 17 go away. How many are left?,48,47,49,46,47
+K,Maths,Subtraction,Hard,Q711: There are 48 cats. 9 go away. How many are left?,40,39,41,38,39
+K,Maths,Patterns,Hard,Q712: Count by 5 starting at 0. What is the 6th number you say?,25,20,35,30,25
+K,Maths,Counting,Hard,Q713: There are 20 marbles. 18 go away. How many are left?,4,1,3,2,2
+K,Maths,Addition,Hard,Q714: There are 56 dogs. 47 go away. How many are left?,8,10,9,11,9
+K,Maths,Subtraction,Hard,Q715: Count by 5 starting at 0. What is the 6th number you say?,30,25,35,20,25
+K,Maths,Patterns,Hard,Q716: Count by 2 starting at 2. What is the 6th number you say?,10,16,12,14,12
+K,Maths,Counting,Hard,Q717: Count by 2 starting at 4. What is the 6th number you say?,16,18,12,14,14
+K,Maths,Addition,Hard,Q718: Count by 10 starting at 0. What is the 6th number you say?,40,60,50,70,50
+K,Maths,Subtraction,Hard,Q719: There are 45 balls. 37 go away. How many are left?,9,7,10,8,8
+K,Maths,Patterns,Hard,Q720: There are 66 bears. 62 go away. How many are left?,5,4,3,6,4
+K,Maths,Counting,Hard,Q721: There are 12 flowers. 3 go away. How many are left?,11,9,8,10,9
+K,Maths,Addition,Hard,Q722: There are 54 blocks. 48 go away. How many are left?,5,7,6,8,6
+K,Maths,Subtraction,Hard,Q723: Count by 10 starting at 20. What is the 6th number you say?,80,60,90,70,70
+K,Maths,Patterns,Hard,Q724: Count by 2 starting at 0. What is the 6th number you say?,10,12,8,14,10
+K,Maths,Counting,Hard,Q725: There are 30 robots. 14 go away. How many are left?,18,17,15,16,16
+K,Maths,Addition,Hard,Q726: There are 42 planes. 32 go away. How many are left?,11,9,12,10,10
+K,Maths,Subtraction,Hard,Q727: There are 50 bears. 24 go away. How many are left?,25,27,28,26,26
+K,Maths,Patterns,Hard,Q728: There are 60 cats. 58 go away. How many are left?,1,4,3,2,2
+K,Maths,Counting,Hard,Q729: There are 55 stars. 5 go away. How many are left?,52,50,51,49,50
+K,Maths,Addition,Hard,Q730: You have 34 cookies and get 28 more. How many do you have now?,62,63,61,64,62
+K,Maths,Subtraction,Hard,Q731: There are 50 stars. 27 go away. How many are left?,22,25,24,23,23
+K,Maths,Patterns,Hard,Q732: There are 53 planes. 32 go away. How many are left?,23,21,20,22,21
+K,Maths,Counting,Hard,Q733: Count by 2 starting at 0. What is the 6th number you say?,10,14,8,12,10
+K,Maths,Addition,Hard,Q734: Count by 5 starting at 5. What is the 6th number you say?,30,25,35,40,30
+K,Maths,Subtraction,Hard,Q735: There are 23 books. 4 go away. How many are left?,20,21,19,18,19
+K,Maths,Patterns,Hard,Q736: Count by 5 starting at 0. What is the 6th number you say?,30,35,25,20,25
+K,Maths,Counting,Hard,Q737: Count by 2 starting at 2. What is the 6th number you say?,10,12,14,16,12
+K,Maths,Addition,Hard,Q738: There are 46 kites. 24 go away. How many are left?,22,23,24,21,22
+K,Maths,Subtraction,Hard,Q739: You have 14 dogs and get 45 more. How many do you have now?,61,59,58,60,59
+K,Maths,Patterns,Hard,Q740: Count by 5 starting at 5. What is the 6th number you say?,30,25,35,40,30
+K,Maths,Counting,Hard,Q741: There are 33 bears. 29 go away. How many are left?,3,5,4,6,4
+K,Maths,Addition,Hard,Q742: There are 33 stars. 26 go away. How many are left?,9,7,6,8,7
+K,Maths,Subtraction,Hard,Q743: You have 51 shells and get 32 more. How many do you have now?,84,83,82,85,83
+K,Maths,Patterns,Hard,Q744: Count by 2 starting at 4. What is the 6th number you say?,18,12,16,14,14
+K,Maths,Counting,Hard,Q745: Count by 10 starting at 0. What is the 6th number you say?,60,70,40,50,50
+K,Maths,Addition,Hard,Q746: There are 67 bears. 2 go away. How many are left?,67,66,65,64,65
+K,Maths,Subtraction,Hard,Q747: Count by 10 starting at 20. What is the 6th number you say?,90,80,70,60,70
+K,Maths,Patterns,Hard,Q748: You have 37 apples and get 0 more. How many do you have now?,37,36,38,39,37
+K,Maths,Counting,Hard,Q749: You have 20 robots and get 11 more. How many do you have now?,32,30,33,31,31
+K,Maths,Addition,Hard,Q750: You have 62 cookies and get 1 more. How many do you have now?,65,62,63,64,63
+K,Maths,Subtraction,Hard,Q751: There are 42 cats. 23 go away. How many are left?,20,18,21,19,19
+K,Maths,Patterns,Hard,Q752: Count by 2 starting at 2. What is the 6th number you say?,14,12,10,16,12
+K,Maths,Counting,Hard,Q753: Count by 10 starting at 20. What is the 6th number you say?,60,70,90,80,70
+K,Maths,Addition,Hard,Q754: There are 68 shells. 25 go away. How many are left?,43,42,45,44,43
+K,Maths,Subtraction,Hard,Q755: There are 47 pencils. 37 go away. How many are left?,12,11,10,9,10
+K,Maths,Patterns,Hard,Q756: There are 61 buttons. 33 go away. How many are left?,28,30,29,27,28
+K,Maths,Counting,Hard,Q757: There are 61 bears. 52 go away. How many are left?,10,11,8,9,9
+K,Maths,Addition,Hard,Q758: You have 59 kites and get 24 more. How many do you have now?,83,82,84,85,83
+K,Maths,Subtraction,Hard,Q759: There are 57 dogs. 35 go away. How many are left?,24,23,21,22,22
+K,Maths,Patterns,Hard,Q760: There are 31 planes. 26 go away. How many are left?,6,4,7,5,5
+K,Maths,Counting,Hard,Q761: You have 34 bears and get 16 more. How many do you have now?,52,51,49,50,50
+K,Maths,Addition,Hard,Q762: You have 17 kites and get 4 more. How many do you have now?,23,21,20,22,21
+K,Maths,Subtraction,Hard,Q763: Count by 5 starting at 0. What is the 6th number you say?,35,20,25,30,25
+K,Maths,Patterns,Hard,Q764: Count by 2 starting at 2. What is the 6th number you say?,12,10,16,14,12
+K,Maths,Counting,Hard,Q765: There are 68 shells. 9 go away. How many are left?,58,59,61,60,59
+K,Maths,Addition,Hard,Q766: Count by 2 starting at 0. What is the 6th number you say?,14,8,12,10,10
+K,Maths,Subtraction,Hard,Q767: Count by 5 starting at 5. What is the 6th number you say?,35,30,25,40,30
+K,Maths,Patterns,Hard,Q768: Count by 5 starting at 10. What is the 6th number you say?,35,45,30,40,35
+K,Maths,Counting,Hard,Q769: Count by 10 starting at 0. What is the 6th number you say?,50,40,70,60,50
+K,Maths,Addition,Hard,Q770: Count by 2 starting at 2. What is the 6th number you say?,10,14,16,12,12
+K,Maths,Subtraction,Hard,Q771: Count by 10 starting at 20. What is the 6th number you say?,90,70,80,60,70
+K,Maths,Patterns,Hard,Q772: You have 6 flowers and get 63 more. How many do you have now?,69,70,68,71,69
+K,Maths,Counting,Hard,Q773: Count by 10 starting at 10. What is the 6th number you say?,50,70,60,80,60
+K,Maths,Addition,Hard,Q774: Count by 10 starting at 20. What is the 6th number you say?,60,80,90,70,70
+K,Maths,Subtraction,Hard,Q775: You have 58 shells and get 43 more. How many do you have now?,100,102,101,103,101
+K,Maths,Patterns,Hard,Q776: There are 67 marbles. 45 go away. How many are left?,21,22,24,23,22
+K,Maths,Counting,Hard,Q777: There are 3 stars. 3 go away. How many are left?,Option 3,0,1,2,0
+K,Maths,Addition,Hard,Q778: Count by 2 starting at 0. What is the 6th number you say?,14,8,12,10,10
+K,Maths,Subtraction,Hard,Q779: Count by 10 starting at 10. What is the 6th number you say?,70,60,80,50,60
+K,Maths,Patterns,Hard,Q780: There are 61 stars. 57 go away. How many are left?,4,3,5,6,4
+K,Maths,Counting,Hard,Q781: Count by 10 starting at 0. What is the 6th number you say?,60,40,50,70,50
+K,Maths,Addition,Hard,Q782: Count by 5 starting at 5. What is the 6th number you say?,40,30,25,35,30
+K,Maths,Subtraction,Hard,Q783: You have 26 books and get 18 more. How many do you have now?,46,43,44,45,44
+K,Maths,Patterns,Hard,Q784: You have 22 books and get 46 more. How many do you have now?,68,70,69,67,68
+K,Maths,Counting,Hard,Q785: Count by 5 starting at 5. What is the 6th number you say?,35,30,25,40,30
+K,Maths,Addition,Hard,Q786: You have 7 pencils and get 45 more. How many do you have now?,53,51,54,52,52
+K,Maths,Subtraction,Hard,Q787: There are 28 stars. 1 go away. How many are left?,28,26,27,29,27
+K,Maths,Patterns,Hard,Q788: You have 54 shells and get 60 more. How many do you have now?,113,116,114,115,114
+K,Maths,Counting,Hard,Q789: You have 15 balls and get 33 more. How many do you have now?,50,47,48,49,48
+K,Maths,Addition,Hard,Q790: Count by 5 starting at 0. What is the 6th number you say?,20,35,30,25,25
+K,Maths,Subtraction,Hard,Q791: You have 2 buttons and get 31 more. How many do you have now?,33,32,34,35,33
+K,Maths,Patterns,Hard,Q792: There are 68 kites. 60 go away. How many are left?,7,9,8,10,8
+K,Maths,Counting,Hard,Q793: You have 24 cats and get 22 more. How many do you have now?,45,47,48,46,46
+K,Maths,Addition,Hard,Q794: You have 55 blocks and get 17 more. How many do you have now?,71,73,72,74,72
+K,Maths,Subtraction,Hard,Q795: You have 7 stars and get 36 more. How many do you have now?,45,42,43,44,43
+K,Maths,Patterns,Hard,Q796: There are 48 blocks. 20 go away. How many are left?,28,30,27,29,28
+K,Maths,Counting,Hard,Q797: You have 24 pencils and get 25 more. How many do you have now?,51,50,49,48,49
+K,Maths,Addition,Hard,Q798: There are 67 kites. 10 go away. How many are left?,58,59,56,57,57
+K,Maths,Subtraction,Hard,Q799: There are 60 robots. 47 go away. How many are left?,13,12,15,14,13
+K,Maths,Patterns,Hard,Q800: Count by 10 starting at 10. What is the 6th number you say?,60,50,70,80,60
+K,Maths,Counting,Hard,Q801: Count by 5 starting at 10. What is the 6th number you say?,45,35,30,40,35
+K,Maths,Addition,Hard,Q802: There are 45 robots. 9 go away. How many are left?,37,36,35,38,36
+K,Maths,Subtraction,Hard,Q803: There are 64 cats. 10 go away. How many are left?,56,53,54,55,54
+K,Maths,Patterns,Hard,Q804: You have 32 kites and get 47 more. How many do you have now?,80,79,78,81,79
+K,Maths,Counting,Hard,Q805: Count by 10 starting at 0. What is the 6th number you say?,40,60,50,70,50
+K,Maths,Addition,Hard,Q806: You have 53 apples and get 1 more. How many do you have now?,54,55,56,53,54
+K,Maths,Subtraction,Hard,Q807: You have 24 cars and get 30 more. How many do you have now?,56,55,53,54,54
+K,Maths,Patterns,Hard,Q808: Count by 10 starting at 0. What is the 6th number you say?,40,70,50,60,50
+K,Maths,Counting,Hard,Q809: There are 56 cats. 17 go away. How many are left?,41,40,38,39,39
+K,Maths,Addition,Hard,Q810: There are 36 marbles. 18 go away. How many are left?,18,19,20,17,18
+K,Maths,Subtraction,Hard,Q811: Count by 2 starting at 0. What is the 6th number you say?,12,8,14,10,10
+K,Maths,Patterns,Hard,Q812: There are 62 flowers. 27 go away. How many are left?,34,36,37,35,35
+K,Maths,Counting,Hard,Q813: There are 35 marbles. 21 go away. How many are left?,14,13,15,16,14
+K,Maths,Addition,Hard,Q814: Count by 10 starting at 0. What is the 6th number you say?,50,40,60,70,50
+K,Maths,Subtraction,Hard,Q815: Count by 5 starting at 5. What is the 6th number you say?,35,25,40,30,30
+K,Maths,Patterns,Hard,Q816: You have 43 candies and get 35 more. How many do you have now?,80,78,77,79,78
+K,Maths,Counting,Hard,Q817: There are 60 cookies. 14 go away. How many are left?,47,46,48,45,46
+K,Maths,Addition,Hard,Q818: You have 60 bears and get 29 more. How many do you have now?,88,91,90,89,89
+K,Maths,Subtraction,Hard,Q819: Count by 10 starting at 20. What is the 6th number you say?,80,90,70,60,70
+K,Maths,Patterns,Hard,Q820: You have 16 dogs and get 44 more. How many do you have now?,61,62,59,60,60
+K,Maths,Counting,Hard,Q821: You have 45 planes and get 7 more. How many do you have now?,54,52,51,53,52
+K,Maths,Addition,Hard,Q822: You have 53 shells and get 34 more. How many do you have now?,86,87,89,88,87
+K,Maths,Subtraction,Hard,Q823: You have 61 robots and get 44 more. How many do you have now?,105,106,107,104,105
+K,Maths,Patterns,Hard,Q824: You have 62 kites and get 51 more. How many do you have now?,115,114,112,113,113
+K,Maths,Counting,Hard,Q825: You have 5 pencils and get 60 more. How many do you have now?,64,66,67,65,65
+K,Maths,Addition,Hard,Q826: There are 67 blocks. 61 go away. How many are left?,5,7,6,8,6
+K,Maths,Subtraction,Hard,Q827: You have 48 kites and get 19 more. How many do you have now?,69,67,68,66,67
+K,Maths,Patterns,Hard,Q828: Count by 2 starting at 4. What is the 6th number you say?,16,18,12,14,14
+K,Maths,Counting,Hard,Q829: Count by 5 starting at 0. What is the 6th number you say?,20,35,30,25,25
+K,Maths,Addition,Hard,Q830: You have 23 shells and get 13 more. How many do you have now?,35,37,38,36,36
+K,Maths,Subtraction,Hard,Q831: You have 33 balls and get 60 more. How many do you have now?,94,93,95,92,93
+K,Maths,Patterns,Hard,Q832: Count by 10 starting at 0. What is the 6th number you say?,40,70,50,60,50
+K,Maths,Counting,Hard,Q833: You have 10 trees and get 15 more. How many do you have now?,25,24,27,26,25
+K,Maths,Addition,Hard,Q834: You have 2 kites and get 65 more. How many do you have now?,68,69,66,67,67
+K,Maths,Subtraction,Hard,Q835: There are 69 flowers. 6 go away. How many are left?,64,62,65,63,63
+K,Maths,Patterns,Hard,Q836: There are 50 pencils. 11 go away. How many are left?,41,40,39,38,39
+K,Maths,Counting,Hard,Q837: You have 50 cars and get 33 more. How many do you have now?,83,85,84,82,83
+K,Maths,Addition,Hard,Q838: There are 34 pencils. 4 go away. How many are left?,32,31,29,30,30
+K,Maths,Subtraction,Hard,Q839: You have 55 books and get 41 more. How many do you have now?,96,98,97,95,96
+K,Maths,Patterns,Hard,Q840: There are 30 planes. 18 go away. How many are left?,11,12,14,13,12
+K,Maths,Counting,Hard,Q841: There are 62 pencils. 32 go away. How many are left?,29,32,30,31,30
+K,Maths,Addition,Hard,Q842: Count by 2 starting at 2. What is the 6th number you say?,14,12,16,10,12
+K,Maths,Subtraction,Hard,Q843: You have 38 shells and get 31 more. How many do you have now?,70,71,69,68,69
+K,Maths,Patterns,Hard,Q844: You have 22 shells and get 7 more. How many do you have now?,31,28,30,29,29
+K,Maths,Counting,Hard,Q845: There are 46 cats. 39 go away. How many are left?,7,6,8,9,7
+K,Maths,Addition,Hard,Q846: Count by 5 starting at 10. What is the 6th number you say?,45,35,30,40,35
+K,Maths,Subtraction,Hard,Q847: Count by 5 starting at 0. What is the 6th number you say?,30,25,20,35,25
+K,Maths,Patterns,Hard,Q848: Count by 2 starting at 2. What is the 6th number you say?,10,14,16,12,12
+K,Maths,Counting,Hard,Q849: Count by 10 starting at 20. What is the 6th number you say?,80,90,70,60,70
+K,Maths,Addition,Hard,Q850: You have 36 robots and get 31 more. How many do you have now?,67,69,66,68,67
+K,Maths,Subtraction,Hard,Q851: You have 17 planes and get 26 more. How many do you have now?,45,44,43,42,43
+K,Maths,Patterns,Hard,Q852: There are 47 cookies. 46 go away. How many are left?,3,0,1,2,1
+K,Maths,Counting,Hard,Q853: Count by 5 starting at 0. What is the 6th number you say?,20,30,35,25,25
+K,Maths,Addition,Hard,Q854: There are 67 balls. 0 go away. How many are left?,66,68,67,69,67
+K,Maths,Subtraction,Hard,Q855: Count by 10 starting at 20. What is the 6th number you say?,70,60,80,90,70
+K,Maths,Patterns,Hard,Q856: You have 2 dogs and get 65 more. How many do you have now?,66,69,67,68,67
+K,Maths,Counting,Hard,Q857: You have 55 candies and get 4 more. How many do you have now?,59,60,61,58,59
+K,Maths,Addition,Hard,Q858: Count by 10 starting at 20. What is the 6th number you say?,60,70,90,80,70
+K,Maths,Subtraction,Hard,Q859: Count by 10 starting at 0. What is the 6th number you say?,40,70,60,50,50
+K,Maths,Patterns,Hard,Q860: There are 59 books. 45 go away. How many are left?,13,14,15,16,14
+K,Maths,Counting,Hard,Q861: There are 58 candies. 41 go away. How many are left?,16,19,17,18,17
+K,Maths,Addition,Hard,Q862: Count by 2 starting at 0. What is the 6th number you say?,10,14,12,8,10
+K,Maths,Subtraction,Hard,Q863: You have 51 kites and get 26 more. How many do you have now?,76,79,77,78,77
+K,Maths,Patterns,Hard,Q864: There are 30 trees. 29 go away. How many are left?,0,1,2,3,1
+K,Maths,Counting,Hard,Q865: There are 46 buttons. 1 go away. How many are left?,45,46,47,44,45
+K,Maths,Addition,Hard,Q866: Count by 10 starting at 10. What is the 6th number you say?,70,50,60,80,60
+K,Maths,Subtraction,Hard,Q867: Count by 5 starting at 10. What is the 6th number you say?,40,45,30,35,35
+K,Maths,Patterns,Hard,Q868: There are 49 robots. 34 go away. How many are left?,15,14,16,17,15
+K,Maths,Counting,Hard,Q869: You have 32 dogs and get 33 more. How many do you have now?,66,65,67,64,65
+K,Maths,Addition,Hard,Q870: There are 48 planes. 2 go away. How many are left?,48,47,45,46,46
+K,Maths,Subtraction,Hard,Q871: Count by 2 starting at 0. What is the 6th number you say?,10,12,8,14,10
+K,Maths,Patterns,Hard,Q872: There are 37 apples. 6 go away. How many are left?,32,30,33,31,31
+K,Maths,Counting,Hard,Q873: There are 28 flowers. 4 go away. How many are left?,26,23,25,24,24
+K,Maths,Addition,Hard,Q874: Count by 5 starting at 0. What is the 6th number you say?,30,25,20,35,25
+K,Maths,Subtraction,Hard,Q875: Count by 5 starting at 5. What is the 6th number you say?,30,35,25,40,30
+K,Maths,Patterns,Hard,Q876: There are 50 robots. 13 go away. How many are left?,36,38,37,39,37
+K,Maths,Counting,Hard,Q877: You have 34 stars and get 18 more. How many do you have now?,53,52,51,54,52
+K,Maths,Addition,Hard,Q878: You have 52 books and get 10 more. How many do you have now?,64,63,61,62,62
+K,Maths,Subtraction,Hard,Q879: Count by 5 starting at 10. What is the 6th number you say?,45,35,30,40,35
+K,Maths,Patterns,Hard,Q880: You have 50 apples and get 53 more. How many do you have now?,105,104,102,103,103
+K,Maths,Counting,Hard,Q881: There are 10 bears. 3 go away. How many are left?,9,7,8,6,7
+K,Maths,Addition,Hard,Q882: You have 63 planes and get 26 more. How many do you have now?,91,89,90,88,89
+K,Maths,Subtraction,Hard,Q883: Count by 10 starting at 0. What is the 6th number you say?,60,40,50,70,50
+K,Maths,Patterns,Hard,Q884: There are 66 cats. 50 go away. How many are left?,18,15,17,16,16
+K,Maths,Counting,Hard,Q885: You have 12 pencils and get 31 more. How many do you have now?,42,43,44,45,43
+K,Maths,Addition,Hard,Q886: You have 35 apples and get 17 more. How many do you have now?,53,51,52,54,52
+K,Maths,Subtraction,Hard,Q887: Count by 2 starting at 2. What is the 6th number you say?,12,10,16,14,12
+K,Maths,Patterns,Hard,Q888: There are 49 books. 47 go away. How many are left?,2,3,1,4,2
+K,Maths,Counting,Hard,Q889: Count by 2 starting at 0. What is the 6th number you say?,12,10,14,8,10
+K,Maths,Addition,Hard,Q890: Count by 2 starting at 2. What is the 6th number you say?,12,16,14,10,12
+K,Maths,Subtraction,Hard,Q891: There are 69 books. 45 go away. How many are left?,23,24,25,26,24
+K,Maths,Patterns,Hard,Q892: You have 2 stars and get 21 more. How many do you have now?,24,22,25,23,23
+K,Maths,Counting,Hard,Q893: Count by 2 starting at 2. What is the 6th number you say?,14,16,12,10,12
+K,Maths,Addition,Hard,Q894: You have 1 shells and get 65 more. How many do you have now?,67,68,65,66,66
+K,Maths,Subtraction,Hard,Q895: There are 50 dogs. 38 go away. How many are left?,11,12,14,13,12
+K,Maths,Patterns,Hard,Q896: There are 25 marbles. 10 go away. How many are left?,15,16,17,14,15
+K,Maths,Counting,Hard,Q897: There are 68 flowers. 57 go away. How many are left?,12,13,11,10,11
+K,Maths,Addition,Hard,Q898: There are 51 cats. 37 go away. How many are left?,15,16,14,13,14
+K,Maths,Subtraction,Hard,Q899: There are 54 cars. 9 go away. How many are left?,46,44,45,47,45
+K,Maths,Patterns,Hard,Q900: There are 31 cats. 28 go away. How many are left?,4,3,5,2,3
+K,Maths,Counting,Hard,Q901: There are 60 balls. 39 go away. How many are left?,23,22,20,21,21
+K,Maths,Addition,Hard,Q902: You have 42 flowers and get 49 more. How many do you have now?,90,93,91,92,91
+K,Maths,Subtraction,Hard,Q903: You have 59 buttons and get 35 more. How many do you have now?,94,96,95,93,94
+K,Maths,Patterns,Hard,Q904: There are 47 kites. 23 go away. How many are left?,24,26,25,23,24
+K,Maths,Counting,Hard,Q905: There are 27 dogs. 17 go away. How many are left?,9,12,10,11,10
+K,Maths,Addition,Hard,Q906: There are 36 cookies. 2 go away. How many are left?,34,35,33,36,34
+K,Maths,Subtraction,Hard,Q907: You have 39 cars and get 69 more. How many do you have now?,108,107,110,109,108
+K,Maths,Patterns,Hard,Q908: You have 34 blocks and get 35 more. How many do you have now?,71,70,68,69,69
+K,Maths,Counting,Hard,Q909: Count by 10 starting at 20. What is the 6th number you say?,70,90,80,60,70
+K,Maths,Addition,Hard,Q910: There are 56 robots. 19 go away. How many are left?,39,38,37,36,37
+K,Maths,Subtraction,Hard,Q911: You have 10 pencils and get 61 more. How many do you have now?,71,72,70,73,71
+K,Maths,Patterns,Hard,Q912: There are 61 stars. 14 go away. How many are left?,49,48,46,47,47
+K,Maths,Counting,Hard,Q913: Count by 2 starting at 0. What is the 6th number you say?,10,12,14,8,10
+K,Maths,Addition,Hard,Q914: There are 36 flowers. 25 go away. How many are left?,13,11,12,10,11
+K,Maths,Subtraction,Hard,Q915: There are 12 cookies. 0 go away. How many are left?,11,12,14,13,12
+K,Maths,Patterns,Hard,Q916: Count by 2 starting at 0. What is the 6th number you say?,8,10,14,12,10
+K,Maths,Counting,Hard,Q917: There are 43 stars. 25 go away. How many are left?,20,18,17,19,18
+K,Maths,Addition,Hard,Q918: There are 69 candies. 28 go away. How many are left?,43,42,40,41,41
+K,Maths,Subtraction,Hard,Q919: Count by 10 starting at 0. What is the 6th number you say?,60,40,50,70,50
+K,Maths,Patterns,Hard,Q920: Count by 2 starting at 2. What is the 6th number you say?,14,10,12,16,12
+K,Maths,Counting,Hard,Q921: Count by 5 starting at 10. What is the 6th number you say?,35,40,45,30,35
+K,Maths,Addition,Hard,Q922: Count by 10 starting at 0. What is the 6th number you say?,50,60,40,70,50
+K,Maths,Subtraction,Hard,Q923: There are 59 cars. 19 go away. How many are left?,39,41,40,42,40
+K,Maths,Patterns,Hard,Q924: You have 2 balls and get 29 more. How many do you have now?,30,32,33,31,31
+K,Maths,Counting,Hard,Q925: Count by 10 starting at 0. What is the 6th number you say?,40,50,70,60,50
+K,Maths,Addition,Hard,Q926: Count by 2 starting at 2. What is the 6th number you say?,12,14,16,10,12
+K,Maths,Subtraction,Hard,Q927: There are 61 shells. 17 go away. How many are left?,46,45,43,44,44
+K,Maths,Patterns,Hard,Q928: Count by 2 starting at 0. What is the 6th number you say?,8,10,14,12,10
+K,Maths,Counting,Hard,Q929: There are 29 dogs. 26 go away. How many are left?,4,2,5,3,3
+K,Maths,Addition,Hard,Q930: You have 45 candies and get 54 more. How many do you have now?,101,98,100,99,99
+K,Maths,Subtraction,Hard,Q931: There are 31 shells. 11 go away. How many are left?,20,19,21,22,20
+K,Maths,Patterns,Hard,Q932: There are 56 apples. 52 go away. How many are left?,6,3,5,4,4
+K,Maths,Counting,Hard,Q933: You have 38 shells and get 17 more. How many do you have now?,57,56,55,54,55
+K,Maths,Addition,Hard,Q934: There are 4 candies. 2 go away. How many are left?,3,4,1,2,2
+K,Maths,Subtraction,Hard,Q935: You have 0 pencils and get 65 more. How many do you have now?,65,64,67,66,65
+K,Maths,Patterns,Hard,Q936: Count by 2 starting at 4. What is the 6th number you say?,14,12,16,18,14
+K,Maths,Counting,Hard,Q937: Count by 5 starting at 0. What is the 6th number you say?,20,35,30,25,25
+K,Maths,Addition,Hard,Q938: There are 24 dogs. 21 go away. How many are left?,4,5,3,2,3
+K,Maths,Subtraction,Hard,Q939: You have 27 buttons and get 27 more. How many do you have now?,54,56,53,55,54
+K,Maths,Patterns,Hard,Q940: Count by 10 starting at 0. What is the 6th number you say?,50,40,60,70,50
+K,Maths,Counting,Hard,Q941: There are 63 balls. 47 go away. How many are left?,18,15,16,17,16
+K,Maths,Addition,Hard,Q942: Count by 5 starting at 10. What is the 6th number you say?,40,35,45,30,35
+K,Maths,Subtraction,Hard,Q943: Count by 2 starting at 0. What is the 6th number you say?,10,14,12,8,10
+K,Maths,Patterns,Hard,Q944: Count by 10 starting at 10. What is the 6th number you say?,70,60,80,50,60
+K,Maths,Counting,Hard,Q945: You have 1 cars and get 47 more. How many do you have now?,47,50,48,49,48
+K,Maths,Addition,Hard,Q946: There are 48 robots. 18 go away. How many are left?,29,31,32,30,30
+K,Maths,Subtraction,Hard,Q947: Count by 2 starting at 2. What is the 6th number you say?,10,14,12,16,12
+K,Maths,Patterns,Hard,Q948: There are 16 dogs. 8 go away. How many are left?,9,8,7,10,8
+K,Maths,Counting,Hard,Q949: Count by 10 starting at 0. What is the 6th number you say?,40,70,60,50,50
+K,Maths,Addition,Hard,Q950: There are 55 cars. 42 go away. How many are left?,14,13,12,15,13
+K,Maths,Subtraction,Hard,Q951: There are 53 balls. 43 go away. How many are left?,9,11,10,12,10
+K,Maths,Patterns,Hard,Q952: You have 8 flowers and get 68 more. How many do you have now?,75,76,77,78,76
+K,Maths,Counting,Hard,Q953: Count by 2 starting at 2. What is the 6th number you say?,14,12,10,16,12
+K,Maths,Addition,Hard,Q954: Count by 2 starting at 4. What is the 6th number you say?,16,14,18,12,14
+K,Maths,Subtraction,Hard,Q955: Count by 5 starting at 0. What is the 6th number you say?,35,25,30,20,25
+K,Maths,Patterns,Hard,Q956: You have 21 dogs and get 19 more. How many do you have now?,41,39,42,40,40
+K,Maths,Counting,Hard,Q957: There are 53 flowers. 24 go away. How many are left?,29,28,31,30,29
+K,Maths,Addition,Hard,Q958: Count by 10 starting at 0. What is the 6th number you say?,70,60,50,40,50
+K,Maths,Subtraction,Hard,Q959: You have 7 flowers and get 31 more. How many do you have now?,39,38,40,37,38
+K,Maths,Patterns,Hard,Q960: You have 45 robots and get 56 more. How many do you have now?,103,102,101,100,101
+K,Maths,Counting,Hard,Q961: There are 61 marbles. 2 go away. How many are left?,59,60,58,61,59
+K,Maths,Addition,Hard,Q962: Count by 10 starting at 10. What is the 6th number you say?,60,50,80,70,60
+K,Maths,Subtraction,Hard,Q963: Count by 5 starting at 10. What is the 6th number you say?,35,30,45,40,35
+K,Maths,Patterns,Hard,Q964: Count by 10 starting at 0. What is the 6th number you say?,60,40,50,70,50
+K,Maths,Counting,Hard,Q965: You have 59 stars and get 4 more. How many do you have now?,65,64,62,63,63
+K,Maths,Addition,Hard,Q966: Count by 2 starting at 4. What is the 6th number you say?,18,12,16,14,14
+K,Maths,Subtraction,Hard,Q967: There are 68 trees. 55 go away. How many are left?,13,15,14,12,13
+K,Maths,Patterns,Hard,Q968: There are 58 cats. 34 go away. How many are left?,23,24,25,26,24
+K,Maths,Counting,Hard,Q969: Count by 10 starting at 20. What is the 6th number you say?,80,60,70,90,70
+K,Maths,Addition,Hard,Q970: There are 63 cookies. 61 go away. How many are left?,1,3,4,2,2
+K,Maths,Subtraction,Hard,Q971: There are 28 buttons. 6 go away. How many are left?,23,21,22,24,22
+K,Maths,Patterns,Hard,Q972: There are 38 dogs. 16 go away. How many are left?,21,24,22,23,22
+K,Maths,Counting,Hard,Q973: You have 13 cars and get 44 more. How many do you have now?,57,59,58,56,57
+K,Maths,Addition,Hard,Q974: There are 69 robots. 22 go away. How many are left?,49,47,48,46,47
+K,Maths,Subtraction,Hard,Q975: There are 49 pencils. 41 go away. How many are left?,9,10,8,7,8
+K,Maths,Patterns,Hard,Q976: You have 54 pencils and get 29 more. How many do you have now?,82,85,83,84,83
+K,Maths,Counting,Hard,Q977: You have 21 marbles and get 55 more. How many do you have now?,75,77,76,78,76
+K,Maths,Addition,Hard,Q978: You have 68 dogs and get 1 more. How many do you have now?,70,71,68,69,69
+K,Maths,Subtraction,Hard,Q979: There are 38 apples. 20 go away. How many are left?,17,20,18,19,18
+K,Maths,Patterns,Hard,Q980: Count by 2 starting at 2. What is the 6th number you say?,14,16,10,12,12
+K,Maths,Counting,Hard,Q981: There are 3 books. 0 go away. How many are left?,5,4,3,2,3
+K,Maths,Addition,Hard,Q982: There are 38 cookies. 33 go away. How many are left?,5,4,6,7,5
+K,Maths,Subtraction,Hard,Q983: Count by 2 starting at 2. What is the 6th number you say?,16,10,12,14,12
+K,Maths,Patterns,Hard,Q984: Count by 2 starting at 4. What is the 6th number you say?,18,12,14,16,14
+K,Maths,Counting,Hard,Q985: Count by 5 starting at 0. What is the 6th number you say?,25,20,30,35,25
+K,Maths,Addition,Hard,Q986: Count by 10 starting at 10. What is the 6th number you say?,80,50,70,60,60
+K,Maths,Subtraction,Hard,Q987: You have 42 dogs and get 66 more. How many do you have now?,109,108,110,107,108
+K,Maths,Patterns,Hard,Q988: Count by 2 starting at 0. What is the 6th number you say?,8,12,10,14,10
+K,Maths,Counting,Hard,Q989: Count by 5 starting at 5. What is the 6th number you say?,40,35,25,30,30
+K,Maths,Addition,Hard,Q990: There are 64 apples. 2 go away. How many are left?,62,61,63,64,62
+K,Maths,Subtraction,Hard,Q991: There are 50 cars. 10 go away. How many are left?,41,40,39,42,40
+K,Maths,Patterns,Hard,Q992: Count by 10 starting at 10. What is the 6th number you say?,60,80,70,50,60
+K,Maths,Counting,Hard,Q993: You have 22 dogs and get 11 more. How many do you have now?,32,35,34,33,33
+K,Maths,Addition,Hard,Q994: Count by 10 starting at 0. What is the 6th number you say?,40,50,60,70,50
+K,Maths,Subtraction,Hard,Q995: You have 56 dogs and get 50 more. How many do you have now?,105,107,106,108,106
+K,Maths,Patterns,Hard,Q996: There are 58 cats. 51 go away. How many are left?,9,7,6,8,7
+K,Maths,Counting,Hard,Q997: There are 31 books. 16 go away. How many are left?,17,14,16,15,15
+K,Maths,Addition,Hard,Q998: You have 20 pencils and get 11 more. How many do you have now?,31,32,33,30,31
+K,Maths,Subtraction,Hard,Q999: Count by 5 starting at 10. What is the 6th number you say?,40,30,35,45,35
+K,Maths,Patterns,Hard,Q1000: Count by 10 starting at 0. What is the 6th number you say?,60,50,70,40,50

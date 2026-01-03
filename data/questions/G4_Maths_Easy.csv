@@ -4,998 +4,998 @@ Grade,Subject,Topic,Difficulty,Question,A,B,C,D,Correct Answer
 4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
 4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
 4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
 4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
 4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
 4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
-4,Maths,Measurement,Easy,Compute: 173 - 58,116,105,125,115,115
-4,Maths,Measurement,Easy,Compute: 12 × 13,143,166,168,156,156
-4,Maths,Addition & Subtraction,Easy,Compute: 95 + 162,258,247,267,257,257
-4,Maths,Multiplication,Easy,Compute: 104 ÷ 8,14,13,12,15,13
-4,Maths,Multiplication,Easy,Compute: 12 ÷ 3,3,6,5,4,4
-4,Maths,Addition & Subtraction,Easy,Compute: 98 ÷ 7,14,15,16,13,14
-4,Maths,Measurement,Easy,Compute: 88 ÷ 11,7,8,9,10,8
-4,Maths,Addition & Subtraction,Easy,Compute: 101 + 175,277,286,276,266,276
-4,Maths,Multiplication,Easy,Compute: 115 + 131,256,247,236,246,246
-4,Maths,Place Value,Easy,Compute: 98 - 2,106,96,86,97,96
-4,Maths,Measurement,Easy,Compute: 8 × 13,114,91,112,104,104
-4,Maths,Measurement,Easy,Compute: 12 × 3,36,33,48,46,36
-4,Maths,Multiplication,Easy,Compute: 28 ÷ 14,2,3,4,1,2
-4,Maths,Measurement,Easy,Compute: 12 + 110,112,132,123,122,122
-4,Maths,Place Value,Easy,Compute: 195 - 170,15,25,35,26,25
-4,Maths,Multiplication,Easy,Compute: 4 × 14,66,56,60,42,56
-4,Maths,Place Value,Easy,Compute: 6 × 14,90,70,94,84,84
-4,Maths,Multiplication,Easy,Compute: 131 - 127,4,5,14,0,4
-4,Maths,Measurement,Easy,Compute: 17 + 151,168,169,178,158,168
-4,Maths,Measurement,Easy,Compute: 3 × 14,42,52,45,28,42
-4,Maths,Multiplication,Easy,Compute: 13 × 10,130,143,120,140,130
-4,Maths,Place Value,Easy,Compute: 52 ÷ 13,3,5,6,4,4
-4,Maths,Measurement,Easy,Compute: 12 × 10,110,130,120,132,120
-4,Maths,Measurement,Easy,Compute: 140 - 28,102,122,113,112,112
-4,Maths,Place Value,Easy,Compute: 12 × 7,77,96,94,84,84
-4,Maths,Measurement,Easy,Compute: 8 × 15,105,130,128,120,120
-4,Maths,Place Value,Easy,Compute: 122 + 32,144,154,164,155,154
-4,Maths,Addition & Subtraction,Easy,Compute: 146 - 75,72,81,71,61,71
-4,Maths,Addition & Subtraction,Easy,Compute: 32 ÷ 8,6,4,5,3,4
-4,Maths,Addition & Subtraction,Easy,Compute: 44 - 33,21,12,11,1,11
-4,Maths,Measurement,Easy,Compute: 13 × 15,205,195,208,180,195
-4,Maths,Measurement,Easy,Compute: 89 + 99,188,189,178,198,188
-4,Maths,Measurement,Easy,Compute: 182 ÷ 14,15,12,13,14,13
-4,Maths,Addition & Subtraction,Easy,Compute: 78 + 167,255,245,246,235,245
-4,Maths,Addition & Subtraction,Easy,Compute: 15 ÷ 5,2,4,5,3,3
-4,Maths,Measurement,Easy,Compute: 8 × 5,35,48,40,50,40
-4,Maths,Place Value,Easy,Compute: 169 ÷ 13,13,12,15,14,13
-4,Maths,Addition & Subtraction,Easy,Compute: 78 ÷ 13,5,6,7,8,6
-4,Maths,Place Value,Easy,Compute: 2 × 11,24,22,11,32,22
-4,Maths,Multiplication,Easy,Compute: 3 × 15,30,48,55,45,45
-4,Maths,Multiplication,Easy,Compute: 178 - 147,32,21,41,31,31
-4,Maths,Addition & Subtraction,Easy,Compute: 4 × 10,50,30,40,44,40
-4,Maths,Measurement,Easy,Compute: 56 - 39,7,17,27,18,17
-4,Maths,Place Value,Easy,Compute: 75 ÷ 5,17,15,16,14,15
-4,Maths,Addition & Subtraction,Easy,Compute: 90 ÷ 6,17,14,15,16,15
-4,Maths,Multiplication,Easy,Compute: 149 - 25,134,124,125,114,124
-4,Maths,Multiplication,Easy,Compute: 124 - 78,46,47,56,36,46
-4,Maths,Measurement,Easy,Compute: 190 - 56,124,144,135,134,134
-4,Maths,Place Value,Easy,Compute: 2 × 6,12,14,6,22,12
-4,Maths,Addition & Subtraction,Easy,Compute: 4 × 4,16,26,20,12,16
-4,Maths,Addition & Subtraction,Easy,Compute: 58 + 85,143,144,153,133,143
-4,Maths,Measurement,Easy,Compute: 98 + 110,208,218,198,209,208
-4,Maths,Multiplication,Easy,Compute: 108 + 193,291,311,301,302,301
-4,Maths,Place Value,Easy,Compute: 184 - 34,150,140,160,151,150
-4,Maths,Multiplication,Easy,Compute: 131 + 28,149,160,159,169,159
-4,Maths,Multiplication,Easy,Compute: 15 + 3,19,8,28,18,18
-4,Maths,Multiplication,Easy,Compute: 88 + 9,98,97,107,87,97
-4,Maths,Multiplication,Easy,Compute: 64 ÷ 8,8,10,9,7,8
-4,Maths,Measurement,Easy,Compute: 9 × 2,18,27,28,16,18
-4,Maths,Addition & Subtraction,Easy,Compute: 86 + 141,228,217,227,237,227
-4,Maths,Addition & Subtraction,Easy,Compute: 3 × 9,30,18,37,27,27
-4,Maths,Measurement,Easy,Compute: 7 × 2,12,21,14,24,14
-4,Maths,Place Value,Easy,Compute: 13 + 54,57,68,67,77,67
-4,Maths,Addition & Subtraction,Easy,Compute: 90 ÷ 9,9,11,12,10,10
-4,Maths,Place Value,Easy,Compute: 117 ÷ 9,15,12,14,13,13
-4,Maths,Addition & Subtraction,Easy,Compute: 22 + 131,163,154,153,143,153
-4,Maths,Measurement,Easy,Compute: 100 - 35,66,65,75,55,65
-4,Maths,Addition & Subtraction,Easy,Compute: 50 ÷ 10,5,7,6,4,5
-4,Maths,Place Value,Easy,Compute: 48 ÷ 8,7,8,5,6,6
-4,Maths,Addition & Subtraction,Easy,Compute: 61 + 184,255,246,235,245,245
-4,Maths,Measurement,Easy,Compute: 99 ÷ 9,13,10,12,11,11
-4,Maths,Measurement,Easy,Compute: 166 + 110,266,276,277,286,276
-4,Maths,Addition & Subtraction,Easy,Compute: 132 ÷ 11,11,13,12,14,12
-4,Maths,Measurement,Easy,Compute: 8 ÷ 2,3,5,6,4,4
-4,Maths,Measurement,Easy,Compute: 116 - 49,67,77,57,68,67
-4,Maths,Place Value,Easy,Compute: 15 × 14,225,196,220,210,210
-4,Maths,Place Value,Easy,Compute: 74 + 120,184,204,194,195,194
-4,Maths,Measurement,Easy,Compute: 4 + 123,128,117,137,127,127
-4,Maths,Multiplication,Easy,Compute: 183 - 160,33,13,23,24,23
-4,Maths,Addition & Subtraction,Easy,Compute: 13 × 14,195,168,182,192,182
-4,Maths,Multiplication,Easy,Compute: 14 × 4,70,56,52,66,56
-4,Maths,Place Value,Easy,Compute: 179 + 126,295,306,305,315,305
-4,Maths,Measurement,Easy,Compute: 105 + 42,157,137,148,147,147
-4,Maths,Place Value,Easy,Compute: 183 - 101,82,83,72,92,82
-4,Maths,Measurement,Easy,Compute: 44 ÷ 11,4,5,6,3,4
-4,Maths,Place Value,Easy,Compute: 4 × 5,30,24,15,20,20
-4,Maths,Multiplication,Easy,Compute: 88 ÷ 8,11,13,12,10,11
-4,Maths,Multiplication,Easy,Compute: 15 + 164,189,180,169,179,179
-4,Maths,Measurement,Easy,Compute: 80 - 23,47,57,58,67,57
-4,Maths,Measurement,Easy,Compute: 90 + 4,104,95,94,84,94
-4,Maths,Addition & Subtraction,Easy,Compute: 148 - 17,132,131,121,141,131
-4,Maths,Measurement,Easy,Compute: 8 ÷ 4,4,2,1,3,2
-4,Maths,Addition & Subtraction,Easy,Compute: 75 ÷ 15,5,4,7,6,5
-4,Maths,Multiplication,Easy,Compute: 33 ÷ 3,13,12,10,11,11
-4,Maths,Multiplication,Easy,Compute: 193 - 27,166,176,156,167,166
-4,Maths,Multiplication,Easy,Compute: 166 - 90,66,86,76,77,76
-4,Maths,Addition & Subtraction,Easy,Compute: 16 ÷ 8,4,3,1,2,2
-4,Maths,Place Value,Easy,Compute: 7 × 8,56,66,63,48,56
-4,Maths,Addition & Subtraction,Easy,Compute: 161 - 146,25,5,16,15,15
-4,Maths,Measurement,Easy,Compute: 148 + 143,281,292,301,291,291
-4,Maths,Measurement,Easy,Compute: 8 + 147,155,165,156,145,155
-4,Maths,Measurement,Easy,Compute: 188 + 88,286,266,276,277,276
-4,Maths,Place Value,Easy,Compute: 10 × 12,Option 3,120,108,130,120
-4,Maths,Addition & Subtraction,Easy,Compute: 15 × 3,42,60,55,45,45
-4,Maths,Multiplication,Easy,Compute: 10 + 155,155,175,165,166,165
-4,Maths,Multiplication,Easy,Compute: 100 ÷ 10,12,10,11,9,10
-4,Maths,Place Value,Easy,Compute: 77 + 198,276,285,265,275,275
-4,Maths,Place Value,Easy,Compute: 11 × 9,110,109,99,90,99
-4,Maths,Measurement,Easy,Compute: 11 × 14,154,140,165,164,154
-4,Maths,Multiplication,Easy,Compute: 120 ÷ 8,17,16,15,14,15
-4,Maths,Multiplication,Easy,Compute: 200 - 175,26,25,15,35,25
-4,Maths,Multiplication,Easy,Compute: 172 + 31,193,203,213,204,203
-4,Maths,Multiplication,Easy,Compute: 2 × 10,10,20,22,30,20
-4,Maths,Addition & Subtraction,Easy,Compute: 6 ÷ 2,5,4,2,3,3
-4,Maths,Multiplication,Easy,Compute: 16 ÷ 2,10,9,7,8,8
-4,Maths,Measurement,Easy,Compute: 106 + 192,308,299,298,288,298
-4,Maths,Addition & Subtraction,Easy,Compute: 124 - 12,122,102,113,112,112
-4,Maths,Measurement,Easy,Compute: 126 ÷ 9,14,15,16,13,14
-4,Maths,Addition & Subtraction,Easy,Compute: 99 + 165,274,254,265,264,264
-4,Maths,Place Value,Easy,Compute: 111 + 124,236,235,225,245,235
-4,Maths,Place Value,Easy,Compute: 10 + 25,35,25,36,45,35
-4,Maths,Multiplication,Easy,Compute: 6 × 10,50,66,60,70,60
-4,Maths,Addition & Subtraction,Easy,Compute: 157 + 74,231,241,232,221,231
-4,Maths,Addition & Subtraction,Easy,Compute: 47 - 12,36,35,45,25,35
-4,Maths,Place Value,Easy,Compute: 14 × 11,143,154,168,164,154
-4,Maths,Multiplication,Easy,Compute: 45 ÷ 15,3,5,4,2,3
-4,Maths,Addition & Subtraction,Easy,Compute: 159 - 61,98,99,88,108,98
-4,Maths,Place Value,Easy,Compute: 114 - 51,73,64,63,53,63
-4,Maths,Place Value,Easy,Compute: 35 ÷ 7,6,5,4,7,5
-4,Maths,Place Value,Easy,Compute: 114 + 6,120,130,110,121,120
-4,Maths,Multiplication,Easy,Compute: 155 - 15,141,150,130,140,140
-4,Maths,Place Value,Easy,Compute: 4 × 8,42,36,24,32,32
-4,Maths,Measurement,Easy,Compute: 72 ÷ 9,7,10,8,9,8
-4,Maths,Measurement,Easy,Compute: 181 - 41,130,141,140,150,140
-4,Maths,Addition & Subtraction,Easy,Compute: 6 + 74,90,81,80,70,80
-4,Maths,Place Value,Easy,Compute: 159 - 110,50,49,59,39,49
-4,Maths,Addition & Subtraction,Easy,Compute: 164 - 40,125,134,124,114,124
-4,Maths,Place Value,Easy,Compute: 4 + 76,80,70,90,81,80
-4,Maths,Addition & Subtraction,Easy,Compute: 10 × 11,120,110,99,Option 3,110
-4,Maths,Addition & Subtraction,Easy,Compute: 18 + 52,80,70,71,60,70
-4,Maths,Place Value,Easy,Compute: 86 - 63,33,13,23,24,23
-4,Maths,Multiplication,Easy,Compute: 54 ÷ 9,6,8,7,5,6
-4,Maths,Multiplication,Easy,Compute: 77 ÷ 11,6,7,8,9,7
-4,Maths,Measurement,Easy,Compute: 4 × 15,70,60,64,45,60
-4,Maths,Place Value,Easy,Compute: 65 ÷ 13,5,6,7,4,5
-4,Maths,Measurement,Easy,Compute: 182 + 23,195,215,205,206,205
-4,Maths,Measurement,Easy,Compute: 123 + 15,139,148,138,128,138
-4,Maths,Place Value,Easy,Compute: 89 - 70,9,29,19,20,19
-4,Maths,Place Value,Easy,Compute: 168 - 114,44,64,54,55,54
-4,Maths,Measurement,Easy,Compute: 40 ÷ 5,7,9,8,10,8
-4,Maths,Measurement,Easy,Compute: 95 - 88,0,8,17,7,7
-4,Maths,Measurement,Easy,Compute: 62 - 24,38,28,39,48,38
-4,Maths,Addition & Subtraction,Easy,Compute: 45 ÷ 3,15,17,16,14,15
-4,Maths,Addition & Subtraction,Easy,Compute: 182 - 174,9,0,8,18,8
-4,Maths,Multiplication,Easy,Compute: 127 - 17,110,100,111,120,110
-4,Maths,Multiplication,Easy,Compute: 126 ÷ 14,8,9,11,10,9
-4,Maths,Measurement,Easy,Compute: 123 + 137,261,250,270,260,260
-4,Maths,Multiplication,Easy,Compute: 24 ÷ 2,13,12,14,11,12
-4,Maths,Measurement,Easy,Compute: 18 + 162,181,170,190,180,180
-4,Maths,Measurement,Easy,Compute: 72 ÷ 8,8,11,9,10,9
-4,Maths,Place Value,Easy,Compute: 30 ÷ 5,8,7,5,6,6
-4,Maths,Multiplication,Easy,Compute: 140 - 57,84,83,93,73,83
-4,Maths,Addition & Subtraction,Easy,Compute: 62 + 186,249,258,248,238,248
-4,Maths,Multiplication,Easy,Compute: 2 × 8,8,26,16,18,16
-4,Maths,Place Value,Easy,Compute: 50 ÷ 5,10,11,9,12,10
-4,Maths,Multiplication,Easy,Compute: 130 ÷ 13,9,12,10,11,10
-4,Maths,Multiplication,Easy,Compute: 182 - 94,88,78,98,89,88
-4,Maths,Multiplication,Easy,Compute: 4 × 13,56,52,62,39,52
-4,Maths,Addition & Subtraction,Easy,Compute: 169 - 32,147,127,138,137,137
-4,Maths,Place Value,Easy,Compute: 12 ÷ 4,4,5,2,3,3
-4,Maths,Measurement,Easy,Compute: 138 - 24,114,124,115,104,114
-4,Maths,Addition & Subtraction,Easy,Compute: 85 - 31,64,55,54,44,54
-4,Maths,Addition & Subtraction,Easy,Compute: 170 - 44,136,126,116,127,126
-4,Maths,Multiplication,Easy,Compute: 199 - 116,93,83,73,84,83
-4,Maths,Addition & Subtraction,Easy,Compute: 14 × 15,195,224,210,220,210
-4,Maths,Place Value,Easy,Compute: 4 × 2,6,12,18,8,8
-4,Maths,Multiplication,Easy,Compute: 7 × 12,91,72,94,84,84
-4,Maths,Place Value,Easy,Compute: 5 × 15,75,80,85,60,75
-4,Maths,Measurement,Easy,Compute: 14 × 10,150,154,140,130,140
-4,Maths,Addition & Subtraction,Easy,Compute: 40 ÷ 10,6,5,4,3,4
-4,Maths,Multiplication,Easy,Compute: 9 × 14,136,135,126,112,126
-4,Maths,Measurement,Easy,Compute: 5 × 6,30,40,35,24,30
-4,Maths,Multiplication,Easy,Compute: 194 + 143,337,347,327,338,337
-4,Maths,Addition & Subtraction,Easy,Compute: 3 × 7,31,14,24,21,21
-4,Maths,Measurement,Easy,Compute: 3 × 4,22,12,8,15,12
-4,Maths,Multiplication,Easy,Compute: 2 × 15,32,15,30,40,30
-4,Maths,Addition & Subtraction,Easy,Compute: 146 - 40,107,106,116,96,106
-4,Maths,Place Value,Easy,Compute: 42 ÷ 7,7,5,8,6,6
-4,Maths,Addition & Subtraction,Easy,Compute: 176 - 34,132,152,143,142,142
-4,Maths,Addition & Subtraction,Easy,Compute: 127 + 123,260,240,250,251,250
-4,Maths,Measurement,Easy,Compute: 196 + 65,262,261,271,251,261
-4,Maths,Place Value,Easy,Compute: 62 + 11,83,63,73,74,73
-4,Maths,Addition & Subtraction,Easy,Compute: 39 + 124,153,173,164,163,163
-4,Maths,Place Value,Easy,Compute: 11 × 15,150,175,165,176,165
-4,Maths,Multiplication,Easy,Compute: 92 + 189,291,271,281,282,281
-4,Maths,Multiplication,Easy,Compute: 160 - 75,95,86,75,85,85
-4,Maths,Place Value,Easy,Compute: 160 - 134,16,36,27,26,26
-4,Maths,Addition & Subtraction,Easy,Compute: 147 - 10,138,137,147,127,137
-4,Maths,Measurement,Easy,Compute: 8 × 3,24,34,32,21,24
-4,Maths,Place Value,Easy,Compute: 26 ÷ 13,2,1,4,3,2
-4,Maths,Multiplication,Easy,Compute: 13 × 7,84,101,91,104,91
-4,Maths,Measurement,Easy,Compute: 6 × 2,22,18,10,12,12
-4,Maths,Multiplication,Easy,Compute: 14 × 2,28,42,38,26,28
-4,Maths,Addition & Subtraction,Easy,Compute: 41 + 17,58,59,48,68,58
-4,Maths,Place Value,Easy,Compute: 80 ÷ 8,9,10,12,11,10
-4,Maths,Place Value,Easy,Compute: 157 - 3,154,164,144,155,154
-4,Maths,Place Value,Easy,Compute: 124 + 56,170,180,181,190,180
-4,Maths,Multiplication,Easy,Compute: 4 × 12,52,58,48,36,48
-4,Maths,Multiplication,Easy,Compute: 104 + 93,198,187,197,207,197
-4,Maths,Place Value,Easy,Compute: 186 - 39,148,147,137,157,147
-4,Maths,Multiplication,Easy,Compute: 161 - 30,132,141,121,131,131
-4,Maths,Measurement,Easy,Compute: 11 × 2,32,33,22,20,22
-4,Maths,Place Value,Easy,Compute: 128 + 155,273,283,293,284,283
-4,Maths,Measurement,Easy,Compute: 52 ÷ 4,14,13,15,12,13
-4,Maths,Multiplication,Easy,Compute: 117 ÷ 13,9,10,11,8,9
-4,Maths,Place Value,Easy,Compute: 152 + 27,180,169,189,179,179
-4,Maths,Multiplication,Easy,Compute: 176 - 76,110,101,90,100,100
-4,Maths,Multiplication,Easy,Compute: 117 + 92,210,209,219,199,209
-4,Maths,Multiplication,Easy,Compute: 15 × 7,98,115,105,120,105
-4,Maths,Addition & Subtraction,Easy,Compute: 27 ÷ 9,2,4,3,5,3
-4,Maths,Addition & Subtraction,Easy,Compute: 189 - 45,145,154,134,144,144
-4,Maths,Place Value,Easy,Compute: 117 + 177,304,295,284,294,294
-4,Maths,Measurement,Easy,Compute: 154 ÷ 11,16,14,13,15,14
-4,Maths,Place Value,Easy,Compute: 186 + 30,226,206,216,217,216
-4,Maths,Addition & Subtraction,Easy,Compute: 81 - 62,20,19,29,9,19
-4,Maths,Addition & Subtraction,Easy,Compute: 110 - 53,67,57,58,47,57
-4,Maths,Place Value,Easy,Compute: 168 + 175,353,343,344,333,343
-4,Maths,Place Value,Easy,Compute: 137 + 12,149,139,159,150,149
-4,Maths,Measurement,Easy,Compute: 162 - 104,59,68,48,58,58
-4,Maths,Place Value,Easy,Compute: 2 × 3,16,6,3,8,6
-4,Maths,Addition & Subtraction,Easy,Compute: 72 ÷ 6,13,12,14,11,12
-4,Maths,Multiplication,Easy,Compute: 10 × 2,Option 3,18,30,20,20
-4,Maths,Addition & Subtraction,Easy,Compute: 139 - 125,4,24,14,15,14
-4,Maths,Measurement,Easy,Compute: 107 + 86,203,183,194,193,193
-4,Maths,Addition & Subtraction,Easy,Compute: 36 ÷ 3,13,14,12,11,12
-4,Maths,Place Value,Easy,Compute: 70 ÷ 14,7,4,5,6,5
-4,Maths,Addition & Subtraction,Easy,Compute: 159 + 0,149,160,169,159,159
-4,Maths,Measurement,Easy,Compute: 157 - 7,140,160,150,151,150
-4,Maths,Place Value,Easy,Compute: 178 - 35,144,143,153,133,143
-4,Maths,Multiplication,Easy,Compute: 4 × 9,40,36,27,46,36
-4,Maths,Measurement,Easy,Compute: 10 × 6,Option 3,54,70,60,60
-4,Maths,Addition & Subtraction,Easy,Compute: 10 ÷ 2,5,7,6,4,5
-4,Maths,Place Value,Easy,Compute: 166 + 3,159,179,170,169,169
-4,Maths,Multiplication,Easy,Compute: 174 + 132,306,307,316,296,306
-4,Maths,Measurement,Easy,Compute: 125 + 81,196,216,207,206,206
-4,Maths,Addition & Subtraction,Easy,Compute: 20 - 4,17,6,16,26,16
-4,Maths,Multiplication,Easy,Compute: 28 - 27,0,2,11,1,1
-4,Maths,Place Value,Easy,Compute: 9 × 11,99,108,88,109,99
-4,Maths,Measurement,Easy,Compute: 93 + 136,230,229,219,239,229
-4,Maths,Measurement,Easy,Compute: 3 × 10,20,40,30,33,30
-4,Maths,Addition & Subtraction,Easy,Compute: 130 - 8,112,123,122,132,122
-4,Maths,Place Value,Easy,Compute: 156 - 77,80,69,89,79,79
-4,Maths,Place Value,Easy,Compute: 126 + 137,253,273,264,263,263
-4,Maths,Measurement,Easy,Compute: 82 + 67,150,139,149,159,149
-4,Maths,Multiplication,Easy,Compute: 185 + 115,310,290,301,300,300
-4,Maths,Place Value,Easy,Compute: 4 + 155,159,149,169,160,159
-4,Maths,Multiplication,Easy,Compute: 135 - 115,30,21,10,20,20
-4,Maths,Measurement,Easy,Compute: 8 + 102,110,120,111,100,110
-4,Maths,Addition & Subtraction,Easy,Compute: 74 - 18,56,66,57,46,56
-4,Maths,Multiplication,Easy,Compute: 13 × 4,65,52,48,62,52
-4,Maths,Place Value,Easy,Compute: 2 × 4,8,4,10,18,8
-4,Maths,Multiplication,Easy,Compute: 62 + 195,247,258,257,267,257
-4,Maths,Place Value,Easy,Compute: 5 × 8,50,45,40,32,40
-4,Maths,Addition & Subtraction,Easy,Compute: 3 × 3,9,19,6,12,9
-4,Maths,Addition & Subtraction,Easy,Compute: 14 × 6,84,78,94,98,84
-4,Maths,Multiplication,Easy,Compute: 6 × 3,28,24,15,18,18
-4,Maths,Multiplication,Easy,Compute: 24 ÷ 3,7,9,10,8,8
-4,Maths,Place Value,Easy,Compute: 118 - 98,10,30,21,20,20
-4,Maths,Addition & Subtraction,Easy,Compute: 15 × 2,28,40,30,45,30
-4,Maths,Place Value,Easy,Compute: 5 × 5,35,30,20,25,25
-4,Maths,Multiplication,Easy,Compute: 117 - 3,104,114,124,115,114
-4,Maths,Addition & Subtraction,Easy,Compute: 141 - 101,50,40,30,41,40
-4,Maths,Measurement,Easy,Compute: 132 - 83,50,59,39,49,49
-4,Maths,Addition & Subtraction,Easy,Compute: 124 - 107,17,7,27,18,17
-4,Maths,Measurement,Easy,Compute: 117 + 81,208,199,188,198,198
-4,Maths,Multiplication,Easy,Compute: 44 + 134,168,178,188,179,178
-4,Maths,Addition & Subtraction,Easy,Compute: 30 ÷ 10,3,5,4,2,3
-4,Maths,Multiplication,Easy,Compute: 84 ÷ 6,14,15,13,16,14
-4,Maths,Addition & Subtraction,Easy,Compute: 4 × 3,12,22,16,9,12
-4,Maths,Multiplication,Easy,Compute: 7 × 6,36,42,49,52,42
-4,Maths,Multiplication,Easy,Compute: 160 - 67,93,83,103,94,93
-4,Maths,Addition & Subtraction,Easy,Compute: 182 - 35,137,148,147,157,147
-4,Maths,Addition & Subtraction,Easy,Compute: 155 + 7,163,162,172,152,162
-4,Maths,Place Value,Easy,Compute: 13 × 11,156,153,143,132,143
-4,Maths,Addition & Subtraction,Easy,Compute: 8 + 182,190,180,191,200,190
-4,Maths,Multiplication,Easy,Compute: 48 ÷ 4,14,11,12,13,12
-4,Maths,Measurement,Easy,Compute: 4 ÷ 2,3,1,4,2,2
-4,Maths,Multiplication,Easy,Compute: 30 ÷ 6,4,6,7,5,5
-4,Maths,Measurement,Easy,Compute: 180 - 130,51,60,50,40,50
-4,Maths,Multiplication,Easy,Compute: 165 + 130,285,305,295,296,295
-4,Maths,Measurement,Easy,Compute: 178 + 163,351,342,331,341,341
-4,Maths,Measurement,Easy,Compute: 14 + 182,206,197,186,196,196
-4,Maths,Multiplication,Easy,Compute: 176 - 61,116,115,105,125,115
-4,Maths,Addition & Subtraction,Easy,Compute: 160 - 42,128,118,119,108,118
-4,Maths,Place Value,Easy,Compute: 187 - 138,49,39,50,59,49
-4,Maths,Multiplication,Easy,Compute: 92 - 39,43,54,63,53,53
-4,Maths,Multiplication,Easy,Compute: 120 ÷ 15,7,9,10,8,8
-4,Maths,Multiplication,Easy,Compute: 157 - 119,48,28,39,38,38
-4,Maths,Multiplication,Easy,Compute: 2 + 83,95,86,85,75,85
-4,Maths,Measurement,Easy,Compute: 139 + 83,223,212,232,222,222
-4,Maths,Place Value,Easy,Compute: 177 - 38,149,129,140,139,139
-4,Maths,Addition & Subtraction,Easy,Compute: 199 - 173,36,16,27,26,26
-4,Maths,Addition & Subtraction,Easy,Compute: 11 × 5,50,55,66,65,55
-4,Maths,Measurement,Easy,Compute: 138 + 131,269,259,279,270,269
-4,Maths,Multiplication,Easy,Compute: 183 - 22,161,171,151,162,161
-4,Maths,Measurement,Easy,Compute: 128 + 94,232,222,223,212,222
-4,Maths,Addition & Subtraction,Easy,Compute: 104 - 24,81,70,80,90,80
-4,Maths,Multiplication,Easy,Compute: 91 + 115,196,206,216,207,206
-4,Maths,Measurement,Easy,Compute: 161 - 80,82,71,91,81,81
-4,Maths,Measurement,Easy,Compute: 9 × 7,63,72,56,73,63
-4,Maths,Addition & Subtraction,Easy,Compute: 187 - 164,23,24,33,13,23
-4,Maths,Place Value,Easy,Compute: 9 × 4,36,32,45,46,36
-4,Maths,Measurement,Easy,Compute: 12 × 4,44,48,58,60,48
-4,Maths,Measurement,Easy,Compute: 49 - 29,20,10,21,30,20
-4,Maths,Addition & Subtraction,Easy,Compute: 165 ÷ 15,13,11,10,12,11
-4,Maths,Place Value,Easy,Compute: 10 × 8,90,72,80,Option 3,80
-4,Maths,Place Value,Easy,Compute: 144 ÷ 12,14,13,12,11,12
-4,Maths,Addition & Subtraction,Easy,Compute: 28 ÷ 7,3,5,6,4,4
-4,Maths,Multiplication,Easy,Compute: 37 + 43,80,81,70,90,80
-4,Maths,Measurement,Easy,Compute: 10 × 15,135,Option 3,160,150,150
-4,Maths,Measurement,Easy,Compute: 24 ÷ 8,4,2,3,5,3
-4,Maths,Multiplication,Easy,Compute: 194 - 143,61,52,41,51,51
-4,Maths,Measurement,Easy,Compute: 195 ÷ 13,15,17,14,16,15
-4,Maths,Measurement,Easy,Compute: 65 - 30,45,36,25,35,35
-4,Maths,Multiplication,Easy,Compute: 112 + 12,124,114,125,134,124
-4,Maths,Measurement,Easy,Compute: 140 - 27,114,103,113,123,113
-4,Maths,Place Value,Easy,Compute: 161 - 33,128,129,138,118,128
-4,Maths,Addition & Subtraction,Easy,Compute: 77 - 29,58,49,38,48,48
-4,Maths,Multiplication,Easy,Compute: 32 ÷ 4,8,9,7,10,8
-4,Maths,Measurement,Easy,Compute: 3 × 2,6,4,9,16,6
-4,Maths,Addition & Subtraction,Easy,Compute: 118 - 53,55,75,65,66,65
-4,Maths,Place Value,Easy,Compute: 162 - 158,5,14,4,0,4
-4,Maths,Measurement,Easy,Compute: 9 × 5,40,55,45,54,45
-4,Maths,Measurement,Easy,Compute: 97 - 55,43,42,32,52,42
-4,Maths,Addition & Subtraction,Easy,Compute: 74 + 183,258,247,257,267,257
-4,Maths,Place Value,Easy,Compute: 14 ÷ 7,3,1,4,2,2
-4,Maths,Place Value,Easy,Compute: 4 × 11,54,44,48,33,44
-4,Maths,Multiplication,Easy,Compute: 86 + 158,234,254,244,245,244
-4,Maths,Multiplication,Easy,Compute: 7 × 13,101,98,78,91,91
-4,Maths,Measurement,Easy,Compute: 36 ÷ 4,10,11,8,9,9
-4,Maths,Addition & Subtraction,Easy,Compute: 76 + 98,164,184,174,175,174
-4,Maths,Measurement,Easy,Compute: 7 × 9,63,54,70,73,63
-4,Maths,Measurement,Easy,Compute: 150 - 89,62,71,61,51,61
-4,Maths,Measurement,Easy,Compute: 13 × 9,117,130,108,127,117
-4,Maths,Place Value,Easy,Compute: 158 - 142,6,17,26,16,16
-4,Maths,Addition & Subtraction,Easy,Compute: 30 ÷ 3,10,12,9,11,10
-4,Maths,Place Value,Easy,Compute: 162 - 0,172,152,163,162,162
-4,Maths,Measurement,Easy,Compute: 92 + 2,94,104,95,84,94
-4,Maths,Place Value,Easy,Compute: 186 - 144,32,43,52,42,42
-4,Maths,Measurement,Easy,Compute: 158 - 157,0,11,1,2,1
-4,Maths,Addition & Subtraction,Easy,Compute: 193 + 23,226,216,206,217,216
-4,Maths,Addition & Subtraction,Easy,Compute: 14 × 8,112,104,126,122,112
-4,Maths,Addition & Subtraction,Easy,Compute: 180 ÷ 15,13,14,11,12,12
-4,Maths,Multiplication,Easy,Compute: 76 - 69,7,0,8,17,7
-4,Maths,Addition & Subtraction,Easy,Compute: 108 - 46,52,62,63,72,62
-4,Maths,Measurement,Easy,Compute: 15 × 5,75,90,85,70,75
-4,Maths,Measurement,Easy,Compute: 141 - 11,130,120,131,140,130
-4,Maths,Addition & Subtraction,Easy,Compute: 65 + 133,208,199,188,198,198
-4,Maths,Multiplication,Easy,Compute: 108 + 117,226,225,215,235,225
-4,Maths,Addition & Subtraction,Easy,Compute: 172 - 12,161,160,150,170,160
-4,Maths,Addition & Subtraction,Easy,Compute: 169 + 126,285,305,295,296,295
-4,Maths,Measurement,Easy,Compute: 74 - 61,13,14,3,23,13
-4,Maths,Place Value,Easy,Compute: 89 + 60,139,150,149,159,149
-4,Maths,Addition & Subtraction,Easy,Compute: 65 ÷ 5,15,14,13,12,13
-4,Maths,Addition & Subtraction,Easy,Compute: 156 ÷ 13,11,12,13,14,12
-4,Maths,Measurement,Easy,Compute: 6 ÷ 3,1,4,3,2,2
-4,Maths,Place Value,Easy,Compute: 40 ÷ 8,7,4,5,6,5
-4,Maths,Place Value,Easy,Compute: 148 - 0,138,158,149,148,148
-4,Maths,Multiplication,Easy,Compute: 66 ÷ 11,7,6,5,8,6
-4,Maths,Place Value,Easy,Compute: 68 - 14,54,44,64,55,54
-4,Maths,Measurement,Easy,Compute: 110 + 175,285,286,295,275,285
-4,Maths,Multiplication,Easy,Compute: 134 - 10,125,114,124,134,124
-4,Maths,Multiplication,Easy,Compute: 14 × 7,112,98,108,91,98
-4,Maths,Addition & Subtraction,Easy,Compute: 58 - 37,21,22,11,31,21
-4,Maths,Place Value,Easy,Compute: 49 + 162,201,211,212,221,211
-4,Maths,Measurement,Easy,Compute: 77 - 19,59,68,48,58,58
-4,Maths,Place Value,Easy,Compute: 173 - 153,10,30,20,21,20
-4,Maths,Measurement,Easy,Compute: 98 ÷ 14,7,9,6,8,7
-4,Maths,Place Value,Easy,Compute: 107 + 1,98,109,108,118,108
-4,Maths,Addition & Subtraction,Easy,Compute: 75 + 159,234,244,224,235,234
-4,Maths,Place Value,Easy,Compute: 13 × 2,26,39,24,36,26
-4,Maths,Addition & Subtraction,Easy,Compute: 102 + 140,243,242,232,252,242
-4,Maths,Multiplication,Easy,Compute: 195 ÷ 15,13,15,12,14,13
-4,Maths,Measurement,Easy,Compute: 20 ÷ 10,1,3,2,4,2
-4,Maths,Addition & Subtraction,Easy,Compute: 3 × 12,36,24,46,39,36
-4,Maths,Place Value,Easy,Compute: 185 - 176,9,10,0,19,9
-4,Maths,Multiplication,Easy,Compute: 63 + 89,153,162,142,152,152
-4,Maths,Measurement,Easy,Compute: 124 - 73,52,61,41,51,51
-4,Maths,Addition & Subtraction,Easy,Compute: 42 ÷ 6,6,7,8,9,7
-4,Maths,Addition & Subtraction,Easy,Compute: 46 + 133,180,189,169,179,179
-4,Maths,Multiplication,Easy,Compute: 7 × 5,30,42,45,35,35
-4,Maths,Measurement,Easy,Compute: 7 × 14,105,98,84,108,98
-4,Maths,Multiplication,Easy,Compute: 34 + 14,38,49,48,58,48
-4,Maths,Multiplication,Easy,Compute: 80 ÷ 10,10,9,7,8,8
-4,Maths,Place Value,Easy,Compute: 12 × 11,144,121,132,142,132
-4,Maths,Addition & Subtraction,Easy,Compute: 132 - 62,70,80,60,71,70
-4,Maths,Measurement,Easy,Compute: 47 - 34,23,13,3,14,13
-4,Maths,Place Value,Easy,Compute: 2 × 5,12,10,20,5,10
-4,Maths,Addition & Subtraction,Easy,Compute: 5 × 12,60,65,70,48,60
-4,Maths,Measurement,Easy,Compute: 11 × 7,77,87,70,88,77
-4,Maths,Place Value,Easy,Compute: 28 + 67,96,95,85,105,95
-4,Maths,Measurement,Easy,Compute: 184 - 40,154,145,134,144,144
-4,Maths,Addition & Subtraction,Easy,Compute: 43 + 36,69,89,80,79,79
-4,Maths,Addition & Subtraction,Easy,Compute: 199 - 103,86,96,106,97,96
-4,Maths,Measurement,Easy,Compute: 60 + 148,198,208,209,218,208
-4,Maths,Measurement,Easy,Compute: 9 × 10,100,80,90,99,90
-4,Maths,Addition & Subtraction,Easy,Compute: 27 - 17,11,10,20,0,10
-4,Maths,Place Value,Easy,Compute: 171 - 77,104,84,94,95,94
-4,Maths,Measurement,Easy,Compute: 7 × 4,35,28,24,38,28
-4,Maths,Multiplication,Easy,Compute: 91 + 67,158,159,148,168,158
-4,Maths,Multiplication,Easy,Compute: 5 + 128,143,123,134,133,133
-4,Maths,Multiplication,Easy,Compute: 118 - 93,35,25,26,15,25
-4,Maths,Multiplication,Easy,Compute: 140 - 30,111,100,120,110,110
-4,Maths,Addition & Subtraction,Easy,Compute: 11 × 8,98,80,99,88,88
-4,Maths,Addition & Subtraction,Easy,Compute: 164 + 124,289,278,288,298,288
-4,Maths,Multiplication,Easy,Compute: 117 + 10,137,127,128,117,127
-4,Maths,Place Value,Easy,Compute: 164 + 53,217,227,207,218,217
-4,Maths,Multiplication,Easy,Compute: 48 ÷ 6,8,10,9,7,8
-4,Maths,Addition & Subtraction,Easy,Compute: 124 + 118,242,252,232,243,242
-4,Maths,Place Value,Easy,Compute: 116 + 96,212,213,202,222,212
-4,Maths,Addition & Subtraction,Easy,Compute: 48 + 82,131,120,140,130,130
-4,Maths,Addition & Subtraction,Easy,Compute: 56 ÷ 7,7,8,10,9,8
-4,Maths,Multiplication,Easy,Compute: 35 + 18,63,43,53,54,53
-4,Maths,Addition & Subtraction,Easy,Compute: 173 - 18,155,165,145,156,155
-4,Maths,Measurement,Easy,Compute: 45 ÷ 9,4,6,7,5,5
-4,Maths,Addition & Subtraction,Easy,Compute: 135 + 147,283,282,272,292,282
-4,Maths,Place Value,Easy,Compute: 147 - 49,108,88,98,99,98
-4,Maths,Place Value,Easy,Compute: 6 × 11,76,72,66,55,66
-4,Maths,Measurement,Easy,Compute: 113 - 65,48,38,58,49,48
-4,Maths,Multiplication,Easy,Compute: 186 - 160,27,26,16,36,26
-4,Maths,Addition & Subtraction,Easy,Compute: 32 + 85,118,117,127,107,117
-4,Maths,Measurement,Easy,Compute: 78 - 69,19,0,10,9,9
-4,Maths,Multiplication,Easy,Compute: 109 - 34,75,85,65,76,75
-4,Maths,Multiplication,Easy,Compute: 59 + 143,202,203,212,192,202
-4,Maths,Measurement,Easy,Compute: 140 ÷ 10,15,16,14,13,14
-4,Maths,Measurement,Easy,Compute: 114 - 61,43,53,63,54,53
-4,Maths,Multiplication,Easy,Compute: 145 + 56,202,211,191,201,201
-4,Maths,Measurement,Easy,Compute: 162 - 19,153,144,143,133,143
-4,Maths,Place Value,Easy,Compute: 60 ÷ 6,11,9,12,10,10
-4,Maths,Measurement,Easy,Compute: 105 + 108,223,203,214,213,213
-4,Maths,Addition & Subtraction,Easy,Compute: 105 ÷ 7,17,15,14,16,15
-4,Maths,Measurement,Easy,Compute: 36 + 132,178,168,169,158,168
-4,Maths,Multiplication,Easy,Compute: 181 - 114,68,67,77,57,67
-4,Maths,Addition & Subtraction,Easy,Compute: 10 × 3,30,40,Option 3,27,30
-4,Maths,Measurement,Easy,Compute: 91 - 75,16,26,6,17,16
-4,Maths,Multiplication,Easy,Compute: 6 × 6,42,30,46,36,36
-4,Maths,Measurement,Easy,Compute: 72 - 23,49,50,59,39,49
-4,Maths,Measurement,Easy,Compute: 5 × 4,16,25,30,20,20
-4,Maths,Measurement,Easy,Compute: 10 + 87,107,87,98,97,97
-4,Maths,Addition & Subtraction,Easy,Compute: 131 + 42,183,173,174,163,173
-4,Maths,Measurement,Easy,Compute: 165 ÷ 11,16,14,17,15,15
-4,Maths,Place Value,Easy,Compute: 139 - 139,Option 3,10,0,1,0
-4,Maths,Measurement,Easy,Compute: 128 + 127,255,256,265,245,255
-4,Maths,Place Value,Easy,Compute: 86 - 3,84,93,83,73,83
-4,Maths,Addition & Subtraction,Easy,Compute: 36 ÷ 9,6,3,5,4,4
-4,Maths,Measurement,Easy,Compute: 112 ÷ 14,7,10,9,8,8
-4,Maths,Multiplication,Easy,Compute: 40 - 8,22,33,32,42,32
-4,Maths,Measurement,Easy,Compute: 79 - 19,70,50,60,61,60
-4,Maths,Multiplication,Easy,Compute: 65 - 6,59,49,69,60,59
-4,Maths,Addition & Subtraction,Easy,Compute: 194 + 128,322,332,323,312,322
-4,Maths,Measurement,Easy,Compute: 15 × 8,130,112,120,135,120
-4,Maths,Place Value,Easy,Compute: 106 - 75,41,21,32,31,31
-4,Maths,Addition & Subtraction,Easy,Compute: 15 ÷ 3,6,7,4,5,5
-4,Maths,Place Value,Easy,Compute: 13 + 84,98,97,87,107,97
-4,Maths,Measurement,Easy,Compute: 89 - 6,73,93,84,83,83
-4,Maths,Addition & Subtraction,Easy,Compute: 127 - 38,89,79,99,90,89
-4,Maths,Measurement,Easy,Compute: 124 + 200,314,324,325,334,324
-4,Maths,Multiplication,Easy,Compute: 20 ÷ 4,5,6,4,7,5
-4,Maths,Measurement,Easy,Compute: 14 × 3,52,39,42,56,42
-4,Maths,Measurement,Easy,Compute: 94 + 35,139,129,119,130,129
-4,Maths,Place Value,Easy,Compute: 17 + 132,150,159,139,149,149
-4,Maths,Addition & Subtraction,Easy,Compute: 84 - 17,77,67,57,68,67
-4,Maths,Place Value,Easy,Compute: 6 × 5,40,36,25,30,30
-4,Maths,Multiplication,Easy,Compute: 75 + 102,167,178,177,187,177
-4,Maths,Addition & Subtraction,Easy,Compute: 123 + 109,233,232,242,222,232
-4,Maths,Multiplication,Easy,Compute: 81 ÷ 9,11,8,9,10,9
-4,Maths,Addition & Subtraction,Easy,Compute: 77 ÷ 7,12,11,10,13,11
-4,Maths,Multiplication,Easy,Compute: 127 - 90,27,47,37,38,37
-4,Maths,Place Value,Easy,Compute: 3 × 5,18,15,25,10,15
-4,Maths,Measurement,Easy,Compute: 193 - 171,22,32,12,23,22
-4,Maths,Multiplication,Easy,Compute: 143 + 50,183,194,193,203,193
-4,Maths,Place Value,Easy,Compute: 56 ÷ 4,16,13,14,15,14
-4,Maths,Addition & Subtraction,Easy,Compute: 13 + 75,78,88,98,89,88
-4,Maths,Addition & Subtraction,Easy,Compute: 29 + 48,67,78,77,87,77
-4,Maths,Measurement,Easy,Compute: 87 - 44,43,33,44,53,43
-4,Maths,Measurement,Easy,Compute: 174 + 146,321,310,320,330,320
-4,Maths,Multiplication,Easy,Compute: 121 - 44,77,67,78,87,77
-4,Maths,Addition & Subtraction,Easy,Compute: 155 - 127,29,38,28,18,28
-4,Maths,Place Value,Easy,Compute: 101 - 0,91,102,101,111,101
-4,Maths,Measurement,Easy,Compute: 47 + 79,127,126,116,136,126
-4,Maths,Addition & Subtraction,Easy,Compute: 107 - 12,96,95,105,85,95
-4,Maths,Multiplication,Easy,Compute: 91 ÷ 7,12,15,13,14,13
-4,Maths,Place Value,Easy,Compute: 168 + 79,247,237,248,257,247
-4,Maths,Addition & Subtraction,Easy,Compute: 154 - 64,91,100,90,80,90
-4,Maths,Multiplication,Easy,Compute: 14 + 98,122,112,113,102,112
-4,Maths,Measurement,Easy,Compute: 60 ÷ 4,17,15,14,16,15
-4,Maths,Place Value,Easy,Compute: 77 - 70,8,17,7,0,7
-4,Maths,Multiplication,Easy,Compute: 137 - 91,56,36,46,47,46
-4,Maths,Multiplication,Easy,Compute: 94 - 87,7,8,0,17,7
-4,Maths,Measurement,Easy,Compute: 152 - 55,97,98,107,87,97
-4,Maths,Addition & Subtraction,Easy,Compute: 76 - 11,55,75,66,65,65
-4,Maths,Addition & Subtraction,Easy,Compute: 13 × 5,75,60,78,65,65
-4,Maths,Place Value,Easy,Compute: 82 + 32,124,104,115,114,114
-4,Maths,Addition & Subtraction,Easy,Compute: 54 ÷ 6,10,9,8,11,9
-4,Maths,Addition & Subtraction,Easy,Compute: 84 ÷ 7,12,14,11,13,12
-4,Maths,Addition & Subtraction,Easy,Compute: 78 + 184,252,262,263,272,262
-4,Maths,Place Value,Easy,Compute: 189 + 78,267,257,268,277,267
-4,Maths,Measurement,Easy,Compute: 64 - 16,48,58,49,38,48
-4,Maths,Place Value,Easy,Compute: 132 - 23,109,99,119,110,109
-4,Maths,Measurement,Easy,Compute: 32 + 122,164,154,144,155,154
-4,Maths,Addition & Subtraction,Easy,Compute: 108 + 21,139,119,130,129,129
-4,Maths,Addition & Subtraction,Easy,Compute: 8 × 8,72,74,56,64,64
-4,Maths,Place Value,Easy,Compute: 110 + 24,134,144,124,135,134
-4,Maths,Multiplication,Easy,Compute: 187 - 95,93,82,102,92,92
-4,Maths,Addition & Subtraction,Easy,Compute: 16 ÷ 4,5,3,4,6,4
-4,Maths,Measurement,Easy,Compute: 100 - 99,1,2,0,11,1
-4,Maths,Place Value,Easy,Compute: 161 - 152,10,9,0,19,9
-4,Maths,Multiplication,Easy,Compute: 138 - 7,141,132,131,121,131
-4,Maths,Multiplication,Easy,Compute: 100 + 176,266,286,276,277,276
-4,Maths,Measurement,Easy,Compute: 71 - 39,33,32,42,22,32
-4,Maths,Multiplication,Easy,Compute: 55 + 197,242,262,252,253,252
-4,Maths,Measurement,Easy,Compute: 181 - 8,183,173,174,163,173
-4,Maths,Multiplication,Easy,Compute: 156 + 107,253,263,264,273,263
-4,Maths,Multiplication,Easy,Compute: 177 + 133,310,300,320,311,310
-4,Maths,Place Value,Easy,Compute: 2 × 13,36,26,13,28,26
-4,Maths,Addition & Subtraction,Easy,Compute: 13 × 12,166,144,169,156,156
-4,Maths,Place Value,Easy,Compute: 42 ÷ 14,4,3,5,2,3
-4,Maths,Multiplication,Easy,Compute: 76 - 56,30,10,21,20,20
-4,Maths,Place Value,Easy,Compute: 3 × 13,49,42,39,26,39
-4,Maths,Measurement,Easy,Compute: 89 + 122,201,221,211,212,211
-4,Maths,Measurement,Easy,Compute: 198 + 70,278,268,269,258,268
-4,Maths,Place Value,Easy,Compute: 63 ÷ 7,10,11,9,8,9
-4,Maths,Place Value,Easy,Compute: 70 ÷ 10,6,8,9,7,7
-4,Maths,Place Value,Easy,Compute: 178 - 16,163,162,152,172,162
-4,Maths,Multiplication,Easy,Compute: 124 - 97,37,28,27,17,27
-4,Maths,Measurement,Easy,Compute: 2 × 14,38,14,28,30,28
-4,Maths,Measurement,Easy,Compute: 91 ÷ 13,8,7,6,9,7
-4,Maths,Place Value,Easy,Compute: 15 × 10,140,150,165,160,150
-4,Maths,Addition & Subtraction,Easy,Compute: 175 - 2,163,173,174,183,173
-4,Maths,Place Value,Easy,Compute: 7 × 7,59,42,56,49,49
-4,Maths,Measurement,Easy,Compute: 106 - 89,17,18,7,27,17
-4,Maths,Measurement,Easy,Compute: 22 - 13,10,0,9,19,9
-4,Maths,Addition & Subtraction,Easy,Compute: 147 + 132,279,289,269,280,279
-4,Maths,Place Value,Easy,Compute: 11 + 96,97,108,107,117,107
-4,Maths,Multiplication,Easy,Compute: 18 ÷ 3,6,8,7,5,6
-4,Maths,Multiplication,Easy,Compute: 149 - 48,101,91,102,111,101
-4,Maths,Measurement,Easy,Compute: 98 + 22,120,121,130,110,120
-4,Maths,Addition & Subtraction,Easy,Compute: 44 ÷ 4,12,11,10,13,11
-4,Maths,Measurement,Easy,Compute: 22 + 199,211,222,221,231,221
-4,Maths,Place Value,Easy,Compute: 53 + 30,84,73,83,93,83
-4,Maths,Multiplication,Easy,Compute: 183 - 104,89,79,80,69,79
-4,Maths,Multiplication,Easy,Compute: 17 + 134,152,161,151,141,151
-4,Maths,Measurement,Easy,Compute: 161 - 160,1,0,2,11,1
-4,Maths,Addition & Subtraction,Easy,Compute: 51 + 194,235,246,245,255,245
-4,Maths,Addition & Subtraction,Easy,Compute: 134 + 92,226,216,236,227,226
-4,Maths,Addition & Subtraction,Easy,Compute: 162 - 126,36,46,26,37,36
-4,Maths,Multiplication,Easy,Compute: 2 - 0,12,2,3,0,2
-4,Maths,Place Value,Easy,Compute: 185 - 6,169,179,189,180,179
-4,Maths,Place Value,Easy,Compute: 20 + 142,162,163,172,152,162
-4,Maths,Place Value,Easy,Compute: 22 ÷ 2,12,10,11,13,11
-4,Maths,Multiplication,Easy,Compute: 35 + 179,215,214,204,224,214
-4,Maths,Place Value,Easy,Compute: 70 ÷ 7,11,9,10,12,10
-4,Maths,Place Value,Easy,Compute: 122 + 124,256,236,246,247,246
-4,Maths,Multiplication,Easy,Compute: 140 - 67,63,74,83,73,73
-4,Maths,Place Value,Easy,Compute: 9 × 13,117,126,127,104,117
-4,Maths,Addition & Subtraction,Easy,Compute: 61 - 49,22,12,2,13,12
-4,Maths,Multiplication,Easy,Compute: 130 + 36,167,176,156,166,166
-4,Maths,Addition & Subtraction,Easy,Compute: 79 + 161,240,241,230,250,240
-4,Maths,Multiplication,Easy,Compute: 1 + 60,71,51,62,61,61
-4,Maths,Multiplication,Easy,Compute: 117 - 65,62,53,52,42,52
-4,Maths,Multiplication,Easy,Compute: 173 + 180,354,343,363,353,353
-4,Maths,Addition & Subtraction,Easy,Compute: 23 + 148,171,161,181,172,171
-4,Maths,Place Value,Easy,Compute: 156 - 107,59,49,39,50,49
-4,Maths,Multiplication,Easy,Compute: 97 + 186,293,284,283,273,283
-4,Maths,Measurement,Easy,Compute: 10 × 13,130,140,117,Option 3,130
-4,Maths,Measurement,Easy,Compute: 189 - 108,71,91,81,82,81
-4,Maths,Measurement,Easy,Compute: 197 - 134,53,64,73,63,63
-4,Maths,Place Value,Easy,Compute: 129 - 108,31,22,11,21,21
-4,Maths,Addition & Subtraction,Easy,Compute: 135 ÷ 9,15,16,17,14,15
-4,Maths,Place Value,Easy,Compute: 179 - 140,29,49,39,40,39
-4,Maths,Measurement,Easy,Compute: 108 ÷ 9,12,14,13,11,12
-4,Maths,Multiplication,Easy,Compute: 161 - 134,28,37,27,17,27
-4,Maths,Multiplication,Easy,Compute: 104 + 70,174,164,184,175,174
-4,Maths,Measurement,Easy,Compute: 84 ÷ 12,7,6,8,9,7
-4,Maths,Multiplication,Easy,Compute: 12 × 15,180,190,192,165,180
-4,Maths,Measurement,Easy,Compute: 115 - 76,29,49,39,40,39
-4,Maths,Place Value,Easy,Compute: 70 - 33,27,37,47,38,37
-4,Maths,Addition & Subtraction,Easy,Compute: 28 ÷ 4,7,6,9,8,7
-4,Maths,Multiplication,Easy,Compute: 87 - 54,34,23,43,33,33
-4,Maths,Multiplication,Easy,Compute: 156 - 6,151,150,140,160,150
-4,Maths,Measurement,Easy,Compute: 117 - 76,31,51,42,41,41
-4,Maths,Measurement,Easy,Compute: 195 - 187,0,8,9,18,8
-4,Maths,Addition & Subtraction,Easy,Compute: 48 ÷ 12,4,5,6,3,4
-4,Maths,Addition & Subtraction,Easy,Compute: 176 - 156,30,10,20,21,20
-4,Maths,Measurement,Easy,Compute: 6 × 13,88,65,84,78,78
-4,Maths,Multiplication,Easy,Compute: 25 ÷ 5,4,7,5,6,5
-4,Maths,Place Value,Easy,Compute: 143 + 54,207,198,197,187,197
-4,Maths,Multiplication,Easy,Compute: 101 + 74,165,185,175,176,175
-4,Maths,Place Value,Easy,Compute: 9 × 12,96,118,108,117,108
-4,Maths,Measurement,Easy,Compute: 10 × 14,126,140,Option 3,150,140
-4,Maths,Place Value,Easy,Compute: 143 - 70,83,74,73,63,73
-4,Maths,Addition & Subtraction,Easy,Compute: 185 - 11,184,175,164,174,174
-4,Maths,Addition & Subtraction,Easy,Compute: 183 - 31,153,142,162,152,152
-4,Maths,Multiplication,Easy,Compute: 197 + 38,225,235,245,236,235
-4,Maths,Addition & Subtraction,Easy,Compute: 53 + 85,138,128,139,148,138
-4,Maths,Multiplication,Easy,Compute: 11 × 6,77,66,76,60,66
-4,Maths,Addition & Subtraction,Easy,Compute: 195 - 81,114,124,115,104,114
-4,Maths,Measurement,Easy,Compute: 164 + 77,242,231,251,241,241
-4,Maths,Multiplication,Easy,Compute: 90 - 60,40,30,31,20,30
-4,Maths,Addition & Subtraction,Easy,Compute: 73 + 164,247,237,227,238,237
-4,Maths,Measurement,Easy,Compute: 25 + 183,198,208,209,218,208
-4,Maths,Multiplication,Easy,Compute: 99 - 19,80,81,90,70,80
-4,Maths,Multiplication,Easy,Compute: 5 × 7,28,40,35,45,35
-4,Maths,Measurement,Easy,Compute: 173 - 26,137,157,147,148,147
-4,Maths,Multiplication,Easy,Compute: 193 - 162,31,21,32,41,31
-4,Maths,Place Value,Easy,Compute: 110 + 84,194,184,195,204,194
-4,Maths,Measurement,Easy,Compute: 31 + 71,102,112,92,103,102
-4,Maths,Addition & Subtraction,Easy,Compute: 3 × 8,16,34,27,24,24
-4,Maths,Multiplication,Easy,Compute: 135 ÷ 15,10,9,8,11,9
-4,Maths,Place Value,Easy,Compute: 175 - 87,78,88,98,89,88
-4,Maths,Addition & Subtraction,Easy,Compute: 173 - 42,131,121,141,132,131
-4,Maths,Measurement,Easy,Compute: 192 - 105,97,87,88,77,87
-4,Maths,Measurement,Easy,Compute: 162 - 29,133,143,134,123,133
-4,Maths,Addition & Subtraction,Easy,Compute: 121 - 20,101,91,111,102,101
-4,Maths,Addition & Subtraction,Easy,Compute: 39 ÷ 13,5,2,4,3,3
-4,Maths,Multiplication,Easy,Compute: 2 × 12,34,24,26,12,24
-4,Maths,Addition & Subtraction,Easy,Compute: 184 - 110,74,75,84,64,74
-4,Maths,Addition & Subtraction,Easy,Compute: 60 ÷ 5,13,14,11,12,12
-4,Maths,Addition & Subtraction,Easy,Compute: 188 - 137,52,41,51,61,51
-4,Maths,Addition & Subtraction,Easy,Compute: 124 - 15,110,109,99,119,109
-4,Maths,Place Value,Easy,Compute: 145 - 6,140,139,149,129,139
-4,Maths,Place Value,Easy,Compute: 119 + 162,291,271,281,282,281
-4,Maths,Measurement,Easy,Compute: 40 + 94,135,134,124,144,134
-4,Maths,Multiplication,Easy,Compute: 105 - 9,96,97,106,86,96
-4,Maths,Measurement,Easy,Compute: 46 - 44,12,2,0,3,2
-4,Maths,Measurement,Easy,Compute: 185 - 12,174,163,173,183,173
-4,Maths,Measurement,Easy,Compute: 126 - 15,101,121,111,112,111
-4,Maths,Multiplication,Easy,Compute: 115 - 103,22,2,12,13,12
-4,Maths,Multiplication,Easy,Compute: 139 + 8,148,147,137,157,147
-4,Maths,Measurement,Easy,Compute: 160 + 24,184,174,194,185,184
-4,Maths,Place Value,Easy,Compute: 196 - 86,120,111,100,110,110
-4,Maths,Measurement,Easy,Compute: 135 - 113,22,32,12,23,22
-4,Maths,Place Value,Easy,Compute: 164 - 117,47,57,48,37,47
-4,Maths,Multiplication,Easy,Compute: 14 × 9,136,126,140,117,126
-4,Maths,Measurement,Easy,Compute: 64 + 181,245,246,255,235,245
-4,Maths,Multiplication,Easy,Compute: 12 × 9,120,108,99,118,108
-4,Maths,Multiplication,Easy,Compute: 63 ÷ 9,8,6,7,9,7
-4,Maths,Multiplication,Easy,Compute: 55 - 34,31,22,11,21,21
-4,Maths,Multiplication,Easy,Compute: 86 - 84,12,3,2,0,2
-4,Maths,Multiplication,Easy,Compute: 187 - 176,12,1,11,21,11
-4,Maths,Measurement,Easy,Compute: 8 + 38,56,46,36,47,46
-4,Maths,Measurement,Easy,Compute: 28 + 167,205,185,195,196,195
-4,Maths,Addition & Subtraction,Easy,Compute: 160 + 92,253,252,262,242,252
-4,Maths,Addition & Subtraction,Easy,Compute: 5 × 2,8,20,10,15,10
-4,Maths,Measurement,Easy,Compute: 4 × 6,24,18,28,34,24
-4,Maths,Multiplication,Easy,Compute: 60 + 112,172,162,173,182,172
-4,Maths,Measurement,Easy,Compute: 151 + 124,285,265,275,276,275
-4,Maths,Addition & Subtraction,Easy,Compute: 100 - 87,14,23,3,13,13
-4,Maths,Measurement,Easy,Compute: 109 - 57,53,62,52,42,52
-4,Maths,Addition & Subtraction,Easy,Compute: 118 + 180,298,308,288,299,298
-4,Maths,Measurement,Easy,Compute: 134 - 121,3,14,23,13,13
-4,Maths,Place Value,Easy,Compute: 126 - 89,38,37,47,27,37
-4,Maths,Addition & Subtraction,Easy,Compute: 143 - 56,77,97,87,88,87
-4,Maths,Addition & Subtraction,Easy,Compute: 149 + 171,310,320,321,330,320
-4,Maths,Multiplication,Easy,Compute: 15 × 11,175,165,180,154,165
-4,Maths,Measurement,Easy,Compute: 166 - 37,119,139,129,130,129
-4,Maths,Measurement,Easy,Compute: 55 ÷ 5,12,11,10,13,11
-4,Maths,Measurement,Easy,Compute: 33 + 115,158,149,138,148,148
-4,Maths,Multiplication,Easy,Compute: 153 - 130,24,13,23,33,23
-4,Maths,Place Value,Easy,Compute: 30 ÷ 2,16,17,15,14,15
-4,Maths,Place Value,Easy,Compute: 132 + 39,181,172,161,171,171
-4,Maths,Measurement,Easy,Compute: 135 + 52,177,187,188,197,187
-4,Maths,Addition & Subtraction,Easy,Compute: 9 × 9,90,91,72,81,81
-4,Maths,Addition & Subtraction,Easy,Compute: 8 × 10,90,80,88,70,80
-4,Maths,Addition & Subtraction,Easy,Compute: 176 - 151,35,15,25,26,25
-4,Maths,Place Value,Easy,Compute: 84 ÷ 14,6,7,8,5,6
-4,Maths,Place Value,Easy,Compute: 9 × 15,144,135,120,145,135
-4,Maths,Multiplication,Easy,Compute: 96 - 49,48,37,47,57,47
-4,Maths,Addition & Subtraction,Easy,Compute: 196 + 135,331,341,321,332,331
-4,Maths,Addition & Subtraction,Easy,Compute: 181 - 86,105,85,96,95,95
-4,Maths,Measurement,Easy,Compute: 198 - 125,63,83,73,74,73
-4,Maths,Addition & Subtraction,Easy,Compute: 123 + 36,159,149,169,160,159
-4,Maths,Measurement,Easy,Compute: 27 + 183,211,220,200,210,210
-4,Maths,Measurement,Easy,Compute: 107 + 185,302,293,292,282,292
-4,Maths,Measurement,Easy,Compute: 5 + 98,93,104,103,113,103
-4,Maths,Measurement,Easy,Compute: 101 + 125,227,226,216,236,226
-4,Maths,Place Value,Easy,Compute: 35 - 10,25,35,15,26,25
-4,Maths,Multiplication,Easy,Compute: 114 - 107,8,17,0,7,7
-4,Maths,Measurement,Easy,Compute: 33 - 0,43,34,23,33,33
-4,Maths,Measurement,Easy,Compute: 36 + 1,27,38,47,37,37
-4,Maths,Multiplication,Easy,Compute: 31 + 157,188,189,198,178,188
-4,Maths,Measurement,Easy,Compute: 169 - 110,60,59,69,49,59
-4,Maths,Addition & Subtraction,Easy,Compute: 112 ÷ 8,14,16,15,13,14
-4,Maths,Addition & Subtraction,Easy,Compute: 188 - 37,161,152,151,141,151
-4,Maths,Addition & Subtraction,Easy,Compute: 104 - 62,32,42,43,52,42
-4,Maths,Measurement,Easy,Compute: 44 + 93,127,137,138,147,137
-4,Maths,Place Value,Easy,Compute: 101 - 60,31,41,51,42,41
-4,Maths,Measurement,Easy,Compute: 44 + 77,131,111,121,122,121
-4,Maths,Place Value,Easy,Compute: 170 + 43,223,203,213,214,213
-4,Maths,Place Value,Easy,Compute: 22 + 197,220,219,229,209,219
-4,Maths,Place Value,Easy,Compute: 196 - 4,202,193,182,192,192
-4,Maths,Place Value,Easy,Compute: 194 + 51,246,245,235,255,245
-4,Maths,Measurement,Easy,Compute: 189 - 121,69,58,68,78,68
-4,Maths,Addition & Subtraction,Easy,Compute: 86 - 53,33,43,34,23,33
-4,Maths,Measurement,Easy,Compute: 52 - 6,46,36,56,47,46
-4,Maths,Addition & Subtraction,Easy,Compute: 54 - 44,0,10,11,20,10
-4,Maths,Place Value,Easy,Compute: 152 - 60,82,93,92,102,92
-4,Maths,Place Value,Easy,Compute: 108 ÷ 12,9,8,10,11,9
-4,Maths,Measurement,Easy,Compute: 75 + 95,171,170,180,160,170
-4,Maths,Place Value,Easy,Compute: 164 - 62,92,112,103,102,102
-4,Maths,Measurement,Easy,Compute: 20 ÷ 5,3,5,4,6,4
-4,Maths,Measurement,Easy,Compute: 40 ÷ 4,9,10,12,11,10
-4,Maths,Addition & Subtraction,Easy,Compute: 15 × 9,145,135,150,126,135
-4,Maths,Place Value,Easy,Compute: 41 + 63,94,105,104,114,104
-4,Maths,Multiplication,Easy,Compute: 193 + 13,206,216,207,196,206
-4,Maths,Addition & Subtraction,Easy,Compute: 123 - 92,41,32,21,31,31
-4,Maths,Addition & Subtraction,Easy,Compute: 160 + 147,307,308,317,297,307
-4,Maths,Multiplication,Easy,Compute: 8 × 12,106,84,96,104,96
-4,Maths,Multiplication,Easy,Compute: 7 × 10,60,70,77,80,70
-4,Maths,Addition & Subtraction,Easy,Compute: 122 - 72,51,60,50,40,50
-4,Maths,Place Value,Easy,Compute: 130 - 129,0,2,11,1,1
-4,Maths,Measurement,Easy,Compute: 164 - 32,122,133,132,142,132
-4,Maths,Measurement,Easy,Compute: 193 - 91,103,92,102,112,102
-4,Maths,Multiplication,Easy,Compute: 14 × 14,206,182,210,196,196
-4,Maths,Multiplication,Easy,Compute: 86 + 169,255,245,265,256,255
-4,Maths,Multiplication,Easy,Compute: 26 ÷ 2,13,15,12,14,13
-4,Maths,Multiplication,Easy,Compute: 134 + 51,195,186,185,175,185
-4,Maths,Multiplication,Easy,Compute: 107 + 82,199,189,190,179,189
-4,Maths,Multiplication,Easy,Compute: 169 - 114,56,55,65,45,55
-4,Maths,Multiplication,Easy,Compute: 24 ÷ 12,3,4,2,1,2
-4,Maths,Addition & Subtraction,Easy,Compute: 83 + 123,216,196,206,207,206
-4,Maths,Addition & Subtraction,Easy,Compute: 91 + 1,93,92,82,102,92
-4,Maths,Measurement,Easy,Compute: 105 - 66,49,40,29,39,39
-4,Maths,Addition & Subtraction,Easy,Compute: 65 + 4,69,79,70,59,69
-4,Maths,Place Value,Easy,Compute: 8 × 7,56,49,64,66,56
-4,Maths,Place Value,Easy,Compute: 130 - 98,33,22,32,42,32
-4,Maths,Measurement,Easy,Compute: 84 - 43,31,51,42,41,41
-4,Maths,Addition & Subtraction,Easy,Compute: 5 × 11,55,60,65,44,55
-4,Maths,Multiplication,Easy,Compute: 197 - 81,117,106,126,116,116
-4,Maths,Measurement,Easy,Compute: 168 - 70,99,88,108,98,98
-4,Maths,Place Value,Easy,Compute: 47 + 24,72,61,81,71,71
-4,Maths,Addition & Subtraction,Easy,Compute: 4 + 47,41,51,52,61,51
-4,Maths,Addition & Subtraction,Easy,Compute: 183 + 11,195,204,194,184,194
-4,Maths,Addition & Subtraction,Easy,Compute: 10 × 9,100,81,90,Option 3,90
-4,Maths,Place Value,Easy,Compute: 102 + 174,276,277,266,286,276
-4,Maths,Place Value,Easy,Compute: 198 - 166,32,22,42,33,32
-4,Maths,Place Value,Easy,Compute: 6 + 2,8,9,0,18,8
-4,Maths,Place Value,Easy,Compute: 150 ÷ 10,14,15,16,17,15
-4,Maths,Place Value,Easy,Compute: 70 ÷ 5,15,16,14,13,14
-4,Maths,Place Value,Easy,Compute: 131 - 1,120,131,130,140,130
-4,Maths,Multiplication,Easy,Compute: 53 - 42,21,1,12,11,11
-4,Maths,Measurement,Easy,Compute: 173 - 118,56,45,65,55,55
-4,Maths,Place Value,Easy,Compute: 180 - 60,120,110,121,130,120
-4,Maths,Measurement,Easy,Compute: 78 - 2,77,66,86,76,76
-4,Maths,Place Value,Easy,Compute: 36 ÷ 6,6,8,7,5,6
-4,Maths,Place Value,Easy,Compute: 154 ÷ 14,11,13,10,12,11
-4,Maths,Multiplication,Easy,Compute: 184 + 25,210,199,209,219,209
-4,Maths,Place Value,Easy,Compute: 11 × 12,132,142,143,120,132
-4,Maths,Measurement,Easy,Compute: 151 + 12,164,153,163,173,163
-4,Maths,Place Value,Easy,Compute: 118 + 86,204,214,194,205,204
-4,Maths,Measurement,Easy,Compute: 27 + 10,37,27,38,47,37
-4,Maths,Addition & Subtraction,Easy,Compute: 82 + 74,146,157,156,166,156
-4,Maths,Place Value,Easy,Compute: 9 ÷ 3,5,4,3,2,3
-4,Maths,Addition & Subtraction,Easy,Compute: 50 + 168,218,208,228,219,218
-4,Maths,Measurement,Easy,Compute: 192 - 127,65,75,66,55,65
-4,Maths,Measurement,Easy,Compute: 30 - 26,5,0,4,14,4
-4,Maths,Multiplication,Easy,Compute: 39 ÷ 3,13,14,12,15,13
-4,Maths,Multiplication,Easy,Compute: 179 - 72,117,107,108,97,107
-4,Maths,Place Value,Easy,Compute: 193 - 67,127,126,116,136,126
-4,Maths,Multiplication,Easy,Compute: 150 - 113,38,47,27,37,37
-4,Maths,Addition & Subtraction,Easy,Compute: 61 - 31,30,31,40,20,30
-4,Maths,Place Value,Easy,Compute: 141 - 120,31,22,11,21,21
-4,Maths,Measurement,Easy,Compute: 173 - 55,108,118,128,119,118
-4,Maths,Addition & Subtraction,Easy,Compute: 105 ÷ 15,6,7,9,8,7
-4,Maths,Addition & Subtraction,Easy,Compute: 143 ÷ 11,14,15,12,13,13
-4,Maths,Place Value,Easy,Compute: 103 + 15,118,128,119,108,118
-4,Maths,Place Value,Easy,Compute: 147 - 118,39,30,29,19,29
-4,Maths,Multiplication,Easy,Compute: 55 ÷ 11,4,5,7,6,5
-4,Maths,Multiplication,Easy,Compute: 194 - 6,188,198,178,189,188
-4,Maths,Multiplication,Easy,Compute: 12 × 5,72,60,70,55,60
-4,Maths,Multiplication,Easy,Compute: 173 - 102,81,61,72,71,71
-4,Maths,Measurement,Easy,Compute: 158 + 152,320,300,310,311,310
-4,Maths,Place Value,Easy,Compute: 12 × 14,154,168,180,178,168
-4,Maths,Measurement,Easy,Compute: 154 + 155,309,310,319,299,309
-4,Maths,Place Value,Easy,Compute: 3 + 200,203,193,204,213,203
-4,Maths,Multiplication,Easy,Compute: 95 - 79,17,16,26,6,16
-4,Maths,Addition & Subtraction,Easy,Compute: 181 - 129,53,52,42,62,52
-4,Maths,Multiplication,Easy,Compute: 191 + 72,273,263,253,264,263
-4,Maths,Measurement,Easy,Compute: 45 + 103,158,138,149,148,148
-4,Maths,Place Value,Easy,Compute: 145 - 32,113,123,114,103,113
-4,Maths,Addition & Subtraction,Easy,Compute: 15 × 12,190,180,195,168,180
-4,Maths,Addition & Subtraction,Easy,Compute: 130 + 137,267,277,268,257,267
-4,Maths,Multiplication,Easy,Compute: 181 - 134,57,37,48,47,47
-4,Maths,Place Value,Easy,Compute: 189 + 29,228,208,218,219,218
-4,Maths,Measurement,Easy,Compute: 61 + 67,118,128,129,138,128
-4,Maths,Addition & Subtraction,Easy,Compute: 127 - 63,74,54,65,64,64
-4,Maths,Place Value,Easy,Compute: 94 + 7,102,91,111,101,101
-4,Maths,Measurement,Easy,Compute: 188 + 21,209,210,199,219,209
-4,Maths,Addition & Subtraction,Easy,Compute: 15 × 4,60,75,70,56,60
-4,Maths,Place Value,Easy,Compute: 56 ÷ 8,6,8,9,7,7
-4,Maths,Addition & Subtraction,Easy,Compute: 166 + 118,294,284,285,274,284
-4,Maths,Multiplication,Easy,Compute: 9 + 181,191,180,190,200,190
-4,Maths,Place Value,Easy,Compute: 113 - 13,90,100,101,110,100
-4,Maths,Measurement,Easy,Compute: 131 - 24,108,97,117,107,107
-4,Maths,Measurement,Easy,Compute: 58 + 157,205,216,215,225,215
-4,Maths,Place Value,Easy,Compute: 4 × 7,32,38,28,21,28
-4,Maths,Place Value,Easy,Compute: 143 - 106,27,47,37,38,37
-4,Maths,Measurement,Easy,Compute: 74 + 87,162,151,161,171,161
-4,Maths,Place Value,Easy,Compute: 159 - 54,105,115,106,95,105
-4,Maths,Measurement,Easy,Compute: 50 - 24,26,27,36,16,26
-4,Maths,Multiplication,Easy,Compute: 122 - 18,114,94,104,105,104
-4,Maths,Place Value,Easy,Compute: 167 - 158,10,0,19,9,9
-4,Maths,Addition & Subtraction,Easy,Compute: 31 + 158,190,179,189,199,189
-4,Maths,Multiplication,Easy,Compute: 3 × 6,18,12,21,28,18
-4,Maths,Place Value,Easy,Compute: 171 + 86,258,267,247,257,257
-4,Maths,Addition & Subtraction,Easy,Compute: 176 - 158,8,28,18,19,18
-4,Maths,Multiplication,Easy,Compute: 84 + 44,118,128,129,138,128
-4,Maths,Addition & Subtraction,Easy,Compute: 24 + 135,149,160,169,159,159
-4,Maths,Multiplication,Easy,Compute: 172 + 149,311,331,321,322,321
-4,Maths,Addition & Subtraction,Easy,Compute: 156 - 116,30,50,41,40,40
-4,Maths,Addition & Subtraction,Easy,Compute: 14 + 195,219,210,199,209,209
-4,Maths,Place Value,Easy,Compute: 98 + 14,102,112,113,122,112
-4,Maths,Measurement,Easy,Compute: 85 - 53,42,32,33,22,32
-4,Maths,Addition & Subtraction,Easy,Compute: 193 + 190,373,393,383,384,383
-4,Maths,Place Value,Easy,Compute: 157 + 95,262,252,253,242,252
-4,Maths,Multiplication,Easy,Compute: 144 - 132,22,2,12,13,12
-4,Maths,Addition & Subtraction,Easy,Compute: 210 ÷ 15,15,14,13,16,14
-4,Maths,Measurement,Easy,Compute: 88 + 79,157,168,177,167,167
-4,Maths,Multiplication,Easy,Compute: 18 ÷ 6,5,3,4,2,3
-4,Maths,Multiplication,Easy,Compute: 20 ÷ 2,10,12,11,9,10
-4,Maths,Addition & Subtraction,Easy,Compute: 8 + 114,132,112,122,123,122
-4,Maths,Multiplication,Easy,Compute: 172 + 190,362,352,363,372,362
-4,Maths,Addition & Subtraction,Easy,Compute: 146 - 140,16,0,6,7,6
-4,Maths,Measurement,Easy,Compute: 96 + 112,208,198,209,218,208
-4,Maths,Addition & Subtraction,Easy,Compute: 225 ÷ 15,16,14,15,17,15
-4,Maths,Multiplication,Easy,Compute: 8 × 6,56,42,48,58,48
-4,Maths,Multiplication,Easy,Compute: 2 × 9,20,9,18,28,18
-4,Maths,Place Value,Easy,Compute: 21 ÷ 3,9,6,8,7,7
-4,Maths,Measurement,Easy,Compute: 13 × 6,72,78,88,91,78
-4,Maths,Place Value,Easy,Compute: 172 - 69,113,93,104,103,103
-4,Maths,Multiplication,Easy,Compute: 12 ÷ 6,2,3,4,1,2
-4,Maths,Measurement,Easy,Compute: 168 - 54,114,124,104,115,114
-4,Maths,Addition & Subtraction,Easy,Compute: 140 ÷ 14,9,11,12,10,10
-4,Maths,Multiplication,Easy,Compute: 154 + 58,213,222,212,202,212
-4,Maths,Addition & Subtraction,Easy,Compute: 31 + 67,99,108,98,88,98
-4,Maths,Multiplication,Easy,Compute: 48 - 40,9,18,8,0,8
-4,Maths,Addition & Subtraction,Easy,Compute: 127 - 62,65,55,75,66,65
-4,Maths,Measurement,Easy,Compute: 116 - 7,109,99,110,119,109
-4,Maths,Place Value,Easy,Compute: 106 + 134,240,230,241,250,240
-4,Maths,Place Value,Easy,Compute: 57 - 40,7,18,17,27,17
-4,Maths,Place Value,Easy,Compute: 177 - 70,108,117,97,107,107
-4,Maths,Addition & Subtraction,Easy,Compute: 72 ÷ 12,8,6,7,5,6
-4,Maths,Place Value,Easy,Compute: 18 ÷ 9,4,3,1,2,2
-4,Maths,Multiplication,Easy,Compute: 186 - 181,5,15,6,0,5
-4,Maths,Addition & Subtraction,Easy,Compute: 196 + 89,295,275,285,286,285
-4,Maths,Addition & Subtraction,Easy,Compute: 88 + 187,275,285,276,265,275
-4,Maths,Addition & Subtraction,Easy,Compute: 110 ÷ 11,9,12,10,11,10
-4,Maths,Measurement,Easy,Compute: 162 - 138,24,14,34,25,24
-4,Maths,Measurement,Easy,Compute: 133 - 67,76,66,67,56,66
-4,Maths,Place Value,Easy,Compute: 51 - 19,42,22,32,33,32
-4,Maths,Multiplication,Easy,Compute: 42 ÷ 3,16,13,14,15,14
-4,Maths,Multiplication,Easy,Compute: 164 + 112,266,286,277,276,276
-4,Maths,Measurement,Easy,Compute: 154 - 92,72,52,62,63,62
-4,Maths,Place Value,Easy,Compute: 11 × 3,30,43,33,44,33
-4,Maths,Measurement,Easy,Compute: 124 + 14,138,139,128,148,138
-4,Maths,Measurement,Easy,Compute: 100 + 98,208,188,199,198,198
-4,Maths,Multiplication,Easy,Compute: 136 - 51,95,75,85,86,85
-4,Maths,Multiplication,Easy,Compute: 177 - 96,82,81,91,71,81
-4,Maths,Multiplication,Easy,Compute: 191 - 101,100,80,90,91,90
-4,Maths,Multiplication,Easy,Compute: 127 - 56,71,81,72,61,71
-4,Maths,Measurement,Easy,Compute: 171 + 21,182,202,192,193,192
-4,Maths,Multiplication,Easy,Compute: 139 - 78,51,62,71,61,61
-4,Maths,Measurement,Easy,Compute: 109 - 28,91,82,71,81,81
-4,Maths,Measurement,Easy,Compute: 94 - 34,60,70,50,61,60
-4,Maths,Multiplication,Easy,Compute: 129 + 171,301,310,290,300,300
-4,Maths,Multiplication,Easy,Compute: 198 - 189,9,19,10,0,9
-4,Maths,Measurement,Easy,Compute: 185 + 78,263,273,253,264,263
-4,Maths,Multiplication,Easy,Compute: 9 × 8,72,64,81,82,72
-4,Maths,Addition & Subtraction,Easy,Compute: 24 + 108,122,132,133,142,132
-4,Maths,Measurement,Easy,Compute: 57 + 46,113,104,93,103,103
-4,Maths,Multiplication,Easy,Compute: 103 + 110,203,223,213,214,213
-4,Maths,Multiplication,Easy,Compute: 167 + 25,193,182,202,192,192
-4,Maths,Addition & Subtraction,Easy,Compute: 74 + 68,152,143,132,142,142
-4,Maths,Place Value,Easy,Compute: 170 - 78,102,92,93,82,92
-4,Maths,Place Value,Easy,Compute: 163 - 5,158,168,159,148,158
-4,Maths,Place Value,Easy,Compute: 132 - 126,7,0,16,6,6
-4,Maths,Addition & Subtraction,Easy,Compute: 143 - 16,137,127,128,117,127
-4,Maths,Addition & Subtraction,Easy,Compute: 195 - 161,34,44,24,35,34
-4,Maths,Multiplication,Easy,Compute: 180 - 89,81,101,92,91,91
-4,Maths,Addition & Subtraction,Easy,Compute: 28 + 48,77,66,86,76,76
-4,Maths,Measurement,Easy,Compute: 159 - 13,147,156,146,136,146
-4,Maths,Addition & Subtraction,Easy,Compute: 42 + 153,195,196,185,205,195
-4,Maths,Addition & Subtraction,Easy,Compute: 146 - 67,69,89,80,79,79
-4,Maths,Addition & Subtraction,Easy,Compute: 78 ÷ 6,15,12,14,13,13
-4,Maths,Multiplication,Easy,Compute: 42 - 2,40,30,50,41,40
-4,Maths,Place Value,Easy,Compute: 29 + 79,109,98,108,118,108
-4,Maths,Place Value,Easy,Compute: 36 ÷ 12,4,3,5,2,3
-4,Maths,Measurement,Easy,Compute: 131 - 13,118,128,119,108,118
-4,Maths,Addition & Subtraction,Easy,Compute: 21 + 190,221,212,211,201,211
-4,Maths,Addition & Subtraction,Easy,Compute: 86 + 76,152,162,172,163,162
-4,Maths,Place Value,Easy,Compute: 154 - 149,0,5,6,15,5
-4,Maths,Multiplication,Easy,Compute: 113 + 160,263,274,283,273,273
-4,Maths,Place Value,Easy,Compute: 173 - 33,150,141,140,130,140
-4,Maths,Multiplication,Easy,Compute: 25 + 57,83,92,72,82,82
-4,Maths,Multiplication,Easy,Compute: 123 + 19,152,143,132,142,142
-4,Maths,Multiplication,Easy,Compute: 24 ÷ 6,6,4,5,3,4
-4,Maths,Measurement,Easy,Compute: 172 + 102,264,275,284,274,274
-4,Maths,Place Value,Easy,Compute: 1 + 74,76,85,75,65,75
-4,Maths,Place Value,Easy,Compute: 90 ÷ 10,10,11,8,9,9
-4,Maths,Addition & Subtraction,Easy,Compute: 164 + 82,247,256,246,236,246
-4,Maths,Multiplication,Easy,Compute: 126 - 7,129,109,119,120,119
-4,Maths,Multiplication,Easy,Compute: 183 - 95,89,98,78,88,88
-4,Maths,Measurement,Easy,Compute: 25 - 21,5,14,4,0,4
-4,Maths,Addition & Subtraction,Easy,Compute: 200 + 133,343,333,334,323,333
-4,Maths,Addition & Subtraction,Easy,Compute: 168 - 138,20,30,31,40,30
-4,Maths,Place Value,Easy,Compute: 92 + 178,280,270,260,271,270
-4,Maths,Measurement,Easy,Compute: 2 × 2,4,14,6,2,4
-4,Maths,Measurement,Easy,Compute: 191 - 36,145,155,165,156,155
-4,Maths,Addition & Subtraction,Easy,Compute: 90 + 113,193,203,204,213,203
-4,Maths,Measurement,Easy,Compute: 6 × 12,82,78,60,72,72
-4,Maths,Measurement,Easy,Compute: 87 + 145,233,232,222,242,232
-4,Maths,Measurement,Easy,Compute: 111 - 92,9,20,19,29,19
-4,Maths,Measurement,Easy,Compute: 153 + 89,243,252,232,242,242
-4,Maths,Place Value,Easy,Compute: 21 + 194,216,215,205,225,215
-4,Maths,Addition & Subtraction,Easy,Compute: 16 - 9,17,8,7,0,7
-4,Maths,Multiplication,Easy,Compute: 133 - 130,3,4,13,0,3
-4,Maths,Multiplication,Easy,Compute: 25 + 178,193,204,213,203,203
-4,Maths,Place Value,Easy,Compute: 142 + 10,152,162,142,153,152
-4,Maths,Addition & Subtraction,Easy,Compute: 187 - 33,164,154,144,155,154
-4,Maths,Addition & Subtraction,Easy,Compute: 185 + 86,272,261,281,271,271
-4,Maths,Multiplication,Easy,Compute: 76 - 31,46,35,55,45,45
-4,Maths,Measurement,Easy,Compute: 112 - 87,25,35,26,15,25
-4,Maths,Multiplication,Easy,Compute: 110 - 33,87,78,67,77,77
-4,Maths,Measurement,Easy,Compute: 30 ÷ 15,2,4,3,1,2
-4,Maths,Place Value,Easy,Compute: 60 ÷ 12,7,4,6,5,5
-4,Maths,Measurement,Easy,Compute: 67 - 32,36,35,45,25,35
-4,Maths,Multiplication,Easy,Compute: 153 - 111,32,52,42,43,42
-4,Maths,Place Value,Easy,Compute: 200 - 95,95,115,105,106,105
-4,Maths,Addition & Subtraction,Easy,Compute: 132 + 42,175,174,164,184,174
-4,Maths,Measurement,Easy,Compute: 114 - 91,33,24,23,13,23
-4,Maths,Multiplication,Easy,Compute: 185 + 157,352,343,332,342,342
-4,Maths,Measurement,Easy,Compute: 2 + 40,32,52,42,43,42
-4,Maths,Addition & Subtraction,Easy,Compute: 164 - 57,107,117,108,97,107
-4,Maths,Addition & Subtraction,Easy,Compute: 15 + 103,118,119,128,108,118
-4,Maths,Measurement,Easy,Compute: 113 - 74,39,29,40,49,39
-4,Maths,Multiplication,Easy,Compute: 182 - 159,24,13,23,33,23
-4,Maths,Measurement,Easy,Compute: 129 + 168,287,298,297,307,297
-4,Maths,Multiplication,Easy,Compute: 91 - 35,46,56,57,66,56
-4,Maths,Multiplication,Easy,Compute: 15 × 6,90,105,84,100,90
-4,Maths,Multiplication,Easy,Compute: 44 + 92,137,146,126,136,136
-4,Maths,Addition & Subtraction,Easy,Compute: 114 - 8,106,96,107,116,106
-4,Maths,Measurement,Easy,Compute: 98 - 69,29,39,30,19,29
-4,Maths,Place Value,Easy,Compute: 45 + 175,230,220,210,221,220
-4,Maths,Measurement,Easy,Compute: 193 - 185,9,18,8,0,8
-4,Maths,Multiplication,Easy,Compute: 178 - 119,69,49,59,60,59
-4,Maths,Place Value,Easy,Compute: 172 - 131,31,42,41,51,41
-4,Maths,Measurement,Easy,Compute: 148 + 11,160,149,169,159,159
-4,Maths,Addition & Subtraction,Easy,Compute: 32 + 45,87,67,78,77,77
-4,Maths,Measurement,Easy,Compute: 190 - 185,15,5,6,0,5
-4,Maths,Multiplication,Easy,Compute: 11 + 121,132,133,142,122,132
-4,Maths,Addition & Subtraction,Easy,Compute: 168 ÷ 12,13,16,15,14,14
-4,Maths,Place Value,Easy,Compute: 71 + 148,219,220,209,229,219
-4,Maths,Multiplication,Easy,Compute: 12 ÷ 2,8,6,5,7,6
-4,Maths,Addition & Subtraction,Easy,Compute: 194 + 60,264,244,254,255,254
-4,Maths,Multiplication,Easy,Compute: 7 × 11,77,66,87,84,77
-4,Maths,Place Value,Easy,Compute: 97 - 46,41,61,52,51,51
-4,Maths,Measurement,Easy,Compute: 28 ÷ 2,16,15,13,14,14
-4,Maths,Place Value,Easy,Compute: 98 - 4,84,94,95,104,94
-4,Maths,Addition & Subtraction,Easy,Compute: 122 - 116,6,7,16,0,6
-4,Maths,Addition & Subtraction,Easy,Compute: 145 - 1,154,134,144,145,144
-4,Maths,Measurement,Easy,Compute: 49 + 166,216,205,225,215,215
-4,Maths,Measurement,Easy,Compute: 88 + 20,118,98,108,109,108
-4,Maths,Addition & Subtraction,Easy,Compute: 196 - 15,182,181,191,171,181
-4,Maths,Measurement,Easy,Compute: 59 - 41,19,8,18,28,18
-4,Maths,Measurement,Easy,Compute: 150 - 146,0,4,14,5,4
-4,Maths,Place Value,Easy,Compute: 110 ÷ 10,11,10,12,13,11
-4,Maths,Measurement,Easy,Compute: 115 - 20,96,105,95,85,95
-4,Maths,Measurement,Easy,Compute: 41 + 26,68,57,77,67,67
-4,Maths,Addition & Subtraction,Easy,Compute: 10 × 7,63,80,70,Option 3,70
-4,Maths,Multiplication,Easy,Compute: 182 - 27,156,155,165,145,155
-4,Maths,Place Value,Easy,Compute: 3 × 11,33,43,22,36,33
-4,Maths,Addition & Subtraction,Easy,Compute: 12 × 12,144,132,156,154,144
-4,Maths,Addition & Subtraction,Easy,Compute: 26 + 148,175,164,184,174,174
-4,Maths,Addition & Subtraction,Easy,Compute: 114 + 137,261,251,241,252,251
-4,Maths,Addition & Subtraction,Easy,Compute: 193 - 157,46,36,26,37,36
-4,Maths,Multiplication,Easy,Compute: 44 + 109,153,143,154,163,153
-4,Maths,Measurement,Easy,Compute: 89 - 30,60,49,69,59,59
-4,Maths,Addition & Subtraction,Easy,Compute: 178 + 141,309,319,320,329,319
-4,Maths,Place Value,Easy,Compute: 86 - 68,19,8,18,28,18
-4,Maths,Measurement,Easy,Compute: 8 × 2,24,26,16,14,16
-4,Maths,Measurement,Easy,Compute: 173 + 75,249,258,238,248,248
-4,Maths,Place Value,Easy,Compute: 185 - 165,20,10,21,30,20
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,Which is heavier?,1 kg,1 g,1 mg,1 cm,1 kg
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 3,245 + 1,234?","4,379","4,479","4,579","4,679","4,479"
+4,Maths,Multiplication,Easy,What is 8 × 9?,63,72,81,90,72
+4,Maths,Place Value,Easy,Which number has 4 thousands?,"4,120",412,"40,012",400,"4,120"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100
+4,Maths,Addition & Subtraction,Easy,"What is 5,000 − 2,678?","2,222","2,322","2,422","2,522","2,322"
+4,Maths,Multiplication,Easy,What is 6 × 7?,36,40,42,48,42
+4,Maths,Place Value,Easy,"In 45,678 what is the value of 5?",5,50,500,"5,000","5,000"
+4,Maths,Measurement,Easy,How many centimeters are in a meter?,10,50,100,"1,000",100

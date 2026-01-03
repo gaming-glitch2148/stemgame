@@ -5,997 +5,997 @@ Grade,Subject,Topic,Difficulty,Question,A,B,C,D,Correct Answer
 3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
 3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
 3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
 3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
 3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
-3,Maths,Multiplication Basics,Easy,Compute: 4 ÷ 2,4,2,1,3,2
-3,Maths,Addition & Subtraction,Easy,Compute: 117 ÷ 9,12,14,15,13,13
-3,Maths,Measurement,Easy,Compute: 146 - 18,129,138,128,118,128
-3,Maths,Multiplication Basics,Easy,Compute: 31 - 4,37,27,17,28,27
-3,Maths,Measurement,Easy,Compute: 9 × 3,36,27,24,37,27
-3,Maths,Place Value,Easy,Compute: 5 × 11,65,55,44,60,55
-3,Maths,Measurement,Easy,Compute: 15 ÷ 3,7,6,5,4,5
-3,Maths,Addition & Subtraction,Easy,Compute: 134 - 79,45,65,55,56,55
-3,Maths,Place Value,Easy,Compute: 50 ÷ 5,12,9,10,11,10
-3,Maths,Multiplication Basics,Easy,Compute: 131 - 103,18,28,29,38,28
-3,Maths,Place Value,Easy,Compute: 76 - 3,83,63,73,74,73
-3,Maths,Multiplication Basics,Easy,Compute: 198 + 91,290,279,299,289,289
-3,Maths,Addition & Subtraction,Easy,Compute: 121 + 6,128,117,127,137,127
-3,Maths,Place Value,Easy,Compute: 4 × 12,52,48,36,58,48
-3,Maths,Addition & Subtraction,Easy,Compute: 165 + 0,166,155,175,165,165
-3,Maths,Addition & Subtraction,Easy,Compute: 11 × 11,110,132,131,121,121
-3,Maths,Measurement,Easy,Compute: 11 × 10,100,120,110,121,110
-3,Maths,Measurement,Easy,Compute: 52 ÷ 13,6,3,5,4,4
-3,Maths,Multiplication Basics,Easy,Compute: 178 - 139,49,39,29,40,39
-3,Maths,Place Value,Easy,Compute: 178 - 35,153,144,133,143,143
-3,Maths,Place Value,Easy,Compute: 4 × 5,24,15,20,30,20
-3,Maths,Addition & Subtraction,Easy,Compute: 172 + 174,336,347,346,356,346
-3,Maths,Addition & Subtraction,Easy,Compute: 140 ÷ 10,14,13,16,15,14
-3,Maths,Addition & Subtraction,Easy,Compute: 46 + 18,65,64,54,74,64
-3,Maths,Multiplication Basics,Easy,Compute: 39 ÷ 3,12,15,14,13,13
-3,Maths,Place Value,Easy,Compute: 176 - 97,69,79,89,80,79
-3,Maths,Place Value,Easy,Compute: 15 × 9,150,145,126,135,135
-3,Maths,Measurement,Easy,Compute: 60 ÷ 6,10,12,9,11,10
-3,Maths,Addition & Subtraction,Easy,Compute: 14 × 6,78,84,98,94,84
-3,Maths,Addition & Subtraction,Easy,Compute: 123 + 49,162,172,173,182,172
-3,Maths,Place Value,Easy,Compute: 21 ÷ 7,2,3,4,5,3
-3,Maths,Addition & Subtraction,Easy,Compute: 18 ÷ 2,9,10,8,11,9
-3,Maths,Place Value,Easy,Compute: 169 - 146,23,24,33,13,23
-3,Maths,Addition & Subtraction,Easy,Compute: 47 - 29,19,28,8,18,18
-3,Maths,Place Value,Easy,Compute: 20 + 175,205,195,185,196,195
-3,Maths,Addition & Subtraction,Easy,Compute: 3 × 5,18,15,25,10,15
-3,Maths,Place Value,Easy,Compute: 74 + 163,238,247,227,237,237
-3,Maths,Place Value,Easy,Compute: 3 × 14,52,42,28,45,42
-3,Maths,Multiplication Basics,Easy,Compute: 14 × 8,104,122,112,126,112
-3,Maths,Place Value,Easy,Compute: 70 ÷ 10,7,6,8,9,7
-3,Maths,Measurement,Easy,Compute: 117 + 141,248,258,268,259,258
-3,Maths,Measurement,Easy,Compute: 6 × 5,36,25,40,30,30
-3,Maths,Measurement,Easy,Compute: 63 ÷ 7,9,8,10,11,9
-3,Maths,Addition & Subtraction,Easy,Compute: 6 ÷ 2,5,4,2,3,3
-3,Maths,Place Value,Easy,Compute: 134 - 72,63,72,62,52,62
-3,Maths,Measurement,Easy,Compute: 64 - 51,14,23,13,3,13
-3,Maths,Multiplication Basics,Easy,Compute: 14 × 3,56,52,39,42,42
-3,Maths,Multiplication Basics,Easy,Compute: 120 ÷ 8,16,14,15,17,15
-3,Maths,Place Value,Easy,Compute: 4 × 10,50,44,30,40,40
-3,Maths,Place Value,Easy,Compute: 13 × 15,205,180,208,195,195
-3,Maths,Multiplication Basics,Easy,Compute: 127 - 94,43,33,23,34,33
-3,Maths,Addition & Subtraction,Easy,Compute: 99 + 59,159,168,148,158,158
-3,Maths,Multiplication Basics,Easy,Compute: 67 + 81,149,138,148,158,148
-3,Maths,Place Value,Easy,Compute: 184 - 149,25,45,36,35,35
-3,Maths,Multiplication Basics,Easy,Compute: 3 × 9,37,18,27,30,27
-3,Maths,Addition & Subtraction,Easy,Compute: 55 ÷ 5,12,10,11,13,11
-3,Maths,Place Value,Easy,Compute: 91 ÷ 7,15,14,13,12,13
-3,Maths,Place Value,Easy,Compute: 2 × 6,6,22,12,14,12
-3,Maths,Place Value,Easy,Compute: 13 × 14,195,192,168,182,182
-3,Maths,Place Value,Easy,Compute: 140 ÷ 14,9,12,11,10,10
-3,Maths,Addition & Subtraction,Easy,Compute: 81 - 28,53,63,54,43,53
-3,Maths,Addition & Subtraction,Easy,Compute: 193 - 13,181,180,170,190,180
-3,Maths,Place Value,Easy,Compute: 181 - 27,155,154,164,144,154
-3,Maths,Addition & Subtraction,Easy,Compute: 143 - 43,110,100,90,101,100
-3,Maths,Addition & Subtraction,Easy,Compute: 120 ÷ 12,9,11,10,12,10
-3,Maths,Measurement,Easy,Compute: 91 - 34,67,57,58,47,57
-3,Maths,Place Value,Easy,Compute: 7 × 14,84,108,105,98,98
-3,Maths,Place Value,Easy,Compute: 177 - 14,163,164,173,153,163
-3,Maths,Place Value,Easy,Compute: 24 ÷ 4,7,5,8,6,6
-3,Maths,Place Value,Easy,Compute: 6 ÷ 3,1,3,2,4,2
-3,Maths,Multiplication Basics,Easy,Compute: 110 + 108,218,208,219,228,218
-3,Maths,Place Value,Easy,Compute: 9 × 7,56,73,72,63,63
-3,Maths,Multiplication Basics,Easy,Compute: 183 - 168,15,25,5,16,15
-3,Maths,Measurement,Easy,Compute: 8 ÷ 4,3,1,2,4,2
-3,Maths,Addition & Subtraction,Easy,Compute: 177 + 30,197,208,217,207,207
-3,Maths,Measurement,Easy,Compute: 48 - 39,9,19,0,10,9
-3,Maths,Addition & Subtraction,Easy,Compute: 47 - 33,4,24,14,15,14
-3,Maths,Measurement,Easy,Compute: 5 × 14,75,56,70,80,70
-3,Maths,Multiplication Basics,Easy,Compute: 61 - 38,13,33,23,24,23
-3,Maths,Addition & Subtraction,Easy,Compute: 28 ÷ 14,3,1,2,4,2
-3,Maths,Measurement,Easy,Compute: 195 ÷ 13,16,14,17,15,15
-3,Maths,Measurement,Easy,Compute: 198 - 66,142,132,122,133,132
-3,Maths,Measurement,Easy,Compute: 117 ÷ 13,10,11,9,8,9
-3,Maths,Measurement,Easy,Compute: 141 - 93,38,58,49,48,48
-3,Maths,Multiplication Basics,Easy,Compute: 7 × 15,105,90,115,112,105
-3,Maths,Place Value,Easy,Compute: 190 - 96,95,94,104,84,94
-3,Maths,Multiplication Basics,Easy,Compute: 97 + 168,266,265,255,275,265
-3,Maths,Place Value,Easy,Compute: 45 + 54,100,89,109,99,99
-3,Maths,Place Value,Easy,Compute: 12 × 15,180,190,192,165,180
-3,Maths,Addition & Subtraction,Easy,Compute: 2 × 5,5,12,20,10,10
-3,Maths,Place Value,Easy,Compute: 7 × 11,84,77,66,87,77
-3,Maths,Measurement,Easy,Compute: 72 ÷ 6,14,13,11,12,12
-3,Maths,Place Value,Easy,Compute: 19 + 43,72,63,52,62,62
-3,Maths,Place Value,Easy,Compute: 23 + 85,118,98,108,109,108
-3,Maths,Multiplication Basics,Easy,Compute: 36 ÷ 6,7,5,6,8,6
-3,Maths,Addition & Subtraction,Easy,Compute: 104 ÷ 8,14,15,12,13,13
-3,Maths,Addition & Subtraction,Easy,Compute: 174 + 178,352,342,362,353,352
-3,Maths,Addition & Subtraction,Easy,Compute: 64 ÷ 8,8,9,7,10,8
-3,Maths,Place Value,Easy,Compute: 62 + 75,138,127,147,137,137
-3,Maths,Measurement,Easy,Compute: 7 × 7,56,49,59,42,49
-3,Maths,Place Value,Easy,Compute: 12 × 3,46,48,33,36,36
-3,Maths,Addition & Subtraction,Easy,Compute: 162 + 80,242,252,243,232,242
-3,Maths,Addition & Subtraction,Easy,Compute: 52 + 30,83,72,82,92,82
-3,Maths,Measurement,Easy,Compute: 18 ÷ 9,2,4,3,1,2
-3,Maths,Multiplication Basics,Easy,Compute: 10 × 6,70,Option 3,60,54,60
-3,Maths,Multiplication Basics,Easy,Compute: 161 - 48,123,114,113,103,113
-3,Maths,Addition & Subtraction,Easy,Compute: 11 × 13,153,130,143,154,143
-3,Maths,Multiplication Basics,Easy,Compute: 39 - 29,20,0,11,10,10
-3,Maths,Multiplication Basics,Easy,Compute: 70 ÷ 5,13,15,16,14,14
-3,Maths,Measurement,Easy,Compute: 56 ÷ 14,4,3,6,5,4
-3,Maths,Measurement,Easy,Compute: 11 × 3,33,44,30,43,33
-3,Maths,Addition & Subtraction,Easy,Compute: 165 ÷ 15,10,11,13,12,11
-3,Maths,Multiplication Basics,Easy,Compute: 90 ÷ 10,9,11,10,8,9
-3,Maths,Place Value,Easy,Compute: 11 × 15,150,175,165,176,165
-3,Maths,Place Value,Easy,Compute: 8 × 13,112,114,91,104,104
-3,Maths,Multiplication Basics,Easy,Compute: 7 × 12,91,94,72,84,84
-3,Maths,Multiplication Basics,Easy,Compute: 120 + 140,260,250,261,270,260
-3,Maths,Measurement,Easy,Compute: 180 ÷ 15,13,12,11,14,12
-3,Maths,Measurement,Easy,Compute: 4 × 4,26,12,20,16,16
-3,Maths,Addition & Subtraction,Easy,Compute: 13 × 4,62,48,52,65,52
-3,Maths,Multiplication Basics,Easy,Compute: 97 + 21,119,128,118,108,118
-3,Maths,Multiplication Basics,Easy,Compute: 54 ÷ 9,6,7,5,8,6
-3,Maths,Addition & Subtraction,Easy,Compute: 6 × 8,58,40,54,48,48
-3,Maths,Multiplication Basics,Easy,Compute: 175 - 86,99,79,90,89,89
-3,Maths,Multiplication Basics,Easy,Compute: 83 + 108,201,192,191,181,191
-3,Maths,Addition & Subtraction,Easy,Compute: 65 - 9,66,56,46,57,56
-3,Maths,Addition & Subtraction,Easy,Compute: 164 - 36,118,138,129,128,128
-3,Maths,Place Value,Easy,Compute: 5 × 4,20,30,16,25,20
-3,Maths,Addition & Subtraction,Easy,Compute: 48 ÷ 6,7,9,10,8,8
-3,Maths,Multiplication Basics,Easy,Compute: 133 - 70,53,63,64,73,63
-3,Maths,Addition & Subtraction,Easy,Compute: 29 + 50,89,80,79,69,79
-3,Maths,Addition & Subtraction,Easy,Compute: 84 ÷ 14,8,5,6,7,6
-3,Maths,Addition & Subtraction,Easy,Compute: 128 - 95,23,43,33,34,33
-3,Maths,Addition & Subtraction,Easy,Compute: 182 - 60,123,112,122,132,122
-3,Maths,Multiplication Basics,Easy,Compute: 181 + 155,336,337,326,346,336
-3,Maths,Measurement,Easy,Compute: 4 × 9,40,46,27,36,36
-3,Maths,Place Value,Easy,Compute: 25 ÷ 5,7,5,6,4,5
-3,Maths,Measurement,Easy,Compute: 65 ÷ 5,13,12,15,14,13
-3,Maths,Place Value,Easy,Compute: 107 - 8,89,100,99,109,99
-3,Maths,Place Value,Easy,Compute: 51 + 12,53,63,73,64,63
-3,Maths,Multiplication Basics,Easy,Compute: 139 + 149,298,288,289,278,288
-3,Maths,Measurement,Easy,Compute: 15 × 8,130,135,120,112,120
-3,Maths,Place Value,Easy,Compute: 66 - 4,63,52,62,72,62
-3,Maths,Measurement,Easy,Compute: 95 - 66,19,39,29,30,29
-3,Maths,Place Value,Easy,Compute: 9 × 13,117,126,127,104,117
-3,Maths,Place Value,Easy,Compute: 24 ÷ 2,11,14,12,13,12
-3,Maths,Multiplication Basics,Easy,Compute: 155 + 178,333,323,334,343,333
-3,Maths,Multiplication Basics,Easy,Compute: 48 ÷ 4,11,13,14,12,12
-3,Maths,Addition & Subtraction,Easy,Compute: 104 + 161,265,275,255,266,265
-3,Maths,Multiplication Basics,Easy,Compute: 200 - 118,82,83,92,72,82
-3,Maths,Measurement,Easy,Compute: 36 ÷ 12,5,2,3,4,3
-3,Maths,Measurement,Easy,Compute: 40 ÷ 4,10,11,9,12,10
-3,Maths,Multiplication Basics,Easy,Compute: 175 - 89,86,87,76,96,86
-3,Maths,Place Value,Easy,Compute: 110 - 81,29,30,19,39,29
-3,Maths,Multiplication Basics,Easy,Compute: 142 - 114,28,18,29,38,28
-3,Maths,Measurement,Easy,Compute: 200 - 156,44,34,45,54,44
-3,Maths,Addition & Subtraction,Easy,Compute: 10 × 5,60,45,Option 3,50,50
-3,Maths,Measurement,Easy,Compute: 144 + 168,313,302,322,312,312
-3,Maths,Addition & Subtraction,Easy,Compute: 87 - 83,0,5,14,4,4
-3,Maths,Addition & Subtraction,Easy,Compute: 11 + 22,34,23,33,43,33
-3,Maths,Measurement,Easy,Compute: 15 × 10,165,140,160,150,150
-3,Maths,Multiplication Basics,Easy,Compute: 172 - 151,22,21,31,11,21
-3,Maths,Addition & Subtraction,Easy,Compute: 200 - 55,146,135,145,155,145
-3,Maths,Place Value,Easy,Compute: 7 + 67,75,74,84,64,74
-3,Maths,Multiplication Basics,Easy,Compute: 194 + 20,214,224,215,204,214
-3,Maths,Addition & Subtraction,Easy,Compute: 35 ÷ 5,6,7,8,9,7
-3,Maths,Multiplication Basics,Easy,Compute: 7 × 3,31,21,28,18,21
-3,Maths,Multiplication Basics,Easy,Compute: 193 - 136,67,47,57,58,57
-3,Maths,Measurement,Easy,Compute: 108 ÷ 12,11,8,10,9,9
-3,Maths,Place Value,Easy,Compute: 148 + 156,294,305,314,304,304
-3,Maths,Measurement,Easy,Compute: 12 × 6,84,66,82,72,72
-3,Maths,Multiplication Basics,Easy,Compute: 96 ÷ 8,11,12,14,13,12
-3,Maths,Place Value,Easy,Compute: 170 - 133,38,37,47,27,37
-3,Maths,Place Value,Easy,Compute: 59 + 25,74,94,84,85,84
-3,Maths,Measurement,Easy,Compute: 173 - 20,143,163,153,154,153
-3,Maths,Place Value,Easy,Compute: 189 - 141,38,48,49,58,48
-3,Maths,Addition & Subtraction,Easy,Compute: 85 + 61,136,146,147,156,146
-3,Maths,Multiplication Basics,Easy,Compute: 5 × 3,20,25,12,15,15
-3,Maths,Multiplication Basics,Easy,Compute: 10 × 2,Option 3,30,18,20,20
-3,Maths,Measurement,Easy,Compute: 58 + 99,157,158,147,167,157
-3,Maths,Multiplication Basics,Easy,Compute: 53 - 28,26,35,25,15,25
-3,Maths,Multiplication Basics,Easy,Compute: 77 ÷ 11,7,6,8,9,7
-3,Maths,Addition & Subtraction,Easy,Compute: 88 + 165,254,263,253,243,253
-3,Maths,Addition & Subtraction,Easy,Compute: 6 × 9,45,64,54,60,54
-3,Maths,Addition & Subtraction,Easy,Compute: 62 - 60,2,12,0,3,2
-3,Maths,Measurement,Easy,Compute: 13 × 2,26,39,24,36,26
-3,Maths,Addition & Subtraction,Easy,Compute: 49 - 21,29,18,28,38,28
-3,Maths,Addition & Subtraction,Easy,Compute: 8 + 116,124,114,125,134,124
-3,Maths,Measurement,Easy,Compute: 98 - 77,11,31,21,22,21
-3,Maths,Addition & Subtraction,Easy,Compute: 170 + 100,280,271,270,260,270
-3,Maths,Multiplication Basics,Easy,Compute: 10 × 9,Option 3,90,81,100,90
-3,Maths,Addition & Subtraction,Easy,Compute: 149 + 194,333,343,353,344,343
-3,Maths,Place Value,Easy,Compute: 72 ÷ 12,8,5,7,6,6
-3,Maths,Measurement,Easy,Compute: 24 ÷ 12,4,1,2,3,2
-3,Maths,Multiplication Basics,Easy,Compute: 42 + 185,217,228,237,227,227
-3,Maths,Multiplication Basics,Easy,Compute: 9 × 12,117,96,108,118,108
-3,Maths,Place Value,Easy,Compute: 3 × 2,6,4,9,16,6
-3,Maths,Measurement,Easy,Compute: 98 ÷ 14,9,7,6,8,7
-3,Maths,Place Value,Easy,Compute: 25 + 83,118,109,98,108,108
-3,Maths,Addition & Subtraction,Easy,Compute: 147 - 54,103,93,94,83,93
-3,Maths,Measurement,Easy,Compute: 105 ÷ 15,9,6,8,7,7
-3,Maths,Place Value,Easy,Compute: 42 ÷ 7,6,8,7,5,6
-3,Maths,Place Value,Easy,Compute: 24 ÷ 6,5,3,6,4,4
-3,Maths,Place Value,Easy,Compute: 168 ÷ 12,14,16,15,13,14
-3,Maths,Measurement,Easy,Compute: 138 + 78,226,206,216,217,216
-3,Maths,Measurement,Easy,Compute: 172 - 84,78,98,88,89,88
-3,Maths,Multiplication Basics,Easy,Compute: 15 × 14,220,210,196,225,210
-3,Maths,Measurement,Easy,Compute: 160 - 68,102,93,92,82,92
-3,Maths,Measurement,Easy,Compute: 10 × 3,Option 3,27,40,30,30
-3,Maths,Place Value,Easy,Compute: 48 - 9,49,39,40,29,39
-3,Maths,Place Value,Easy,Compute: 32 ÷ 8,5,6,3,4,4
-3,Maths,Measurement,Easy,Compute: 12 ÷ 4,2,3,4,5,3
-3,Maths,Measurement,Easy,Compute: 36 + 123,169,160,149,159,159
-3,Maths,Multiplication Basics,Easy,Compute: 3 × 6,21,18,28,12,18
-3,Maths,Place Value,Easy,Compute: 130 - 49,91,82,81,71,81
-3,Maths,Addition & Subtraction,Easy,Compute: 96 + 129,225,235,215,226,225
-3,Maths,Place Value,Easy,Compute: 194 + 142,346,336,326,337,336
-3,Maths,Addition & Subtraction,Easy,Compute: 166 - 102,74,54,65,64,64
-3,Maths,Measurement,Easy,Compute: 146 - 120,27,26,16,36,26
-3,Maths,Measurement,Easy,Compute: 5 × 12,65,70,48,60,60
-3,Maths,Addition & Subtraction,Easy,Compute: 161 - 154,7,17,0,8,7
-3,Maths,Place Value,Easy,Compute: 120 - 55,55,65,66,75,65
-3,Maths,Measurement,Easy,Compute: 12 ÷ 6,4,2,1,3,2
-3,Maths,Measurement,Easy,Compute: 15 × 12,168,190,180,195,180
-3,Maths,Addition & Subtraction,Easy,Compute: 44 ÷ 11,4,5,3,6,4
-3,Maths,Place Value,Easy,Compute: 54 - 26,29,28,38,18,28
-3,Maths,Place Value,Easy,Compute: 33 + 50,73,93,83,84,83
-3,Maths,Addition & Subtraction,Easy,Compute: 78 - 61,7,27,17,18,17
-3,Maths,Multiplication Basics,Easy,Compute: 120 + 195,305,325,316,315,315
-3,Maths,Addition & Subtraction,Easy,Compute: 186 + 34,220,221,210,230,220
-3,Maths,Measurement,Easy,Compute: 24 + 178,202,212,203,192,202
-3,Maths,Place Value,Easy,Compute: 188 + 43,241,232,231,221,231
-3,Maths,Multiplication Basics,Easy,Compute: 199 - 55,154,145,134,144,144
-3,Maths,Place Value,Easy,Compute: 102 + 95,187,207,198,197,197
-3,Maths,Multiplication Basics,Easy,Compute: 186 - 141,55,35,46,45,45
-3,Maths,Multiplication Basics,Easy,Compute: 183 - 162,21,31,22,11,21
-3,Maths,Place Value,Easy,Compute: 169 + 20,190,199,179,189,189
-3,Maths,Multiplication Basics,Easy,Compute: 116 + 180,286,296,297,306,296
-3,Maths,Measurement,Easy,Compute: 9 × 15,144,135,145,120,135
-3,Maths,Place Value,Easy,Compute: 156 - 148,8,0,9,18,8
-3,Maths,Measurement,Easy,Compute: 3 × 11,33,22,43,36,33
-3,Maths,Multiplication Basics,Easy,Compute: 12 × 12,156,154,132,144,144
-3,Maths,Place Value,Easy,Compute: 184 - 49,135,145,125,136,135
-3,Maths,Multiplication Basics,Easy,Compute: 48 ÷ 12,5,6,3,4,4
-3,Maths,Measurement,Easy,Compute: 4 × 2,12,8,18,6,8
-3,Maths,Measurement,Easy,Compute: 168 + 132,301,310,300,290,300
-3,Maths,Place Value,Easy,Compute: 197 - 142,55,65,45,56,55
-3,Maths,Multiplication Basics,Easy,Compute: 200 - 143,67,57,58,47,57
-3,Maths,Place Value,Easy,Compute: 82 - 66,26,16,17,6,16
-3,Maths,Multiplication Basics,Easy,Compute: 74 + 105,189,179,169,180,179
-3,Maths,Place Value,Easy,Compute: 12 + 106,128,108,119,118,118
-3,Maths,Measurement,Easy,Compute: 47 - 31,16,17,6,26,16
-3,Maths,Addition & Subtraction,Easy,Compute: 12 ÷ 2,7,8,6,5,6
-3,Maths,Place Value,Easy,Compute: 167 + 194,351,371,361,362,361
-3,Maths,Place Value,Easy,Compute: 98 - 57,51,31,41,42,41
-3,Maths,Measurement,Easy,Compute: 82 + 131,213,223,214,203,213
-3,Maths,Addition & Subtraction,Easy,Compute: 121 ÷ 11,11,12,13,10,11
-3,Maths,Measurement,Easy,Compute: 17 - 3,4,14,15,24,14
-3,Maths,Addition & Subtraction,Easy,Compute: 125 + 159,294,274,284,285,284
-3,Maths,Addition & Subtraction,Easy,Compute: 59 - 30,39,30,29,19,29
-3,Maths,Multiplication Basics,Easy,Compute: 45 ÷ 3,17,14,15,16,15
-3,Maths,Multiplication Basics,Easy,Compute: 146 - 99,48,47,57,37,47
-3,Maths,Addition & Subtraction,Easy,Compute: 5 × 8,40,50,32,45,40
-3,Maths,Place Value,Easy,Compute: 143 ÷ 13,13,10,12,11,11
-3,Maths,Measurement,Easy,Compute: 120 - 90,20,31,30,40,30
-3,Maths,Multiplication Basics,Easy,Compute: 11 × 8,88,99,98,80,88
-3,Maths,Multiplication Basics,Easy,Compute: 163 + 162,326,325,335,315,325
-3,Maths,Addition & Subtraction,Easy,Compute: 81 ÷ 9,9,11,8,10,9
-3,Maths,Multiplication Basics,Easy,Compute: 73 + 111,185,194,174,184,184
-3,Maths,Place Value,Easy,Compute: 28 + 107,135,136,125,145,135
-3,Maths,Multiplication Basics,Easy,Compute: 12 × 8,106,108,88,96,96
-3,Maths,Addition & Subtraction,Easy,Compute: 165 - 72,83,94,93,103,93
-3,Maths,Multiplication Basics,Easy,Compute: 179 - 42,127,147,138,137,137
-3,Maths,Place Value,Easy,Compute: 75 ÷ 5,16,17,14,15,15
-3,Maths,Addition & Subtraction,Easy,Compute: 193 - 54,139,149,129,140,139
-3,Maths,Place Value,Easy,Compute: 164 + 113,287,267,277,278,277
-3,Maths,Measurement,Easy,Compute: 131 + 95,236,216,226,227,226
-3,Maths,Addition & Subtraction,Easy,Compute: 198 - 101,107,87,98,97,97
-3,Maths,Measurement,Easy,Compute: 100 - 42,59,48,68,58,58
-3,Maths,Place Value,Easy,Compute: 128 + 73,191,201,211,202,201
-3,Maths,Measurement,Easy,Compute: 56 - 39,17,7,27,18,17
-3,Maths,Measurement,Easy,Compute: 169 ÷ 13,14,13,12,15,13
-3,Maths,Place Value,Easy,Compute: 66 ÷ 11,5,6,7,8,6
-3,Maths,Multiplication Basics,Easy,Compute: 134 + 43,178,177,167,187,177
-3,Maths,Addition & Subtraction,Easy,Compute: 120 + 122,243,252,232,242,242
-3,Maths,Place Value,Easy,Compute: 79 + 51,120,131,130,140,130
-3,Maths,Multiplication Basics,Easy,Compute: 9 × 11,88,109,108,99,99
-3,Maths,Measurement,Easy,Compute: 16 ÷ 4,4,6,3,5,4
-3,Maths,Measurement,Easy,Compute: 114 - 23,92,81,101,91,91
-3,Maths,Multiplication Basics,Easy,Compute: 135 ÷ 9,17,15,16,14,15
-3,Maths,Place Value,Easy,Compute: 183 - 11,182,162,173,172,172
-3,Maths,Place Value,Easy,Compute: 64 - 31,33,43,23,34,33
-3,Maths,Multiplication Basics,Easy,Compute: 9 ÷ 3,2,5,3,4,3
-3,Maths,Multiplication Basics,Easy,Compute: 2 × 11,22,32,11,24,22
-3,Maths,Addition & Subtraction,Easy,Compute: 99 - 29,80,70,71,60,70
-3,Maths,Place Value,Easy,Compute: 7 × 13,91,101,98,78,91
-3,Maths,Multiplication Basics,Easy,Compute: 191 - 5,187,186,176,196,186
-3,Maths,Measurement,Easy,Compute: 49 ÷ 7,6,7,8,9,7
-3,Maths,Measurement,Easy,Compute: 7 × 8,48,63,56,66,56
-3,Maths,Addition & Subtraction,Easy,Compute: 157 + 36,194,183,203,193,193
-3,Maths,Place Value,Easy,Compute: 72 - 48,25,34,24,14,24
-3,Maths,Measurement,Easy,Compute: 30 ÷ 3,12,9,11,10,10
-3,Maths,Measurement,Easy,Compute: 2 × 9,28,18,9,20,18
-3,Maths,Addition & Subtraction,Easy,Compute: 128 + 160,289,288,278,298,288
-3,Maths,Place Value,Easy,Compute: 88 ÷ 11,7,9,10,8,8
-3,Maths,Multiplication Basics,Easy,Compute: 45 + 182,217,237,227,228,227
-3,Maths,Addition & Subtraction,Easy,Compute: 46 + 64,110,120,111,100,110
-3,Maths,Multiplication Basics,Easy,Compute: 162 - 86,66,86,76,77,76
-3,Maths,Multiplication Basics,Easy,Compute: 101 + 181,282,272,292,283,282
-3,Maths,Addition & Subtraction,Easy,Compute: 157 + 116,263,274,273,283,273
-3,Maths,Addition & Subtraction,Easy,Compute: 10 × 11,99,110,120,Option 3,110
-3,Maths,Multiplication Basics,Easy,Compute: 126 - 35,92,101,91,81,91
-3,Maths,Multiplication Basics,Easy,Compute: 10 × 15,160,Option 3,150,135,150
-3,Maths,Multiplication Basics,Easy,Compute: 39 ÷ 13,3,4,2,5,3
-3,Maths,Place Value,Easy,Compute: 127 - 96,32,41,31,21,31
-3,Maths,Addition & Subtraction,Easy,Compute: 42 ÷ 14,2,5,4,3,3
-3,Maths,Measurement,Easy,Compute: 194 - 98,96,97,106,86,96
-3,Maths,Addition & Subtraction,Easy,Compute: 45 ÷ 15,5,2,4,3,3
-3,Maths,Multiplication Basics,Easy,Compute: 44 + 37,82,91,81,71,81
-3,Maths,Addition & Subtraction,Easy,Compute: 154 + 85,229,239,249,240,239
-3,Maths,Multiplication Basics,Easy,Compute: 8 × 3,32,34,24,21,24
-3,Maths,Place Value,Easy,Compute: 145 - 79,66,56,67,76,66
-3,Maths,Multiplication Basics,Easy,Compute: 18 + 94,113,102,112,122,112
-3,Maths,Multiplication Basics,Easy,Compute: 98 - 29,69,79,70,59,69
-3,Maths,Measurement,Easy,Compute: 171 - 155,16,17,6,26,16
-3,Maths,Measurement,Easy,Compute: 154 - 95,69,49,60,59,59
-3,Maths,Measurement,Easy,Compute: 139 + 42,181,191,182,171,181
-3,Maths,Addition & Subtraction,Easy,Compute: 98 - 40,48,68,59,58,58
-3,Maths,Multiplication Basics,Easy,Compute: 2 × 14,28,38,14,30,28
-3,Maths,Place Value,Easy,Compute: 189 + 38,228,217,237,227,227
-3,Maths,Multiplication Basics,Easy,Compute: 30 ÷ 15,1,2,3,4,2
-3,Maths,Addition & Subtraction,Easy,Compute: 140 - 99,42,41,31,51,41
-3,Maths,Measurement,Easy,Compute: 121 - 120,1,2,11,0,1
-3,Maths,Multiplication Basics,Easy,Compute: 197 - 12,186,175,195,185,185
-3,Maths,Addition & Subtraction,Easy,Compute: 27 - 19,8,18,9,0,8
-3,Maths,Addition & Subtraction,Easy,Compute: 8 - 0,0,18,9,8,8
-3,Maths,Place Value,Easy,Compute: 8 × 6,58,56,42,48,48
-3,Maths,Measurement,Easy,Compute: 145 + 97,252,232,243,242,242
-3,Maths,Multiplication Basics,Easy,Compute: 113 + 185,299,298,308,288,298
-3,Maths,Measurement,Easy,Compute: 119 + 83,202,192,203,212,202
-3,Maths,Place Value,Easy,Compute: 14 × 2,28,42,26,38,28
-3,Maths,Addition & Subtraction,Easy,Compute: 175 - 122,43,54,53,63,53
-3,Maths,Measurement,Easy,Compute: 160 + 43,204,213,203,193,203
-3,Maths,Addition & Subtraction,Easy,Compute: 73 + 176,249,239,259,250,249
-3,Maths,Place Value,Easy,Compute: 21 + 183,194,204,205,214,204
-3,Maths,Place Value,Easy,Compute: 14 ÷ 2,6,9,8,7,7
-3,Maths,Multiplication Basics,Easy,Compute: 12 × 9,108,99,120,118,108
-3,Maths,Measurement,Easy,Compute: 90 ÷ 6,15,17,16,14,15
-3,Maths,Addition & Subtraction,Easy,Compute: 154 ÷ 11,14,15,16,13,14
-3,Maths,Addition & Subtraction,Easy,Compute: 199 + 121,330,320,321,310,320
-3,Maths,Addition & Subtraction,Easy,Compute: 87 - 12,75,65,85,76,75
-3,Maths,Addition & Subtraction,Easy,Compute: 153 - 33,120,130,121,110,120
-3,Maths,Place Value,Easy,Compute: 160 - 147,23,3,13,14,13
-3,Maths,Place Value,Easy,Compute: 133 - 86,37,48,57,47,47
-3,Maths,Addition & Subtraction,Easy,Compute: 148 + 42,190,200,191,180,190
-3,Maths,Addition & Subtraction,Easy,Compute: 42 - 37,15,0,5,6,5
-3,Maths,Multiplication Basics,Easy,Compute: 4 × 11,33,48,54,44,44
-3,Maths,Measurement,Easy,Compute: 65 ÷ 13,5,4,7,6,5
-3,Maths,Addition & Subtraction,Easy,Compute: 2 × 8,8,16,18,26,16
-3,Maths,Place Value,Easy,Compute: 197 - 114,83,93,84,73,83
-3,Maths,Place Value,Easy,Compute: 10 × 7,Option 3,63,70,80,70
-3,Maths,Addition & Subtraction,Easy,Compute: 11 × 6,76,60,77,66,66
-3,Maths,Place Value,Easy,Compute: 27 + 94,121,131,122,111,121
-3,Maths,Measurement,Easy,Compute: 108 ÷ 9,14,11,12,13,12
-3,Maths,Addition & Subtraction,Easy,Compute: 61 - 39,32,12,23,22,22
-3,Maths,Addition & Subtraction,Easy,Compute: 163 + 71,244,224,235,234,234
-3,Maths,Measurement,Easy,Compute: 72 - 22,40,50,51,60,50
-3,Maths,Place Value,Easy,Compute: 114 - 85,29,39,30,19,29
-3,Maths,Addition & Subtraction,Easy,Compute: 30 ÷ 2,16,15,14,17,15
-3,Maths,Addition & Subtraction,Easy,Compute: 51 - 23,18,28,29,38,28
-3,Maths,Measurement,Easy,Compute: 116 - 70,47,36,46,56,46
-3,Maths,Measurement,Easy,Compute: 11 + 98,119,109,99,110,109
-3,Maths,Multiplication Basics,Easy,Compute: 62 - 15,57,48,47,37,47
-3,Maths,Place Value,Easy,Compute: 115 - 34,71,82,81,91,81
-3,Maths,Addition & Subtraction,Easy,Compute: 15 × 13,182,210,195,205,195
-3,Maths,Multiplication Basics,Easy,Compute: 26 ÷ 2,15,14,12,13,13
-3,Maths,Multiplication Basics,Easy,Compute: 44 ÷ 4,13,12,11,10,11
-3,Maths,Multiplication Basics,Easy,Compute: 174 + 194,369,368,358,378,368
-3,Maths,Measurement,Easy,Compute: 169 + 74,243,253,233,244,243
-3,Maths,Measurement,Easy,Compute: 14 × 11,164,143,168,154,154
-3,Maths,Place Value,Easy,Compute: 113 - 44,79,69,59,70,69
-3,Maths,Multiplication Basics,Easy,Compute: 48 + 167,225,216,215,205,215
-3,Maths,Addition & Subtraction,Easy,Compute: 24 ÷ 8,2,5,3,4,3
-3,Maths,Addition & Subtraction,Easy,Compute: 148 + 95,243,233,244,253,243
-3,Maths,Multiplication Basics,Easy,Compute: 108 + 149,257,258,247,267,257
-3,Maths,Place Value,Easy,Compute: 119 + 76,185,205,195,196,195
-3,Maths,Measurement,Easy,Compute: 50 + 76,136,127,126,116,126
-3,Maths,Measurement,Easy,Compute: 172 + 69,231,242,241,251,241
-3,Maths,Addition & Subtraction,Easy,Compute: 126 + 131,267,258,247,257,257
-3,Maths,Measurement,Easy,Compute: 63 ÷ 9,6,9,7,8,7
-3,Maths,Addition & Subtraction,Easy,Compute: 146 + 61,197,217,208,207,207
-3,Maths,Measurement,Easy,Compute: 100 + 173,283,274,273,263,273
-3,Maths,Place Value,Easy,Compute: 52 - 17,36,35,45,25,35
-3,Maths,Measurement,Easy,Compute: 125 + 184,309,310,299,319,309
-3,Maths,Multiplication Basics,Easy,Compute: 15 - 8,0,17,7,8,7
-3,Maths,Multiplication Basics,Easy,Compute: 4 × 6,28,24,34,18,24
-3,Maths,Addition & Subtraction,Easy,Compute: 60 ÷ 15,6,5,3,4,4
-3,Maths,Measurement,Easy,Compute: 150 + 38,178,188,198,189,188
-3,Maths,Addition & Subtraction,Easy,Compute: 67 - 19,58,48,49,38,48
-3,Maths,Place Value,Easy,Compute: 32 - 24,8,18,9,0,8
-3,Maths,Multiplication Basics,Easy,Compute: 118 + 120,228,248,239,238,238
-3,Maths,Place Value,Easy,Compute: 168 - 142,26,36,16,27,26
-3,Maths,Place Value,Easy,Compute: 200 + 2,192,203,212,202,202
-3,Maths,Measurement,Easy,Compute: 179 - 67,112,113,102,122,112
-3,Maths,Addition & Subtraction,Easy,Compute: 14 × 10,150,130,154,140,140
-3,Maths,Place Value,Easy,Compute: 180 ÷ 12,15,17,16,14,15
-3,Maths,Measurement,Easy,Compute: 5 × 2,15,10,8,20,10
-3,Maths,Multiplication Basics,Easy,Compute: 146 - 143,13,0,3,4,3
-3,Maths,Multiplication Basics,Easy,Compute: 11 × 4,44,55,40,54,44
-3,Maths,Measurement,Easy,Compute: 63 + 197,260,261,270,250,260
-3,Maths,Place Value,Easy,Compute: 15 × 6,100,84,90,105,90
-3,Maths,Place Value,Easy,Compute: 70 - 21,59,49,39,50,49
-3,Maths,Place Value,Easy,Compute: 62 + 44,106,96,107,116,106
-3,Maths,Measurement,Easy,Compute: 6 × 10,70,50,60,66,60
-3,Maths,Measurement,Easy,Compute: 13 + 103,106,116,126,117,116
-3,Maths,Measurement,Easy,Compute: 199 - 184,16,15,5,25,15
-3,Maths,Place Value,Easy,Compute: 99 ÷ 9,13,11,10,12,11
-3,Maths,Addition & Subtraction,Easy,Compute: 135 - 126,19,10,0,9,9
-3,Maths,Addition & Subtraction,Easy,Compute: 9 × 4,32,45,46,36,36
-3,Maths,Multiplication Basics,Easy,Compute: 126 ÷ 14,8,9,11,10,9
-3,Maths,Multiplication Basics,Easy,Compute: 27 ÷ 9,5,4,3,2,3
-3,Maths,Measurement,Easy,Compute: 8 × 14,112,98,122,120,112
-3,Maths,Multiplication Basics,Easy,Compute: 152 - 9,153,133,144,143,143
-3,Maths,Multiplication Basics,Easy,Compute: 191 - 102,89,90,99,79,89
-3,Maths,Measurement,Easy,Compute: 55 + 127,172,183,182,192,182
-3,Maths,Multiplication Basics,Easy,Compute: 97 - 29,68,78,58,69,68
-3,Maths,Addition & Subtraction,Easy,Compute: 163 - 95,78,58,69,68,68
-3,Maths,Measurement,Easy,Compute: 200 - 154,46,56,47,36,46
-3,Maths,Place Value,Easy,Compute: 15 × 11,180,165,175,154,165
-3,Maths,Measurement,Easy,Compute: 180 + 132,322,312,302,313,312
-3,Maths,Place Value,Easy,Compute: 2 × 3,6,3,8,16,6
-3,Maths,Place Value,Easy,Compute: 132 ÷ 12,12,13,11,10,11
-3,Maths,Measurement,Easy,Compute: 191 + 29,230,210,221,220,220
-3,Maths,Addition & Subtraction,Easy,Compute: 196 ÷ 14,16,14,15,13,14
-3,Maths,Measurement,Easy,Compute: 8 × 2,16,26,24,14,16
-3,Maths,Measurement,Easy,Compute: 136 + 0,136,137,146,126,136
-3,Maths,Place Value,Easy,Compute: 27 ÷ 3,8,11,9,10,9
-3,Maths,Measurement,Easy,Compute: 145 - 113,33,42,32,22,32
-3,Maths,Addition & Subtraction,Easy,Compute: 141 - 39,102,112,103,92,102
-3,Maths,Addition & Subtraction,Easy,Compute: 8 × 11,88,77,96,98,88
-3,Maths,Measurement,Easy,Compute: 26 + 88,124,104,114,115,114
-3,Maths,Measurement,Easy,Compute: 198 - 173,15,25,35,26,25
-3,Maths,Multiplication Basics,Easy,Compute: 13 × 11,132,156,153,143,143
-3,Maths,Multiplication Basics,Easy,Compute: 52 ÷ 4,15,12,14,13,13
-3,Maths,Place Value,Easy,Compute: 2 × 10,20,30,10,22,20
-3,Maths,Place Value,Easy,Compute: 98 ÷ 7,14,13,15,16,14
-3,Maths,Measurement,Easy,Compute: 90 ÷ 15,6,5,7,8,6
-3,Maths,Measurement,Easy,Compute: 167 - 96,72,71,81,61,71
-3,Maths,Multiplication Basics,Easy,Compute: 70 - 68,0,2,3,12,2
-3,Maths,Measurement,Easy,Compute: 69 - 25,44,54,45,34,44
-3,Maths,Place Value,Easy,Compute: 2 × 12,26,24,12,34,24
-3,Maths,Place Value,Easy,Compute: 106 + 3,119,99,109,110,109
-3,Maths,Multiplication Basics,Easy,Compute: 92 + 16,109,98,108,118,108
-3,Maths,Multiplication Basics,Easy,Compute: 168 + 155,324,313,333,323,323
-3,Maths,Measurement,Easy,Compute: 72 ÷ 8,9,8,10,11,9
-3,Maths,Addition & Subtraction,Easy,Compute: 18 ÷ 3,7,5,8,6,6
-3,Maths,Place Value,Easy,Compute: 3 × 8,24,27,16,34,24
-3,Maths,Measurement,Easy,Compute: 104 - 4,100,101,90,110,100
-3,Maths,Measurement,Easy,Compute: 20 ÷ 5,3,5,6,4,4
-3,Maths,Multiplication Basics,Easy,Compute: 28 ÷ 7,3,4,5,6,4
-3,Maths,Measurement,Easy,Compute: 94 + 26,130,110,120,121,120
-3,Maths,Multiplication Basics,Easy,Compute: 54 ÷ 6,9,11,10,8,9
-3,Maths,Multiplication Basics,Easy,Compute: 121 + 167,288,278,298,289,288
-3,Maths,Measurement,Easy,Compute: 51 + 71,123,122,132,112,122
-3,Maths,Measurement,Easy,Compute: 151 + 10,162,151,161,171,161
-3,Maths,Addition & Subtraction,Easy,Compute: 182 ÷ 14,15,12,14,13,13
-3,Maths,Multiplication Basics,Easy,Compute: 83 - 47,37,46,26,36,36
-3,Maths,Measurement,Easy,Compute: 14 × 7,98,91,112,108,98
-3,Maths,Place Value,Easy,Compute: 148 + 110,248,259,258,268,258
-3,Maths,Measurement,Easy,Compute: 113 - 61,42,53,52,62,52
-3,Maths,Multiplication Basics,Easy,Compute: 28 + 182,200,211,220,210,210
-3,Maths,Addition & Subtraction,Easy,Compute: 80 ÷ 10,7,8,9,10,8
-3,Maths,Measurement,Easy,Compute: 80 - 5,85,76,75,65,75
-3,Maths,Measurement,Easy,Compute: 101 - 32,59,69,70,79,69
-3,Maths,Addition & Subtraction,Easy,Compute: 60 - 20,30,41,40,50,40
-3,Maths,Place Value,Easy,Compute: 153 + 93,246,236,247,256,246
-3,Maths,Multiplication Basics,Easy,Compute: 75 ÷ 15,6,4,5,7,5
-3,Maths,Measurement,Easy,Compute: 58 + 123,182,191,181,171,181
-3,Maths,Measurement,Easy,Compute: 35 ÷ 7,7,4,6,5,5
-3,Maths,Place Value,Easy,Compute: 40 ÷ 10,6,5,3,4,4
-3,Maths,Measurement,Easy,Compute: 150 ÷ 15,12,9,11,10,10
-3,Maths,Addition & Subtraction,Easy,Compute: 150 - 80,60,80,71,70,70
-3,Maths,Place Value,Easy,Compute: 138 - 107,32,21,31,41,31
-3,Maths,Place Value,Easy,Compute: 15 × 2,40,30,45,28,30
-3,Maths,Addition & Subtraction,Easy,Compute: 159 + 73,232,233,242,222,232
-3,Maths,Multiplication Basics,Easy,Compute: 110 + 137,248,247,257,237,247
-3,Maths,Multiplication Basics,Easy,Compute: 15 + 59,74,84,64,75,74
-3,Maths,Multiplication Basics,Easy,Compute: 74 + 21,105,85,95,96,95
-3,Maths,Place Value,Easy,Compute: 89 - 4,95,75,85,86,85
-3,Maths,Addition & Subtraction,Easy,Compute: 144 - 139,0,15,6,5,5
-3,Maths,Multiplication Basics,Easy,Compute: 115 + 12,117,128,137,127,127
-3,Maths,Place Value,Easy,Compute: 2 × 7,14,7,16,24,14
-3,Maths,Multiplication Basics,Easy,Compute: 63 + 125,198,188,189,178,188
-3,Maths,Addition & Subtraction,Easy,Compute: 141 - 33,109,118,98,108,108
-3,Maths,Place Value,Easy,Compute: 6 × 6,46,42,30,36,36
-3,Maths,Multiplication Basics,Easy,Compute: 102 - 100,2,0,3,12,2
-3,Maths,Measurement,Easy,Compute: 97 - 18,69,79,80,89,79
-3,Maths,Addition & Subtraction,Easy,Compute: 10 × 12,120,108,Option 3,130,120
-3,Maths,Multiplication Basics,Easy,Compute: 114 - 50,74,65,54,64,64
-3,Maths,Addition & Subtraction,Easy,Compute: 28 ÷ 2,14,16,15,13,14
-3,Maths,Measurement,Easy,Compute: 96 + 48,154,134,145,144,144
-3,Maths,Place Value,Easy,Compute: 70 - 51,19,20,9,29,19
-3,Maths,Addition & Subtraction,Easy,Compute: 178 - 123,56,65,45,55,55
-3,Maths,Measurement,Easy,Compute: 128 + 137,265,275,266,255,265
-3,Maths,Measurement,Easy,Compute: 13 × 12,156,166,144,169,156
-3,Maths,Multiplication Basics,Easy,Compute: 191 + 69,261,250,270,260,260
-3,Maths,Measurement,Easy,Compute: 195 + 44,240,249,239,229,239
-3,Maths,Measurement,Easy,Compute: 118 - 66,42,52,53,62,52
-3,Maths,Place Value,Easy,Compute: 181 - 57,124,134,125,114,124
-3,Maths,Multiplication Basics,Easy,Compute: 12 × 7,77,94,96,84,84
-3,Maths,Measurement,Easy,Compute: 141 + 72,214,203,223,213,213
-3,Maths,Measurement,Easy,Compute: 10 × 4,40,Option 3,36,50,40
-3,Maths,Place Value,Easy,Compute: 20 ÷ 4,6,5,7,4,5
-3,Maths,Measurement,Easy,Compute: 142 + 23,165,155,166,175,165
-3,Maths,Measurement,Easy,Compute: 161 - 81,80,90,70,81,80
-3,Maths,Addition & Subtraction,Easy,Compute: 3 × 4,12,22,8,15,12
-3,Maths,Measurement,Easy,Compute: 30 ÷ 5,5,7,8,6,6
-3,Maths,Place Value,Easy,Compute: 6 × 2,10,18,12,22,12
-3,Maths,Place Value,Easy,Compute: 132 - 36,86,96,106,97,96
-3,Maths,Multiplication Basics,Easy,Compute: 26 ÷ 13,4,2,1,3,2
-3,Maths,Multiplication Basics,Easy,Compute: 2 + 138,140,130,150,141,140
-3,Maths,Multiplication Basics,Easy,Compute: 184 + 161,335,346,345,355,345
-3,Maths,Measurement,Easy,Compute: 194 + 194,388,378,398,389,388
-3,Maths,Place Value,Easy,Compute: 142 + 1,153,133,143,144,143
-3,Maths,Addition & Subtraction,Easy,Compute: 114 - 22,93,102,92,82,92
-3,Maths,Addition & Subtraction,Easy,Compute: 70 + 138,209,208,218,198,208
-3,Maths,Measurement,Easy,Compute: 165 + 20,186,185,195,175,185
-3,Maths,Place Value,Easy,Compute: 137 - 80,57,58,47,67,57
-3,Maths,Measurement,Easy,Compute: 109 + 164,274,263,283,273,273
-3,Maths,Multiplication Basics,Easy,Compute: 182 ÷ 13,16,15,14,13,14
-3,Maths,Measurement,Easy,Compute: 210 ÷ 14,17,16,14,15,15
-3,Maths,Measurement,Easy,Compute: 80 - 36,54,45,34,44,44
-3,Maths,Place Value,Easy,Compute: 147 + 12,160,149,159,169,159
-3,Maths,Multiplication Basics,Easy,Compute: 95 + 101,196,186,206,197,196
-3,Maths,Measurement,Easy,Compute: 172 - 63,119,99,109,110,109
-3,Maths,Measurement,Easy,Compute: 135 - 37,99,98,108,88,98
-3,Maths,Multiplication Basics,Easy,Compute: 12 × 14,154,180,168,178,168
-3,Maths,Measurement,Easy,Compute: 166 - 123,53,44,33,43,43
-3,Maths,Addition & Subtraction,Easy,Compute: 59 + 118,187,177,167,178,177
-3,Maths,Measurement,Easy,Compute: 139 - 135,4,0,5,14,4
-3,Maths,Addition & Subtraction,Easy,Compute: 180 + 15,195,196,185,205,195
-3,Maths,Multiplication Basics,Easy,Compute: 14 × 5,70,80,65,84,70
-3,Maths,Measurement,Easy,Compute: 132 ÷ 11,12,13,14,11,12
-3,Maths,Addition & Subtraction,Easy,Compute: 112 - 110,3,2,0,12,2
-3,Maths,Place Value,Easy,Compute: 97 + 10,107,97,108,117,107
-3,Maths,Multiplication Basics,Easy,Compute: 77 - 6,71,81,61,72,71
-3,Maths,Measurement,Easy,Compute: 58 + 154,222,212,202,213,212
-3,Maths,Measurement,Easy,Compute: 40 ÷ 5,9,7,8,10,8
-3,Maths,Place Value,Easy,Compute: 181 - 175,7,0,16,6,6
-3,Maths,Multiplication Basics,Easy,Compute: 87 + 148,225,235,245,236,235
-3,Maths,Place Value,Easy,Compute: 97 + 88,185,186,175,195,185
-3,Maths,Multiplication Basics,Easy,Compute: 193 + 73,266,267,276,256,266
-3,Maths,Place Value,Easy,Compute: 150 + 72,223,222,232,212,222
-3,Maths,Addition & Subtraction,Easy,Compute: 78 + 150,229,238,228,218,228
-3,Maths,Place Value,Easy,Compute: 188 - 95,103,83,94,93,93
-3,Maths,Place Value,Easy,Compute: 9 × 14,135,136,112,126,126
-3,Maths,Addition & Subtraction,Easy,Compute: 125 - 26,109,89,100,99,99
-3,Maths,Measurement,Easy,Compute: 8 × 4,40,42,28,32,32
-3,Maths,Measurement,Easy,Compute: 49 + 196,235,255,246,245,245
-3,Maths,Place Value,Easy,Compute: 3 × 15,30,48,45,55,45
-3,Maths,Place Value,Easy,Compute: 120 - 112,9,18,0,8,8
-3,Maths,Addition & Subtraction,Easy,Compute: 13 × 10,130,120,140,143,130
-3,Maths,Measurement,Easy,Compute: 6 × 14,84,90,94,70,84
-3,Maths,Addition & Subtraction,Easy,Compute: 72 - 4,68,69,78,58,68
-3,Maths,Addition & Subtraction,Easy,Compute: 52 + 45,107,87,98,97,97
-3,Maths,Place Value,Easy,Compute: 143 ÷ 11,12,13,15,14,13
-3,Maths,Measurement,Easy,Compute: 143 + 44,188,187,197,177,187
-3,Maths,Measurement,Easy,Compute: 8 + 138,136,146,147,156,146
-3,Maths,Place Value,Easy,Compute: 39 + 6,46,55,45,35,45
-3,Maths,Measurement,Easy,Compute: 121 - 15,96,106,116,107,106
-3,Maths,Addition & Subtraction,Easy,Compute: 195 - 153,43,32,42,52,42
-3,Maths,Addition & Subtraction,Easy,Compute: 182 + 84,256,267,266,276,266
-3,Maths,Place Value,Easy,Compute: 15 × 4,60,70,56,75,60
-3,Maths,Place Value,Easy,Compute: 45 + 43,88,98,78,89,88
-3,Maths,Place Value,Easy,Compute: 30 + 97,137,127,128,117,127
-3,Maths,Multiplication Basics,Easy,Compute: 169 + 53,212,232,223,222,222
-3,Maths,Measurement,Easy,Compute: 91 ÷ 13,7,6,9,8,7
-3,Maths,Place Value,Easy,Compute: 50 + 143,203,193,183,194,193
-3,Maths,Multiplication Basics,Easy,Compute: 112 + 116,229,218,228,238,228
-3,Maths,Place Value,Easy,Compute: 71 + 27,99,108,88,98,98
-3,Maths,Place Value,Easy,Compute: 145 + 58,203,204,213,193,203
-3,Maths,Place Value,Easy,Compute: 178 + 65,253,244,233,243,243
-3,Maths,Measurement,Easy,Compute: 2 × 13,26,13,36,28,26
-3,Maths,Addition & Subtraction,Easy,Compute: 62 - 51,1,21,12,11,11
-3,Maths,Addition & Subtraction,Easy,Compute: 36 ÷ 3,14,13,11,12,12
-3,Maths,Measurement,Easy,Compute: 131 - 76,65,56,55,45,55
-3,Maths,Place Value,Easy,Compute: 128 - 87,51,42,31,41,41
-3,Maths,Measurement,Easy,Compute: 181 - 174,17,0,7,8,7
-3,Maths,Measurement,Easy,Compute: 2 × 4,18,10,4,8,8
-3,Maths,Measurement,Easy,Compute: 125 + 135,250,270,261,260,260
-3,Maths,Place Value,Easy,Compute: 131 - 104,37,28,17,27,27
-3,Maths,Addition & Subtraction,Easy,Compute: 61 + 18,89,79,69,80,79
-3,Maths,Place Value,Easy,Compute: 93 + 136,229,239,219,230,229
-3,Maths,Place Value,Easy,Compute: 184 + 0,174,194,185,184,184
-3,Maths,Place Value,Easy,Compute: 177 + 74,261,241,252,251,251
-3,Maths,Place Value,Easy,Compute: 141 - 26,116,115,105,125,115
-3,Maths,Addition & Subtraction,Easy,Compute: 130 - 109,21,31,11,22,21
-3,Maths,Multiplication Basics,Easy,Compute: 112 - 53,59,49,60,69,59
-3,Maths,Place Value,Easy,Compute: 56 ÷ 7,9,7,10,8,8
-3,Maths,Addition & Subtraction,Easy,Compute: 195 ÷ 15,12,14,15,13,13
-3,Maths,Place Value,Easy,Compute: 125 - 17,118,109,98,108,108
-3,Maths,Addition & Subtraction,Easy,Compute: 13 × 13,179,169,156,182,169
-3,Maths,Addition & Subtraction,Easy,Compute: 96 + 53,149,139,150,159,149
-3,Maths,Measurement,Easy,Compute: 200 - 49,151,141,152,161,151
-3,Maths,Measurement,Easy,Compute: 67 + 78,145,155,146,135,145
-3,Maths,Place Value,Easy,Compute: 11 × 2,20,22,32,33,22
-3,Maths,Addition & Subtraction,Easy,Compute: 76 - 76,10,0,1,Option 3,0
-3,Maths,Multiplication Basics,Easy,Compute: 184 - 164,30,20,21,10,20
-3,Maths,Measurement,Easy,Compute: 4 × 15,70,45,60,64,60
-3,Maths,Place Value,Easy,Compute: 27 - 13,15,14,24,4,14
-3,Maths,Place Value,Easy,Compute: 101 + 5,96,107,116,106,106
-3,Maths,Addition & Subtraction,Easy,Compute: 140 + 199,339,329,349,340,339
-3,Maths,Addition & Subtraction,Easy,Compute: 8 × 8,64,74,56,72,64
-3,Maths,Multiplication Basics,Easy,Compute: 133 - 50,84,73,83,93,83
-3,Maths,Measurement,Easy,Compute: 13 - 11,0,12,2,3,2
-3,Maths,Multiplication Basics,Easy,Compute: 2 × 15,15,40,32,30,30
-3,Maths,Measurement,Easy,Compute: 79 + 156,225,236,235,245,235
-3,Maths,Multiplication Basics,Easy,Compute: 6 × 11,66,76,72,55,66
-3,Maths,Addition & Subtraction,Easy,Compute: 133 - 2,141,121,132,131,131
-3,Maths,Multiplication Basics,Easy,Compute: 102 + 11,103,123,113,114,113
-3,Maths,Measurement,Easy,Compute: 135 - 67,78,68,58,69,68
-3,Maths,Addition & Subtraction,Easy,Compute: 156 ÷ 12,12,14,15,13,13
-3,Maths,Place Value,Easy,Compute: 32 + 187,229,209,220,219,219
-3,Maths,Multiplication Basics,Easy,Compute: 145 + 79,225,234,224,214,224
-3,Maths,Multiplication Basics,Easy,Compute: 104 - 59,46,35,55,45,45
-3,Maths,Measurement,Easy,Compute: 146 - 5,131,151,142,141,141
-3,Maths,Place Value,Easy,Compute: 2 + 92,104,94,95,84,94
-3,Maths,Addition & Subtraction,Easy,Compute: 189 + 133,312,322,332,323,322
-3,Maths,Multiplication Basics,Easy,Compute: 22 ÷ 2,11,12,13,10,11
-3,Maths,Addition & Subtraction,Easy,Compute: 164 - 147,18,7,17,27,17
-3,Maths,Multiplication Basics,Easy,Compute: 144 + 17,162,161,171,151,161
-3,Maths,Measurement,Easy,Compute: 120 ÷ 10,12,11,13,14,12
-3,Maths,Addition & Subtraction,Easy,Compute: 74 + 159,243,234,223,233,233
-3,Maths,Place Value,Easy,Compute: 50 + 133,183,173,193,184,183
-3,Maths,Addition & Subtraction,Easy,Compute: 45 - 31,24,14,4,15,14
-3,Maths,Place Value,Easy,Compute: 161 - 6,165,155,145,156,155
-3,Maths,Multiplication Basics,Easy,Compute: 22 + 130,152,162,153,142,152
-3,Maths,Addition & Subtraction,Easy,Compute: 5 × 9,36,50,55,45,45
-3,Maths,Addition & Subtraction,Easy,Compute: 14 × 4,66,70,56,52,56
-3,Maths,Measurement,Easy,Compute: 59 + 191,251,260,240,250,250
-3,Maths,Place Value,Easy,Compute: 69 + 154,223,224,213,233,223
-3,Maths,Measurement,Easy,Compute: 2 - 2,Option 3,1,0,10,0
-3,Maths,Multiplication Basics,Easy,Compute: 12 × 4,48,44,60,58,48
-3,Maths,Multiplication Basics,Easy,Compute: 148 - 28,121,110,130,120,120
-3,Maths,Place Value,Easy,Compute: 126 ÷ 9,13,14,16,15,14
-3,Maths,Addition & Subtraction,Easy,Compute: 102 - 48,55,44,64,54,54
-3,Maths,Addition & Subtraction,Easy,Compute: 126 - 62,74,65,54,64,64
-3,Maths,Place Value,Easy,Compute: 123 - 56,77,67,57,68,67
-3,Maths,Addition & Subtraction,Easy,Compute: 154 + 47,191,202,201,211,201
-3,Maths,Addition & Subtraction,Easy,Compute: 10 × 14,150,126,Option 3,140,140
-3,Maths,Addition & Subtraction,Easy,Compute: 161 - 161,Option 3,1,0,10,0
-3,Maths,Multiplication Basics,Easy,Compute: 144 - 86,68,58,48,59,58
-3,Maths,Multiplication Basics,Easy,Compute: 167 - 43,124,134,125,114,124
-3,Maths,Measurement,Easy,Compute: 100 - 0,101,110,100,90,100
-3,Maths,Addition & Subtraction,Easy,Compute: 15 × 15,210,240,225,235,225
-3,Maths,Multiplication Basics,Easy,Compute: 166 - 50,116,126,117,106,116
-3,Maths,Place Value,Easy,Compute: 33 + 127,150,170,160,161,160
-3,Maths,Place Value,Easy,Compute: 147 - 4,143,153,133,144,143
-3,Maths,Addition & Subtraction,Easy,Compute: 100 - 79,21,31,11,22,21
-3,Maths,Multiplication Basics,Easy,Compute: 136 - 126,0,20,11,10,10
-3,Maths,Multiplication Basics,Easy,Compute: 66 ÷ 6,13,11,12,10,11
-3,Maths,Place Value,Easy,Compute: 7 × 4,38,35,24,28,28
-3,Maths,Measurement,Easy,Compute: 59 + 162,211,222,221,231,221
-3,Maths,Addition & Subtraction,Easy,Compute: 120 ÷ 15,10,7,8,9,8
-3,Maths,Place Value,Easy,Compute: 50 ÷ 10,6,5,7,4,5
-3,Maths,Place Value,Easy,Compute: 2 × 2,4,2,14,6,4
-3,Maths,Place Value,Easy,Compute: 117 + 102,220,209,219,229,219
-3,Maths,Measurement,Easy,Compute: 40 + 104,145,134,144,154,144
-3,Maths,Multiplication Basics,Easy,Compute: 21 + 131,142,152,153,162,152
-3,Maths,Addition & Subtraction,Easy,Compute: 111 + 69,180,190,170,181,180
-3,Maths,Place Value,Easy,Compute: 140 + 160,290,300,310,301,300
-3,Maths,Measurement,Easy,Compute: 13 + 62,76,65,85,75,75
-3,Maths,Measurement,Easy,Compute: 174 + 65,239,240,249,229,239
-3,Maths,Measurement,Easy,Compute: 80 ÷ 8,9,10,12,11,10
-3,Maths,Multiplication Basics,Easy,Compute: 56 ÷ 8,7,6,8,9,7
-3,Maths,Multiplication Basics,Easy,Compute: 41 + 60,111,91,102,101,101
-3,Maths,Place Value,Easy,Compute: 139 + 165,294,314,304,305,304
-3,Maths,Place Value,Easy,Compute: 130 ÷ 13,12,10,11,9,10
-3,Maths,Measurement,Easy,Compute: 12 × 10,132,110,130,120,120
-3,Maths,Addition & Subtraction,Easy,Compute: 33 ÷ 3,12,13,11,10,11
-3,Maths,Measurement,Easy,Compute: 87 + 68,165,155,145,156,155
-3,Maths,Place Value,Easy,Compute: 111 - 17,95,94,84,104,94
-3,Maths,Addition & Subtraction,Easy,Compute: 164 - 142,32,23,12,22,22
-3,Maths,Addition & Subtraction,Easy,Compute: 194 - 171,13,23,33,24,23
-3,Maths,Multiplication Basics,Easy,Compute: 142 + 10,152,153,142,162,152
-3,Maths,Multiplication Basics,Easy,Compute: 121 - 4,107,118,117,127,117
-3,Maths,Addition & Subtraction,Easy,Compute: 46 - 43,13,3,4,0,3
-3,Maths,Measurement,Easy,Compute: 147 + 186,333,334,323,343,333
-3,Maths,Multiplication Basics,Easy,Compute: 61 + 10,61,81,71,72,71
-3,Maths,Measurement,Easy,Compute: 174 + 2,186,176,177,166,176
-3,Maths,Place Value,Easy,Compute: 190 + 59,239,249,259,250,249
-3,Maths,Addition & Subtraction,Easy,Compute: 67 - 50,17,27,7,18,17
-3,Maths,Place Value,Easy,Compute: 162 - 1,162,161,171,151,161
-3,Maths,Multiplication Basics,Easy,Compute: 30 + 49,80,79,69,89,79
-3,Maths,Place Value,Easy,Compute: 79 + 45,134,124,114,125,124
-3,Maths,Place Value,Easy,Compute: 179 - 54,135,126,115,125,125
-3,Maths,Place Value,Easy,Compute: 195 - 95,110,101,90,100,100
-3,Maths,Multiplication Basics,Easy,Compute: 99 + 8,107,117,97,108,107
-3,Maths,Multiplication Basics,Easy,Compute: 6 × 7,35,48,42,52,42
-3,Maths,Addition & Subtraction,Easy,Compute: 78 ÷ 6,12,13,15,14,13
-3,Maths,Multiplication Basics,Easy,Compute: 9 × 6,64,54,48,63,54
-3,Maths,Measurement,Easy,Compute: 180 - 33,147,157,137,148,147
-3,Maths,Place Value,Easy,Compute: 4 × 8,24,36,42,32,32
-3,Maths,Measurement,Easy,Compute: 24 + 78,102,103,92,112,102
-3,Maths,Place Value,Easy,Compute: 4 × 7,32,21,28,38,28
-3,Maths,Addition & Subtraction,Easy,Compute: 14 + 131,145,146,135,155,145
-3,Maths,Multiplication Basics,Easy,Compute: 138 - 102,26,36,46,37,36
-3,Maths,Multiplication Basics,Easy,Compute: 100 - 29,81,61,71,72,71
-3,Maths,Measurement,Easy,Compute: 148 - 23,126,135,115,125,125
-3,Maths,Addition & Subtraction,Easy,Compute: 68 + 7,76,65,85,75,75
-3,Maths,Addition & Subtraction,Easy,Compute: 7 × 10,60,80,77,70,70
-3,Maths,Measurement,Easy,Compute: 154 ÷ 14,12,10,11,13,11
-3,Maths,Measurement,Easy,Compute: 101 - 39,62,63,72,52,62
-3,Maths,Addition & Subtraction,Easy,Compute: 159 - 40,120,109,119,129,119
-3,Maths,Measurement,Easy,Compute: 63 - 12,52,51,61,41,51
-3,Maths,Multiplication Basics,Easy,Compute: 48 + 195,253,243,233,244,243
-3,Maths,Place Value,Easy,Compute: 137 + 96,233,243,234,223,233
-3,Maths,Measurement,Easy,Compute: 143 - 31,102,112,122,113,112
-3,Maths,Measurement,Easy,Compute: 1 + 5,6,7,16,0,6
-3,Maths,Measurement,Easy,Compute: 184 - 25,160,159,169,149,159
-3,Maths,Addition & Subtraction,Easy,Compute: 58 - 21,37,47,38,27,37
-3,Maths,Measurement,Easy,Compute: 112 ÷ 8,16,14,15,13,14
-3,Maths,Addition & Subtraction,Easy,Compute: 152 + 21,174,163,183,173,173
-3,Maths,Multiplication Basics,Easy,Compute: 137 - 122,16,15,5,25,15
-3,Maths,Addition & Subtraction,Easy,Compute: 96 ÷ 12,7,9,8,10,8
-3,Maths,Multiplication Basics,Easy,Compute: 59 + 33,93,92,82,102,92
-3,Maths,Place Value,Easy,Compute: 65 + 97,163,152,172,162,162
-3,Maths,Addition & Subtraction,Easy,Compute: 11 × 5,50,55,65,66,55
-3,Maths,Addition & Subtraction,Easy,Compute: 116 + 67,183,193,173,184,183
-3,Maths,Place Value,Easy,Compute: 85 + 0,86,85,75,95,85
-3,Maths,Place Value,Easy,Compute: 110 + 172,283,272,282,292,282
-3,Maths,Place Value,Easy,Compute: 117 - 76,41,51,42,31,41
-3,Maths,Addition & Subtraction,Easy,Compute: 14 ÷ 7,4,2,1,3,2
-3,Maths,Addition & Subtraction,Easy,Compute: 12 ÷ 3,6,4,3,5,4
-3,Maths,Place Value,Easy,Compute: 90 - 59,21,41,31,32,31
-3,Maths,Addition & Subtraction,Easy,Compute: 43 - 0,33,53,44,43,43
-3,Maths,Addition & Subtraction,Easy,Compute: 5 × 5,35,25,30,20,25
-3,Maths,Multiplication Basics,Easy,Compute: 1 + 167,158,168,178,169,168
-3,Maths,Addition & Subtraction,Easy,Compute: 22 ÷ 11,2,3,1,4,2
-3,Maths,Multiplication Basics,Easy,Compute: 113 + 21,124,134,135,144,134
-3,Maths,Measurement,Easy,Compute: 18 ÷ 6,5,2,4,3,3
-3,Maths,Place Value,Easy,Compute: 159 - 147,22,12,13,2,12
-3,Maths,Addition & Subtraction,Easy,Compute: 3 × 10,33,30,20,40,30
-3,Maths,Place Value,Easy,Compute: 61 - 42,9,20,19,29,19
-3,Maths,Multiplication Basics,Easy,Compute: 170 - 89,91,82,71,81,81
-3,Maths,Place Value,Easy,Compute: 56 + 173,219,239,230,229,229
-3,Maths,Multiplication Basics,Easy,Compute: 198 - 153,35,55,46,45,45
-3,Maths,Multiplication Basics,Easy,Compute: 95 - 2,93,83,94,103,93
-3,Maths,Multiplication Basics,Easy,Compute: 170 - 91,89,80,69,79,79
-3,Maths,Addition & Subtraction,Easy,Compute: 5 + 94,109,89,100,99,99
-3,Maths,Multiplication Basics,Easy,Compute: 98 - 72,16,26,36,27,26
-3,Maths,Place Value,Easy,Compute: 113 - 30,93,73,84,83,83
-3,Maths,Place Value,Easy,Compute: 113 - 20,83,93,103,94,93
-3,Maths,Addition & Subtraction,Easy,Compute: 5 × 7,40,45,28,35,35
-3,Maths,Multiplication Basics,Easy,Compute: 179 - 45,134,144,124,135,134
-3,Maths,Place Value,Easy,Compute: 60 ÷ 4,15,17,16,14,15
-3,Maths,Measurement,Easy,Compute: 62 + 172,235,224,234,244,234
-3,Maths,Multiplication Basics,Easy,Compute: 70 - 48,12,32,23,22,22
-3,Maths,Measurement,Easy,Compute: 196 - 153,44,43,33,53,43
-3,Maths,Addition & Subtraction,Easy,Compute: 82 - 50,32,33,42,22,32
-3,Maths,Measurement,Easy,Compute: 197 + 171,368,369,378,358,368
-3,Maths,Measurement,Easy,Compute: 103 - 52,61,51,52,41,51
-3,Maths,Place Value,Easy,Compute: 177 - 85,92,102,82,93,92
-3,Maths,Measurement,Easy,Compute: 84 ÷ 7,14,12,11,13,12
-3,Maths,Multiplication Basics,Easy,Compute: 105 - 95,0,10,11,20,10
-3,Maths,Multiplication Basics,Easy,Compute: 136 - 7,129,130,119,139,129
-3,Maths,Measurement,Easy,Compute: 95 - 8,77,97,88,87,87
-3,Maths,Place Value,Easy,Compute: 86 - 3,93,83,84,73,83
-3,Maths,Multiplication Basics,Easy,Compute: 197 - 69,138,129,118,128,128
-3,Maths,Addition & Subtraction,Easy,Compute: 42 ÷ 6,6,7,8,9,7
-3,Maths,Multiplication Basics,Easy,Compute: 191 - 116,75,76,85,65,75
-3,Maths,Multiplication Basics,Easy,Compute: 171 - 65,96,107,116,106,106
-3,Maths,Measurement,Easy,Compute: 7 + 146,143,154,163,153,153
-3,Maths,Addition & Subtraction,Easy,Compute: 178 - 131,37,47,48,57,47
-3,Maths,Place Value,Easy,Compute: 124 + 139,263,264,273,253,263
-3,Maths,Multiplication Basics,Easy,Compute: 90 - 82,0,8,9,18,8
-3,Maths,Addition & Subtraction,Easy,Compute: 108 - 101,7,8,0,17,7
-3,Maths,Addition & Subtraction,Easy,Compute: 123 - 66,67,58,57,47,57
-3,Maths,Place Value,Easy,Compute: 160 - 53,117,108,97,107,107
-3,Maths,Measurement,Easy,Compute: 178 - 1,178,167,187,177,177
-3,Maths,Addition & Subtraction,Easy,Compute: 168 + 96,254,265,264,274,264
-3,Maths,Multiplication Basics,Easy,Compute: 150 + 186,336,326,337,346,336
-3,Maths,Multiplication Basics,Easy,Compute: 48 - 24,14,34,25,24,24
-3,Maths,Multiplication Basics,Easy,Compute: 19 - 18,2,0,11,1,1
-3,Maths,Addition & Subtraction,Easy,Compute: 141 + 28,159,170,169,179,169
-3,Maths,Multiplication Basics,Easy,Compute: 50 - 31,20,9,29,19,19
-3,Maths,Multiplication Basics,Easy,Compute: 95 + 143,238,228,239,248,238
-3,Maths,Place Value,Easy,Compute: 84 ÷ 12,9,7,6,8,7
-3,Maths,Addition & Subtraction,Easy,Compute: 9 × 5,54,55,45,40,45
-3,Maths,Place Value,Easy,Compute: 189 - 94,95,96,105,85,95
-3,Maths,Place Value,Easy,Compute: 13 × 5,75,60,65,78,65
-3,Maths,Multiplication Basics,Easy,Compute: 59 + 116,175,176,165,185,175
-3,Maths,Addition & Subtraction,Easy,Compute: 179 - 1,168,178,188,179,178
-3,Maths,Place Value,Easy,Compute: 31 + 187,218,208,228,219,218
-3,Maths,Addition & Subtraction,Easy,Compute: 165 - 111,55,64,44,54,54
-3,Maths,Place Value,Easy,Compute: 11 × 12,120,143,132,142,132
-3,Maths,Multiplication Basics,Easy,Compute: 117 - 25,92,93,82,102,92
-3,Maths,Place Value,Easy,Compute: 156 - 93,73,63,53,64,63
-3,Maths,Addition & Subtraction,Easy,Compute: 115 - 47,69,78,68,58,68
-3,Maths,Place Value,Easy,Compute: 26 + 135,162,151,161,171,161
-3,Maths,Addition & Subtraction,Easy,Compute: 13 × 3,52,36,39,49,39
-3,Maths,Multiplication Basics,Easy,Compute: 193 - 154,49,39,40,29,39
-3,Maths,Place Value,Easy,Compute: 77 ÷ 7,10,11,12,13,11
-3,Maths,Measurement,Easy,Compute: 110 ÷ 11,9,10,12,11,10
-3,Maths,Multiplication Basics,Easy,Compute: 90 + 30,110,120,130,121,120
-3,Maths,Addition & Subtraction,Easy,Compute: 99 + 154,254,243,253,263,253
-3,Maths,Place Value,Easy,Compute: 95 + 173,258,268,278,269,268
-3,Maths,Place Value,Easy,Compute: 109 + 166,276,265,275,285,275
-3,Maths,Measurement,Easy,Compute: 122 - 49,63,74,83,73,73
-3,Maths,Multiplication Basics,Easy,Compute: 37 + 32,79,70,59,69,69
-3,Maths,Multiplication Basics,Easy,Compute: 40 - 2,38,28,39,48,38
-3,Maths,Multiplication Basics,Easy,Compute: 166 + 8,164,174,184,175,174
-3,Maths,Addition & Subtraction,Easy,Compute: 129 - 15,114,124,115,104,114
-3,Maths,Place Value,Easy,Compute: 6 × 4,34,30,24,20,24
-3,Maths,Addition & Subtraction,Easy,Compute: 55 ÷ 11,5,4,6,7,5
-3,Maths,Addition & Subtraction,Easy,Compute: 180 + 31,201,212,211,221,211
-3,Maths,Measurement,Easy,Compute: 0 + 197,207,198,197,187,197
-3,Maths,Measurement,Easy,Compute: 199 - 114,95,75,85,86,85
-3,Maths,Multiplication Basics,Easy,Compute: 195 + 31,227,236,226,216,226
-3,Maths,Measurement,Easy,Compute: 14 + 139,154,163,143,153,153
-3,Maths,Place Value,Easy,Compute: 34 + 152,176,187,186,196,186
-3,Maths,Measurement,Easy,Compute: 37 + 194,232,221,231,241,231
-3,Maths,Addition & Subtraction,Easy,Compute: 100 + 6,116,107,96,106,106
-3,Maths,Measurement,Easy,Compute: 84 + 7,101,92,91,81,91
-3,Maths,Measurement,Easy,Compute: 109 + 184,293,283,294,303,293
-3,Maths,Place Value,Easy,Compute: 125 - 7,119,118,128,108,118
-3,Maths,Place Value,Easy,Compute: 75 - 67,18,0,8,9,8
-3,Maths,Place Value,Easy,Compute: 177 - 65,112,113,122,102,112
-3,Maths,Addition & Subtraction,Easy,Compute: 100 + 110,200,220,210,211,210
-3,Maths,Measurement,Easy,Compute: 126 + 96,222,212,223,232,222
-3,Maths,Place Value,Easy,Compute: 107 - 104,13,0,4,3,3
-3,Maths,Multiplication Basics,Easy,Compute: 29 + 161,191,200,190,180,190
-3,Maths,Place Value,Easy,Compute: 118 - 14,104,114,94,105,104
-3,Maths,Addition & Subtraction,Easy,Compute: 50 - 33,7,17,27,18,17
-3,Maths,Measurement,Easy,Compute: 195 - 2,203,183,193,194,193
-3,Maths,Measurement,Easy,Compute: 57 + 29,96,76,86,87,86
-3,Maths,Addition & Subtraction,Easy,Compute: 177 - 130,47,57,48,37,47
-3,Maths,Addition & Subtraction,Easy,Compute: 90 ÷ 9,12,9,10,11,10
-3,Maths,Measurement,Easy,Compute: 179 + 161,341,350,340,330,340
-3,Maths,Place Value,Easy,Compute: 196 + 86,282,292,283,272,282
-3,Maths,Place Value,Easy,Compute: 143 + 196,329,340,349,339,339
-3,Maths,Addition & Subtraction,Easy,Compute: 70 ÷ 14,7,5,6,4,5
-3,Maths,Measurement,Easy,Compute: 6 × 3,28,15,24,18,18
-3,Maths,Place Value,Easy,Compute: 191 + 174,355,365,366,375,365
-3,Maths,Addition & Subtraction,Easy,Compute: 171 - 10,171,151,162,161,161
-3,Maths,Addition & Subtraction,Easy,Compute: 16 ÷ 2,9,8,10,7,8
-3,Maths,Place Value,Easy,Compute: 168 + 80,248,258,249,238,248
-3,Maths,Multiplication Basics,Easy,Compute: 174 + 158,342,322,332,333,332
-3,Maths,Measurement,Easy,Compute: 176 - 163,23,13,3,14,13
-3,Maths,Measurement,Easy,Compute: 154 + 153,307,317,308,297,307
-3,Maths,Place Value,Easy,Compute: 82 + 94,166,177,176,186,176
-3,Maths,Addition & Subtraction,Easy,Compute: 99 - 71,18,38,28,29,28
-3,Maths,Measurement,Easy,Compute: 5 × 15,85,75,80,60,75
-3,Maths,Multiplication Basics,Easy,Compute: 148 - 47,91,111,102,101,101
-3,Maths,Addition & Subtraction,Easy,Compute: 129 - 81,49,38,58,48,48
-3,Maths,Addition & Subtraction,Easy,Compute: 32 ÷ 4,8,9,10,7,8
-3,Maths,Measurement,Easy,Compute: 138 + 125,264,273,253,263,263
-3,Maths,Place Value,Easy,Compute: 19 + 108,127,117,128,137,127
-3,Maths,Place Value,Easy,Compute: 78 ÷ 13,5,8,6,7,6
-3,Maths,Measurement,Easy,Compute: 45 + 105,160,140,151,150,150
-3,Maths,Addition & Subtraction,Easy,Compute: 57 - 25,42,22,33,32,32
-3,Maths,Place Value,Easy,Compute: 59 + 90,150,139,159,149,149
-3,Maths,Multiplication Basics,Easy,Compute: 78 - 51,17,37,27,28,27
-3,Maths,Measurement,Easy,Compute: 183 - 154,30,19,29,39,29
-3,Maths,Place Value,Easy,Compute: 176 - 110,56,66,76,67,66
-3,Maths,Measurement,Easy,Compute: 14 × 12,182,178,156,168,168
-3,Maths,Addition & Subtraction,Easy,Compute: 171 - 90,91,81,82,71,81
-3,Maths,Addition & Subtraction,Easy,Compute: 54 + 75,139,129,130,119,129
-3,Maths,Addition & Subtraction,Easy,Compute: 89 + 182,271,261,281,272,271
-3,Maths,Multiplication Basics,Easy,Compute: 45 ÷ 5,8,10,9,11,9
-3,Maths,Addition & Subtraction,Easy,Compute: 58 - 4,44,64,55,54,54
-3,Maths,Measurement,Easy,Compute: 11 × 14,154,164,165,140,154
-3,Maths,Addition & Subtraction,Easy,Compute: 175 + 133,298,308,318,309,308
-3,Maths,Place Value,Easy,Compute: 116 - 73,33,43,44,53,43
-3,Maths,Addition & Subtraction,Easy,Compute: 6 + 66,72,82,73,62,72
-3,Maths,Place Value,Easy,Compute: 29 + 92,111,131,122,121,121
-3,Maths,Multiplication Basics,Easy,Compute: 100 - 48,42,52,53,62,52
-3,Maths,Measurement,Easy,Compute: 30 + 50,80,81,70,90,80
-3,Maths,Place Value,Easy,Compute: 20 ÷ 10,1,4,3,2,2
-3,Maths,Multiplication Basics,Easy,Compute: 225 ÷ 15,14,15,16,17,15
-3,Maths,Place Value,Easy,Compute: 190 - 57,143,133,123,134,133
-3,Maths,Measurement,Easy,Compute: 55 - 41,14,4,15,24,14
-3,Maths,Measurement,Easy,Compute: 162 - 133,29,39,30,19,29
-3,Maths,Addition & Subtraction,Easy,Compute: 8 × 9,63,82,72,80,72
-3,Maths,Measurement,Easy,Compute: 134 - 82,53,52,62,42,52
-3,Maths,Place Value,Easy,Compute: 146 + 95,242,241,251,231,241
-3,Maths,Multiplication Basics,Easy,Compute: 144 - 140,5,4,0,14,4
-3,Maths,Multiplication Basics,Easy,Compute: 14 × 14,210,206,196,182,196
-3,Maths,Addition & Subtraction,Easy,Compute: 37 + 61,98,88,99,108,98
-3,Maths,Multiplication Basics,Easy,Compute: 13 × 8,117,96,104,114,104
-3,Maths,Addition & Subtraction,Easy,Compute: 150 - 43,107,117,108,97,107
-3,Maths,Addition & Subtraction,Easy,Compute: 53 + 22,76,75,65,85,75
-3,Maths,Addition & Subtraction,Easy,Compute: 178 + 16,195,194,184,204,194
-3,Maths,Addition & Subtraction,Easy,Compute: 156 ÷ 13,12,14,11,13,12
-3,Maths,Place Value,Easy,Compute: 196 - 194,2,0,12,3,2
-3,Maths,Measurement,Easy,Compute: 3 + 91,84,94,95,104,94
-3,Maths,Place Value,Easy,Compute: 89 - 34,55,56,45,65,55
-3,Maths,Multiplication Basics,Easy,Compute: 8 + 133,151,142,141,131,141
-3,Maths,Place Value,Easy,Compute: 43 + 117,150,161,160,170,160
-3,Maths,Place Value,Easy,Compute: 171 - 134,47,27,37,38,37
-3,Maths,Place Value,Easy,Compute: 187 + 78,265,255,275,266,265
-3,Maths,Addition & Subtraction,Easy,Compute: 149 + 13,172,163,162,152,162
-3,Maths,Addition & Subtraction,Easy,Compute: 131 - 58,83,63,73,74,73
-3,Maths,Multiplication Basics,Easy,Compute: 130 + 40,170,171,160,180,170
-3,Maths,Multiplication Basics,Easy,Compute: 42 - 15,28,17,37,27,27
-3,Maths,Measurement,Easy,Compute: 91 + 62,153,143,154,163,153
-3,Maths,Addition & Subtraction,Easy,Compute: 70 + 114,184,185,174,194,184
-3,Maths,Measurement,Easy,Compute: 12 × 11,142,132,144,121,132
-3,Maths,Addition & Subtraction,Easy,Compute: 3 × 7,21,24,14,31,21
-3,Maths,Multiplication Basics,Easy,Compute: 47 + 59,107,116,96,106,106
-3,Maths,Place Value,Easy,Compute: 189 - 14,165,176,185,175,175
-3,Maths,Place Value,Easy,Compute: 67 + 39,96,106,107,116,106
-3,Maths,Measurement,Easy,Compute: 164 + 83,237,257,248,247,247
-3,Maths,Place Value,Easy,Compute: 191 - 188,4,3,13,0,3
-3,Maths,Place Value,Easy,Compute: 110 + 94,194,214,204,205,204
-3,Maths,Multiplication Basics,Easy,Compute: 167 + 44,212,201,221,211,211
-3,Maths,Addition & Subtraction,Easy,Compute: 20 ÷ 2,10,12,9,11,10
-3,Maths,Place Value,Easy,Compute: 149 - 14,145,135,136,125,135
-3,Maths,Measurement,Easy,Compute: 182 + 78,250,270,260,261,260
-3,Maths,Addition & Subtraction,Easy,Compute: 122 - 30,102,93,82,92,92
-3,Maths,Measurement,Easy,Compute: 127 + 101,229,238,218,228,228
-3,Maths,Addition & Subtraction,Easy,Compute: 181 - 123,59,58,48,68,58
-3,Maths,Place Value,Easy,Compute: 121 - 65,66,57,46,56,56
-3,Maths,Measurement,Easy,Compute: 30 ÷ 10,3,4,5,2,3
-3,Maths,Place Value,Easy,Compute: 94 - 54,41,50,30,40,40
-3,Maths,Addition & Subtraction,Easy,Compute: 172 - 4,168,169,178,158,168
-3,Maths,Place Value,Easy,Compute: 101 - 5,86,106,96,97,96
-3,Maths,Addition & Subtraction,Easy,Compute: 8 × 7,49,56,64,66,56
-3,Maths,Addition & Subtraction,Easy,Compute: 142 + 186,318,328,329,338,328
-3,Maths,Place Value,Easy,Compute: 32 - 11,11,31,22,21,21
-3,Maths,Measurement,Easy,Compute: 108 - 95,23,3,13,14,13
-3,Maths,Place Value,Easy,Compute: 152 + 58,200,220,211,210,210
-3,Maths,Place Value,Easy,Compute: 60 ÷ 10,8,6,7,5,6
-3,Maths,Measurement,Easy,Compute: 57 - 33,24,14,25,34,24
-3,Maths,Addition & Subtraction,Easy,Compute: 193 - 104,79,89,90,99,89
-3,Maths,Multiplication Basics,Easy,Compute: 90 - 70,10,20,30,21,20
-3,Maths,Measurement,Easy,Compute: 157 - 83,74,75,84,64,74
-3,Maths,Measurement,Easy,Compute: 144 ÷ 12,11,14,12,13,12
-3,Maths,Place Value,Easy,Compute: 180 - 50,131,130,140,120,130
-3,Maths,Multiplication Basics,Easy,Compute: 88 + 71,169,160,159,149,159
-3,Maths,Addition & Subtraction,Easy,Compute: 195 + 187,382,392,383,372,382
-3,Maths,Measurement,Easy,Compute: 53 + 198,251,261,252,241,251
-3,Maths,Multiplication Basics,Easy,Compute: 164 - 151,3,13,14,23,13
-3,Maths,Addition & Subtraction,Easy,Compute: 45 + 149,184,204,195,194,194
-3,Maths,Measurement,Easy,Compute: 142 - 109,34,23,33,43,33
-3,Maths,Place Value,Easy,Compute: 118 - 27,81,92,91,101,91
-3,Maths,Multiplication Basics,Easy,Compute: 6 × 12,60,78,82,72,72
-3,Maths,Addition & Subtraction,Easy,Compute: 66 + 88,154,155,164,144,154
-3,Maths,Multiplication Basics,Easy,Compute: 96 - 6,90,100,80,91,90
-3,Maths,Multiplication Basics,Easy,Compute: 111 - 57,55,54,44,64,54
-3,Maths,Multiplication Basics,Easy,Compute: 66 + 152,208,228,219,218,218
-3,Maths,Addition & Subtraction,Easy,Compute: 113 + 174,297,277,287,288,287
-3,Maths,Place Value,Easy,Compute: 138 - 115,13,24,33,23,23
-3,Maths,Multiplication Basics,Easy,Compute: 64 - 22,42,52,32,43,42
-3,Maths,Place Value,Easy,Compute: 15 × 7,105,120,98,115,105
-3,Maths,Addition & Subtraction,Easy,Compute: 175 - 0,176,185,165,175,175
-3,Maths,Place Value,Easy,Compute: 152 - 33,119,120,109,129,119
-3,Maths,Place Value,Easy,Compute: 25 + 80,95,106,105,115,105
-3,Maths,Multiplication Basics,Easy,Compute: 59 + 147,216,196,206,207,206
-3,Maths,Measurement,Easy,Compute: 153 - 143,10,11,20,0,10
-3,Maths,Place Value,Easy,Compute: 199 - 148,61,52,51,41,51
-3,Maths,Addition & Subtraction,Easy,Compute: 198 - 127,72,81,71,61,71
-3,Maths,Multiplication Basics,Easy,Compute: 10 × 10,Option 3,90,110,100,100
-3,Maths,Measurement,Easy,Compute: 78 - 19,59,49,60,69,59
-3,Maths,Place Value,Easy,Compute: 189 - 174,16,25,5,15,15
-3,Maths,Place Value,Easy,Compute: 174 + 118,282,302,292,293,292
-3,Maths,Place Value,Easy,Compute: 173 - 22,141,151,152,161,151
-3,Maths,Place Value,Easy,Compute: 43 + 192,245,225,235,236,235
-3,Maths,Place Value,Easy,Compute: 49 + 85,124,135,144,134,134
-3,Maths,Addition & Subtraction,Easy,Compute: 171 + 147,328,308,318,319,318
-3,Maths,Addition & Subtraction,Easy,Compute: 97 - 41,56,57,66,46,56
-3,Maths,Measurement,Easy,Compute: 182 - 40,132,142,152,143,142
-3,Maths,Place Value,Easy,Compute: 5 × 10,55,50,40,60,50
-3,Maths,Place Value,Easy,Compute: 114 + 32,147,146,136,156,146
-3,Maths,Addition & Subtraction,Easy,Compute: 140 + 86,227,236,226,216,226
-3,Maths,Place Value,Easy,Compute: 117 - 6,101,111,112,121,111
-3,Maths,Multiplication Basics,Easy,Compute: 108 - 87,11,22,31,21,21
-3,Maths,Place Value,Easy,Compute: 133 + 55,178,198,189,188,188
-3,Maths,Measurement,Easy,Compute: 110 + 142,242,253,252,262,252
-3,Maths,Measurement,Easy,Compute: 139 - 90,59,50,49,39,49
-3,Maths,Place Value,Easy,Compute: 3 × 13,26,39,42,49,39
-3,Maths,Multiplication Basics,Easy,Compute: 179 - 167,2,12,13,22,12
-3,Maths,Measurement,Easy,Compute: 115 + 99,214,215,224,204,214
-3,Maths,Multiplication Basics,Easy,Compute: 143 - 110,34,43,33,23,33
-3,Maths,Addition & Subtraction,Easy,Compute: 185 + 126,321,312,311,301,311
-3,Maths,Place Value,Easy,Compute: 84 ÷ 6,16,15,14,13,14
-3,Maths,Measurement,Easy,Compute: 120 + 119,249,229,239,240,239
-3,Maths,Addition & Subtraction,Easy,Compute: 9 × 8,64,72,81,82,72
-3,Maths,Measurement,Easy,Compute: 178 - 65,114,123,103,113,113
-3,Maths,Multiplication Basics,Easy,Compute: 97 + 119,226,206,217,216,216
-3,Maths,Multiplication Basics,Easy,Compute: 13 × 7,91,101,84,104,91
-3,Maths,Multiplication Basics,Easy,Compute: 165 ÷ 11,15,17,16,14,15
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,Which is longer?,1 m,1 cm,1 mm,1 inch,1 m
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 245 + 134?,369,379,389,399,379
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,Which number has 6 hundreds?,602,260,600,"6,020",600
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 5 × 6?,25,30,35,40,30
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365
+3,Maths,Addition & Subtraction,Easy,What is 500 − 276?,214,224,234,244,224
+3,Maths,Multiplication Basics,Easy,What is 3 × 4?,7,10,12,14,12
+3,Maths,Place Value,Easy,"In 3,482 what is the value of 4?",4,40,400,"4,000",400
+3,Maths,Measurement,Easy,How many days are in a year?,300,360,365,400,365

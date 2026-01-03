@@ -6,996 +6,996 @@ Grade,Subject,Topic,Difficulty,Question,A,B,C,D,Correct Answer
 6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
 6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
 6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
 6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
-6,Maths,Expressions,Intermediate,Solve for x: 6x + (49) = 1,-7,-8,8,-9,-8
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 7x + (-39) = -46,-1,1,0,-2,-1
-6,Maths,Operations with Integers,Intermediate,Solve for x: 17x + (44) = 61,-1,0,1,2,1
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 12x + (-34) = -250,-19,18,-17,-18,-18
-6,Maths,Operations with Integers,Intermediate,Solve for x: 10x + (25) = -145,-16,17,-18,-17,-17
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 4x + (29) = -19,12,-12,-13,-11,-12
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 17x + (-9) = 229,14,-14,13,15,14
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 15x + (-38) = -323,-19,-18,-20,19,-19
-6,Maths,Operations with Integers,Intermediate,Solve for x: 12x + (34) = 142,9,-9,8,10,9
-6,Maths,Expressions,Intermediate,Solve for x: 3x + (45) = 24,7,-6,-7,-8,-7
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 7x + (-30) = -30,0,Option 3,1,-1,0
-6,Maths,Operations with Integers,Intermediate,Solve for x: 17x + (15) = -104,-8,7,-6,-7,-7
-6,Maths,Operations with Integers,Intermediate,Solve for x: 7x + (0) = -105,-15,-14,-16,15,-15
-6,Maths,Operations with Integers,Intermediate,Solve for x: 3x + (-50) = -86,12,-11,-12,-13,-12
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 18x + (20) = 218,12,-11,11,10,11
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 12x + (35) = -85,-9,-10,10,-11,-10
-6,Maths,Operations with Integers,Intermediate,Solve for x: 16x + (-45) = -349,19,-20,-19,-18,-19
-6,Maths,Expressions,Intermediate,Solve for x: 13x + (36) = -107,-10,11,-11,-12,-11
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 15x + (-21) = -306,-19,-18,19,-20,-19
-6,Maths,Expressions,Intermediate,Solve for x: 4x + (-38) = -30,1,-2,2,3,2
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 18x + (-44) = -206,-8,-9,9,-10,-9
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 8x + (-14) = 122,-17,16,17,18,17
-6,Maths,Expressions,Intermediate,Solve for x: 10x + (-25) = 145,17,18,16,-17,17
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 2x + (12) = -10,11,-10,-11,-12,-11
-6,Maths,Expressions,Intermediate,Solve for x: 18x + (0) = 234,13,14,12,-13,13
-6,Maths,Operations with Integers,Intermediate,Solve for x: 17x + (-15) = 36,-3,2,4,3,3
-6,Maths,Expressions,Intermediate,Solve for x: 15x + (-33) = 102,8,9,-9,10,9
-6,Maths,Operations with Integers,Intermediate,Solve for x: 3x + (15) = 30,5,4,-5,6,5
-6,Maths,Operations with Integers,Intermediate,Solve for x: 14x + (34) = 286,18,-18,17,19,18
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 14x + (-12) = 170,13,-13,14,12,13
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 8x + (-24) = 96,-15,16,14,15,15
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 13x + (4) = -230,-19,-17,-18,18,-18
-6,Maths,Operations with Integers,Intermediate,Solve for x: 14x + (-3) = 137,9,10,-10,11,10
-6,Maths,Expressions,Intermediate,Solve for x: 15x + (-22) = 128,9,-10,11,10,10
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 4x + (-38) = 22,15,14,16,-15,15
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 17x + (-45) = 6,3,2,4,-3,3
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 12x + (16) = 244,18,-19,20,19,19
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 6x + (5) = -103,-17,-19,-18,18,-18
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 20x + (-48) = 12,-3,2,4,3,3
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 4x + (-48) = -88,-10,-9,10,-11,-10
-6,Maths,Operations with Integers,Intermediate,Solve for x: 20x + (21) = 321,15,14,16,-15,15
-6,Maths,Operations with Integers,Intermediate,Solve for x: 19x + (32) = -44,-3,4,-5,-4,-4
-6,Maths,Operations with Integers,Intermediate,Solve for x: 3x + (-30) = -54,-7,-9,-8,8,-8
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 3x + (14) = 35,6,8,-7,7,7
-6,Maths,Operations with Integers,Intermediate,Solve for x: 4x + (38) = 14,6,-5,-7,-6,-6
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 2x + (-38) = -12,-13,13,14,12,13
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 6x + (4) = -8,-1,-3,-2,2,-2
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 16x + (43) = -53,-6,-5,-7,6,-6
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 6x + (-10) = 2,1,2,3,-2,2
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 12x + (31) = -29,-6,-5,5,-4,-5
-6,Maths,Expressions,Intermediate,Solve for x: 8x + (18) = 146,15,16,-16,17,16
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 18x + (0) = -216,12,-11,-13,-12,-12
-6,Maths,Operations with Integers,Intermediate,Solve for x: 17x + (-2) = 117,-7,8,6,7,7
-6,Maths,Operations with Integers,Intermediate,Solve for x: 2x + (9) = 25,7,-8,8,9,8
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 3x + (-46) = 14,21,-20,20,19,20
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 4x + (-37) = -101,-16,-17,-15,16,-16
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 3x + (45) = 93,15,-16,16,17,16
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 14x + (-10) = 88,-7,8,6,7,7
-6,Maths,Operations with Integers,Intermediate,Solve for x: 13x + (34) = -122,12,-13,-11,-12,-12
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 10x + (-48) = 142,20,19,-19,18,19
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 20x + (-35) = -155,-6,-7,6,-5,-6
-6,Maths,Expressions,Intermediate,Solve for x: 15x + (-30) = -255,-15,15,-16,-14,-15
-6,Maths,Expressions,Intermediate,Solve for x: 11x + (13) = 57,4,3,-4,5,4
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 7x + (9) = 100,12,14,-13,13,13
-6,Maths,Expressions,Intermediate,Solve for x: 19x + (4) = -129,-8,7,-6,-7,-7
-6,Maths,Expressions,Intermediate,Solve for x: 14x + (-22) = -204,-12,-14,13,-13,-13
-6,Maths,Expressions,Intermediate,Solve for x: 9x + (22) = 202,20,-20,19,21,20
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 19x + (13) = -158,-9,-8,9,-10,-9
-6,Maths,Operations with Integers,Intermediate,Solve for x: 11x + (-41) = 102,13,-13,14,12,13
-6,Maths,Expressions,Intermediate,Solve for x: 5x + (-34) = -44,-3,-1,2,-2,-2
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 5x + (-14) = 66,17,16,-16,15,16
-6,Maths,Expressions,Intermediate,Solve for x: 13x + (-1) = 246,20,18,19,-19,19
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 18x + (29) = 353,18,-18,19,17,18
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 7x + (42) = 0,-7,6,-5,-6,-6
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 16x + (-24) = 232,17,15,16,-16,16
-6,Maths,Operations with Integers,Intermediate,Solve for x: 3x + (11) = 35,9,7,-8,8,8
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 2x + (16) = 54,-19,19,18,20,19
-6,Maths,Expressions,Intermediate,Solve for x: 13x + (-12) = 183,16,14,-15,15,15
-6,Maths,Operations with Integers,Intermediate,Solve for x: 17x + (-45) = -164,-7,-8,7,-6,-7
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 12x + (16) = 88,-6,6,7,5,6
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 7x + (14) = -42,-8,8,-9,-7,-8
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 8x + (-17) = 79,12,11,-12,13,12
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 13x + (-38) = -142,8,-7,-8,-9,-8
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 16x + (28) = 332,20,18,19,-19,19
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 11x + (0) = -22,2,-2,-1,-3,-2
-6,Maths,Expressions,Intermediate,Solve for x: 10x + (-9) = 171,19,18,17,-18,18
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 2x + (-15) = -1,6,-7,7,8,7
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 19x + (29) = -123,8,-8,-7,-9,-8
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 14x + (-7) = -35,-2,-1,-3,2,-2
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 3x + (32) = 74,14,13,-14,15,14
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 5x + (-50) = 20,14,-14,15,13,14
-6,Maths,Expressions,Intermediate,Solve for x: 7x + (-32) = 3,4,6,-5,5,5
-6,Maths,Operations with Integers,Intermediate,Solve for x: 7x + (-22) = -127,-15,-14,-16,15,-15
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 11x + (15) = -194,19,-19,-18,-20,-19
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 15x + (-11) = 34,-3,4,3,2,3
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 16x + (-37) = 267,18,19,-19,20,19
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 5x + (-31) = 44,14,-15,16,15,15
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 18x + (26) = 188,10,9,-9,8,9
-6,Maths,Operations with Integers,Intermediate,Solve for x: 20x + (4) = 204,11,10,9,-10,10
-6,Maths,Operations with Integers,Intermediate,Solve for x: 15x + (48) = -162,-14,14,-15,-13,-14
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 13x + (-41) = 11,4,-4,3,5,4
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 4x + (9) = 13,-1,1,0,2,1
-6,Maths,Operations with Integers,Intermediate,Solve for x: 16x + (-37) = -149,-6,7,-8,-7,-7
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 16x + (-23) = -87,-3,-4,4,-5,-4
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 6x + (36) = -78,-20,19,-19,-18,-19
-6,Maths,Operations with Integers,Intermediate,Solve for x: 20x + (-25) = -25,-1,1,0,Option 3,0
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 12x + (42) = -114,13,-13,-14,-12,-13
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 8x + (-38) = 114,18,-19,19,20,19
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 20x + (48) = 148,-5,6,4,5,5
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 2x + (-29) = -59,15,-15,-16,-14,-15
-6,Maths,Operations with Integers,Intermediate,Solve for x: 18x + (12) = -24,2,-3,-2,-1,-2
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 15x + (29) = 59,3,2,1,-2,2
-6,Maths,Operations with Integers,Intermediate,Solve for x: 17x + (-16) = 188,-12,12,13,11,12
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 14x + (-16) = 152,-12,12,11,13,12
-6,Maths,Operations with Integers,Intermediate,Solve for x: 7x + (-16) = -93,11,-12,-10,-11,-11
-6,Maths,Expressions,Intermediate,Solve for x: 15x + (18) = 168,9,11,-10,10,10
-6,Maths,Expressions,Intermediate,Solve for x: 7x + (-4) = -4,-1,0,1,Option 3,0
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 13x + (18) = -99,-8,-9,-10,9,-9
-6,Maths,Operations with Integers,Intermediate,Solve for x: 15x + (-2) = 13,-1,1,2,0,1
-6,Maths,Expressions,Intermediate,Solve for x: 3x + (12) = -42,-17,-19,18,-18,-18
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 10x + (3) = -137,14,-15,-14,-13,-14
-6,Maths,Operations with Integers,Intermediate,Solve for x: 16x + (-39) = 169,12,14,-13,13,13
-6,Maths,Expressions,Intermediate,Solve for x: 19x + (-33) = 81,6,-6,7,5,6
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 5x + (42) = 72,-6,6,5,7,6
-6,Maths,Operations with Integers,Intermediate,Solve for x: 17x + (-37) = 48,5,4,6,-5,5
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 11x + (28) = 171,-13,14,13,12,13
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 7x + (46) = -73,17,-17,-18,-16,-17
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 15x + (-20) = 85,6,7,-7,8,7
-6,Maths,Expressions,Intermediate,Solve for x: 17x + (15) = 236,-13,14,12,13,13
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 4x + (31) = -25,-15,-14,14,-13,-14
-6,Maths,Expressions,Intermediate,Solve for x: 2x + (3) = -21,-13,-12,12,-11,-12
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 4x + (14) = 50,9,8,-9,10,9
-6,Maths,Expressions,Intermediate,Solve for x: 8x + (-31) = 105,-17,16,17,18,17
-6,Maths,Expressions,Intermediate,Solve for x: 16x + (3) = 51,3,-3,2,4,3
-6,Maths,Operations with Integers,Intermediate,Solve for x: 11x + (21) = -34,5,-4,-6,-5,-5
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 4x + (-19) = -59,-11,10,-9,-10,-10
-6,Maths,Expressions,Intermediate,Solve for x: 17x + (-2) = 151,-9,8,9,10,9
-6,Maths,Expressions,Intermediate,Solve for x: 20x + (36) = -244,-15,-13,14,-14,-14
-6,Maths,Expressions,Intermediate,Solve for x: 5x + (-32) = -22,2,-2,3,1,2
-6,Maths,Expressions,Intermediate,Solve for x: 4x + (-30) = 6,8,10,-9,9,9
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 17x + (-37) = 303,20,21,19,-20,20
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 10x + (-4) = -124,-11,12,-12,-13,-12
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 16x + (-31) = 241,16,17,18,-17,17
-6,Maths,Operations with Integers,Intermediate,Solve for x: 9x + (-35) = -80,-6,-5,-4,5,-5
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 14x + (7) = -49,4,-5,-3,-4,-4
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 15x + (-14) = -209,13,-12,-14,-13,-13
-6,Maths,Expressions,Intermediate,Solve for x: 14x + (-8) = -162,-11,-12,-10,11,-11
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 8x + (-16) = 0,-2,3,2,1,2
-6,Maths,Operations with Integers,Intermediate,Solve for x: 18x + (-45) = 171,12,13,11,-12,12
-6,Maths,Expressions,Intermediate,Solve for x: 20x + (11) = 131,7,-6,6,5,6
-6,Maths,Expressions,Intermediate,Solve for x: 14x + (-23) = -51,-3,2,-2,-1,-2
-6,Maths,Operations with Integers,Intermediate,Solve for x: 14x + (-32) = -256,-17,-15,16,-16,-16
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 13x + (33) = 267,-18,19,17,18,18
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 15x + (20) = -205,15,-15,-14,-16,-15
-6,Maths,Expressions,Intermediate,Solve for x: 15x + (12) = -3,0,-1,-2,1,-1
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 18x + (33) = 159,-7,7,8,6,7
-6,Maths,Operations with Integers,Intermediate,Solve for x: 11x + (47) = -52,-9,-8,-10,9,-9
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 12x + (-45) = 123,13,-14,14,15,14
-6,Maths,Operations with Integers,Intermediate,Solve for x: 14x + (50) = 36,-1,-2,0,1,-1
-6,Maths,Operations with Integers,Intermediate,Solve for x: 19x + (-15) = -357,-17,-19,18,-18,-18
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 17x + (-11) = 227,13,-14,15,14,14
-6,Maths,Expressions,Intermediate,Solve for x: 18x + (39) = -177,-12,-13,12,-11,-12
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 10x + (-7) = 133,14,-14,15,13,14
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 11x + (-3) = 85,9,8,-8,7,8
-6,Maths,Operations with Integers,Intermediate,Solve for x: 13x + (31) = -190,-18,17,-16,-17,-17
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 9x + (-30) = 60,9,-10,10,11,10
-6,Maths,Expressions,Intermediate,Solve for x: 16x + (44) = 140,6,7,-6,5,6
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 10x + (-12) = 108,11,12,13,-12,12
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 6x + (35) = -55,-15,-14,15,-16,-15
-6,Maths,Expressions,Intermediate,Solve for x: 18x + (-24) = -294,-15,-14,-16,15,-15
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 9x + (0) = -45,-6,5,-4,-5,-5
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 13x + (39) = -208,-20,19,-19,-18,-19
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 8x + (-10) = -138,-17,16,-15,-16,-16
-6,Maths,Expressions,Intermediate,Solve for x: 17x + (26) = 60,-2,2,1,3,2
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 10x + (11) = 211,20,19,-20,21,20
-6,Maths,Operations with Integers,Intermediate,Solve for x: 7x + (7) = 49,-6,5,6,7,6
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 7x + (15) = -20,-4,5,-6,-5,-5
-6,Maths,Operations with Integers,Intermediate,Solve for x: 14x + (-27) = 141,-12,13,12,11,12
-6,Maths,Operations with Integers,Intermediate,Solve for x: 15x + (24) = 24,0,1,Option 3,-1,0
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 12x + (3) = 147,-12,12,13,11,12
-6,Maths,Expressions,Intermediate,Solve for x: 8x + (17) = -127,-17,-18,18,-19,-18
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 19x + (-30) = -11,0,-1,2,1,1
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 2x + (-27) = -57,-16,-14,-15,15,-15
-6,Maths,Expressions,Intermediate,Solve for x: 4x + (-32) = 28,-15,15,14,16,15
-6,Maths,Expressions,Intermediate,Solve for x: 12x + (-45) = 27,5,7,-6,6,6
-6,Maths,Expressions,Intermediate,Solve for x: 9x + (24) = -3,3,-2,-3,-4,-3
-6,Maths,Expressions,Intermediate,Solve for x: 13x + (3) = -88,7,-6,-8,-7,-7
-6,Maths,Expressions,Intermediate,Solve for x: 19x + (-3) = 358,19,-19,20,18,19
-6,Maths,Expressions,Intermediate,Solve for x: 20x + (-28) = -28,Option 3,-1,1,0,0
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 11x + (-9) = -196,17,-16,-18,-17,-17
-6,Maths,Expressions,Intermediate,Solve for x: 12x + (6) = 210,-17,16,17,18,17
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 9x + (-30) = 150,-20,20,21,19,20
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 7x + (-28) = 14,6,7,-6,5,6
-6,Maths,Operations with Integers,Intermediate,Solve for x: 19x + (-10) = -200,-11,-9,10,-10,-10
-6,Maths,Expressions,Intermediate,Solve for x: 20x + (4) = -236,-12,-11,-13,12,-12
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 4x + (-5) = -37,-7,8,-9,-8,-8
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 8x + (-23) = -71,-7,6,-6,-5,-6
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 12x + (49) = -191,-20,20,-21,-19,-20
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 17x + (-4) = 319,18,-19,20,19,19
-6,Maths,Expressions,Intermediate,Solve for x: 4x + (-19) = -75,-13,-14,-15,14,-14
-6,Maths,Expressions,Intermediate,Solve for x: 2x + (14) = 24,5,4,6,-5,5
-6,Maths,Expressions,Intermediate,Solve for x: 2x + (-43) = -73,-15,-14,15,-16,-15
-6,Maths,Expressions,Intermediate,Solve for x: 18x + (18) = 306,17,15,-16,16,16
-6,Maths,Expressions,Intermediate,Solve for x: 16x + (34) = 162,9,8,7,-8,8
-6,Maths,Expressions,Intermediate,Solve for x: 10x + (37) = -43,-9,-7,8,-8,-8
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 13x + (-11) = 197,15,-16,17,16,16
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 20x + (4) = -316,-17,-15,16,-16,-16
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 9x + (-29) = 97,15,13,-14,14,14
-6,Maths,Operations with Integers,Intermediate,Solve for x: 2x + (21) = 3,-8,9,-9,-10,-9
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 13x + (49) = 10,-2,-4,3,-3,-3
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 16x + (25) = 329,-19,20,19,18,19
-6,Maths,Operations with Integers,Intermediate,Solve for x: 7x + (38) = 3,-5,5,-4,-6,-5
-6,Maths,Operations with Integers,Intermediate,Solve for x: 13x + (10) = -94,-9,-8,8,-7,-8
-6,Maths,Expressions,Intermediate,Solve for x: 20x + (40) = -120,-9,8,-7,-8,-8
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 20x + (-38) = -258,-12,11,-10,-11,-11
-6,Maths,Operations with Integers,Intermediate,Solve for x: 14x + (22) = 246,-16,17,15,16,16
-6,Maths,Expressions,Intermediate,Solve for x: 19x + (-28) = 48,4,-4,5,3,4
-6,Maths,Operations with Integers,Intermediate,Solve for x: 3x + (-5) = 34,-13,13,14,12,13
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 14x + (22) = 274,18,-18,17,19,18
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 18x + (22) = 4,0,-2,1,-1,-1
-6,Maths,Expressions,Intermediate,Solve for x: 16x + (-13) = -189,-10,-11,-12,11,-11
-6,Maths,Operations with Integers,Intermediate,Solve for x: 5x + (-12) = -107,-20,19,-19,-18,-19
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 19x + (-31) = -278,-12,-13,-14,13,-13
-6,Maths,Expressions,Intermediate,Solve for x: 5x + (47) = 132,17,16,18,-17,17
-6,Maths,Operations with Integers,Intermediate,Solve for x: 10x + (-32) = -12,-2,3,1,2,2
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 2x + (15) = -9,-11,-12,-13,12,-12
-6,Maths,Expressions,Intermediate,Solve for x: 15x + (-20) = -20,1,Option 3,0,-1,0
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 13x + (17) = 238,16,-17,17,18,17
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 13x + (44) = -164,-17,-16,16,-15,-16
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 19x + (3) = -244,-13,-12,13,-14,-13
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 9x + (37) = 145,11,-12,12,13,12
-6,Maths,Operations with Integers,Intermediate,Solve for x: 9x + (-47) = -218,-19,-18,-20,19,-19
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 14x + (-8) = -8,Option 3,1,-1,0,0
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 6x + (-15) = -105,15,-15,-14,-16,-15
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 2x + (40) = 12,-14,-13,-15,14,-14
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 16x + (45) = -243,18,-18,-17,-19,-18
-6,Maths,Expressions,Intermediate,Solve for x: 18x + (-30) = 258,16,17,15,-16,16
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 6x + (38) = -70,-17,18,-18,-19,-18
-6,Maths,Operations with Integers,Intermediate,Solve for x: 5x + (27) = 57,5,6,-6,7,6
-6,Maths,Expressions,Intermediate,Solve for x: 14x + (11) = -87,-7,7,-6,-8,-7
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 11x + (-3) = 173,-16,17,15,16,16
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 14x + (11) = 151,-10,11,10,9,10
-6,Maths,Operations with Integers,Intermediate,Solve for x: 7x + (31) = 52,4,-3,3,2,3
-6,Maths,Expressions,Intermediate,Solve for x: 4x + (39) = 91,14,13,12,-13,13
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 5x + (-8) = -108,-21,-20,-19,20,-20
-6,Maths,Expressions,Intermediate,Solve for x: 3x + (24) = -9,-11,-10,-12,11,-11
-6,Maths,Operations with Integers,Intermediate,Solve for x: 8x + (27) = 139,13,15,14,-14,14
-6,Maths,Operations with Integers,Intermediate,Solve for x: 7x + (-36) = -169,-20,19,-19,-18,-19
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 8x + (-44) = -28,1,2,3,-2,2
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 19x + (-40) = 188,11,-12,12,13,12
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 12x + (-46) = -70,-1,2,-2,-3,-2
-6,Maths,Operations with Integers,Intermediate,Solve for x: 3x + (12) = -9,7,-7,-6,-8,-7
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 7x + (40) = -100,-19,20,-21,-20,-20
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 17x + (-45) = 159,-12,13,11,12,12
-6,Maths,Operations with Integers,Intermediate,Solve for x: 10x + (36) = -24,-6,-7,-5,6,-6
-6,Maths,Operations with Integers,Intermediate,Solve for x: 5x + (-7) = 63,13,14,-14,15,14
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 3x + (-35) = -83,-15,-16,-17,16,-16
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 14x + (-48) = -314,-20,-18,-19,19,-19
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 11x + (-4) = -15,-1,0,1,-2,-1
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 5x + (-34) = -89,-10,-11,-12,11,-11
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 13x + (40) = 27,-1,-2,1,0,-1
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 17x + (17) = 170,9,10,8,-9,9
-6,Maths,Expressions,Intermediate,Solve for x: 7x + (28) = 77,6,-7,7,8,7
-6,Maths,Operations with Integers,Intermediate,Solve for x: 20x + (38) = -142,-9,9,-10,-8,-9
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 2x + (-17) = -35,-10,9,-9,-8,-9
-6,Maths,Expressions,Intermediate,Solve for x: 11x + (6) = 61,5,4,6,-5,5
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 16x + (-13) = -93,5,-4,-5,-6,-5
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 4x + (-20) = 36,14,15,-14,13,14
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 12x + (30) = 18,0,-1,1,-2,-1
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 7x + (-10) = 102,17,15,16,-16,16
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 5x + (48) = 43,-2,1,0,-1,-1
-6,Maths,Operations with Integers,Intermediate,Solve for x: 19x + (-20) = -39,0,-1,-2,1,-1
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 7x + (-15) = -57,-6,-5,6,-7,-6
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 10x + (43) = 83,4,-4,5,3,4
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 14x + (-37) = -261,-15,-17,-16,16,-16
-6,Maths,Expressions,Intermediate,Solve for x: 3x + (5) = -34,-12,13,-14,-13,-13
-6,Maths,Operations with Integers,Intermediate,Solve for x: 7x + (10) = 24,1,3,-2,2,2
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 2x + (9) = -21,-14,15,-15,-16,-15
-6,Maths,Expressions,Intermediate,Solve for x: 2x + (25) = 9,-8,-7,-9,8,-8
-6,Maths,Operations with Integers,Intermediate,Solve for x: 8x + (26) = -134,-19,-21,-20,20,-20
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 10x + (-13) = -33,-2,2,-1,-3,-2
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 8x + (-21) = -173,19,-19,-18,-20,-19
-6,Maths,Expressions,Intermediate,Solve for x: 18x + (-24) = 282,17,18,-17,16,17
-6,Maths,Expressions,Intermediate,Solve for x: 19x + (10) = -66,-4,-5,-3,4,-4
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 3x + (-17) = -23,2,-2,-3,-1,-2
-6,Maths,Expressions,Intermediate,Solve for x: 2x + (28) = 44,-8,7,9,8,8
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 3x + (13) = 40,9,8,10,-9,9
-6,Maths,Expressions,Intermediate,Solve for x: 8x + (-2) = -42,-4,-5,5,-6,-5
-6,Maths,Expressions,Intermediate,Solve for x: 20x + (-3) = -183,-10,9,-8,-9,-9
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 16x + (-46) = 194,16,-15,14,15,15
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 10x + (-24) = 146,16,18,17,-17,17
-6,Maths,Expressions,Intermediate,Solve for x: 4x + (15) = 39,7,-6,6,5,6
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 16x + (32) = 304,18,-17,17,16,17
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 12x + (-20) = -200,-15,-16,15,-14,-15
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 12x + (-27) = -219,-17,-16,-15,16,-16
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 12x + (-16) = 116,12,11,10,-11,11
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 8x + (44) = 148,13,14,12,-13,13
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 7x + (-47) = -54,1,0,-2,-1,-1
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 14x + (-12) = 142,11,12,-11,10,11
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 13x + (-45) = -162,-10,-9,-8,9,-9
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 20x + (28) = 188,7,-8,8,9,8
-6,Maths,Expressions,Intermediate,Solve for x: 13x + (-22) = -256,-18,18,-19,-17,-18
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 9x + (40) = 220,-20,19,21,20,20
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 5x + (5) = -5,2,-3,-1,-2,-2
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 9x + (-22) = -40,2,-1,-2,-3,-2
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 15x + (4) = -56,-4,4,-5,-3,-4
-6,Maths,Expressions,Intermediate,Solve for x: 19x + (-1) = 132,6,-7,8,7,7
-6,Maths,Operations with Integers,Intermediate,Solve for x: 16x + (-16) = -288,-17,-18,-16,17,-17
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 8x + (45) = -3,-5,-7,6,-6,-6
-6,Maths,Expressions,Intermediate,Solve for x: 20x + (13) = 93,4,5,-4,3,4
-6,Maths,Operations with Integers,Intermediate,Solve for x: 5x + (-16) = 79,-19,19,18,20,19
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 10x + (24) = -126,-16,15,-14,-15,-15
-6,Maths,Expressions,Intermediate,Solve for x: 10x + (19) = -151,-16,17,-17,-18,-17
-6,Maths,Operations with Integers,Intermediate,Solve for x: 2x + (-43) = -15,15,-14,13,14,14
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 20x + (20) = 40,0,-1,2,1,1
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 7x + (40) = 117,-11,11,12,10,11
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 16x + (-29) = 147,-11,11,12,10,11
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 15x + (1) = -299,-19,20,-20,-21,-20
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 16x + (-47) = -159,-7,7,-8,-6,-7
-6,Maths,Operations with Integers,Intermediate,Solve for x: 2x + (35) = 31,2,-3,-1,-2,-2
-6,Maths,Expressions,Intermediate,Solve for x: 18x + (37) = 19,1,0,-1,-2,-1
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 2x + (-6) = -36,-16,-15,15,-14,-15
-6,Maths,Expressions,Intermediate,Solve for x: 16x + (36) = -92,-8,8,-7,-9,-8
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 12x + (-40) = 20,6,5,-5,4,5
-6,Maths,Expressions,Intermediate,Solve for x: 15x + (-21) = 264,18,20,-19,19,19
-6,Maths,Expressions,Intermediate,Solve for x: 7x + (9) = -103,-17,-16,-15,16,-16
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 3x + (-2) = 55,19,-19,20,18,19
-6,Maths,Operations with Integers,Intermediate,Solve for x: 3x + (-22) = 26,15,16,17,-16,16
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 19x + (42) = -338,-21,-19,-20,20,-20
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 2x + (4) = 24,-10,9,11,10,10
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 4x + (-48) = -12,9,8,10,-9,9
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 9x + (31) = 148,14,-13,13,12,13
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 7x + (-13) = 85,14,15,-14,13,14
-6,Maths,Expressions,Intermediate,Solve for x: 7x + (24) = 129,16,-15,14,15,15
-6,Maths,Operations with Integers,Intermediate,Solve for x: 4x + (0) = 20,-5,5,6,4,5
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 8x + (10) = -70,10,-10,-9,-11,-10
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 8x + (-24) = -56,4,-3,-4,-5,-4
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 5x + (17) = -13,-6,-5,6,-7,-6
-6,Maths,Expressions,Intermediate,Solve for x: 10x + (-37) = 3,5,-4,3,4,4
-6,Maths,Expressions,Intermediate,Solve for x: 7x + (-14) = -98,-12,-11,-13,12,-12
-6,Maths,Operations with Integers,Intermediate,Solve for x: 11x + (47) = 135,9,7,-8,8,8
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 13x + (8) = 47,3,4,2,-3,3
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 13x + (-6) = -84,-7,6,-5,-6,-6
-6,Maths,Expressions,Intermediate,Solve for x: 10x + (4) = 24,-2,1,2,3,2
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 13x + (29) = 211,14,15,-14,13,14
-6,Maths,Operations with Integers,Intermediate,Solve for x: 15x + (7) = -188,-12,-13,13,-14,-13
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 15x + (23) = 218,13,-13,12,14,13
-6,Maths,Expressions,Intermediate,Solve for x: 2x + (-46) = -62,8,-7,-9,-8,-8
-6,Maths,Expressions,Intermediate,Solve for x: 11x + (-3) = -201,18,-18,-19,-17,-18
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 8x + (-42) = -42,0,Option 3,-1,1,0
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 7x + (38) = 87,7,6,8,-7,7
-6,Maths,Expressions,Intermediate,Solve for x: 15x + (-2) = -77,-4,-5,-6,5,-5
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 7x + (29) = 85,8,7,9,-8,8
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 10x + (11) = 191,-18,18,17,19,18
-6,Maths,Expressions,Intermediate,Solve for x: 17x + (12) = 114,5,-6,6,7,6
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 4x + (4) = -60,-15,-16,16,-17,-16
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 15x + (-41) = -146,-8,-7,7,-6,-7
-6,Maths,Expressions,Intermediate,Solve for x: 9x + (31) = 121,10,11,9,-10,10
-6,Maths,Operations with Integers,Intermediate,Solve for x: 5x + (36) = 56,4,5,-4,3,4
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 16x + (-10) = 214,14,-14,15,13,14
-6,Maths,Expressions,Intermediate,Solve for x: 2x + (6) = 14,-4,4,3,5,4
-6,Maths,Expressions,Intermediate,Solve for x: 7x + (6) = -113,-16,-18,17,-17,-17
-6,Maths,Expressions,Intermediate,Solve for x: 3x + (-3) = 36,12,14,13,-13,13
-6,Maths,Expressions,Intermediate,Solve for x: 8x + (-24) = 136,21,20,19,-20,20
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 4x + (-3) = 33,-9,8,9,10,9
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 14x + (28) = 126,6,-7,7,8,7
-6,Maths,Expressions,Intermediate,Solve for x: 16x + (18) = -142,-11,10,-10,-9,-10
-6,Maths,Operations with Integers,Intermediate,Solve for x: 13x + (-49) = -166,-9,-10,9,-8,-9
-6,Maths,Expressions,Intermediate,Solve for x: 7x + (0) = 91,14,-13,12,13,13
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 10x + (-19) = -199,-18,18,-17,-19,-18
-6,Maths,Operations with Integers,Intermediate,Solve for x: 8x + (-3) = -163,20,-19,-21,-20,-20
-6,Maths,Operations with Integers,Intermediate,Solve for x: 3x + (-38) = -35,2,0,1,-1,1
-6,Maths,Expressions,Intermediate,Solve for x: 2x + (4) = -4,-3,-4,4,-5,-4
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 2x + (-14) = 16,14,15,-15,16,15
-6,Maths,Operations with Integers,Intermediate,Solve for x: 14x + (-14) = -280,-19,-20,-18,19,-19
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 16x + (46) = 238,12,11,-12,13,12
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 13x + (-2) = 63,6,-5,4,5,5
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 10x + (15) = -165,-18,-17,18,-19,-18
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 14x + (42) = 308,-19,18,20,19,19
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 5x + (43) = 8,-7,7,-6,-8,-7
-6,Maths,Expressions,Intermediate,Solve for x: 16x + (-15) = 241,15,17,-16,16,16
-6,Maths,Expressions,Intermediate,Solve for x: 15x + (-26) = 244,-18,19,17,18,18
-6,Maths,Operations with Integers,Intermediate,Solve for x: 11x + (-7) = 213,20,-20,21,19,20
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 4x + (-20) = -56,-8,-10,-9,9,-9
-6,Maths,Expressions,Intermediate,Solve for x: 19x + (48) = 67,-1,0,1,2,1
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 5x + (20) = -65,-18,17,-17,-16,-17
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 14x + (-15) = -85,-5,5,-4,-6,-5
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 13x + (-29) = 101,-10,11,9,10,10
-6,Maths,Operations with Integers,Intermediate,Solve for x: 4x + (-32) = 4,-9,9,10,8,9
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 19x + (30) = -46,-5,-4,4,-3,-4
-6,Maths,Expressions,Intermediate,Solve for x: 17x + (-21) = 13,1,-2,2,3,2
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 15x + (-7) = -217,-14,-13,-15,14,-14
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 7x + (-40) = -152,-15,16,-16,-17,-16
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 7x + (43) = -62,-14,-15,15,-16,-15
-6,Maths,Expressions,Intermediate,Solve for x: 18x + (-46) = -28,1,-1,2,0,1
-6,Maths,Expressions,Intermediate,Solve for x: 6x + (41) = -13,-8,9,-10,-9,-9
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 6x + (36) = -48,-14,-15,-13,14,-14
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 6x + (19) = -89,-17,18,-18,-19,-18
-6,Maths,Expressions,Intermediate,Solve for x: 14x + (-45) = 11,4,5,-4,3,4
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 4x + (-33) = -41,-3,-2,2,-1,-2
-6,Maths,Operations with Integers,Intermediate,Solve for x: 2x + (-35) = -37,-2,0,1,-1,-1
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 17x + (-36) = -155,-8,-6,7,-7,-7
-6,Maths,Operations with Integers,Intermediate,Solve for x: 7x + (-41) = 71,17,16,15,-16,16
-6,Maths,Operations with Integers,Intermediate,Solve for x: 2x + (30) = 14,-7,-9,-8,8,-8
-6,Maths,Operations with Integers,Intermediate,Solve for x: 13x + (-6) = 137,-11,10,11,12,11
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 8x + (26) = 26,1,0,-1,Option 3,0
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 2x + (-2) = 32,18,-17,17,16,17
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 3x + (-28) = 8,-12,13,11,12,12
-6,Maths,Expressions,Intermediate,Solve for x: 6x + (-5) = 13,3,4,-3,2,3
-6,Maths,Operations with Integers,Intermediate,Solve for x: 4x + (33) = -27,-15,-14,-16,15,-15
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 6x + (-35) = -113,-14,13,-12,-13,-13
-6,Maths,Expressions,Intermediate,Solve for x: 4x + (28) = -28,-15,-13,-14,14,-14
-6,Maths,Expressions,Intermediate,Solve for x: 19x + (-26) = -387,-19,-20,19,-18,-19
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 8x + (-11) = -27,-2,2,-3,-1,-2
-6,Maths,Operations with Integers,Intermediate,Solve for x: 4x + (36) = -12,-12,-11,12,-13,-12
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 3x + (-7) = 20,10,-9,9,8,9
-6,Maths,Expressions,Intermediate,Solve for x: 19x + (-3) = -269,-13,-15,14,-14,-14
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 20x + (0) = 60,4,3,-3,2,3
-6,Maths,Expressions,Intermediate,Solve for x: 5x + (-40) = 0,7,8,9,-8,8
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 3x + (-36) = -63,9,-9,-8,-10,-9
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 2x + (7) = 17,6,4,-5,5,5
-6,Maths,Operations with Integers,Intermediate,Solve for x: 17x + (47) = 132,-5,6,4,5,5
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 5x + (6) = -94,-20,-19,-21,20,-20
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 18x + (9) = 261,-14,15,13,14,14
-6,Maths,Operations with Integers,Intermediate,Solve for x: 11x + (-7) = 81,7,9,-8,8,8
-6,Maths,Expressions,Intermediate,Solve for x: 8x + (-49) = -25,4,3,-3,2,3
-6,Maths,Expressions,Intermediate,Solve for x: 3x + (-36) = -30,2,3,1,-2,2
-6,Maths,Operations with Integers,Intermediate,Solve for x: 13x + (33) = 163,-10,11,9,10,10
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 20x + (46) = -194,-12,-13,12,-11,-12
-6,Maths,Operations with Integers,Intermediate,Solve for x: 7x + (-39) = -39,Option 3,1,-1,0,0
-6,Maths,Operations with Integers,Intermediate,Solve for x: 2x + (0) = 22,-11,10,12,11,11
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 16x + (-37) = 155,11,12,13,-12,12
-6,Maths,Expressions,Intermediate,Solve for x: 11x + (-37) = -103,-7,-5,6,-6,-6
-6,Maths,Expressions,Intermediate,Solve for x: 8x + (49) = -63,-15,14,-13,-14,-14
-6,Maths,Operations with Integers,Intermediate,Solve for x: 3x + (34) = 79,14,15,-15,16,15
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 15x + (43) = -77,-8,-7,8,-9,-8
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 7x + (-42) = -42,0,1,-1,Option 3,0
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 7x + (42) = 119,12,10,11,-11,11
-6,Maths,Expressions,Intermediate,Solve for x: 20x + (-31) = -71,-2,-1,2,-3,-2
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 16x + (-12) = 116,9,8,-8,7,8
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 18x + (-26) = -152,-7,-8,-6,7,-7
-6,Maths,Operations with Integers,Intermediate,Solve for x: 19x + (-42) = 205,-13,12,13,14,13
-6,Maths,Expressions,Intermediate,Solve for x: 2x + (45) = 73,14,-14,13,15,14
-6,Maths,Operations with Integers,Intermediate,Solve for x: 18x + (4) = -32,2,-3,-1,-2,-2
-6,Maths,Expressions,Intermediate,Solve for x: 16x + (25) = -71,-7,6,-6,-5,-6
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 12x + (18) = -222,-21,-20,20,-19,-20
-6,Maths,Expressions,Intermediate,Solve for x: 16x + (-24) = 216,16,14,15,-15,15
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 13x + (-39) = 78,8,9,-9,10,9
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 9x + (-8) = 100,13,11,12,-12,12
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 8x + (-27) = -11,-2,2,3,1,2
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 18x + (6) = -246,-13,-14,-15,14,-14
-6,Maths,Operations with Integers,Intermediate,Solve for x: 12x + (32) = -208,-21,-19,20,-20,-20
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 18x + (11) = -133,8,-7,-9,-8,-8
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 7x + (42) = 91,6,8,7,-7,7
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 2x + (-5) = -3,-1,2,0,1,1
-6,Maths,Operations with Integers,Intermediate,Solve for x: 10x + (36) = -64,-11,-9,10,-10,-10
-6,Maths,Expressions,Intermediate,Solve for x: 3x + (40) = -2,-15,-13,14,-14,-14
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 11x + (47) = 201,14,-14,15,13,14
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 5x + (22) = 72,11,10,-10,9,10
-6,Maths,Expressions,Intermediate,Solve for x: 7x + (7) = 98,13,-13,12,14,13
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 4x + (27) = -53,-19,-21,20,-20,-20
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 17x + (9) = 60,-3,4,3,2,3
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 9x + (29) = 182,18,-17,17,16,17
-6,Maths,Operations with Integers,Intermediate,Solve for x: 9x + (31) = -95,-13,14,-14,-15,-14
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 9x + (17) = 80,7,-7,8,6,7
-6,Maths,Expressions,Intermediate,Solve for x: 13x + (31) = -112,11,-10,-11,-12,-11
-6,Maths,Operations with Integers,Intermediate,Solve for x: 19x + (-36) = -378,-17,-19,-18,18,-18
-6,Maths,Expressions,Intermediate,Solve for x: 13x + (-39) = -78,3,-2,-3,-4,-3
-6,Maths,Operations with Integers,Intermediate,Solve for x: 7x + (8) = -20,-3,-4,4,-5,-4
-6,Maths,Expressions,Intermediate,Solve for x: 17x + (-16) = 273,16,-17,17,18,17
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 4x + (32) = 88,-14,15,14,13,14
-6,Maths,Expressions,Intermediate,Solve for x: 13x + (1) = 144,-11,10,11,12,11
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 8x + (-19) = -11,2,-1,1,0,1
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 9x + (-11) = -20,-2,1,-1,0,-1
-6,Maths,Expressions,Intermediate,Solve for x: 4x + (29) = -3,-7,8,-8,-9,-8
-6,Maths,Operations with Integers,Intermediate,Solve for x: 16x + (-27) = 229,16,-16,17,15,16
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 15x + (-13) = -73,4,-3,-5,-4,-4
-6,Maths,Expressions,Intermediate,Solve for x: 8x + (-46) = -158,-13,14,-15,-14,-14
-6,Maths,Operations with Integers,Intermediate,Solve for x: 10x + (-16) = -216,20,-20,-19,-21,-20
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 16x + (-2) = 286,17,-18,19,18,18
-6,Maths,Expressions,Intermediate,Solve for x: 19x + (32) = 374,17,18,19,-18,18
-6,Maths,Operations with Integers,Intermediate,Solve for x: 13x + (15) = 93,6,-6,7,5,6
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 6x + (-17) = -113,-17,-16,-15,16,-16
-6,Maths,Expressions,Intermediate,Solve for x: 9x + (-40) = 50,11,-10,9,10,10
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 20x + (-30) = -130,-5,-6,-4,5,-5
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 19x + (3) = 383,21,19,20,-20,20
-6,Maths,Expressions,Intermediate,Solve for x: 4x + (-50) = 22,19,17,-18,18,18
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 12x + (-33) = -177,-13,12,-12,-11,-12
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 8x + (24) = -104,-16,-15,16,-17,-16
-6,Maths,Operations with Integers,Intermediate,Solve for x: 18x + (-5) = 85,4,6,5,-5,5
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 10x + (-15) = -45,3,-2,-4,-3,-3
-6,Maths,Operations with Integers,Intermediate,Solve for x: 5x + (49) = 149,20,-20,19,21,20
-6,Maths,Operations with Integers,Intermediate,Solve for x: 18x + (3) = 219,-12,11,12,13,12
-6,Maths,Operations with Integers,Intermediate,Solve for x: 17x + (33) = 254,13,12,-13,14,13
-6,Maths,Operations with Integers,Intermediate,Solve for x: 12x + (-2) = -194,-16,-15,16,-17,-16
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 9x + (23) = 131,-12,12,13,11,12
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 9x + (35) = 44,-1,0,2,1,1
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 4x + (-46) = 26,18,-18,19,17,18
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 9x + (26) = 179,17,18,-17,16,17
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 4x + (38) = 102,15,17,16,-16,16
-6,Maths,Operations with Integers,Intermediate,Solve for x: 12x + (-36) = 48,-7,7,6,8,7
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 6x + (-11) = 85,-16,15,17,16,16
-6,Maths,Operations with Integers,Intermediate,Solve for x: 4x + (3) = -57,-16,-14,-15,15,-15
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 12x + (50) = 74,2,1,3,-2,2
-6,Maths,Operations with Integers,Intermediate,Solve for x: 3x + (-42) = -21,6,7,8,-7,7
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 2x + (49) = 21,-15,14,-13,-14,-14
-6,Maths,Expressions,Intermediate,Solve for x: 20x + (-26) = 314,-17,17,18,16,17
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 13x + (-23) = -192,13,-14,-12,-13,-13
-6,Maths,Operations with Integers,Intermediate,Solve for x: 2x + (-32) = -66,-16,17,-18,-17,-17
-6,Maths,Expressions,Intermediate,Solve for x: 4x + (31) = 111,20,19,-20,21,20
-6,Maths,Expressions,Intermediate,Solve for x: 18x + (-40) = 302,-19,18,19,20,19
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 20x + (-29) = -329,-15,-14,-16,15,-15
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 15x + (15) = 120,8,7,6,-7,7
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 9x + (-35) = -197,-19,-18,18,-17,-18
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 16x + (10) = 234,14,15,-14,13,14
-6,Maths,Operations with Integers,Intermediate,Solve for x: 8x + (-43) = -91,-6,6,-5,-7,-6
-6,Maths,Expressions,Intermediate,Solve for x: 5x + (24) = -51,15,-15,-14,-16,-15
-6,Maths,Operations with Integers,Intermediate,Solve for x: 17x + (5) = 158,-9,9,10,8,9
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 6x + (-6) = 6,3,2,1,-2,2
-6,Maths,Expressions,Intermediate,Solve for x: 7x + (44) = 72,-4,5,4,3,4
-6,Maths,Operations with Integers,Intermediate,Solve for x: 10x + (18) = -82,-9,10,-11,-10,-10
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 3x + (-31) = -73,-14,-15,14,-13,-14
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 9x + (21) = -15,4,-5,-4,-3,-4
-6,Maths,Expressions,Intermediate,Solve for x: 3x + (-4) = 35,14,12,-13,13,13
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 13x + (-28) = -41,1,-2,-1,0,-1
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 18x + (-22) = -4,0,2,-1,1,1
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 15x + (44) = 224,13,-12,12,11,12
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 13x + (15) = 54,3,2,4,-3,3
-6,Maths,Operations with Integers,Intermediate,Solve for x: 13x + (7) = -201,-17,-16,16,-15,-16
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 10x + (-45) = -225,-18,-17,18,-19,-18
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 8x + (2) = 130,17,15,-16,16,16
-6,Maths,Expressions,Intermediate,Solve for x: 9x + (13) = -68,-10,9,-8,-9,-9
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 16x + (-7) = -7,-1,1,Option 3,0,0
-6,Maths,Expressions,Intermediate,Solve for x: 14x + (34) = -190,-15,-17,16,-16,-16
-6,Maths,Operations with Integers,Intermediate,Solve for x: 14x + (-39) = 157,15,-14,13,14,14
-6,Maths,Operations with Integers,Intermediate,Solve for x: 12x + (-6) = -78,-5,-6,-7,6,-6
-6,Maths,Operations with Integers,Intermediate,Solve for x: 3x + (-19) = -67,16,-16,-17,-15,-16
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 20x + (13) = -347,-17,-19,-18,18,-18
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 13x + (-6) = 46,5,4,-4,3,4
-6,Maths,Expressions,Intermediate,Solve for x: 4x + (-14) = -6,3,-2,2,1,2
-6,Maths,Operations with Integers,Intermediate,Solve for x: 6x + (3) = 39,6,7,-6,5,6
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 10x + (24) = -36,-7,6,-5,-6,-6
-6,Maths,Operations with Integers,Intermediate,Solve for x: 3x + (-28) = 5,10,-11,11,12,11
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 19x + (48) = 200,-8,7,8,9,8
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 11x + (-27) = 160,17,-17,16,18,17
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 8x + (22) = -98,-16,-15,-14,15,-15
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 6x + (36) = 72,-6,6,5,7,6
-6,Maths,Operations with Integers,Intermediate,Solve for x: 11x + (-16) = -203,17,-16,-17,-18,-17
-6,Maths,Operations with Integers,Intermediate,Solve for x: 5x + (-39) = 16,-11,11,10,12,11
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 10x + (-46) = -76,3,-2,-4,-3,-3
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 13x + (45) = 188,11,-11,10,12,11
-6,Maths,Operations with Integers,Intermediate,Solve for x: 12x + (-27) = -135,9,-10,-8,-9,-9
-6,Maths,Expressions,Intermediate,Solve for x: 10x + (-6) = 194,21,20,-20,19,20
-6,Maths,Expressions,Intermediate,Solve for x: 10x + (-10) = 120,-13,13,12,14,13
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 11x + (31) = 53,1,-2,3,2,2
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 9x + (47) = 218,20,18,19,-19,19
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 18x + (45) = -189,13,-14,-13,-12,-13
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 8x + (5) = 45,-5,6,4,5,5
-6,Maths,Expressions,Intermediate,Solve for x: 17x + (-46) = 22,3,4,5,-4,4
-6,Maths,Expressions,Intermediate,Solve for x: 3x + (32) = 38,3,1,2,-2,2
-6,Maths,Operations with Integers,Intermediate,Solve for x: 2x + (-8) = 30,19,20,18,-19,19
-6,Maths,Expressions,Intermediate,Solve for x: 6x + (34) = -8,-7,-6,-8,7,-7
-6,Maths,Operations with Integers,Intermediate,Solve for x: 20x + (46) = -14,-4,-2,3,-3,-3
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 9x + (-45) = -99,-5,-7,-6,6,-6
-6,Maths,Expressions,Intermediate,Solve for x: 13x + (-8) = 109,-9,8,10,9,9
-6,Maths,Operations with Integers,Intermediate,Solve for x: 9x + (-24) = -15,0,1,-1,2,1
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 13x + (26) = 247,17,16,-17,18,17
-6,Maths,Operations with Integers,Intermediate,Solve for x: 8x + (-2) = -34,4,-4,-5,-3,-4
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 3x + (-10) = 2,-4,4,5,3,4
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 15x + (-44) = 136,13,11,12,-12,12
-6,Maths,Expressions,Intermediate,Solve for x: 8x + (-6) = -158,-20,19,-18,-19,-19
-6,Maths,Operations with Integers,Intermediate,Solve for x: 20x + (-28) = -208,-8,-10,9,-9,-9
-6,Maths,Operations with Integers,Intermediate,Solve for x: 14x + (26) = -44,5,-4,-5,-6,-5
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 11x + (23) = 144,11,-11,10,12,11
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 6x + (-3) = -3,0,1,Option 3,-1,0
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 2x + (23) = -11,-17,-18,-16,17,-17
-6,Maths,Expressions,Intermediate,Solve for x: 16x + (-34) = -146,-7,-6,7,-8,-7
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 9x + (7) = -128,15,-15,-14,-16,-15
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 14x + (-40) = -152,-8,8,-7,-9,-8
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 11x + (28) = -71,-8,-10,9,-9,-9
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 13x + (19) = -7,-2,-3,-1,2,-2
-6,Maths,Expressions,Intermediate,Solve for x: 12x + (17) = 125,-9,9,10,8,9
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 8x + (5) = -115,15,-16,-14,-15,-15
-6,Maths,Expressions,Intermediate,Solve for x: 20x + (6) = 246,13,11,12,-12,12
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 4x + (23) = 39,-4,5,4,3,4
-6,Maths,Expressions,Intermediate,Solve for x: 7x + (38) = 59,3,2,4,-3,3
-6,Maths,Operations with Integers,Intermediate,Solve for x: 10x + (-25) = 175,-20,21,20,19,20
-6,Maths,Expressions,Intermediate,Solve for x: 10x + (-12) = -72,6,-7,-6,-5,-6
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 12x + (-1) = -109,-10,-8,-9,9,-9
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 19x + (-1) = 284,14,15,-15,16,15
-6,Maths,Expressions,Intermediate,Solve for x: 13x + (16) = 133,-9,9,8,10,9
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 6x + (33) = -39,-13,12,-11,-12,-12
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 9x + (43) = 88,6,-5,5,4,5
-6,Maths,Expressions,Intermediate,Solve for x: 3x + (0) = 51,-17,17,16,18,17
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 18x + (37) = -233,-15,15,-16,-14,-15
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 9x + (41) = -67,12,-13,-11,-12,-12
-6,Maths,Operations with Integers,Intermediate,Solve for x: 18x + (8) = 188,9,11,-10,10,10
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 19x + (9) = 313,15,17,-16,16,16
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 9x + (43) = 178,16,15,14,-15,15
-6,Maths,Operations with Integers,Intermediate,Solve for x: 12x + (6) = 42,4,-3,3,2,3
-6,Maths,Operations with Integers,Intermediate,Solve for x: 13x + (-21) = 161,13,15,14,-14,14
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 7x + (-28) = 21,7,-7,6,8,7
-6,Maths,Expressions,Intermediate,Solve for x: 9x + (50) = 68,1,3,2,-2,2
-6,Maths,Expressions,Intermediate,Solve for x: 19x + (-2) = 207,12,11,-11,10,11
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 10x + (30) = -10,4,-3,-4,-5,-4
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 15x + (-17) = -272,-17,-16,-18,17,-17
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 4x + (23) = -33,14,-14,-15,-13,-14
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 18x + (-19) = -55,-1,2,-2,-3,-2
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 16x + (37) = 101,3,5,4,-4,4
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 10x + (10) = 210,20,-20,19,21,20
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 20x + (-26) = 214,12,-12,11,13,12
-6,Maths,Operations with Integers,Intermediate,Solve for x: 3x + (-19) = -40,-6,7,-7,-8,-7
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 18x + (-43) = 137,10,11,9,-10,10
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 20x + (-35) = -55,0,1,-2,-1,-1
-6,Maths,Operations with Integers,Intermediate,Solve for x: 10x + (-11) = -181,-16,-17,-18,17,-17
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 15x + (-45) = -240,-12,13,-13,-14,-13
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 9x + (27) = -54,-10,9,-9,-8,-9
-6,Maths,Operations with Integers,Intermediate,Solve for x: 15x + (6) = -264,-17,-19,18,-18,-18
-6,Maths,Expressions,Intermediate,Solve for x: 13x + (25) = -92,-9,9,-10,-8,-9
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 16x + (4) = -92,-5,-6,-7,6,-6
-6,Maths,Expressions,Intermediate,Solve for x: 7x + (-36) = 41,10,-11,11,12,11
-6,Maths,Expressions,Intermediate,Solve for x: 17x + (-7) = 299,-18,17,18,19,18
-6,Maths,Expressions,Intermediate,Solve for x: 13x + (17) = -217,18,-17,-18,-19,-18
-6,Maths,Expressions,Intermediate,Solve for x: 15x + (-1) = 59,4,-4,3,5,4
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 13x + (-10) = -75,-6,5,-4,-5,-5
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 8x + (6) = -82,-10,-11,11,-12,-11
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 20x + (45) = 445,20,19,21,-20,20
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 5x + (-44) = -24,3,-4,4,5,4
-6,Maths,Operations with Integers,Intermediate,Solve for x: 7x + (33) = 152,18,-17,17,16,17
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 14x + (-41) = 43,6,5,7,-6,6
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 5x + (8) = -57,13,-12,-14,-13,-13
-6,Maths,Expressions,Intermediate,Solve for x: 19x + (-47) = 276,16,17,18,-17,17
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 12x + (-4) = -196,16,-16,-17,-15,-16
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 11x + (29) = -147,16,-15,-17,-16,-16
-6,Maths,Operations with Integers,Intermediate,Solve for x: 10x + (-11) = -141,-14,-13,-12,13,-13
-6,Maths,Expressions,Intermediate,Solve for x: 15x + (-46) = -226,12,-13,-12,-11,-12
-6,Maths,Operations with Integers,Intermediate,Solve for x: 5x + (28) = 13,-3,-4,-2,3,-3
-6,Maths,Operations with Integers,Intermediate,Solve for x: 16x + (-11) = 117,7,9,-8,8,8
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 20x + (-27) = 333,19,-18,17,18,18
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 4x + (-45) = -101,-15,14,-13,-14,-14
-6,Maths,Expressions,Intermediate,Solve for x: 6x + (30) = 6,-3,-4,4,-5,-4
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 20x + (-9) = -369,18,-19,-17,-18,-18
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 13x + (-7) = 240,-19,18,19,20,19
-6,Maths,Operations with Integers,Intermediate,Solve for x: 9x + (-36) = -99,-6,-8,7,-7,-7
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 10x + (-11) = -91,-8,-7,-9,8,-8
-6,Maths,Expressions,Intermediate,Solve for x: 15x + (-38) = -113,5,-6,-5,-4,-5
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 6x + (-28) = -136,-19,-17,-18,18,-18
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 8x + (3) = -109,-14,-15,-13,14,-14
-6,Maths,Expressions,Intermediate,Solve for x: 17x + (30) = -225,-16,-15,-14,15,-15
-6,Maths,Expressions,Intermediate,Solve for x: 19x + (-15) = 365,21,20,19,-20,20
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 15x + (-44) = -209,-10,-11,-12,11,-11
-6,Maths,Expressions,Intermediate,Solve for x: 4x + (8) = 8,1,0,-1,Option 3,0
-6,Maths,Expressions,Intermediate,Solve for x: 17x + (21) = 140,-7,8,6,7,7
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 18x + (39) = 345,18,16,-17,17,17
-6,Maths,Operations with Integers,Intermediate,Solve for x: 8x + (-7) = 65,9,-9,8,10,9
-6,Maths,Operations with Integers,Intermediate,Solve for x: 2x + (6) = -10,8,-8,-9,-7,-8
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 14x + (19) = -149,-13,12,-11,-12,-12
-6,Maths,Expressions,Intermediate,Solve for x: 7x + (-36) = 104,19,-20,21,20,20
-6,Maths,Operations with Integers,Intermediate,Solve for x: 14x + (46) = 32,1,-1,-2,0,-1
-6,Maths,Operations with Integers,Intermediate,Solve for x: 17x + (23) = -79,6,-6,-7,-5,-6
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 20x + (-1) = 399,19,20,21,-20,20
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 9x + (42) = -84,-14,14,-15,-13,-14
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 14x + (-3) = 53,-4,3,4,5,4
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 3x + (-21) = -3,7,5,6,-6,6
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 10x + (23) = 93,6,7,8,-7,7
-6,Maths,Expressions,Intermediate,Solve for x: 5x + (48) = -47,-19,-20,19,-18,-19
-6,Maths,Operations with Integers,Intermediate,Solve for x: 7x + (2) = 93,12,-13,13,14,13
-6,Maths,Operations with Integers,Intermediate,Solve for x: 2x + (-3) = -31,-14,14,-15,-13,-14
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 5x + (20) = -80,20,-21,-19,-20,-20
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 8x + (-45) = -37,0,1,-1,2,1
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 17x + (0) = 204,12,-12,11,13,12
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 4x + (39) = 47,3,1,2,-2,2
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 19x + (3) = -168,-10,9,-9,-8,-9
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 12x + (-27) = -231,-18,17,-17,-16,-17
-6,Maths,Operations with Integers,Intermediate,Solve for x: 14x + (26) = -58,-7,-6,-5,6,-6
-6,Maths,Operations with Integers,Intermediate,Solve for x: 3x + (-46) = -55,3,-2,-3,-4,-3
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 17x + (-14) = 241,14,-15,16,15,15
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 3x + (20) = 47,10,-9,8,9,9
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 6x + (-6) = -42,6,-7,-6,-5,-6
-6,Maths,Operations with Integers,Intermediate,Solve for x: 12x + (-4) = 164,13,14,-14,15,14
-6,Maths,Expressions,Intermediate,Solve for x: 9x + (21) = -69,-9,-11,-10,10,-10
-6,Maths,Operations with Integers,Intermediate,Solve for x: 3x + (50) = 44,-3,-2,2,-1,-2
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 10x + (28) = 98,7,8,-7,6,7
-6,Maths,Operations with Integers,Intermediate,Solve for x: 20x + (-25) = -205,-8,-10,-9,9,-9
-6,Maths,Operations with Integers,Intermediate,Solve for x: 16x + (-11) = -139,-8,-7,8,-9,-8
-6,Maths,Expressions,Intermediate,Solve for x: 6x + (14) = 80,11,-11,10,12,11
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 7x + (-39) = -53,2,-3,-2,-1,-2
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 16x + (-16) = 288,-19,19,20,18,19
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 2x + (-28) = -32,-1,-3,-2,2,-2
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 18x + (-4) = 266,16,14,-15,15,15
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 9x + (46) = 127,8,9,10,-9,9
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 16x + (7) = -313,-21,-20,20,-19,-20
-6,Maths,Expressions,Intermediate,Solve for x: 11x + (-47) = -179,12,-11,-13,-12,-12
-6,Maths,Expressions,Intermediate,Solve for x: 5x + (-14) = -99,17,-16,-18,-17,-17
-6,Maths,Expressions,Intermediate,Solve for x: 15x + (46) = 136,6,5,-6,7,6
-6,Maths,Operations with Integers,Intermediate,Solve for x: 8x + (5) = 21,1,2,-2,3,2
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 7x + (29) = 148,17,16,18,-17,17
-6,Maths,Operations with Integers,Intermediate,Solve for x: 8x + (-20) = -84,-8,-9,-7,8,-8
-6,Maths,Operations with Integers,Intermediate,Solve for x: 7x + (-48) = 78,18,19,-18,17,18
-6,Maths,Expressions,Intermediate,Solve for x: 5x + (-23) = -108,17,-16,-17,-18,-17
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 4x + (4) = 56,-13,14,13,12,13
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 2x + (17) = 37,10,-10,9,11,10
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 8x + (-16) = -120,-14,-12,13,-13,-13
-6,Maths,Operations with Integers,Intermediate,Solve for x: 11x + (32) = -23,-6,-5,5,-4,-5
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 3x + (29) = 59,10,9,-10,11,10
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 20x + (34) = -6,2,-1,-2,-3,-2
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 6x + (-41) = -5,7,6,-6,5,6
-6,Maths,Expressions,Intermediate,Solve for x: 3x + (-29) = 16,-15,14,15,16,15
-6,Maths,Operations with Integers,Intermediate,Solve for x: 18x + (-35) = -17,1,2,0,-1,1
-6,Maths,Operations with Integers,Intermediate,Solve for x: 18x + (21) = -177,-11,-12,11,-10,-11
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 12x + (40) = -104,-13,12,-12,-11,-12
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 12x + (26) = 242,17,18,19,-18,18
-6,Maths,Operations with Integers,Intermediate,Solve for x: 16x + (30) = -226,-17,-15,16,-16,-16
-6,Maths,Expressions,Intermediate,Solve for x: 17x + (43) = -246,-16,17,-18,-17,-17
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 3x + (41) = 23,6,-7,-6,-5,-6
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 2x + (40) = 36,2,-3,-1,-2,-2
-6,Maths,Expressions,Intermediate,Solve for x: 4x + (-49) = -29,5,-5,4,6,5
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 8x + (-5) = -93,-10,-12,11,-11,-11
-6,Maths,Operations with Integers,Intermediate,Solve for x: 18x + (-17) = 55,5,4,-4,3,4
-6,Maths,Expressions,Intermediate,Solve for x: 18x + (46) = -242,-17,16,-15,-16,-16
-6,Maths,Expressions,Intermediate,Solve for x: 20x + (7) = 127,7,-6,6,5,6
-6,Maths,Expressions,Intermediate,Solve for x: 10x + (14) = -56,7,-7,-8,-6,-7
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 17x + (-23) = 283,17,19,18,-18,18
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 18x + (27) = 243,-12,13,11,12,12
-6,Maths,Expressions,Intermediate,Solve for x: 10x + (-27) = 173,20,21,19,-20,20
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 14x + (-34) = -20,0,-1,2,1,1
-6,Maths,Expressions,Intermediate,Solve for x: 13x + (9) = 126,10,9,8,-9,9
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 20x + (-18) = -278,-12,13,-13,-14,-13
-6,Maths,Expressions,Intermediate,Solve for x: 10x + (45) = 95,5,6,4,-5,5
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 13x + (-3) = -159,-13,-11,-12,12,-12
-6,Maths,Expressions,Intermediate,Solve for x: 4x + (-4) = -44,-11,-10,-9,10,-10
-6,Maths,Operations with Integers,Intermediate,Solve for x: 12x + (13) = 229,17,19,18,-18,18
-6,Maths,Expressions,Intermediate,Solve for x: 17x + (38) = -251,-18,-16,-17,17,-17
-6,Maths,Expressions,Intermediate,Solve for x: 6x + (9) = 117,18,-18,17,19,18
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 6x + (-15) = -57,-8,7,-7,-6,-7
-6,Maths,Expressions,Intermediate,Solve for x: 11x + (8) = 173,-15,15,14,16,15
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 12x + (0) = 156,12,-13,13,14,13
-6,Maths,Operations with Integers,Intermediate,Solve for x: 4x + (-9) = -77,-16,-17,17,-18,-17
-6,Maths,Expressions,Intermediate,Solve for x: 12x + (8) = -100,9,-10,-9,-8,-9
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 7x + (6) = 20,3,2,1,-2,2
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 10x + (7) = -63,-6,-7,7,-8,-7
-6,Maths,Expressions,Intermediate,Solve for x: 19x + (46) = -106,8,-7,-8,-9,-8
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 6x + (-11) = -5,2,0,1,-1,1
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 3x + (8) = 20,3,5,-4,4,4
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 2x + (-15) = -55,20,-20,-21,-19,-20
-6,Maths,Expressions,Intermediate,Solve for x: 17x + (22) = 260,14,13,-14,15,14
-6,Maths,Operations with Integers,Intermediate,Solve for x: 3x + (14) = 32,-6,6,5,7,6
-6,Maths,Expressions,Intermediate,Solve for x: 10x + (23) = -107,13,-12,-14,-13,-13
-6,Maths,Operations with Integers,Intermediate,Solve for x: 19x + (6) = -222,-13,-11,12,-12,-12
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 20x + (50) = 30,-2,-1,0,1,-1
-6,Maths,Operations with Integers,Intermediate,Solve for x: 13x + (36) = 153,9,-9,8,10,9
-6,Maths,Expressions,Intermediate,Solve for x: 7x + (-10) = 88,15,13,-14,14,14
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 9x + (50) = 140,9,10,11,-10,10
-6,Maths,Operations with Integers,Intermediate,Solve for x: 9x + (-21) = -192,-20,-19,19,-18,-19
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 11x + (-5) = -137,-11,12,-13,-12,-12
-6,Maths,Operations with Integers,Intermediate,Solve for x: 5x + (-24) = -9,4,3,2,-3,3
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 17x + (38) = 21,0,-1,1,-2,-1
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 12x + (43) = 91,3,-4,4,5,4
-6,Maths,Expressions,Intermediate,Solve for x: 4x + (19) = -25,11,-12,-11,-10,-11
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 6x + (40) = -32,-11,-12,12,-13,-12
-6,Maths,Expressions,Intermediate,Solve for x: 20x + (-47) = 313,17,-18,18,19,18
-6,Maths,Operations with Integers,Intermediate,Solve for x: 4x + (13) = -55,-16,-17,-18,17,-17
-6,Maths,Operations with Integers,Intermediate,Solve for x: 19x + (-41) = 301,19,17,18,-18,18
-6,Maths,Expressions,Intermediate,Solve for x: 10x + (3) = 103,9,-10,10,11,10
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 9x + (8) = -1,0,1,-2,-1,-1
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 2x + (-11) = 17,15,-14,14,13,14
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 18x + (43) = 205,-9,8,10,9,9
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 3x + (11) = 62,18,17,16,-17,17
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 4x + (23) = 71,12,-12,11,13,12
-6,Maths,Expressions,Intermediate,Solve for x: 2x + (17) = 49,15,16,17,-16,16
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 15x + (-4) = -259,-17,17,-16,-18,-17
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 3x + (46) = 37,-3,-2,3,-4,-3
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 13x + (-14) = -222,16,-16,-17,-15,-16
-6,Maths,Operations with Integers,Intermediate,Solve for x: 13x + (13) = 182,12,14,13,-13,13
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 12x + (38) = 122,7,-7,8,6,7
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 19x + (-36) = 97,7,8,-7,6,7
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 3x + (-15) = -15,Option 3,1,-1,0,0
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 14x + (-16) = -142,-8,-9,9,-10,-9
-6,Maths,Operations with Integers,Intermediate,Solve for x: 20x + (-41) = 219,14,13,12,-13,13
-6,Maths,Operations with Integers,Intermediate,Solve for x: 18x + (21) = -141,-9,-10,-8,9,-9
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 13x + (-33) = -215,-15,-14,-13,14,-14
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 18x + (-19) = 305,17,18,-18,19,18
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 19x + (15) = 53,3,2,-2,1,2
-6,Maths,Expressions,Intermediate,Solve for x: 5x + (19) = 79,11,-12,12,13,12
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 8x + (5) = 61,6,7,8,-7,7
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 17x + (-33) = -220,-11,-12,11,-10,-11
-6,Maths,Expressions,Intermediate,Solve for x: 5x + (-10) = 60,13,15,-14,14,14
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 4x + (-26) = -94,-16,17,-17,-18,-17
-6,Maths,Operations with Integers,Intermediate,Solve for x: 12x + (44) = 236,15,-16,16,17,16
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 8x + (47) = 199,20,18,-19,19,19
-6,Maths,Operations with Integers,Intermediate,Solve for x: 8x + (7) = 23,-2,2,1,3,2
-6,Maths,Operations with Integers,Intermediate,Solve for x: 3x + (-7) = -7,-1,0,Option 3,1,0
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 18x + (-14) = 130,7,9,-8,8,8
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 14x + (35) = -175,15,-15,-14,-16,-15
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 3x + (36) = 18,-5,6,-6,-7,-6
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 9x + (-7) = 74,9,10,-9,8,9
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 18x + (-36) = -162,-6,-7,-8,7,-7
-6,Maths,Operations with Integers,Intermediate,Solve for x: 8x + (28) = 76,6,5,-6,7,6
-6,Maths,Operations with Integers,Intermediate,Solve for x: 12x + (-47) = -23,-2,3,1,2,2
-6,Maths,Expressions,Intermediate,Solve for x: 14x + (33) = 313,19,20,21,-20,20
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 11x + (-24) = -68,-4,4,-5,-3,-4
-6,Maths,Expressions,Intermediate,Solve for x: 11x + (-7) = 158,14,15,-15,16,15
-6,Maths,Operations with Integers,Intermediate,Solve for x: 6x + (-7) = -127,-20,-21,-19,20,-20
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 16x + (17) = -63,5,-4,-6,-5,-5
-6,Maths,Expressions,Intermediate,Solve for x: 8x + (-14) = -6,-1,2,0,1,1
-6,Maths,Expressions,Intermediate,Solve for x: 19x + (-41) = 244,-15,15,14,16,15
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 4x + (-6) = -30,-5,-6,6,-7,-6
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 15x + (-47) = -302,-17,-16,17,-18,-17
-6,Maths,Expressions,Intermediate,Solve for x: 16x + (-33) = -161,-8,-9,8,-7,-8
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 11x + (-36) = -146,-10,-9,-11,10,-10
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 19x + (2) = 59,4,2,-3,3,3
-6,Maths,Expressions,Intermediate,Solve for x: 9x + (-18) = 126,16,15,-16,17,16
-6,Maths,Operations with Integers,Intermediate,Solve for x: 7x + (-48) = -139,-12,13,-13,-14,-13
-6,Maths,Operations with Integers,Intermediate,Solve for x: 6x + (40) = 154,18,20,19,-19,19
-6,Maths,Operations with Integers,Intermediate,Solve for x: 16x + (6) = -138,9,-10,-9,-8,-9
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 15x + (39) = 204,-11,10,12,11,11
-6,Maths,Operations with Integers,Intermediate,Solve for x: 4x + (-2) = -34,-9,-8,8,-7,-8
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 5x + (-24) = -109,-18,-16,-17,17,-17
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 9x + (-29) = 142,20,18,-19,19,19
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 12x + (14) = -70,7,-7,-8,-6,-7
-6,Maths,Operations with Integers,Intermediate,Solve for x: 7x + (-42) = 42,12,11,13,-12,12
-6,Maths,Expressions,Intermediate,Solve for x: 17x + (22) = -233,-14,-15,15,-16,-15
-6,Maths,Operations with Integers,Intermediate,Solve for x: 20x + (-50) = -210,-7,-9,8,-8,-8
-6,Maths,Operations with Integers,Intermediate,Solve for x: 17x + (-8) = 111,7,8,-7,6,7
-6,Maths,Expressions,Intermediate,Solve for x: 15x + (0) = -75,5,-6,-4,-5,-5
-6,Maths,Expressions,Intermediate,Solve for x: 6x + (-21) = 3,5,-4,4,3,4
-6,Maths,Expressions,Intermediate,Solve for x: 7x + (48) = 76,4,3,-4,5,4
-6,Maths,Operations with Integers,Intermediate,Solve for x: 17x + (1) = -50,3,-2,-3,-4,-3
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 12x + (-50) = 106,-13,12,14,13,13
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 20x + (40) = -200,-13,12,-12,-11,-12
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 12x + (-12) = 228,19,-20,20,21,20
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 20x + (-14) = 266,14,-14,15,13,14
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 20x + (-25) = -225,-10,-9,-11,10,-10
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 11x + (-32) = 23,-5,4,5,6,5
-6,Maths,Operations with Integers,Intermediate,Solve for x: 19x + (-30) = 350,-20,20,21,19,20
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 16x + (-45) = 243,18,17,19,-18,18
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 7x + (-49) = 7,8,-8,9,7,8
-6,Maths,Expressions,Intermediate,Solve for x: 4x + (22) = 94,19,-18,18,17,18
-6,Maths,Operations with Integers,Intermediate,Solve for x: 2x + (-18) = -20,0,-2,1,-1,-1
-6,Maths,Operations with Integers,Intermediate,Solve for x: 15x + (10) = -260,18,-19,-17,-18,-18
-6,Maths,Expressions,Intermediate,Solve for x: 8x + (14) = 118,12,14,13,-13,13
-6,Maths,Expressions,Intermediate,Solve for x: 20x + (41) = 41,-1,0,1,Option 3,0
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 4x + (-27) = -103,19,-18,-20,-19,-19
-6,Maths,Operations with Integers,Intermediate,Solve for x: 15x + (20) = -250,-18,18,-19,-17,-18
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 4x + (-21) = -29,2,-2,-3,-1,-2
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 5x + (0) = -75,-16,15,-14,-15,-15
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 6x + (15) = 81,10,11,12,-11,11
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 20x + (3) = -117,-7,-6,-5,6,-6
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 12x + (32) = -4,-4,-3,-2,3,-3
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 9x + (47) = 128,-9,10,9,8,9
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 20x + (-26) = 334,17,19,18,-18,18
-6,Maths,Expressions,Intermediate,Solve for x: 6x + (24) = 138,-19,20,18,19,19
-6,Maths,Operations with Integers,Intermediate,Solve for x: 4x + (-40) = -80,-11,10,-10,-9,-10
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 20x + (-19) = -419,-21,-20,20,-19,-20
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 9x + (-45) = -162,-12,-13,-14,13,-13
-6,Maths,Expressions,Intermediate,Solve for x: 20x + (-10) = -130,-5,-7,-6,6,-6
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 10x + (-5) = 115,11,-12,12,13,12
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 14x + (50) = 64,1,0,2,-1,1
-6,Maths,Operations with Integers,Intermediate,Solve for x: 8x + (49) = -103,19,-19,-20,-18,-19
-6,Maths,Operations with Integers,Intermediate,Solve for x: 12x + (32) = 164,10,-11,12,11,11
-6,Maths,Expressions,Intermediate,Solve for x: 19x + (-10) = -390,-20,20,-19,-21,-20
-6,Maths,Expressions,Intermediate,Solve for x: 16x + (-10) = -330,-19,-21,-20,20,-20
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 2x + (-39) = -79,20,-20,-19,-21,-20
-6,Maths,Expressions,Intermediate,Solve for x: 18x + (33) = -201,13,-14,-12,-13,-13
-6,Maths,Expressions,Intermediate,Solve for x: 17x + (45) = -193,-13,-15,14,-14,-14
-6,Maths,Operations with Integers,Intermediate,Solve for x: 15x + (-42) = -117,-5,5,-6,-4,-5
-6,Maths,Operations with Integers,Intermediate,Solve for x: 20x + (-49) = 251,15,-15,14,16,15
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 2x + (28) = -8,18,-18,-19,-17,-18
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 19x + (15) = -4,-2,-1,1,0,-1
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 9x + (-12) = -165,-17,17,-18,-16,-17
-6,Maths,Operations with Integers,Intermediate,Solve for x: 20x + (-9) = 31,-2,1,2,3,2
-6,Maths,Operations with Integers,Intermediate,Solve for x: 20x + (26) = 266,12,11,13,-12,12
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 19x + (-29) = 332,19,18,20,-19,19
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 16x + (-7) = -295,18,-17,-19,-18,-18
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 8x + (35) = 147,14,13,-14,15,14
-6,Maths,Operations with Integers,Intermediate,Solve for x: 12x + (31) = -125,-12,-14,13,-13,-13
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 9x + (-34) = 128,18,-18,17,19,18
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 8x + (-25) = 15,4,5,-5,6,5
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 9x + (-36) = -171,-14,-15,-16,15,-15
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 10x + (36) = 136,-10,11,9,10,10
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 10x + (21) = -79,-11,-9,-10,10,-10
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 19x + (-20) = -153,-7,-6,7,-8,-7
-6,Maths,Operations with Integers,Intermediate,Solve for x: 18x + (-43) = 101,7,9,-8,8,8
-6,Maths,Operations with Integers,Intermediate,Solve for x: 5x + (-20) = 60,15,16,-16,17,16
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 19x + (-13) = 234,-13,14,12,13,13
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 20x + (-10) = 90,5,-5,6,4,5
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 7x + (-16) = -121,-15,15,-14,-16,-15
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 3x + (47) = 62,6,-5,4,5,5
-6,Maths,Expressions,Intermediate,Solve for x: 16x + (-22) = -278,16,-15,-17,-16,-16
-6,Maths,Operations with Integers,Intermediate,Solve for x: 20x + (44) = -16,-2,-4,-3,3,-3
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 20x + (44) = -196,-11,-13,12,-12,-12
-6,Maths,Expressions,Intermediate,Solve for x: 15x + (16) = 166,9,11,-10,10,10
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 11x + (-32) = 155,17,16,18,-17,17
-6,Maths,Operations with Integers,Intermediate,Solve for x: 14x + (50) = 260,16,-15,14,15,15
-6,Maths,Operations with Integers,Intermediate,Solve for x: 4x + (-17) = -57,-11,-10,10,-9,-10
-6,Maths,Operations with Integers,Intermediate,Solve for x: 8x + (-7) = 113,-15,14,15,16,15
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 17x + (-38) = 47,4,-5,5,6,5
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 13x + (-6) = -110,-7,-9,-8,8,-8
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 20x + (33) = -307,-16,-17,17,-18,-17
-6,Maths,Expressions,Intermediate,Solve for x: 5x + (2) = 87,17,18,-17,16,17
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 13x + (28) = 145,8,9,-9,10,9
-6,Maths,Operations with Integers,Intermediate,Solve for x: 14x + (48) = 272,-16,17,15,16,16
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 16x + (-2) = -114,-8,-6,7,-7,-7
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 2x + (-22) = 12,17,-17,16,18,17
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 13x + (20) = -175,-15,15,-16,-14,-15
-6,Maths,Operations with Integers,Intermediate,Solve for x: 19x + (16) = 130,-6,5,6,7,6
-6,Maths,Expressions,Intermediate,Solve for x: 6x + (15) = 27,-2,2,3,1,2
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 2x + (-50) = -76,-13,13,-14,-12,-13
-6,Maths,Expressions,Intermediate,Solve for x: 10x + (-44) = -224,-19,-18,-17,18,-18
-6,Maths,Expressions,Intermediate,Solve for x: 11x + (-50) = 60,10,11,-10,9,10
-6,Maths,Expressions,Intermediate,Solve for x: 4x + (27) = -33,-15,-16,15,-14,-15
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 19x + (3) = -35,-2,2,-1,-3,-2
-6,Maths,Expressions,Intermediate,Solve for x: 5x + (-20) = -35,3,-2,-4,-3,-3
-6,Maths,Expressions,Intermediate,Solve for x: 4x + (-27) = -55,7,-7,-6,-8,-7
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 18x + (12) = 48,1,3,2,-2,2
-6,Maths,Expressions,Intermediate,Solve for x: 4x + (2) = -18,5,-4,-5,-6,-5
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 15x + (-21) = 249,19,17,18,-18,18
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 17x + (-1) = -120,-7,-8,-6,7,-7
-6,Maths,Expressions,Intermediate,Solve for x: 13x + (42) = -140,-14,-13,14,-15,-14
-6,Maths,Operations with Integers,Intermediate,Solve for x: 11x + (16) = -149,15,-15,-16,-14,-15
-6,Maths,Operations with Integers,Intermediate,Solve for x: 3x + (-10) = 11,8,-7,7,6,7
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 14x + (-15) = -57,3,-3,-4,-2,-3
-6,Maths,Operations with Integers,Intermediate,Solve for x: 11x + (-24) = 31,5,4,-5,6,5
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 3x + (43) = 82,13,-13,14,12,13
-6,Maths,Operations with Integers,Intermediate,Solve for x: 10x + (25) = 85,5,6,-6,7,6
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 17x + (-48) = -48,-1,Option 3,0,1,0
-6,Maths,Expressions,Intermediate,Solve for x: 16x + (-33) = -81,-3,-4,3,-2,-3
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 11x + (-4) = -224,20,-20,-21,-19,-20
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 2x + (-27) = -15,6,7,5,-6,6
-6,Maths,Operations with Integers,Intermediate,Solve for x: 12x + (-30) = 102,10,11,-11,12,11
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 10x + (-38) = 162,21,-20,20,19,20
-6,Maths,Expressions,Intermediate,Solve for x: 8x + (16) = -64,10,-9,-11,-10,-10
-6,Maths,Operations with Integers,Intermediate,Solve for x: 13x + (5) = 226,17,16,-17,18,17
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 4x + (-2) = 34,10,-9,9,8,9
-6,Maths,Operations with Integers,Intermediate,Solve for x: 20x + (-10) = -210,-9,-11,-10,10,-10
-6,Maths,Expressions,Intermediate,Solve for x: 5x + (37) = -33,-15,-13,-14,14,-14
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 12x + (-29) = 67,7,-8,9,8,8
-6,Maths,Expressions,Intermediate,Solve for x: 20x + (-12) = 328,17,16,-17,18,17
-6,Maths,Operations with Integers,Intermediate,Solve for x: 8x + (39) = 159,16,15,-15,14,15
-6,Maths,Expressions,Intermediate,Solve for x: 3x + (-11) = -47,12,-13,-12,-11,-12
-6,Maths,Expressions,Intermediate,Solve for x: 15x + (-4) = 146,10,-10,11,9,10
-6,Maths,Operations with Integers,Intermediate,Solve for x: 6x + (-17) = -89,12,-11,-12,-13,-12
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 4x + (37) = 61,7,-6,6,5,6
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 16x + (6) = 134,8,9,7,-8,8
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 11x + (-16) = -192,-15,-16,-17,16,-16
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 9x + (-37) = 8,4,-5,6,5,5
-6,Maths,Operations with Integers,Intermediate,Solve for x: 9x + (10) = -152,18,-18,-19,-17,-18
-6,Maths,Expressions,Intermediate,Solve for x: 3x + (45) = 102,-19,19,20,18,19
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 17x + (4) = 225,-13,13,14,12,13
-6,Maths,Operations with Integers,Intermediate,Solve for x: 14x + (31) = 157,9,-9,8,10,9
-6,Maths,Expressions,Intermediate,Solve for x: 11x + (-33) = 33,-6,5,6,7,6
-6,Maths,Operations with Integers,Intermediate,Solve for x: 14x + (-45) = 179,15,16,17,-16,16
-6,Maths,Expressions,Intermediate,Solve for x: 4x + (-44) = 28,18,17,-18,19,18
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 9x + (-15) = 39,6,5,7,-6,6
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 9x + (29) = -7,4,-3,-5,-4,-4
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 14x + (32) = 158,10,9,-9,8,9
-6,Maths,Expressions,Intermediate,Solve for x: 20x + (30) = -270,-15,-14,15,-16,-15
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 20x + (35) = -245,-13,-15,14,-14,-14
-6,Maths,Expressions,Intermediate,Solve for x: 20x + (-24) = 56,3,5,-4,4,4
-6,Maths,Expressions,Intermediate,Solve for x: 8x + (-8) = 136,-18,19,18,17,18
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 12x + (5) = -55,-5,5,-4,-6,-5
-6,Maths,Operations with Integers,Intermediate,Solve for x: 9x + (-43) = -16,2,4,-3,3,3
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 10x + (-37) = -147,-12,11,-11,-10,-11
-6,Maths,Operations with Integers,Intermediate,Solve for x: 17x + (2) = 240,15,14,13,-14,14
-6,Maths,Expressions,Intermediate,Solve for x: 16x + (-17) = 255,-17,18,17,16,17
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 7x + (9) = -131,20,-19,-20,-21,-20
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 13x + (-6) = -136,-11,-10,-9,10,-10
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 13x + (21) = -96,9,-9,-10,-8,-9
-6,Maths,Operations with Integers,Intermediate,Solve for x: 16x + (-28) = 196,14,-14,15,13,14
-6,Maths,Expressions,Intermediate,Solve for x: 5x + (15) = 20,-1,0,2,1,1
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 11x + (-28) = -149,11,-12,-11,-10,-11
-6,Maths,Operations with Integers,Intermediate,Solve for x: 13x + (11) = 11,-1,1,0,Option 3,0
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 11x + (19) = 63,3,4,-4,5,4
-6,Maths,Expressions,Intermediate,Solve for x: 18x + (10) = 100,4,5,-5,6,5
-6,Maths,Expressions,Intermediate,Solve for x: 2x + (22) = 30,5,3,-4,4,4
-6,Maths,Expressions,Intermediate,Solve for x: 2x + (34) = 6,14,-14,-13,-15,-14
-6,Maths,Expressions,Intermediate,Solve for x: 7x + (15) = -104,-17,-16,-18,17,-17
-6,Maths,Operations with Integers,Intermediate,Solve for x: 17x + (15) = 304,17,-17,16,18,17
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 3x + (29) = 77,15,17,-16,16,16
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 18x + (38) = 326,16,-16,17,15,16
-6,Maths,Expressions,Intermediate,Solve for x: 20x + (-26) = 274,-15,16,14,15,15
-6,Maths,Expressions,Intermediate,Solve for x: 2x + (12) = 2,5,-5,-6,-4,-5
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 5x + (-11) = -16,0,-1,-2,1,-1
-6,Maths,Operations with Integers,Intermediate,Solve for x: 18x + (-45) = -27,1,0,-1,2,1
-6,Maths,Expressions,Intermediate,Solve for x: 11x + (-48) = 106,-14,14,13,15,14
-6,Maths,Operations with Integers,Intermediate,Solve for x: 10x + (13) = 23,1,2,0,-1,1
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 10x + (16) = 36,2,1,-2,3,2
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 3x + (-9) = -18,-2,-4,-3,3,-3
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 14x + (16) = 254,18,17,16,-17,17
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 10x + (-45) = -85,-3,-4,-5,4,-4
-6,Maths,Fractions & Decimals,Intermediate,Solve for x: 7x + (-50) = -64,-2,-1,-3,2,-2
-6,Maths,Ratios & Rates,Intermediate,Solve for x: 15x + (-19) = 176,12,-13,14,13,13
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,"If 3 pencils cost $6, what is the cost of 1 pencil?",$1,$2,$3,$6,$2
+6,Maths,Fractions & Decimals,Intermediate,What is 3/4 as a decimal?,0.25,0.5,0.75,1.25,0.75
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is 15 − 22?,−9,−7,7,9,−7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,Which is an algebraic expression?,3 + 5,7,x + 4,10,x + 4
+6,Maths,Operations with Integers,Intermediate,What is −5 + 12?,5,6,7,8,7
+6,Maths,Ratios & Rates,Intermediate,Which is a unit rate?,6 apples in 2 bags,3 miles per hour,4:5,2/3,3 miles per hour
+6,Maths,Fractions & Decimals,Intermediate,Which is greater?,0.6,2/3,Equal,Cannot tell,2/3
+6,Maths,Expressions,Intermediate,What is the value of 3x when x = 4?,7,10,12,16,12
