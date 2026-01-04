@@ -40,7 +40,7 @@
     <!-- Value from default config. -->
     <string name="orientation" translatable="false">default</string>
     <!-- Value from default config. -->
-    <string name="providerAuthority" translatable="false">app.vercel.stemgame_w1af.twa.fileprovider</string>
+    <string name="providerAuthority" translatable="false">com.khann.stemgame.fileprovider</string>
     <!-- Value from default config. -->
     <string name="webManifestUrl" translatable="false">https://stemgame-w1af.vercel.app/manifest.json</string>
 

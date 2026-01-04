@@ -22,21 +22,21 @@ plugins {
 
 def twaManifest = [
     applicationId: 'com.khann.stemgame',
-    hostName: 'stemgame-w1af.vercel.app', // The domain being opened in the TWA.
-    launchUrl: '/', // The start path for the TWA. Must be relative to the domain.
-    name: 'Stem Game', // The application name.
-    launcherName: 'StemGame', // The name shown on the Android Launcher.
-    themeColor: '#000000', // The color used for the status bar.
-    themeColorDark: '#000000', // The color used for the dark status bar.
-    navigationColor: '#000000', // The color used for the navigation bar.
-    navigationColorDark: '#000000', // The color used for the dark navbar.
-    navigationDividerColor: '#000000', // The navbar divider color.
-    navigationDividerColorDark: '#000000', // The dark navbar divider color.
-    backgroundColor: '#FFFFFF', // The color used for the splash screen background.
-    enableNotifications: true, // Set to true to enable notification delegation.
+    hostName: 'stemgame-w1af.vercel.app',
+    launchUrl: '/',
+    name: 'Stem Game',
+    launcherName: 'StemGame',
+    themeColor: '#000000',
+    themeColorDark: '#000000',
+    navigationColor: '#000000',
+    navigationColorDark: '#000000',
+    navigationDividerColor: '#000000',
+    navigationDividerColorDark: '#000000',
+    backgroundColor: '#FFFFFF',
+    enableNotifications: true,
     shortcuts: [],
     splashScreenFadeOutDuration: 300,
-    generatorApp: 'bubblewrap-cli', // Application that generated the Android Project
+    generatorApp: 'bubblewrap-cli',
     fallbackType: 'customtabs',
     enableSiteSettingsShortcut: 'true',
     orientation: 'default',
@@ -45,6 +45,17 @@ def twaManifest = [
 android {
     compileSdkVersion 36
     namespace "com.khann.stemgame"
+    
+    signingConfigs {
+        release {
+            // Absolute path using rootProject to ensure it finds the file
+            storeFile rootProject.file("android.keystore")
+            storePassword "Cool@2831"
+            keyAlias "android"
+            keyPassword "Cool@2831"
+        }
+    }
+
     defaultConfig {
         applicationId "com.khann.stemgame"
         minSdkVersion 21
@@ -81,21 +92,26 @@ android {
         resValue "bool", "enableSiteSettingsShortcut", twaManifest.enableSiteSettingsShortcut
         resValue "string", "orientation", twaManifest.orientation
     }
+
     buildTypes {
         release {
             minifyEnabled true
+            signingConfig signingConfigs.release
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
     }
+
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
     }
+
     lint {
         checkReleaseBuilds false
     }
 }
 
-task generateShorcutsFile {
+task generateShortcutsFile {
     assert twaManifest.shortcuts.size() < 5, "You can have at most 4 shortcuts."
     twaManifest.shortcuts.eachWithIndex { s, i ->
         assert s.name != null, 'Missing `name` in shortcut #' + i
@@ -105,6 +121,10 @@ task generateShorcutsFile {
     }
 
     def shortcutsFile = new File("$projectDir/src/main/res/xml", "shortcuts.xml")
+    if (!shortcutsFile.parentFile.exists()) {
+        shortcutsFile.parentFile.mkdirs()
+    }
+
     def xmlWriter = new StringWriter()
     def xmlMarkup = new MarkupBuilder(new IndentPrinter(xmlWriter, "    ", true))
 
@@ -129,7 +149,7 @@ task generateShorcutsFile {
     shortcutsFile.text = xmlWriter.toString() + '\n'
 }
 
-preBuild.dependsOn(generateShorcutsFile)
+preBuild.dependsOn(generateShortcutsFile)
 
 dependencies {
     implementation fileTree(include: ['*.jar'], dir: 'libs')

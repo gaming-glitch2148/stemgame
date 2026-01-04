@@ -1036,6 +1036,6 @@ repositories {
 }
 repositories {
   maven_repo {
-    url: "https://jcenter.bintray.com/"
+    url: "https://repo.maven.apache.org/maven2/"
   }
 }
