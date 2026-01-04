@@ -25,14 +25,7 @@ const SUBJECTS = [
 const DIFFICULTIES: Difficulty[] = ['Beginner', 'Intermediate', 'Expert'];
 
 const normalize = (s: string) => {
-  return (s || "")
-    .toString()
-    .toLowerCase()
-    .trim()
-    .normalize("NFD")
-    .replace(/[\u0300-\u036f]/g, "") 
-    .replace(/[^\w\s]/g, '')        
-    .replace(/\s+/g, ' ');          
+  return (s || "").toLowerCase().trim().replace(/[^\w\s]/g, '').replace(/\s+/g, ' ');
 };
 
 export default function Game() {
@@ -58,15 +51,6 @@ export default function Game() {
   const [feedback, setFeedback] = useState<string | null>(null);
   
   const timerRef = useRef<NodeJS.Timeout | null>(null);
-
-  useEffect(() => {
-    if (!isPremium) {
-      try {
-        // @ts-ignore
-        (window.adsbygoogle = window.adsbygoogle || []).push({});
-      } catch (e) {}
-    }
-  }, [gameState, isPremium, showAdFullscreen]);
 
   useEffect(() => {
     if (status === "authenticated") {
@@ -121,9 +105,7 @@ export default function Game() {
 
   const handleAnswer = (answer: string) => {
     if (isCorrect || !question || wrongAnswers.includes(answer)) return;
-    const userChoice = normalize(answer);
-    const correctAns = normalize(question.correctAnswer);
-    if (userChoice === correctAns) {
+    if (normalize(answer) === normalize(question.correctAnswer)) {
       setIsCorrect(true);
       setFeedback("Correct! 🌟");
       confetti({ particleCount: 100, spread: 70, origin: { y: 0.6 } });
@@ -134,6 +116,34 @@ export default function Game() {
       setFeedback("Try again! 🤔");
       setScore(prev => Math.max(0, prev - 2));
       setTimeout(() => setFeedback(null), 2000);
+    }
+  };
+
+  const handleCheckout = async (planType: 'monthly' | 'yearly') => {
+    const priceId = planType === 'monthly' 
+      ? process.env.NEXT_PUBLIC_STRIPE_MONTHLY_PRICE_ID 
+      : process.env.NEXT_PUBLIC_STRIPE_YEARLY_PRICE_ID;
+
+    if (!priceId) {
+      alert("Error: Price ID not found in environment variables. Please check Vercel settings.");
+      return;
+    }
+
+    try {
+      const res = await fetch('/api/checkout', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ priceId, email: session?.user?.email }),
+      });
+      
+      const data = await res.json();
+      if (data.url) {
+        window.location.href = data.url;
+      } else {
+        alert("Stripe Error: " + (data.error || "Unknown error"));
+      }
+    } catch (err) {
+      alert("Network Error: Could not reach checkout server.");
     }
   };
 
@@ -180,25 +190,12 @@ export default function Game() {
     signOut();
   };
 
-  const handleCheckout = async (planType: 'monthly' | 'yearly') => {
-    const priceId = planType === 'monthly' ? process.env.NEXT_PUBLIC_STRIPE_MONTHLY_PRICE_ID : process.env.NEXT_PUBLIC_STRIPE_YEARLY_PRICE_ID;
-    try {
-      const res = await fetch('/api/checkout', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ priceId, email: session?.user?.email }),
-      });
-      const data = await res.json();
-      if (data.url) window.location.href = data.url;
-    } catch (err) { console.error(err); }
-  };
-
   const renderAuthGate = () => (
     <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="flex flex-col gap-10 text-center py-10">
       <div className="space-y-4">
         <div className="w-24 h-24 bg-blue-600 rounded-[2rem] mx-auto flex items-center justify-center shadow-2xl shadow-blue-500/40"><Zap className="w-12 h-12 text-white fill-current" /></div>
-        <h1 className="text-4xl font-black text-zinc-900 dark:text-zinc-50 tracking-tight text-center">STEM BLAST!</h1>
-        <p className="text-zinc-500 dark:text-zinc-400 font-medium px-10">Sign in to track your score and challenge your brain.</p>
+        <h1 className="text-4xl font-black text-zinc-900 dark:text-zinc-50 tracking-tight">STEM BLAST!</h1>
+        <p className="text-zinc-500 dark:text-zinc-400 font-medium px-10">Sign in to challenge your brain and track your score.</p>
       </div>
       <div className="px-6"><button onClick={() => signIn('google')} className="w-full py-5 bg-white dark:bg-zinc-800 border-2 border-zinc-100 dark:border-zinc-700 rounded-3xl flex items-center justify-center gap-4 font-bold text-zinc-700 dark:text-zinc-200 hover:bg-zinc-50 transition-all"><img src="https://www.google.com/favicon.ico" className="w-5 h-5" alt="Google" /> Continue with Google</button></div>
     </motion.div>
@@ -211,22 +208,17 @@ export default function Game() {
         {showAdFullscreen && (
           <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} className="absolute inset-0 z-[200] bg-black flex flex-col items-center justify-center p-8 text-center text-white">
             <button onClick={() => setShowAdExitConfirm(true)} className="absolute top-8 right-8 p-3 bg-white/10 rounded-full text-white hover:bg-white/20 transition-all"><X className="w-6 h-6" /></button>
-            <div className="space-y-6 w-full flex flex-col items-center">
-              {/* Added explicit min-height for AdSense visibility */}
-              <div className="w-full max-w-sm aspect-video bg-zinc-900 rounded-2xl flex items-center justify-center border border-zinc-800 relative overflow-hidden min-h-[250px]">
-                 <ins className="adsbygoogle"
-                      style={{ display: 'block', width: '100%', height: '250px' }}
-                      data-ad-client="ca-pub-9141375569651908"
-                      data-ad-slot="9452334599"
-                      data-ad-format="auto"
-                      data-full-width-responsive="true"></ins>
+            <div className="space-y-8 max-w-xs">
+              <PlayCircle className="w-24 h-24 text-purple-500 mx-auto animate-pulse" />
+              <div>
+                <h2 className="text-2xl font-black uppercase tracking-tighter mb-2">Sponsor Video</h2>
+                <p className="text-zinc-400 text-sm">Reward unlocking in {adTimer} seconds...</p>
               </div>
-              <div className="text-4xl font-black text-purple-400 tabular-nums">{adTimer}s</div>
-              <p className="text-zinc-500 text-xs uppercase tracking-widest">Sponsored Message</p>
+              <div className="text-6xl font-black text-purple-400 tabular-nums">{adTimer}s</div>
             </div>
             {showAdExitConfirm && (
               <div className="absolute inset-0 z-[210] bg-black/95 flex items-center justify-center p-6 backdrop-blur-sm">
-                <div className="bg-zinc-900 p-8 rounded-3xl border border-white/10 shadow-2xl max-w-xs text-center"><AlertCircle className="w-12 h-12 text-orange-500 mx-auto mb-4" /><p className="mb-6 text-zinc-300 text-sm">Exit early and lose your hint?</p><button onClick={() => setShowAdExitConfirm(false)} className="w-full py-4 bg-purple-600 text-white rounded-xl font-bold mb-3">Keep Watching</button><button onClick={confirmExitAd} className="w-full py-4 bg-zinc-800 text-zinc-400 rounded-xl">Exit</button></div>
+                <div className="bg-zinc-900 p-8 rounded-3xl border border-white/10 shadow-2xl max-w-xs text-center"><AlertCircle className="w-12 h-12 text-orange-500 mx-auto mb-4" /><p className="mb-6 text-zinc-300">Exit early and lose your hint?</p><button onClick={() => setShowAdExitConfirm(false)} className="w-full py-4 bg-purple-600 text-white rounded-xl font-bold mb-3">Keep Watching</button><button onClick={confirmExitAd} className="w-full py-4 bg-zinc-800 text-zinc-400 rounded-xl">Exit</button></div>
               </div>
             )}
           </motion.div>
@@ -285,10 +277,10 @@ export default function Game() {
           )}
           {gameState === 'playing' && (
             <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="flex flex-col h-full">
-              {loading || !question ? <div className="flex-1 flex flex-col items-center justify-center gap-4 py-20 animate-pulse"><RefreshCw className="animate-spin text-blue-500" size={48} /> <p className="text-sm font-bold text-zinc-400 uppercase tracking-widest text-[10px]">Asking the AI Specialist...</p></div> : (
+              {loading || !question ? <div className="flex-1 flex flex-col items-center justify-center gap-4 py-20 animate-pulse"><RefreshCw className="animate-spin text-blue-500" size={48} /> <p className="text-sm font-bold text-zinc-400 uppercase tracking-widest text-[10px]">Consulting AI...</p></div> : (
                 <>
                   <div className="bg-white dark:bg-zinc-800 rounded-3xl p-8 shadow-sm mb-6 text-center border-2 border-zinc-50 dark:border-zinc-700/50 min-h-[220px] flex flex-col justify-center items-center relative overflow-hidden">
-                    <AnimatePresence>{feedback && <motion.div initial={{ opacity: 0, y: -20 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }} className="absolute top-4 w-full text-center font-black text-blue-500 uppercase tracking-widest text-sm z-10 pointer-events-none">{feedback}</motion.div>}</AnimatePresence>
+                    <AnimatePresence>{feedback && <motion.div initial={{ opacity: 0, y: -20 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }} className="absolute top-4 w-full text-center font-black text-blue-500 uppercase tracking-widest text-xs z-10 pointer-events-none">{feedback}</motion.div>}</AnimatePresence>
                     <span className="text-7xl mb-4 filter drop-shadow-md">{question.emoji}</span>
                     <h2 className="text-2xl font-bold leading-tight text-zinc-800 dark:text-zinc-100">{question.question}</h2>
                     {hint && <div className="mt-4 p-3 bg-yellow-50 dark:bg-yellow-900/20 text-yellow-700 dark:text-yellow-400 text-xs font-bold rounded-xl border border-yellow-100 dark:border-yellow-800 shadow-sm animate-bounce-slow">💡 Hint: {hint}</div>}
@@ -299,7 +291,7 @@ export default function Game() {
                       const isWrong = wrongAnswers.includes(opt);
                       let variant = "bg-white dark:bg-zinc-800 border-zinc-100 dark:border-zinc-700 text-zinc-700 dark:text-zinc-200 hover:border-blue-300 dark:hover:border-blue-500";
                       if (isFound) variant = "bg-green-500 border-green-600 text-white shadow-lg shadow-green-500/30";
-                      else if (isWrong) variant = "bg-zinc-50 dark:bg-zinc-900/50 text-zinc-300 dark:text-zinc-600 opacity-60 pointer-events-none";
+                      else if (isWrong) variant = "bg-zinc-50 dark:bg-zinc-900/50 border-zinc-100 dark:border-zinc-800 text-zinc-300 dark:text-zinc-600 opacity-60 pointer-events-none";
                       return <button key={i} onClick={() => handleAnswer(opt)} disabled={isCorrect} className={`p-5 rounded-2xl font-bold text-lg border-2 transition-all text-left shadow-sm ${variant}`}>{opt}</button>;
                     })}
                   </div>
@@ -316,10 +308,9 @@ export default function Game() {
 
       {!isPremium && gameState !== 'auth-gate' && (
         <div className="p-4 bg-zinc-50 dark:bg-zinc-950 border-t border-zinc-100 dark:border-zinc-800">
-          {/* Added explicit min-height for persistent banner AdSense visibility */}
           <div className="bg-white dark:bg-zinc-800 rounded-2xl p-4 text-center mb-4 border border-zinc-200 dark:border-zinc-700 shadow-sm min-h-[100px] flex items-center justify-center overflow-hidden">
              <ins className="adsbygoogle"
-                 style={{ display: 'block', width: '100%', minHeight: '100px' }}
+                 style={{ display: 'block' }}
                  data-ad-client="ca-pub-9141375569651908"
                  data-ad-slot="9452334599"
                  data-ad-format="auto"
