@@ -4,6 +4,7 @@ import { Geist, Geist_Mono } from "next/font/google";
 import Script from "next/script";
 import "./globals.css";
 import { AuthProvider } from "@/components/AuthProvider";
+import { Analytics } from "@vercel/analytics/react";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -21,7 +22,6 @@ export const metadata: Metadata = {
   manifest: "/manifest.json",
 };
 
-// Production Build: 2024-01-03
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -46,6 +46,7 @@ export default function RootLayout({
         <AuthProvider>
           {children}
         </AuthProvider>
+        <Analytics />
       </body>
     </html>
   );
