@@ -1,74 +1,87 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Stem Blast: AI-Powered STEM Quiz Game
 
-## Getting Started
+Stem Blast is an interactive, curriculum-driven quiz game for students from Kindergarten to 12th Grade. It leverages a robust web stack and is packaged as a Trusted Web Activity (TWA) for deployment on the Google Play Store.
 
-First, run the development server:
+## ✨ Features
+
+- **Dynamic Curriculum:** Questions are served from local CSV files, mapped by Grade, Subject, and Difficulty.
+- **Adaptive UI:** The interface automatically switches between Light and Dark mode based on system settings.
+- **User Authentication:** Secure sign-in using Google, powered by NextAuth.js.
+- **Session Persistence:** Remembers a user's score, grade, subject, and difficulty, allowing them to pick up where they left off.
+- **Monetization:**
+  - **Banner Ads:** Google AdSense for non-premium users.
+  - **Rewarded Ads:** A "Watch Ad" button to get a hint.
+  - **Subscriptions:** $0.99/month or $10/year plans managed by Stripe to remove all ads.
+- **Android TWA:** Packaged for the Google Play Store, offering a fullscreen, native-like experience.
+
+## 🛠️ Tech Stack
+
+- **Framework:** Next.js (App Router)
+- **Styling:** Tailwind CSS
+- **Authentication:** NextAuth.js
+- **Payments:** Stripe
+- **Advertisements:** Google AdSense
+- **Deployment:** Vercel
+- **Android Wrapper:** Bubblewrap CLI
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js (v18+)
+- npm, yarn, or pnpm
+- Android Studio (for TWA builds)
+
+### 1. Clone the Repository
+
+```bash
+git clone <your-repo-url>
+cd stem-blast
+```
+
+### 2. Install Dependencies
+
+```bash
+npm install
+```
+
+### 3. Environment Variables
+
+Create a file named `.env.local` in the root of the project and add the following keys:
+
+```
+# Google Auth
+GOOGLE_CLIENT_ID=...
+GOOGLE_CLIENT_SECRET=...
+
+# NextAuth
+NEXTAUTH_URL=http://localhost:3000
+NEXTAUTH_SECRET=a-long-random-string-for-security
+
+# Stripe Payments
+STRIPE_SECRET_KEY=sk_test_...
+NEXT_PUBLIC_STRIPE_MONTHLY_PRICE_ID=price_...
+NEXT_PUBLIC_STRIPE_YEARLY_PRICE_ID=price_...
+```
+
+### 4. Run the Development Server
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) to see the app.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 📦 Deploying to Production
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+1.  **Vercel:** Push the `main` branch to your GitHub repository. Connect the repo to a new Vercel project.
+2.  **Environment Variables:** Add all the variables from your `.env.local` file to the Vercel project settings.
+3.  **Android TWA:**
+    -   Generate a signed APK/AAB in Android Studio.
+    -   Use `signingReport` to get your `SHA-256` fingerprint.
+    -   Update `public/assetlinks.json` with the fingerprint and push to Vercel.
+    -   Upload the `.aab` file to the Google Play Console.
 
-## Learn More
+## ⚖️ Privacy Policy
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-
-## Deploy to Google Play Store (TWA)
-
-To deploy this Next.js app to the Google Play Store as a Trusted Web Activity (TWA):
-
-1.  **Prerequisites:**
-    *   Ensure your app is deployed to a public HTTPS URL (e.g., Vercel).
-    *   Ensure `public/manifest.json` is present and valid.
-    *   Ensure you have icon files (`icon-192x192.png` and `icon-512x512.png`) in the `public` folder.
-
-2.  **Install Bubblewrap:**
-    Bubblewrap is a CLI tool from Google to wrap PWAs.
-    ```bash
-    npm install -g @bubblewrap/cli
-    ```
-
-3.  **Initialize Android Project:**
-    Run the init command and follow the prompts. You'll need your deployed web app URL.
-    ```bash
-    bubblewrap init --manifest=https://your-app-url.com/manifest.json
-    ```
-
-4.  **Build the App:**
-    ```bash
-    bubblewrap build
-    ```
-    This generates an Android App Bundle (`.aab`) file and an APK.
-
-5.  **Verify Ownership (Asset Links):**
-    *   Copy the **SHA-256 fingerprint** output by the Bubblewrap build process.
-    *   Open `public/assetlinks.json` in your project.
-    *   Replace `REPLACE_WITH_YOUR_APP_SHA256_FINGERPRINT` with your actual fingerprint.
-    *   Redeploy your Next.js app so the file is accessible at `https://your-app-url.com/.well-known/assetlinks.json` (Next.js serves `public` folder files at root, but check your routing).
-    *   *Note:* You might need to configure `next.config.js` or vercel rewrites to serve `.well-known` correctly if it doesn't work out of the box.
-
-6.  **Upload to Play Console:**
-    *   Create a developer account on Google Play Console.
-    *   Create a new app and upload the `.aab` file generated in step 4.
+This app is designed for children and adheres to Google's Families policies. You can view our full privacy policy [here](./public/privacy.html).

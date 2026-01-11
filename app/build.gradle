@@ -48,7 +48,6 @@ android {
     
     signingConfigs {
         release {
-            // Absolute path using rootProject to ensure it finds the file
             storeFile rootProject.file("android.keystore")
             storePassword "Cool@2831"
             keyAlias "android"
@@ -80,6 +79,9 @@ android {
         resValue "color", "backgroundColor", twaManifest.backgroundColor
         resValue "string", "providerAuthority", twaManifest.applicationId + '.fileprovider'
         resValue "bool", "enableNotification", twaManifest.enableNotifications.toString()
+        
+        // Child-directed setting for AdSense and Play Store policies
+        resValue "bool", "childDirected", "true"
 
         twaManifest.shortcuts.eachWithIndex { shortcut, index ->
             resValue "string", "shortcut_name_$index", "$shortcut.name"
