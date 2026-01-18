@@ -4,14 +4,14 @@
     "type": "BUNDLE",
     "kind": "RegularFile"
   },
-  "applicationId": "app.vercel.stemgame_w1af.twa",
+  "applicationId": "com.khann.stemgame",
   "variantName": "release",
   "elements": [
     {
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "outputFile": "../../../../outputs/bundle/release/app-release.aab"
+      "outputFile": "../../../../../release/app-release.aab"
     }
   ],
   "elementType": "File"

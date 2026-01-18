@@ -321,6 +321,7 @@ attr windowMinWidthMinor
 attr windowNoTitle
 bool abc_action_bar_embed_tabs
 bool abc_config_actionMenuItemAllCaps
+bool childDirected
 bool enableNotification
 bool enableSiteSettingsShortcut
 color abc_background_cache_hint_selector_material_dark

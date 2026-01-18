@@ -4,6 +4,8 @@
     <!-- Automatically generated file. DO NOT MODIFY -->
 
     <!-- Value from default config. -->
+    <bool name="childDirected">true</bool>
+    <!-- Value from default config. -->
     <bool name="enableNotification">true</bool>
     <!-- Value from default config. -->
     <bool name="enableSiteSettingsShortcut">true</bool>

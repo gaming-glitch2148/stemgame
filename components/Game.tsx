@@ -125,7 +125,7 @@ export default function Game() {
       : process.env.NEXT_PUBLIC_STRIPE_YEARLY_PRICE_ID;
 
     if (!priceId) {
-      alert("Error: Price ID not found in environment variables. Please check Vercel settings.");
+      alert("Error: Price ID not configured.");
       return;
     }
 
@@ -135,7 +135,6 @@ export default function Game() {
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ priceId, email: session?.user?.email }),
       });
-      
       const data = await res.json();
       if (data.url) {
         window.location.href = data.url;
@@ -207,14 +206,13 @@ export default function Game() {
       <AnimatePresence>
         {showAdFullscreen && (
           <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} className="absolute inset-0 z-[200] bg-black flex flex-col items-center justify-center p-8 text-center text-white">
-            <button onClick={() => setShowAdExitConfirm(true)} className="absolute top-8 right-8 p-3 bg-white/10 rounded-full text-white hover:bg-white/20 transition-all"><X className="w-6 h-6" /></button>
-            <div className="space-y-8 max-w-xs">
-              <PlayCircle className="w-24 h-24 text-purple-500 mx-auto animate-pulse" />
-              <div>
-                <h2 className="text-2xl font-black uppercase tracking-tighter mb-2">Sponsor Video</h2>
-                <p className="text-zinc-400 text-sm">Reward unlocking in {adTimer} seconds...</p>
+            <button onClick={() => setShowAdExitConfirm(true)} className="absolute top-8 right-8 p-3 bg-white/10 rounded-full text-white hover:bg-white/20"><X className="w-6 h-6" /></button>
+            <div className="space-y-6 w-full flex flex-col items-center">
+              <div className="w-full max-w-sm aspect-video bg-zinc-900 rounded-2xl flex items-center justify-center border border-zinc-800 relative overflow-hidden min-h-[250px]">
+                 <ins className="adsbygoogle" style={{ display: 'block', width: '100%', height: '100%' }} data-ad-client="ca-pub-9141375569651908" data-ad-slot="9452334599" data-ad-format="auto" data-full-width-responsive="true"></ins>
               </div>
-              <div className="text-6xl font-black text-purple-400 tabular-nums">{adTimer}s</div>
+              <div className="text-4xl font-black text-purple-400 tabular-nums">{adTimer}s</div>
+              <p className="text-zinc-500 text-xs uppercase tracking-widest">Sponsored Message</p>
             </div>
             {showAdExitConfirm && (
               <div className="absolute inset-0 z-[210] bg-black/95 flex items-center justify-center p-6 backdrop-blur-sm">
@@ -280,7 +278,7 @@ export default function Game() {
               {loading || !question ? <div className="flex-1 flex flex-col items-center justify-center gap-4 py-20 animate-pulse"><RefreshCw className="animate-spin text-blue-500" size={48} /> <p className="text-sm font-bold text-zinc-400 uppercase tracking-widest text-[10px]">Consulting AI...</p></div> : (
                 <>
                   <div className="bg-white dark:bg-zinc-800 rounded-3xl p-8 shadow-sm mb-6 text-center border-2 border-zinc-50 dark:border-zinc-700/50 min-h-[220px] flex flex-col justify-center items-center relative overflow-hidden">
-                    <AnimatePresence>{feedback && <motion.div initial={{ opacity: 0, y: -20 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }} className="absolute top-4 w-full text-center font-black text-blue-500 uppercase tracking-widest text-xs z-10 pointer-events-none">{feedback}</motion.div>}</AnimatePresence>
+                    <AnimatePresence>{feedback && <motion.div initial={{ opacity: 0, y: -20 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }} className="absolute top-4 w-full text-center font-black text-blue-500 uppercase tracking-widest text-sm z-10 pointer-events-none">{feedback}</motion.div>}</AnimatePresence>
                     <span className="text-7xl mb-4 filter drop-shadow-md">{question.emoji}</span>
                     <h2 className="text-2xl font-bold leading-tight text-zinc-800 dark:text-zinc-100">{question.question}</h2>
                     {hint && <div className="mt-4 p-3 bg-yellow-50 dark:bg-yellow-900/20 text-yellow-700 dark:text-yellow-400 text-xs font-bold rounded-xl border border-yellow-100 dark:border-yellow-800 shadow-sm animate-bounce-slow">💡 Hint: {hint}</div>}
@@ -306,11 +304,12 @@ export default function Game() {
         </AnimatePresence>
       </div>
 
-      {!isPremium && gameState !== 'auth-gate' && (
+      {/* Conditionally render banner ad only when there is content */}
+      {!isPremium && gameState === 'playing' && question && (
         <div className="p-4 bg-zinc-50 dark:bg-zinc-950 border-t border-zinc-100 dark:border-zinc-800">
           <div className="bg-white dark:bg-zinc-800 rounded-2xl p-4 text-center mb-4 border border-zinc-200 dark:border-zinc-700 shadow-sm min-h-[100px] flex items-center justify-center overflow-hidden">
              <ins className="adsbygoogle"
-                 style={{ display: 'block' }}
+                 style={{ display: 'block', width: '100%', minHeight: '100px' }}
                  data-ad-client="ca-pub-9141375569651908"
                  data-ad-slot="9452334599"
                  data-ad-format="auto"
