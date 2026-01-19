@@ -88,16 +88,17 @@ export default function Game() {
     }
   }, [level, subject, difficulty, score, gameState]);
 
-  // Logic to push ads when they appear
+  // Logic to push ads whenever the UI state changes (new question, modal open, etc.)
   useEffect(() => {
     try {
       if (typeof window !== 'undefined') {
-        ((window as any).adsbygoogle = (window as any).adsbygoogle || []).push({});
+        const adsbygoogle = (window as any).adsbygoogle || [];
+        adsbygoogle.push({});
       }
     } catch (e) {
       console.error("AdSense push error:", e);
     }
-  }, [gameState, question]);
+  }, [gameState, question, showAdFullscreen]);
 
   const fetchQuestion = async (selectedLevel = level, currentSubject = subject.name, currentScore = score, currentDiff = difficulty) => {
     setLoading(true);
@@ -301,7 +302,12 @@ export default function Game() {
             <button onClick={() => setShowAdExitConfirm(true)} className="absolute top-8 right-8 p-3 bg-white/10 rounded-full text-white hover:bg-white/20"><X className="w-6 h-6" /></button>
             <div className="space-y-6 w-full flex flex-col items-center">
               <div className="w-full max-w-sm aspect-video bg-zinc-900 rounded-2xl flex items-center justify-center border border-zinc-800 relative overflow-hidden min-h-[250px]">
-                 <ins className="adsbygoogle" style={{ display: 'block', width: '100%', height: '100%' }} data-ad-client="ca-pub-9141375569651908" data-ad-slot="6551435559" data-ad-format="auto" data-full-width-responsive="true"></ins>
+                 <ins className="adsbygoogle"
+                      style={{ display: 'block', width: '100%', height: '100%' }}
+                      data-ad-client="ca-pub-9141375569651908"
+                      data-ad-slot="6551435559"
+                      data-ad-format="auto"
+                      data-full-width-responsive="true"></ins>
               </div>
               <div className="text-4xl font-black text-purple-400 tabular-nums">{adTimer}s</div>
               <p className="text-zinc-500 text-xs uppercase tracking-widest">Sponsored Message</p>
