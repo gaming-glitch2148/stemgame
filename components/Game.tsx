@@ -52,6 +52,10 @@ export default function Game() {
   const [animateHintTrigger, setAnimateHintTrigger] = useState(0);
   const [animateAdHintTrigger, setAnimateAdHintTrigger] = useState(0);
 
+  const [adTimer, setAdTimer] = useState<number | null>(null);
+  const [showAdFullscreen, setShowAdFullscreen] = useState(false);
+  const [showAdExitConfirm, setShowAdExitConfirm] = useState(false);
+
   const timerRef = useRef<NodeJS.Timeout | null>(null);
 
   useEffect(() => {
@@ -170,6 +174,34 @@ export default function Game() {
     setHint(`Psst! It starts with "${question.correctAnswer.trim().substring(0, 2)}..."`);
   };
 
+  const startAdReward = () => {
+    if (isPremium) { handleAdHintReward(); return; }
+    setShowAdFullscreen(true);
+    setAdTimer(40);
+    if (timerRef.current) clearInterval(timerRef.current);
+    timerRef.current = setInterval(() => {
+      setAdTimer(prev => {
+        if (prev && prev > 1) return prev - 1;
+        if (timerRef.current) clearInterval(timerRef.current);
+        setShowAdFullscreen(false);
+        handleAdHintReward();
+        return null;
+      });
+    }, 1000);
+  };
+
+  const handleAdHintReward = () => {
+    setScore(prev => prev + 50);
+    setHint(`Psst! It starts with "${question.correctAnswer.trim().substring(0, 2)}..."`);
+  };
+
+  const confirmExitAd = () => {
+    if (timerRef.current) clearInterval(timerRef.current);
+    setAdTimer(null);
+    setShowAdFullscreen(false);
+    setShowAdExitConfirm(false);
+  };
+
   const confirmReset = () => {
     localStorage.clear();
     setScore(0);
@@ -264,6 +296,26 @@ export default function Game() {
       {renderStory()}
 
       <AnimatePresence>
+        {showAdFullscreen && (
+          <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} className="absolute inset-0 z-[200] bg-black flex flex-col items-center justify-center p-8 text-center text-white">
+            <button onClick={() => setShowAdExitConfirm(true)} className="absolute top-8 right-8 p-3 bg-white/10 rounded-full text-white hover:bg-white/20"><X className="w-6 h-6" /></button>
+            <div className="space-y-6 w-full flex flex-col items-center">
+              <div className="w-full max-w-sm aspect-video bg-zinc-900 rounded-2xl flex items-center justify-center border border-zinc-800 relative overflow-hidden min-h-[250px]">
+                 <ins className="adsbygoogle" style={{ display: 'block', width: '100%', height: '100%' }} data-ad-client="ca-pub-9141375569651908" data-ad-slot="6551435559" data-ad-format="auto" data-full-width-responsive="true"></ins>
+              </div>
+              <div className="text-4xl font-black text-purple-400 tabular-nums">{adTimer}s</div>
+              <p className="text-zinc-500 text-xs uppercase tracking-widest">Sponsored Message</p>
+            </div>
+            {showAdExitConfirm && (
+              <div className="absolute inset-0 z-[210] bg-black/95 flex items-center justify-center p-6 backdrop-blur-sm">
+                <div className="bg-zinc-900 p-8 rounded-3xl border border-white/10 shadow-2xl max-w-xs text-center"><AlertCircle className="w-12 h-12 text-orange-500 mx-auto mb-4" /><p className="mb-6 text-zinc-300">Exit early and lose your hint?</p><button onClick={() => setShowAdExitConfirm(false)} className="w-full py-4 bg-purple-600 text-white rounded-xl font-bold mb-3">Keep Watching</button><button onClick={confirmExitAd} className="w-full py-4 bg-zinc-800 text-zinc-400 rounded-xl">Exit</button></div>
+              </div>
+            )}
+          </motion.div>
+        )}
+      </AnimatePresence>
+
+      <AnimatePresence>
         {showResetConfirm && (
           <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} className="absolute inset-0 z-[100] bg-black/60 backdrop-blur-md flex items-center justify-center p-6">
             <div className="bg-white dark:bg-zinc-800 rounded-[2rem] p-8 text-center border border-white/10 shadow-2xl"><AlertCircle className="w-12 h-12 text-orange-600 mx-auto mb-4" /><h3 className="text-xl font-black mb-2 text-zinc-900 dark:text-zinc-50">Reset Progress?</h3><p className="text-zinc-500 dark:text-zinc-400 mb-6 text-sm">Your current score and session will be cleared.</p><div className="flex flex-col gap-3"><button onClick={confirmReset} className="w-full py-4 rounded-2xl bg-orange-600 text-white font-bold">Yes, Reset</button><button onClick={() => setShowResetConfirm(false)} className="w-full py-4 rounded-2xl bg-zinc-100 dark:bg-zinc-700 text-zinc-700 font-bold">Cancel</button></div></div>
@@ -343,10 +395,19 @@ export default function Game() {
                       transition={{ duration: 0.4 }}
                       onClick={() => handleGetHint()}
                       disabled={!!hint || isCorrect}
-                      className="w-full p-4 bg-yellow-400 text-yellow-900 rounded-2xl font-black text-xs hover:bg-yellow-500 active:scale-95 transition-all shadow-md disabled:opacity-50"
+                      className="flex-1 p-4 bg-yellow-400 text-yellow-900 rounded-2xl font-black text-xs hover:bg-yellow-500 active:scale-95 transition-all shadow-md disabled:opacity-50"
                     >
-                      Get a Hint {score < 50 ? '(Low Points)' : '(50 PTS)'}
+                      Get a Hint (50 PTS)
                     </motion.button>
+                    {!isPremium && (
+                      <button
+                        onClick={() => startAdReward()}
+                        disabled={isCorrect}
+                        className="flex-1 p-4 bg-purple-600 text-white rounded-2xl font-black text-xs hover:bg-purple-700 active:scale-95 transition-all shadow-md"
+                      >
+                        AD HINT
+                      </button>
+                    )}
                   </div>
                 </>
               )}
