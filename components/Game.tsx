@@ -49,7 +49,9 @@ export default function Game() {
   const [showAdExitConfirm, setShowAdExitConfirm] = useState(false);
   const [wrongAnswers, setWrongAnswers] = useState<string[]>([]);
   const [feedback, setFeedback] = useState<string | null>(null);
-  
+  const [showHowToPlay, setShowHowToPlay] = useState(false);
+  const [showStory, setShowStory] = useState(false);
+
   const timerRef = useRef<NodeJS.Timeout | null>(null);
 
   useEffect(() => {
@@ -197,12 +199,66 @@ export default function Game() {
         <p className="text-zinc-500 dark:text-zinc-400 font-medium px-10">Sign in to challenge your brain and track your score.</p>
       </div>
       <div className="px-6"><button onClick={() => signIn('google')} className="w-full py-5 bg-white dark:bg-zinc-800 border-2 border-zinc-100 dark:border-zinc-700 rounded-3xl flex items-center justify-center gap-4 font-bold text-zinc-700 dark:text-zinc-200 hover:bg-zinc-50 transition-all"><img src="https://www.google.com/favicon.ico" className="w-5 h-5" alt="Google" /> Continue with Google</button></div>
+      <div className="flex justify-center gap-4 mt-4">
+        <button onClick={() => setShowHowToPlay(true)} className="text-sm text-zinc-500 dark:text-zinc-400 hover:underline">How to Play</button>
+        <button onClick={() => setShowStory(true)} className="text-sm text-zinc-500 dark:text-zinc-400 hover:underline">Read the Story</button>
+      </div>
     </motion.div>
+  );
+
+  const renderHowToPlay = () => (
+    <AnimatePresence>
+      {showHowToPlay && (
+        <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} className="absolute inset-0 z-[100] bg-black/60 backdrop-blur-md flex items-center justify-center p-6">
+          <div className="bg-white dark:bg-zinc-800 rounded-[2rem] p-8 max-w-lg w-full max-h-[80vh] overflow-y-auto border border-white/10 shadow-2xl">
+            <h3 className="text-2xl font-black mb-4 text-zinc-900 dark:text-zinc-50">How to Play</h3>
+            <div className="prose prose-zinc dark:prose-invert">
+              <p>Welcome to Stem Blast! Get ready to test your knowledge and blast some asteroids. Here's how to play:</p>
+              <ol>
+                <li><strong>Choose Your Mission:</strong> Select your desired Grade, Subject, and Difficulty level to start a new game.</li>
+                <li><strong>Answer the Question:</strong> A question will appear at the top of the screen. Read it carefully.</li>
+                <li><strong>Aim and Fire:</strong> Below the question, you'll see several asteroids, each carrying a possible answer.</li>
+                <li><strong>Blast the Correct Answer:</strong> Tap on the asteroid with the correct answer to destroy it and score points.</li>
+                <li><strong>Be Quick!</strong> You have a limited time to answer each question. The faster you answer, the more points you'll earn.</li>
+                <li><strong>Avoid Incorrect Answers:</strong> Hitting an asteroid with the wrong answer will cost you a life. You only have three lives, so choose wisely!</li>
+                <li><strong>Power-Ups:</strong> Occasionally, special power-ups will appear. Grab them for extra points, time, or other advantages.</li>
+                <li><strong>Level Up:</strong> As you answer questions correctly, you'll advance to new levels with more challenging questions and faster asteroids.</li>
+                <li><strong>Track Your Progress:</strong> Your score, lives, and current level are displayed at the top of the screen.</li>
+              </ol>
+            </div>
+            <button onClick={() => setShowHowToPlay(false)} className="mt-6 w-full py-3 rounded-xl bg-zinc-100 dark:bg-zinc-700 text-zinc-700 font-bold">Close</button>
+          </div>
+        </motion.div>
+      )}
+    </AnimatePresence>
+  );
+
+  const renderStory = () => (
+    <AnimatePresence>
+      {showStory && (
+        <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} className="absolute inset-0 z-[100] bg-black/60 backdrop-blur-md flex items-center justify-center p-6">
+          <div className="bg-white dark:bg-zinc-800 rounded-[2rem] p-8 max-w-lg w-full max-h-[80vh] overflow-y-auto border border-white/10 shadow-2xl">
+            <h3 className="text-2xl font-black mb-4 text-zinc-900 dark:text-zinc-50">The Story Behind Stem Blast</h3>
+            <div className="prose prose-zinc dark:prose-invert">
+              <p>In the year 2042, a brilliant scientist named Dr. Evelyn Reed made a startling discovery. A massive asteroid field, unlike any seen before, was on a collision course with Earth. But these weren't ordinary space rocks. Each asteroid was composed of a unique, unstable element that reacted to focused energy beams.</p>
+              <p>Dr. Reed, a passionate advocate for STEM education, realized that the energy beams could be calibrated to lock onto specific frequencies. The correct frequency, however, needed to be calculated by solving complex problems in science, technology, engineering, and math.</p>
+              <p>With the fate of the world at stake, Dr. Reed developed the STEM Blast program. This training simulation, disguised as a game, was designed to find the brightest minds capable of operating the planetary defense system.</p>
+              <p>As a new recruit in the STEM Blast program, your mission is to prove your skills. Each question you answer correctly recalibrates the defense cannons, and each asteroid you destroy brings humanity one step closer to salvation. The questions will test your knowledge across a wide range of STEM fields, from simple arithmetic to complex calculus, from basic chemistry to advanced physics.</p>
+              <p>The future of our planet is in your hands. Are you ready to take on the challenge and become a hero of science?</p>
+            </div>
+            <button onClick={() => setShowStory(false)} className="mt-6 w-full py-3 rounded-xl bg-zinc-100 dark:bg-zinc-700 text-zinc-700 font-bold">Close</button>
+          </div>
+        </motion.div>
+      )}
+    </AnimatePresence>
   );
 
   return (
     <div className="w-full max-w-md mx-auto h-full flex flex-col relative overflow-hidden bg-white/95 dark:bg-zinc-900/95 backdrop-blur-2xl rounded-[2.5rem] shadow-2xl border border-white/20 dark:border-zinc-700/50">
       
+      {renderHowToPlay()}
+      {renderStory()}
+
       <AnimatePresence>
         {showAdFullscreen && (
           <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} className="absolute inset-0 z-[200] bg-black flex flex-col items-center justify-center p-8 text-center text-white">

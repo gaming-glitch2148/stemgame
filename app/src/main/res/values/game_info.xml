@@ -1,0 +1,29 @@
+<resources>
+    <string name="how_to_play_title">How to Play Stem Blast</string>
+    <string name="how_to_play_instructions">
+        Welcome to Stem Blast! Get ready to test your knowledge and blast some asteroids. Here is how to play:
+
+        1.  **Choose Your Mission:** Select your desired Grade, Subject, and Difficulty level to start a new game.
+        2.  **Answer the Question:** A question will appear at the top of the screen. Read it carefully.
+        3.  **Aim and Fire:** Below the question, you will see several asteroids, each carrying a possible answer.
+        4.  **Blast the Correct Answer:** Tap on the asteroid with the correct answer to destroy it and score points.
+        5.  **Be Quick!** You have a limited time to answer each question. The faster you answer, the more points you will earn.
+        6.  **Avoid Incorrect Answers:** Hitting an asteroid with the wrong answer will cost you a life. You only have three lives, so choose wisely!
+        7.  **Power-Ups:** Occasionally, special power-ups will appear. Grab them for extra points, time, or other advantages.
+        8.  **Level Up:** As you answer questions correctly, you will advance to new levels with more challenging questions and faster asteroids.
+        9.  **Track Your Progress:** Your score, lives, and current level are displayed at the top of the screen.
+    </string>
+
+    <string name="educational_story_title">The Story Behind Stem Blast</string>
+    <string name="educational_story_content">
+        In the year 2042, a brilliant scientist named Dr. Evelyn Reed made a startling discovery. A massive asteroid field, unlike any seen before, was on a collision course with Earth. But these were not ordinary space rocks. Each asteroid was composed of a unique, unstable element that reacted to focused energy beams.
+
+        Dr. Reed, a passionate advocate for STEM education, realized that the energy beams could be calibrated to lock onto specific frequencies. The correct frequency, however, needed to be calculated by solving complex problems in science, technology, engineering, and math.
+
+        With the fate of the world at stake, Dr. Reed developed the STEM Blast program. This training simulation, disguised as a game, was designed to find the brightest minds capable of operating the planetary defense system.
+
+        As a new recruit in the STEM Blast program, your mission is to prove your skills. Each question you answer correctly recalibrates the defense cannons, and each asteroid you destroy brings humanity one step closer to salvation. The questions will test your knowledge across a wide range of STEM fields, from simple arithmetic to complex calculus, from basic chemistry to advanced physics.
+
+        The future of our planet is in your hands. Are you ready to take on the challenge and become a hero of science?
+    </string>
+</resources>

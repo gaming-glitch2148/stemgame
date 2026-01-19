@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Fallback strings for TWA -->
-    <string name="assetStatements">[{ \"relation\": [\"delegate_permission/common.handle_all_urls\"], \"target\": { \"namespace\": \"android_app\", \"package_name\": \"com.khann.stemgame\", \"sha256_cert_fingerprints\": [\"REPLACE_WITH_SHA256\"] } }]</string>
+    <string name="assetStatements"><![CDATA[[{ "relation": ["delegate_permission/common.handle_all_urls"], "target": { "namespace": "android_app", "package_name": "com.khann.stemgame", "sha256_cert_fingerprints": ["REPLACE_WITH_SHA256"] } }]]]></string>
+    <string name="appName">Stem Game</string>
+    <string name="launcherName">Stem Game</string>
+    <string name="launchUrl">https://stemgame.com</string>
+    <string name="hostName">stemgame.com</string>
+    <string name="providerAuthority">com.khann.stemgame.fileprovider</string>
 </resources>
