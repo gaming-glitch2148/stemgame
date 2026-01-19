@@ -51,6 +51,7 @@ export default function Game() {
   const [feedback, setFeedback] = useState<string | null>(null);
   const [showHowToPlay, setShowHowToPlay] = useState(false);
   const [showStory, setShowStory] = useState(false);
+  const [animateHintTrigger, setAnimateHintTrigger] = useState(0);
 
   const timerRef = useRef<NodeJS.Timeout | null>(null);
 
@@ -116,7 +117,8 @@ export default function Game() {
     } else {
       setWrongAnswers(prev => [...prev, answer]);
       setFeedback("Try again! 🤔");
-      setScore(prev => Math.max(0, prev - 2));
+      setScore(prev => Math.max(0, prev - 5));
+      setAnimateHintTrigger(prev => prev + 1);
       setTimeout(() => setFeedback(null), 2000);
     }
   };
@@ -350,7 +352,19 @@ export default function Game() {
                     })}
                   </div>
                   <div className="mt-8 flex gap-3 pb-4 relative z-50">
-                    <button onClick={() => handleGetHint()} disabled={!!hint || isCorrect} className="flex-1 p-4 bg-yellow-400 text-yellow-900 rounded-2xl font-black text-xs hover:bg-yellow-500 active:scale-95 transition-all shadow-md disabled:opacity-50">50 PTS HINT</button>
+                    <motion.button
+                      key={animateHintTrigger}
+                      animate={animateHintTrigger > 0 ? {
+                        scale: [1, 1.1, 1],
+                        rotate: [0, -5, 5, -5, 5, 0]
+                      } : {}}
+                      transition={{ duration: 0.4 }}
+                      onClick={() => handleGetHint()}
+                      disabled={!!hint || isCorrect}
+                      className="flex-1 p-4 bg-yellow-400 text-yellow-900 rounded-2xl font-black text-xs hover:bg-yellow-500 active:scale-95 transition-all shadow-md disabled:opacity-50"
+                    >
+                      Get a Hint
+                    </motion.button>
                     {!isPremium && <button onClick={() => startAdReward()} disabled={isCorrect} className="flex-1 p-4 bg-purple-600 text-white rounded-2xl font-black text-xs hover:bg-purple-700 active:scale-95 transition-all shadow-md">AD HINT</button>}
                   </div>
                 </>
