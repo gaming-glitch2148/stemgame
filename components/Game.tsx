@@ -2,9 +2,10 @@
 
 import { useState, useEffect, useRef } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Trophy, Star, Lock, Zap, RefreshCw, ChevronDown, CheckCircle2, AlertCircle, BookOpen, FlaskConical, Code, Atom, LogIn, LogOut, Lightbulb, PlayCircle, XCircle, X } from 'lucide-react';
+import { Trophy, Star, Lock, Zap, RefreshCw, ChevronDown, CheckCircle2, AlertCircle, BookOpen, FlaskConical, Code, Atom, LogIn, LogOut, Lightbulb, PlayCircle, XCircle, X, ShieldCheck, Mail } from 'lucide-react';
 import confetti from 'canvas-confetti';
 import { useSession, signIn, signOut } from "next-auth/react";
+import Script from 'next/script';
 
 type GameState = 'auth-gate' | 'grade-selection' | 'subject-selection' | 'difficulty-selection' | 'playing';
 type Difficulty = 'Beginner' | 'Intermediate' | 'Expert';
@@ -44,9 +45,6 @@ export default function Game() {
   const [showResetConfirm, setShowResetConfirm] = useState(false);
   const [showPaymentModal, setShowPaymentModal] = useState(false);
   const [hint, setHint] = useState<string | null>(null);
-  const [adTimer, setAdTimer] = useState<number | null>(null);
-  const [showAdFullscreen, setShowAdFullscreen] = useState(false);
-  const [showAdExitConfirm, setShowAdExitConfirm] = useState(false);
   const [wrongAnswers, setWrongAnswers] = useState<string[]>([]);
   const [feedback, setFeedback] = useState<string | null>(null);
   const [showHowToPlay, setShowHowToPlay] = useState(false);
@@ -84,6 +82,17 @@ export default function Game() {
       localStorage.setItem('stem_score', score.toString());
     }
   }, [level, subject, difficulty, score, gameState]);
+
+  // Logic to push ads when they appear
+  useEffect(() => {
+    try {
+      if (typeof window !== 'undefined') {
+        ((window as any).adsbygoogle = (window as any).adsbygoogle || []).push({});
+      }
+    } catch (e) {
+      console.error("AdSense push error:", e);
+    }
+  }, [gameState, question]);
 
   const fetchQuestion = async (selectedLevel = level, currentSubject = subject.name, currentScore = score, currentDiff = difficulty) => {
     setLoading(true);
@@ -150,34 +159,10 @@ export default function Game() {
     }
   };
 
-  const startAdReward = () => {
-    if (isPremium) { handleGetHint(true); return; }
-    setShowAdFullscreen(true);
-    setAdTimer(40);
-    if (timerRef.current) clearInterval(timerRef.current);
-    timerRef.current = setInterval(() => {
-      setAdTimer(prev => {
-        if (prev && prev > 1) return prev - 1;
-        if (timerRef.current) clearInterval(timerRef.current);
-        setShowAdFullscreen(false);
-        handleGetHint(true);
-        return null;
-      });
-    }, 1000);
-  };
-
-  const handleGetHint = (forced = false) => {
-    if (!question) return;
-    if (!forced && !isPremium && score < 50) return;
-    if (!forced && !isPremium) setScore(prev => prev - 50);
+  const handleGetHint = () => {
+    if (!question || score < 50) return;
+    if (!isPremium) setScore(prev => prev - 50);
     setHint(`Psst! It starts with "${question.correctAnswer.trim().substring(0, 2)}..."`);
-  };
-
-  const confirmExitAd = () => {
-    if (timerRef.current) clearInterval(timerRef.current);
-    setAdTimer(null);
-    setShowAdFullscreen(false);
-    setShowAdExitConfirm(false);
   };
 
   const confirmReset = () => {
@@ -201,9 +186,15 @@ export default function Game() {
         <p className="text-zinc-500 dark:text-zinc-400 font-medium px-10">Sign in to challenge your brain and track your score.</p>
       </div>
       <div className="px-6"><button onClick={() => signIn('google')} className="w-full py-5 bg-white dark:bg-zinc-800 border-2 border-zinc-100 dark:border-zinc-700 rounded-3xl flex items-center justify-center gap-4 font-bold text-zinc-700 dark:text-zinc-200 hover:bg-zinc-50 transition-all"><img src="https://www.google.com/favicon.ico" className="w-5 h-5" alt="Google" /> Continue with Google</button></div>
-      <div className="flex justify-center gap-4 mt-4">
-        <button onClick={() => setShowHowToPlay(true)} className="text-sm text-zinc-500 dark:text-zinc-400 hover:underline">How to Play</button>
-        <button onClick={() => setShowStory(true)} className="text-sm text-zinc-500 dark:text-zinc-400 hover:underline">Read the Story</button>
+      <div className="flex flex-col items-center gap-3 mt-4">
+        <div className="flex justify-center gap-6">
+          <button onClick={() => setShowHowToPlay(true)} className="text-sm font-semibold text-zinc-500 dark:text-zinc-400 hover:text-blue-600 transition-colors">How to Play</button>
+          <button onClick={() => setShowStory(true)} className="text-sm font-semibold text-zinc-500 dark:text-zinc-400 hover:text-blue-600 transition-colors">The Story</button>
+        </div>
+        <div className="flex justify-center gap-6 border-t border-zinc-100 dark:border-zinc-800 pt-4 w-full px-10">
+          <a href="/privacy.html" target="_blank" className="flex items-center gap-1.5 text-[11px] uppercase tracking-wider font-bold text-zinc-400 hover:text-zinc-600 dark:hover:text-zinc-200 transition-colors"><ShieldCheck className="w-3.5 h-3.5" /> Privacy</a>
+          <a href="mailto:digitaloutpostllc@gmail.com" className="flex items-center gap-1.5 text-[11px] uppercase tracking-wider font-bold text-zinc-400 hover:text-zinc-600 dark:hover:text-zinc-200 transition-colors"><Mail className="w-3.5 h-3.5" /> Contact</a>
+        </div>
       </div>
     </motion.div>
   );
@@ -257,29 +248,15 @@ export default function Game() {
 
   return (
     <div className="w-full max-w-md mx-auto h-full flex flex-col relative overflow-hidden bg-white/95 dark:bg-zinc-900/95 backdrop-blur-2xl rounded-[2.5rem] shadow-2xl border border-white/20 dark:border-zinc-700/50">
-      
+      <Script
+        async
+        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9141375569651908"
+        crossOrigin="anonymous"
+        strategy="afterInteractive"
+      />
+
       {renderHowToPlay()}
       {renderStory()}
-
-      <AnimatePresence>
-        {showAdFullscreen && (
-          <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} className="absolute inset-0 z-[200] bg-black flex flex-col items-center justify-center p-8 text-center text-white">
-            <button onClick={() => setShowAdExitConfirm(true)} className="absolute top-8 right-8 p-3 bg-white/10 rounded-full text-white hover:bg-white/20"><X className="w-6 h-6" /></button>
-            <div className="space-y-6 w-full flex flex-col items-center">
-              <div className="w-full max-w-sm aspect-video bg-zinc-900 rounded-2xl flex items-center justify-center border border-zinc-800 relative overflow-hidden min-h-[250px]">
-                 <ins className="adsbygoogle" style={{ display: 'block', width: '100%', height: '100%' }} data-ad-client="ca-pub-9141375569651908" data-ad-slot="9452334599" data-ad-format="auto" data-full-width-responsive="true"></ins>
-              </div>
-              <div className="text-4xl font-black text-purple-400 tabular-nums">{adTimer}s</div>
-              <p className="text-zinc-500 text-xs uppercase tracking-widest">Sponsored Message</p>
-            </div>
-            {showAdExitConfirm && (
-              <div className="absolute inset-0 z-[210] bg-black/95 flex items-center justify-center p-6 backdrop-blur-sm">
-                <div className="bg-zinc-900 p-8 rounded-3xl border border-white/10 shadow-2xl max-w-xs text-center"><AlertCircle className="w-12 h-12 text-orange-500 mx-auto mb-4" /><p className="mb-6 text-zinc-300">Exit early and lose your hint?</p><button onClick={() => setShowAdExitConfirm(false)} className="w-full py-4 bg-purple-600 text-white rounded-xl font-bold mb-3">Keep Watching</button><button onClick={confirmExitAd} className="w-full py-4 bg-zinc-800 text-zinc-400 rounded-xl">Exit</button></div>
-              </div>
-            )}
-          </motion.div>
-        )}
-      </AnimatePresence>
 
       <AnimatePresence>
         {showResetConfirm && (
@@ -360,12 +337,11 @@ export default function Game() {
                       } : {}}
                       transition={{ duration: 0.4 }}
                       onClick={() => handleGetHint()}
-                      disabled={!!hint || isCorrect}
-                      className="flex-1 p-4 bg-yellow-400 text-yellow-900 rounded-2xl font-black text-xs hover:bg-yellow-500 active:scale-95 transition-all shadow-md disabled:opacity-50"
+                      disabled={!!hint || isCorrect || score < 50}
+                      className="w-full p-4 bg-yellow-400 text-yellow-900 rounded-2xl font-black text-xs hover:bg-yellow-500 active:scale-95 transition-all shadow-md disabled:opacity-50"
                     >
-                      Get a Hint
+                      Get a Hint (50 PTS)
                     </motion.button>
-                    {!isPremium && <button onClick={() => startAdReward()} disabled={isCorrect} className="flex-1 p-4 bg-purple-600 text-white rounded-2xl font-black text-xs hover:bg-purple-700 active:scale-95 transition-all shadow-md">AD HINT</button>}
                   </div>
                 </>
               )}
@@ -374,14 +350,13 @@ export default function Game() {
         </AnimatePresence>
       </div>
 
-      {/* Conditionally render banner ad only when there is content */}
       {!isPremium && gameState === 'playing' && question && (
         <div className="p-4 bg-zinc-50 dark:bg-zinc-950 border-t border-zinc-100 dark:border-zinc-800">
           <div className="bg-white dark:bg-zinc-800 rounded-2xl p-4 text-center mb-4 border border-zinc-200 dark:border-zinc-700 shadow-sm min-h-[100px] flex items-center justify-center overflow-hidden">
              <ins className="adsbygoogle"
-                 style={{ display: 'block', width: '100%', minHeight: '100px' }}
+                 style={{ display: 'block' }}
                  data-ad-client="ca-pub-9141375569651908"
-                 data-ad-slot="9452334599"
+                 data-ad-slot="6551435559"
                  data-ad-format="auto"
                  data-full-width-responsive="true"></ins>
           </div>
