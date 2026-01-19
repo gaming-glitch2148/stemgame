@@ -50,6 +50,7 @@ export default function Game() {
   const [showHowToPlay, setShowHowToPlay] = useState(false);
   const [showStory, setShowStory] = useState(false);
   const [animateHintTrigger, setAnimateHintTrigger] = useState(0);
+  const [animateAdHintTrigger, setAnimateAdHintTrigger] = useState(0);
 
   const timerRef = useRef<NodeJS.Timeout | null>(null);
 
@@ -160,7 +161,11 @@ export default function Game() {
   };
 
   const handleGetHint = () => {
-    if (!question || score < 50) return;
+    if (!question) return;
+    if (score < 50) {
+      setAnimateAdHintTrigger(prev => prev + 1);
+      return;
+    }
     if (!isPremium) setScore(prev => prev - 50);
     setHint(`Psst! It starts with "${question.correctAnswer.trim().substring(0, 2)}..."`);
   };
@@ -337,10 +342,10 @@ export default function Game() {
                       } : {}}
                       transition={{ duration: 0.4 }}
                       onClick={() => handleGetHint()}
-                      disabled={!!hint || isCorrect || score < 50}
+                      disabled={!!hint || isCorrect}
                       className="w-full p-4 bg-yellow-400 text-yellow-900 rounded-2xl font-black text-xs hover:bg-yellow-500 active:scale-95 transition-all shadow-md disabled:opacity-50"
                     >
-                      Get a Hint (50 PTS)
+                      Get a Hint {score < 50 ? '(Low Points)' : '(50 PTS)'}
                     </motion.button>
                   </div>
                 </>
@@ -352,14 +357,23 @@ export default function Game() {
 
       {!isPremium && gameState === 'playing' && question && (
         <div className="p-4 bg-zinc-50 dark:bg-zinc-950 border-t border-zinc-100 dark:border-zinc-800">
-          <div className="bg-white dark:bg-zinc-800 rounded-2xl p-4 text-center mb-4 border border-zinc-200 dark:border-zinc-700 shadow-sm min-h-[100px] flex items-center justify-center overflow-hidden">
+          <motion.div
+            key={animateAdHintTrigger}
+            animate={animateAdHintTrigger > 0 ? {
+                scale: [1, 1.05, 1],
+                boxShadow: ["0px 0px 0px rgba(59, 130, 246, 0)", "0px 0px 20px rgba(59, 130, 246, 0.5)", "0px 0px 0px rgba(59, 130, 246, 0)"]
+            } : {}}
+            transition={{ duration: 0.5 }}
+            className="bg-white dark:bg-zinc-800 rounded-2xl p-4 text-center mb-4 border-2 border-blue-500/50 dark:border-blue-400/50 shadow-sm min-h-[100px] flex items-center justify-center overflow-hidden relative"
+          >
+             <div className="absolute top-0 left-0 bg-blue-500 text-white text-[8px] font-bold px-2 py-0.5 rounded-br-lg z-10">AD SUPPORTED</div>
              <ins className="adsbygoogle"
                  style={{ display: 'block' }}
                  data-ad-client="ca-pub-9141375569651908"
                  data-ad-slot="6551435559"
                  data-ad-format="auto"
                  data-full-width-responsive="true"></ins>
-          </div>
+          </motion.div>
           <button onClick={() => setShowPaymentModal(true)} className="w-full py-4 rounded-2xl bg-zinc-900 dark:bg-zinc-100 text-white dark:text-zinc-900 font-bold text-xs flex items-center justify-center gap-2 transition-all hover:opacity-90 active:scale-[0.98] shadow-lg"><Lock className="w-4 h-4" /> GO AD-FREE ($0.99/mo or $10/yr)</button>
         </div>
       )}
