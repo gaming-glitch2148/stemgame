@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+bool childDirected
+bool enableNotification
+bool enableSiteSettingsShortcut
+color backgroundColor
+color colorPrimary
+color colorPrimaryDark
+color ic_launcher_background
+color navigationColor
+color navigationColorDark
+color navigationDividerColor
+color navigationDividerColorDark
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+integer splashScreenFadeOutDuration
+mipmap ic_launcher
+mipmap ic_launcher_round
+string appName
+string assetStatements
+string educational_story_content
+string educational_story_title
+string fallbackType
+string fullScopeUrl
+string generatorApp
+string hostName
+string how_to_play_instructions
+string how_to_play_title
+string launchUrl
+string launcherName
+string orientation
+string providerAuthority
+string webManifestUrl
+xml filepaths
+xml game_info
+xml shortcuts

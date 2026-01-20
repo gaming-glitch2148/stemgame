@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.khann.stemgame.app-debug-25:/xml_filepaths.xml.flat",
+        "source": "com.khann.stemgame.app-main-27:/xml/filepaths.xml"
+    },
+    {
+        "merged": "com.khann.stemgame.app-debug-25:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.khann.stemgame.app-main-27:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.khann.stemgame.app-debug-25:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.khann.stemgame.app-main-27:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.khann.stemgame.app-debug-25:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.khann.stemgame.app-main-27:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.khann.stemgame.app-debug-25:/xml_game_info.xml.flat",
+        "source": "com.khann.stemgame.app-main-27:/xml/game_info.xml"
+    },
+    {
+        "merged": "com.khann.stemgame.app-debug-25:/xml_shortcuts.xml.flat",
+        "source": "com.khann.stemgame.app-main-27:/xml/shortcuts.xml"
+    },
+    {
+        "merged": "com.khann.stemgame.app-debug-25:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.khann.stemgame.app-main-27:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    }
+]
