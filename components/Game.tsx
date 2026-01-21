@@ -6,12 +6,15 @@ import { Trophy, Star, Lock, Zap, RefreshCw, ChevronDown, CheckCircle2, AlertCir
 import confetti from 'canvas-confetti';
 import { useSession, signIn, signOut } from "next-auth/react";
 import Script from 'next/script';
+import ContactForm from '@/components/ContactForm';
 
 // Add type definitions for the Android Bridge
 declare global {
   interface Window {
     AndroidBridge?: {
       showRewardedAd: () => void;
+      setUserAgeStatus: (isChild: boolean) => void;
+      triggerAgeGate: () => void;
     };
     onRewardEarned?: () => void;
   }
@@ -54,6 +57,7 @@ export default function Game() {
   const [history, setHistory] = useState<string[]>([]);
   const [showResetConfirm, setShowResetConfirm] = useState(false);
   const [showPaymentModal, setShowPaymentModal] = useState(false);
+  const [showContactForm, setShowContactForm] = useState(false);
   const [hint, setHint] = useState<string | null>(null);
   const [wrongAnswers, setWrongAnswers] = useState<string[]>([]);
   const [feedback, setFeedback] = useState<string | null>(null);
@@ -76,7 +80,28 @@ export default function Game() {
     return () => {
       delete window.onRewardEarned;
     };
-  }, [question]); // Re-bind when question changes to ensure context is correct
+  }, [question]);
+
+  // Sync Age Status to Android Bridge
+  useEffect(() => {
+    if (status === "authenticated" && session?.user) {
+      const isChildUser = level === 'Kindergarten' ||
+                         level.includes('1st') ||
+                         level.includes('2nd') ||
+                         level.includes('3rd') ||
+                         level.includes('4th') ||
+                         level.includes('5th') ||
+                         level.includes('6th');
+
+      if (window.AndroidBridge) {
+        window.AndroidBridge.setUserAgeStatus(isChildUser);
+      }
+    } else if (status === "unauthenticated") {
+      if (window.AndroidBridge) {
+        window.AndroidBridge.triggerAgeGate();
+      }
+    }
+  }, [status, session, level]);
 
   useEffect(() => {
     if (status === "authenticated") {
@@ -108,7 +133,6 @@ export default function Game() {
     }
   }, [level, subject, difficulty, score, gameState]);
 
-  // Logic to push ads whenever the UI state changes (new question, modal open, etc.)
   useEffect(() => {
     try {
       if (typeof window !== 'undefined') {
@@ -152,7 +176,7 @@ export default function Game() {
     } else {
       setWrongAnswers(prev => [...prev, answer]);
       setFeedback("Try again! 🤔");
-      setScore(prev => Math.max(0, prev - 50)); // Adjusted penalty to make hint-watching more attractive
+      setScore(prev => Math.max(0, prev - 5));
       setAnimateHintTrigger(prev => prev + 1);
       setTimeout(() => setFeedback(null), 2000);
     }
@@ -198,13 +222,11 @@ export default function Game() {
   const startAdReward = () => {
     if (isPremium) { handleAdHintReward(); return; }
 
-    // Use the Native Android Bridge if available
     if (window.AndroidBridge) {
       window.AndroidBridge.showRewardedAd();
     } else {
-      // Fallback for web/browser testing
       setShowAdFullscreen(true);
-      setAdTimer(15); // Shorter fallback for testing
+      setAdTimer(40); // User requested 40 sec
       if (timerRef.current) clearInterval(timerRef.current);
       timerRef.current = setInterval(() => {
         setAdTimer(prev => {
@@ -260,7 +282,7 @@ export default function Game() {
         </div>
         <div className="flex justify-center gap-6 border-t border-zinc-100 dark:border-zinc-800 pt-4 w-full px-10">
           <a href="/privacy.html" target="_blank" className="flex items-center gap-1.5 text-[11px] uppercase tracking-wider font-bold text-zinc-400 hover:text-zinc-600 dark:hover:text-zinc-200 transition-colors"><ShieldCheck className="w-3.5 h-3.5" /> Privacy</a>
-          <a href="mailto:digitaloutpostllc@gmail.com" className="flex items-center gap-1.5 text-[11px] uppercase tracking-wider font-bold text-zinc-400 hover:text-zinc-600 dark:hover:text-zinc-200 transition-colors"><Mail className="w-3.5 h-3.5" /> Contact</a>
+          <button onClick={() => setShowContactForm(true)} className="flex items-center gap-1.5 text-[11px] uppercase tracking-wider font-bold text-zinc-400 hover:text-zinc-600 dark:hover:text-zinc-200 transition-colors"><Mail className="w-3.5 h-3.5" /> Contact</button>
         </div>
       </div>
     </motion.div>
@@ -324,6 +346,9 @@ export default function Game() {
 
       {renderHowToPlay()}
       {renderStory()}
+      <AnimatePresence>
+        {showContactForm && <ContactForm onClose={() => setShowContactForm(false)} />}
+      </AnimatePresence>
 
       <AnimatePresence>
         {showAdFullscreen && (
@@ -430,18 +455,24 @@ export default function Game() {
                       transition={{ duration: 0.4 }}
                       onClick={() => handleGetHint()}
                       disabled={!!hint || isCorrect}
-                      className="flex-1 p-4 bg-yellow-400 text-yellow-900 rounded-2xl font-black text-xs hover:bg-yellow-500 active:scale-95 transition-all shadow-md disabled:opacity-50"
+                      className={`flex-1 p-4 rounded-2xl font-black text-xs active:scale-95 transition-all shadow-md disabled:opacity-50 ${score < 50 ? 'bg-zinc-100 text-zinc-400' : 'bg-yellow-400 text-yellow-900 hover:bg-yellow-500'}`}
                     >
                       Get a Hint (50 PTS)
                     </motion.button>
                     {!isPremium && (
-                      <button
+                      <motion.button
+                        key={animateAdHintTrigger}
+                        animate={score < 50 ? {
+                          scale: [1, 1.05, 1],
+                          boxShadow: ["0px 0px 0px rgba(147, 51, 234, 0)", "0px 0px 15px rgba(147, 51, 234, 0.5)", "0px 0px 0px rgba(147, 51, 234, 0)"]
+                        } : {}}
+                        transition={{ repeat: Infinity, duration: 2 }}
                         onClick={() => startAdReward()}
                         disabled={isCorrect}
-                        className="flex-1 p-4 bg-purple-600 text-white rounded-2xl font-black text-xs hover:bg-purple-700 active:scale-95 transition-all shadow-md"
+                        className={`flex-1 p-4 rounded-2xl font-black text-xs hover:bg-purple-700 active:scale-95 transition-all shadow-md ${score < 50 ? 'bg-purple-600 text-white ring-4 ring-purple-400/30' : 'bg-purple-600 text-white'}`}
                       >
                         AD HINT
-                      </button>
+                      </motion.button>
                     )}
                   </div>
                 </>
@@ -453,23 +484,10 @@ export default function Game() {
 
       {!isPremium && gameState === 'playing' && question && (
         <div className="p-4 bg-zinc-50 dark:bg-zinc-950 border-t border-zinc-100 dark:border-zinc-800">
-          <motion.div
-            key={animateAdHintTrigger}
-            animate={animateAdHintTrigger > 0 ? {
-                scale: [1, 1.05, 1],
-                boxShadow: ["0px 0px 0px rgba(59, 130, 246, 0)", "0px 0px 20px rgba(59, 130, 246, 0.5)", "0px 0px 0px rgba(59, 130, 246, 0)"]
-            } : {}}
-            transition={{ duration: 0.5 }}
-            className="bg-white dark:bg-zinc-800 rounded-2xl p-4 text-center mb-4 border-2 border-blue-500/50 dark:border-blue-400/50 shadow-sm min-h-[100px] flex items-center justify-center overflow-hidden relative"
-          >
+          <div className="bg-white dark:bg-zinc-800 rounded-2xl p-4 text-center mb-4 border border-zinc-100 dark:border-zinc-800 shadow-sm min-h-[100px] flex items-center justify-center overflow-hidden relative">
              <div className="absolute top-0 left-0 bg-blue-500 text-white text-[8px] font-bold px-2 py-0.5 rounded-br-lg z-10">AD SUPPORTED</div>
-             <ins className="adsbygoogle"
-                 style={{ display: 'block' }}
-                 data-ad-client="ca-pub-9141375569651908"
-                 data-ad-slot="6551435559"
-                 data-ad-format="auto"
-                 data-full-width-responsive="true"></ins>
-          </motion.div>
+             {/* Native AdMob Banner is shown here via Android Layout */}
+          </div>
           <button onClick={() => setShowPaymentModal(true)} className="w-full py-4 rounded-2xl bg-zinc-900 dark:bg-zinc-100 text-white dark:text-zinc-900 font-bold text-xs flex items-center justify-center gap-2 transition-all hover:opacity-90 active:scale-[0.98] shadow-lg"><Lock className="w-4 h-4" /> GO AD-FREE ($0.99/mo or $10/yr)</button>
         </div>
       )}
@@ -477,7 +495,7 @@ export default function Game() {
       <AnimatePresence>
         {showPaymentModal && (
           <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="absolute inset-0 z-[110] bg-black/70 backdrop-blur-xl flex items-center justify-center p-6">
-            <div className="bg-white dark:bg-zinc-800 rounded-[2.5rem] p-8 w-full max-w-sm shadow-2xl text-center border border-white/10">
+            <div className="bg-white dark:bg-zinc-800 rounded-[2.5rem] p-8 w-full max-sm shadow-2xl text-center border border-white/10">
               <Star className="w-8 h-8 text-blue-600 mx-auto mb-4" />
               <h2 className="text-2xl font-black mb-2 text-zinc-900 dark:text-zinc-50 uppercase tracking-tighter">Premium</h2>
               <div className="space-y-4 my-8">
