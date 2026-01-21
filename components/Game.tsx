@@ -7,6 +7,16 @@ import confetti from 'canvas-confetti';
 import { useSession, signIn, signOut } from "next-auth/react";
 import Script from 'next/script';
 
+// Add type definitions for the Android Bridge
+declare global {
+  interface Window {
+    AndroidBridge?: {
+      showRewardedAd: () => void;
+    };
+    onRewardEarned?: () => void;
+  }
+}
+
 type GameState = 'auth-gate' | 'grade-selection' | 'subject-selection' | 'difficulty-selection' | 'playing';
 type Difficulty = 'Beginner' | 'Intermediate' | 'Expert';
 
@@ -57,6 +67,16 @@ export default function Game() {
   const [showAdExitConfirm, setShowAdExitConfirm] = useState(false);
 
   const timerRef = useRef<NodeJS.Timeout | null>(null);
+
+  // Define the reward function for the Android Bridge to call
+  useEffect(() => {
+    window.onRewardEarned = () => {
+      handleAdHintReward();
+    };
+    return () => {
+      delete window.onRewardEarned;
+    };
+  }, [question]); // Re-bind when question changes to ensure context is correct
 
   useEffect(() => {
     if (status === "authenticated") {
@@ -132,7 +152,7 @@ export default function Game() {
     } else {
       setWrongAnswers(prev => [...prev, answer]);
       setFeedback("Try again! 🤔");
-      setScore(prev => Math.max(0, prev - 5));
+      setScore(prev => Math.max(0, prev - 50)); // Adjusted penalty to make hint-watching more attractive
       setAnimateHintTrigger(prev => prev + 1);
       setTimeout(() => setFeedback(null), 2000);
     }
@@ -177,23 +197,32 @@ export default function Game() {
 
   const startAdReward = () => {
     if (isPremium) { handleAdHintReward(); return; }
-    setShowAdFullscreen(true);
-    setAdTimer(40);
-    if (timerRef.current) clearInterval(timerRef.current);
-    timerRef.current = setInterval(() => {
-      setAdTimer(prev => {
-        if (prev && prev > 1) return prev - 1;
-        if (timerRef.current) clearInterval(timerRef.current);
-        setShowAdFullscreen(false);
-        handleAdHintReward();
-        return null;
-      });
-    }, 1000);
+
+    // Use the Native Android Bridge if available
+    if (window.AndroidBridge) {
+      window.AndroidBridge.showRewardedAd();
+    } else {
+      // Fallback for web/browser testing
+      setShowAdFullscreen(true);
+      setAdTimer(15); // Shorter fallback for testing
+      if (timerRef.current) clearInterval(timerRef.current);
+      timerRef.current = setInterval(() => {
+        setAdTimer(prev => {
+          if (prev && prev > 1) return prev - 1;
+          if (timerRef.current) clearInterval(timerRef.current);
+          setShowAdFullscreen(false);
+          handleAdHintReward();
+          return null;
+        });
+      }, 1000);
+    }
   };
 
   const handleAdHintReward = () => {
     setScore(prev => prev + 50);
-    setHint(`Psst! It starts with "${question.correctAnswer.trim().substring(0, 2)}..."`);
+    if (question) {
+      setHint(`Psst! It starts with "${question.correctAnswer.trim().substring(0, 2)}..."`);
+    }
   };
 
   const confirmExitAd = () => {
