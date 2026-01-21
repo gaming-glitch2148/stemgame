@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.khann.stemgame.app-mergeReleaseResources-23:/values-pt/values-pt.xml",
+            "outputFile": "com.khann.stemgame.app-mergeReleaseResources-33:/values-pt/values-pt.xml",
             "map": [
                 {
                     "source": "C:\\Users\\khann\\.gradle\\caches\\9.1.0\\transforms\\6f511be3362e160ae8c0b17af2ab531c\\workspace\\transformed\\core-1.13.0\\res\\values-pt\\values-pt.xml",

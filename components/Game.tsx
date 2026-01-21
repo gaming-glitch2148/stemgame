@@ -174,12 +174,16 @@ export default function Game() {
       setScore(prev => prev + 10);
       setTimeout(() => fetchQuestion(), 2500);
     } else {
-      // wrongAnswers.includes(answer) check removed to allow multiple attempts on same option
       setWrongAnswers(prev => [...prev, answer]);
       setFeedback("Try again! 🤔");
       setScore(prev => Math.max(0, prev - 5));
       setAnimateHintTrigger(prev => prev + 1);
-      setTimeout(() => setFeedback(null), 2000);
+
+      // TRANSIENT FIX: Remove the wrong answer from visual state after 2 seconds
+      setTimeout(() => {
+        setWrongAnswers(prev => prev.filter(a => a !== answer));
+        setFeedback(null);
+      }, 2000);
     }
   };
 
@@ -227,7 +231,7 @@ export default function Game() {
       window.AndroidBridge.showRewardedAd();
     } else {
       setShowAdFullscreen(true);
-      setAdTimer(40); // 40 second timer
+      setAdTimer(40);
       if (timerRef.current) clearInterval(timerRef.current);
       timerRef.current = setInterval(() => {
         setAdTimer(prev => {
@@ -242,8 +246,6 @@ export default function Game() {
   };
 
   const handleAdHintReward = () => {
-    // Logic: Points remain same before and after (reward 50, deduct 50)
-    // So we just show the hint without modifying the score state
     if (question) {
       setHint(`Psst! It starts with "${question.correctAnswer.trim().substring(0, 2)}..."`);
     }
@@ -440,7 +442,6 @@ export default function Game() {
                   <div className="grid gap-3 relative z-[70]">
                     {question.options.map((opt: string, i: number) => {
                       const isFound = isCorrect && normalize(opt) === normalize(question.correctAnswer);
-                      // Visual feedback for wrong answers remains, but interaction is not disabled
                       const isWrong = wrongAnswers.includes(opt);
                       let variant = "bg-white dark:bg-zinc-800 border-zinc-100 dark:border-zinc-700 text-zinc-700 dark:text-zinc-200 hover:border-blue-300 dark:hover:border-blue-500";
                       if (isFound) variant = "bg-green-500 border-green-600 text-white shadow-lg shadow-green-500/30";

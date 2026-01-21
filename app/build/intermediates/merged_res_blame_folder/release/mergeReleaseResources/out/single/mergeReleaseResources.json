@@ -1,30 +1,34 @@
 [
     {
-        "merged": "com.khann.stemgame.app-release-25:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.khann.stemgame.app-main-26:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "com.khann.stemgame.app-release-35:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.khann.stemgame.app-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "com.khann.stemgame.app-release-25:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.khann.stemgame.app-main-26:/drawable/ic_launcher_foreground.xml"
+        "merged": "com.khann.stemgame.app-release-35:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.khann.stemgame.app-main-36:/drawable/ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.khann.stemgame.app-release-25:/xml_game_info.xml.flat",
-        "source": "com.khann.stemgame.app-main-26:/xml/game_info.xml"
+        "merged": "com.khann.stemgame.app-release-35:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.khann.stemgame.app-main-36:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "com.khann.stemgame.app-release-25:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.khann.stemgame.app-main-26:/drawable/ic_launcher_background.xml"
+        "merged": "com.khann.stemgame.app-release-35:/xml_filepaths.xml.flat",
+        "source": "com.khann.stemgame.app-main-36:/xml/filepaths.xml"
     },
     {
-        "merged": "com.khann.stemgame.app-release-25:/xml_filepaths.xml.flat",
-        "source": "com.khann.stemgame.app-main-26:/xml/filepaths.xml"
+        "merged": "com.khann.stemgame.app-release-35:/xml_shortcuts.xml.flat",
+        "source": "com.khann.stemgame.app-main-36:/xml/shortcuts.xml"
     },
     {
-        "merged": "com.khann.stemgame.app-release-25:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.khann.stemgame.app-main-26:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "com.khann.stemgame.app-release-35:/layout_activity_main.xml.flat",
+        "source": "com.khann.stemgame.app-main-36:/layout/activity_main.xml"
     },
     {
-        "merged": "com.khann.stemgame.app-release-25:/xml_shortcuts.xml.flat",
-        "source": "com.khann.stemgame.app-main-26:/xml/shortcuts.xml"
+        "merged": "com.khann.stemgame.app-release-35:/xml_game_info.xml.flat",
+        "source": "com.khann.stemgame.app-main-36:/xml/game_info.xml"
+    },
+    {
+        "merged": "com.khann.stemgame.app-release-35:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.khann.stemgame.app-main-36:/mipmap-anydpi-v26/ic_launcher_round.xml"
     }
 ]

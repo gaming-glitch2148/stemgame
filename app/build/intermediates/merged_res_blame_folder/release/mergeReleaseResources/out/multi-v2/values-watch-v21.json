@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.khann.stemgame.app-mergeReleaseResources-23:/values-watch-v21/values-watch-v21.xml",
+            "outputFile": "com.khann.stemgame.app-mergeReleaseResources-33:/values-watch-v21/values-watch-v21.xml",
             "map": [
                 {
                     "source": "C:\\Users\\khann\\.gradle\\caches\\9.1.0\\transforms\\73053a49bc0809b035e0865fb6746021\\workspace\\transformed\\appcompat-1.7.0\\res\\values-watch-v21\\values-watch-v21.xml",
