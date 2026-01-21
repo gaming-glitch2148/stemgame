@@ -166,7 +166,7 @@ export default function Game() {
   };
 
   const handleAnswer = (answer: string) => {
-    if (isCorrect || !question || wrongAnswers.includes(answer)) return;
+    if (isCorrect || !question) return;
     if (normalize(answer) === normalize(question.correctAnswer)) {
       setIsCorrect(true);
       setFeedback("Correct! 🌟");
@@ -174,6 +174,7 @@ export default function Game() {
       setScore(prev => prev + 10);
       setTimeout(() => fetchQuestion(), 2500);
     } else {
+      // wrongAnswers.includes(answer) check removed to allow multiple attempts on same option
       setWrongAnswers(prev => [...prev, answer]);
       setFeedback("Try again! 🤔");
       setScore(prev => Math.max(0, prev - 5));
@@ -226,7 +227,7 @@ export default function Game() {
       window.AndroidBridge.showRewardedAd();
     } else {
       setShowAdFullscreen(true);
-      setAdTimer(40); // User requested 40 sec
+      setAdTimer(40); // 40 second timer
       if (timerRef.current) clearInterval(timerRef.current);
       timerRef.current = setInterval(() => {
         setAdTimer(prev => {
@@ -241,7 +242,8 @@ export default function Game() {
   };
 
   const handleAdHintReward = () => {
-    setScore(prev => prev + 50);
+    // Logic: Points remain same before and after (reward 50, deduct 50)
+    // So we just show the hint without modifying the score state
     if (question) {
       setHint(`Psst! It starts with "${question.correctAnswer.trim().substring(0, 2)}..."`);
     }
@@ -438,10 +440,12 @@ export default function Game() {
                   <div className="grid gap-3 relative z-[70]">
                     {question.options.map((opt: string, i: number) => {
                       const isFound = isCorrect && normalize(opt) === normalize(question.correctAnswer);
+                      // Visual feedback for wrong answers remains, but interaction is not disabled
                       const isWrong = wrongAnswers.includes(opt);
                       let variant = "bg-white dark:bg-zinc-800 border-zinc-100 dark:border-zinc-700 text-zinc-700 dark:text-zinc-200 hover:border-blue-300 dark:hover:border-blue-500";
                       if (isFound) variant = "bg-green-500 border-green-600 text-white shadow-lg shadow-green-500/30";
-                      else if (isWrong) variant = "bg-zinc-50 dark:bg-zinc-900/50 border-zinc-100 dark:border-zinc-800 text-zinc-300 dark:text-zinc-600 opacity-60 pointer-events-none";
+                      else if (isWrong) variant = "bg-red-50 dark:bg-red-900/10 border-red-100 dark:border-red-900/30 text-zinc-700 dark:text-zinc-200";
+
                       return <button key={i} onClick={() => handleAnswer(opt)} disabled={isCorrect} className={`p-5 rounded-2xl font-bold text-lg border-2 transition-all text-left shadow-sm ${variant}`}>{opt}</button>;
                     })}
                   </div>
